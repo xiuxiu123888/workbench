@@ -18,8 +18,8 @@
         "channelId": "9646014907",
         "countryCode": null,
         "afsSource": "5",
-        "todayRpm": 20.5,
-        "todayRev": 10.5
+        "todayRpm": 20,
+        "todayRev": 10.53
       },
       {
         "offerId": "3z7haLyRYcyc",
@@ -29,8 +29,8 @@
         "channelId": "8488653000",
         "countryCode": "US",
         "afsSource": "4",
-        "todayRpm": 34.6,
-        "todayRev": 19.27
+        "todayRpm": 37.8,
+        "todayRev": 24.47
       },
       {
         "offerId": "3z7hmq2WqoRA",
@@ -40,8 +40,8 @@
         "channelId": "1751917633",
         "countryCode": "US",
         "afsSource": "7",
-        "todayRpm": 18.5,
-        "todayRev": 0.85
+        "todayRpm": 21.1,
+        "todayRev": 1.18
       },
       {
         "offerId": "3z7jM3iSY9AJ",
@@ -51,8 +51,8 @@
         "channelId": "9827539423",
         "countryCode": "US",
         "afsSource": "12",
-        "todayRpm": 19.4,
-        "todayRev": 0.93
+        "todayRpm": 17.9,
+        "todayRev": 1.02
       },
       {
         "offerId": "3z7k14Kx9LVK",
@@ -62,7 +62,7 @@
         "channelId": "7917387848",
         "countryCode": null,
         "afsSource": "15",
-        "todayRpm": 21.8,
+        "todayRpm": 19.6,
         "todayRev": 7.09
       }
     ],

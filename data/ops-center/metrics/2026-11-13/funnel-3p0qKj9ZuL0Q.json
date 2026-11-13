@@ -37,6 +37,14 @@
         "url": "https://joyfulgaminghub9.com/detail/491294484924?channel=1493955810&hit={hit}",
         "countryInfos": [
           {
+            "countryCode": "FR",
+            "revenue": "0.00",
+            "impressions": 0,
+            "rpm": "0",
+            "funnelClicks": 0,
+            "clicks": 0
+          },
+          {
             "countryCode": "PH",
             "revenue": "0.00",
             "impressions": 2,
@@ -64,7 +72,7 @@
         "category": "Flare-V02",
         "offerSource": "flare-hit",
         "revenue": "0.00",
-        "funnelImpressions": 3,
+        "funnelImpressions": 6,
         "funnelClicks": 0,
         "clicks": 0,
         "funnelRpm": "0.00",
@@ -83,9 +91,25 @@
             "clicks": 0
           },
           {
+            "countryCode": "CO",
+            "revenue": "0.00",
+            "impressions": 1,
+            "rpm": "0.00",
+            "funnelClicks": 0,
+            "clicks": 0
+          },
+          {
             "countryCode": "JP",
             "revenue": "0.00",
             "impressions": 1,
+            "rpm": "0.00",
+            "funnelClicks": 0,
+            "clicks": 0
+          },
+          {
+            "countryCode": "TH",
+            "revenue": "0.00",
+            "impressions": 2,
             "rpm": "0.00",
             "funnelClicks": 0,
             "clicks": 0
@@ -102,7 +126,7 @@
         "category": "Flare-V02",
         "offerSource": "flare-hit",
         "revenue": "0.00",
-        "funnelImpressions": 3,
+        "funnelImpressions": 6,
         "funnelClicks": 0,
         "clicks": 0,
         "funnelRpm": "0.00",
@@ -121,9 +145,25 @@
             "clicks": 0
           },
           {
+            "countryCode": "CO",
+            "revenue": "0.00",
+            "impressions": 1,
+            "rpm": "0.00",
+            "funnelClicks": 0,
+            "clicks": 0
+          },
+          {
             "countryCode": "JP",
             "revenue": "0.00",
             "impressions": 1,
+            "rpm": "0.00",
+            "funnelClicks": 0,
+            "clicks": 0
+          },
+          {
+            "countryCode": "TH",
+            "revenue": "0.00",
+            "impressions": 2,
             "rpm": "0.00",
             "funnelClicks": 0,
             "clicks": 0
@@ -140,7 +180,7 @@
         "category": "Flare-V02",
         "offerSource": "flare-hit",
         "revenue": "0.00",
-        "funnelImpressions": 3,
+        "funnelImpressions": 6,
         "funnelClicks": 0,
         "clicks": 0,
         "funnelRpm": "0.00",
@@ -159,9 +199,25 @@
             "clicks": 0
           },
           {
+            "countryCode": "CO",
+            "revenue": "0.00",
+            "impressions": 1,
+            "rpm": "0.00",
+            "funnelClicks": 0,
+            "clicks": 0
+          },
+          {
             "countryCode": "JP",
             "revenue": "0.00",
             "impressions": 1,
+            "rpm": "0.00",
+            "funnelClicks": 0,
+            "clicks": 0
+          },
+          {
+            "countryCode": "TH",
+            "revenue": "0.00",
+            "impressions": 2,
             "rpm": "0.00",
             "funnelClicks": 0,
             "clicks": 0
@@ -188,6 +244,14 @@
         "cvr2": "0.0",
         "url": "https://fluxpaid.com/detail/329095452933?ref=Cart%C3%A3o%20de%20Cr%C3%A9dito%20para%20Negativado%20Aprovado%20na%20Hora:%20Comparativo%202026&channel=1493955810&hit={hit}&rType=2&partner=Flare",
         "countryInfos": [
+          {
+            "countryCode": "FR",
+            "revenue": "0.00",
+            "impressions": 0,
+            "rpm": "0",
+            "funnelClicks": 0,
+            "clicks": 0
+          },
           {
             "countryCode": "PH",
             "revenue": "0.00",
@@ -226,6 +290,14 @@
         "cvr2": "0.0",
         "url": "https://zestfularcade.com/detail/138338230325?channel=1493955810&ref=PrEP%20Cost%20Guide%202026&hit={hit}&rType=2&partner=Flare",
         "countryInfos": [
+          {
+            "countryCode": "FR",
+            "revenue": "0.00",
+            "impressions": 0,
+            "rpm": "0",
+            "funnelClicks": 0,
+            "clicks": 0
+          },
           {
             "countryCode": "PH",
             "revenue": "0.00",

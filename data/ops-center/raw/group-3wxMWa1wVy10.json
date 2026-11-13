@@ -29,8 +29,8 @@
         "channelId": "16500",
         "countryCode": "US",
         "afsSource": "1",
-        "todayRpm": 94.9,
-        "todayRev": 4.46
+        "todayRpm": 239.6,
+        "todayRev": 20.13
       },
       {
         "offerId": "3wxLcF6qbNZF",
@@ -73,19 +73,19 @@
         "channelId": "5380902928",
         "countryCode": "US",
         "afsSource": "12",
-        "todayRpm": 28.6,
+        "todayRpm": 26.7,
         "todayRev": 0.4
       },
       {
         "offerId": "3ywae2w1NJZ5",
         "offerName": "storyreel-v03-A1-us-13437-insurance-consulting-nearby.com",
         "categoryName": "心理健康 / 成瘾",
-        "weight": 0.08,
+        "weight": 0.2,
         "channelId": "13437",
         "countryCode": "US",
         "afsSource": "1",
-        "todayRpm": 45.5,
-        "todayRev": 9.37
+        "todayRpm": 57.1,
+        "todayRev": 12.04
       },
       {
         "offerId": "3ywai6zDsT7E",
@@ -95,7 +95,7 @@
         "channelId": "13438",
         "countryCode": "US",
         "afsSource": "1",
-        "todayRpm": 34.6,
+        "todayRpm": 32.1,
         "todayRev": 0.45
       },
       {
@@ -117,7 +117,7 @@
         "channelId": "2484693884",
         "countryCode": "US",
         "afsSource": "5",
-        "todayRpm": 6.4,
+        "todayRpm": 5.8,
         "todayRev": 0.07
       },
       {
@@ -128,7 +128,7 @@
         "channelId": "18656",
         "countryCode": "US",
         "afsSource": "7",
-        "todayRpm": 9.3,
+        "todayRpm": 9.1,
         "todayRev": 0.74
       },
       {
@@ -150,7 +150,7 @@
         "channelId": "8933667645",
         "countryCode": "US",
         "afsSource": "12",
-        "todayRpm": 25,
+        "todayRpm": 24.1,
         "todayRev": 0.65
       },
       {
@@ -161,19 +161,8 @@
         "channelId": "3494219266",
         "countryCode": "US",
         "afsSource": "15",
-        "todayRpm": 8.8,
+        "todayRpm": 8.5,
         "todayRev": 0.23
-      },
-      {
-        "offerId": "43qQviRsGc27",
-        "offerName": "storyreel-v03-A17-us-5880770808-seekmoon.ai",
-        "categoryName": null,
-        "weight": 0.13,
-        "channelId": "5880770808",
-        "countryCode": "US",
-        "afsSource": "17",
-        "todayRpm": 0,
-        "todayRev": 0
       }
     ],
     "funnelId": "3wxMhS6zF2m4",

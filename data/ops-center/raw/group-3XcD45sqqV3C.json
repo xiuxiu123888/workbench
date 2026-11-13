@@ -18,8 +18,8 @@
         "channelId": "5132442487",
         "countryCode": null,
         "afsSource": null,
-        "todayRpm": 9.2,
-        "todayRev": 25.8
+        "todayRpm": 8.8,
+        "todayRev": 26.22
       },
       {
         "offerId": "3OMRoVYSxIWC",
@@ -47,11 +47,11 @@
         "offerId": "3Xc9Vzw0jzjZ",
         "offerName": "Cd-read-A51-A4-us-7723809864",
         "categoryName": "临床研究",
-        "weight": 0.08,
+        "weight": 0.07,
         "channelId": "7723809864",
         "countryCode": null,
         "afsSource": null,
-        "todayRpm": 2.2,
+        "todayRpm": 2.1,
         "todayRev": 1.06
       }
     ],

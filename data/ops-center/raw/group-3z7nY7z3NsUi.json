@@ -14,67 +14,56 @@
         "offerId": "3z7mSXt7eoLL",
         "offerName": "Shortmax-V03-A15-us-3969598079-mpbus.com",
         "categoryName": "面部提拉",
-        "weight": 0.27,
+        "weight": 0.03,
         "channelId": "3969598079",
         "countryCode": "US",
         "afsSource": "15",
-        "todayRpm": 5.4,
+        "todayRpm": 3.9,
         "todayRev": 0.14
       },
       {
         "offerId": "3z7lNTNGuaWl",
         "offerName": "Shortmax-V03-A5-us-9646014907-joyfullplayland.com",
         "categoryName": "注射除皱",
-        "weight": 0.3,
+        "weight": 0.17,
         "channelId": "9646014907",
         "countryCode": "US",
         "afsSource": "5",
-        "todayRpm": 20.5,
-        "todayRev": 10.5
+        "todayRpm": 20,
+        "todayRev": 10.53
       },
       {
         "offerId": "3z7lFIge9xhH",
         "offerName": "Shortmax-V03-A12-US-9827539423-aivestorhq.com",
         "categoryName": "注射除皱",
-        "weight": 0.24,
+        "weight": 0.03,
         "channelId": "9827539423",
         "countryCode": "US",
         "afsSource": "12",
-        "todayRpm": 19.4,
-        "todayRev": 0.93
+        "todayRpm": 17.9,
+        "todayRev": 1.02
       },
       {
         "offerId": "3z7l58DI0qhi",
         "offerName": "Shortmax-V03-A7-us-1751917633-algo-cash.com",
         "categoryName": "肿瘤 / 生物制剂",
-        "weight": 0.31,
+        "weight": 0.03,
         "channelId": "1751917633",
         "countryCode": "US",
         "afsSource": "7",
-        "todayRpm": 18.5,
-        "todayRev": 0.85
+        "todayRpm": 21.1,
+        "todayRev": 1.18
       },
       {
         "offerId": "3z7kjmeluRu2",
         "offerName": "Shortmax-V03-A4-us-8488653000-zestfularcade.com",
         "categoryName": "汽车金融",
-        "weight": 0.32,
+        "weight": 1,
         "channelId": "8488653000",
         "countryCode": "US",
         "afsSource": "4",
-        "todayRpm": 34.6,
-        "todayRev": 19.27
-      },
-      {
-        "offerId": "43qPfrS7yAQB",
-        "offerName": "ShortMax-v03-A17-us-3819236753-seekmoon.ai",
-        "categoryName": null,
-        "weight": 0.26,
-        "channelId": "3819236753",
-        "countryCode": "US",
-        "afsSource": "17",
-        "todayRpm": 0,
-        "todayRev": 0
+        "todayRpm": 37.8,
+        "todayRev": 24.47
       }
     ],
     "funnelId": "3z7nZk7WDoBd",

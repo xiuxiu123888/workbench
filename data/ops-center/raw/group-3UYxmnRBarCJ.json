@@ -25,33 +25,33 @@
         "offerId": "3UYxJwBrc8Yn",
         "offerName": "Cd-A50-A7-Us-9653496952",
         "categoryName": "事故律师",
-        "weight": 1,
+        "weight": 0.09,
         "channelId": "9653496952",
         "countryCode": null,
         "afsSource": null,
-        "todayRpm": 10.9,
+        "todayRpm": 10.7,
         "todayRev": 6.1
       },
       {
         "offerId": "3XKjdR7V6Qpx",
         "offerName": "CD-50-A1-US-4677485294",
         "categoryName": "事故律师",
-        "weight": 0.02,
+        "weight": 1,
         "channelId": "4677485294",
         "countryCode": null,
         "afsSource": null,
-        "todayRpm": 30.8,
-        "todayRev": 1.97
+        "todayRpm": 55.7,
+        "todayRev": 6.8
       },
       {
         "offerId": "3XKk7lQRtvYO",
         "offerName": "CD-50-A4-US-8671712417",
         "categoryName": "临床研究",
-        "weight": 0.12,
+        "weight": 0.04,
         "channelId": "8671712417",
         "countryCode": null,
         "afsSource": null,
-        "todayRpm": 5.4,
+        "todayRpm": 4.8,
         "todayRev": 0.75
       }
     ],

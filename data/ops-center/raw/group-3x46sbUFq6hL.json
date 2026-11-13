@@ -7,8 +7,8 @@
     "geo": "US",
     "yesterdayRpm": 21.3,
     "yesterdayRev": 254.85,
-    "yesterdayRpmTrend": -61.06,
-    "yesterdayRevTrend": -46.08,
+    "yesterdayRpmTrend": -60.99,
+    "yesterdayRevTrend": -46.02,
     "offerList": [
       {
         "offerId": "3x3XmmUlwdky",
@@ -18,30 +18,30 @@
         "channelId": "9741605402",
         "countryCode": "US",
         "afsSource": "15",
-        "todayRpm": 16.3,
-        "todayRev": 9.45
+        "todayRpm": 14.8,
+        "todayRev": 9.53
       },
       {
         "offerId": "3x3Xh65BLqEK",
         "offerName": "JZ-05-A5-Us-9921347079-funfillgames.com",
         "categoryName": "新能源汽车",
-        "weight": 0.26,
+        "weight": 0.25,
         "channelId": "9921347079",
         "countryCode": "US",
         "afsSource": "5",
-        "todayRpm": 35.3,
-        "todayRev": 78.14
+        "todayRpm": 35.9,
+        "todayRev": 84.75
       },
       {
         "offerId": "3x3Xc12uDBJd",
         "offerName": "JZ-05-A4-Us-7105008550-zestfularcade.com",
         "categoryName": "心理健康 / 成瘾",
-        "weight": 0.21,
+        "weight": 0.3,
         "channelId": "7105008550",
         "countryCode": "US",
         "afsSource": "4",
-        "todayRpm": 38.3,
-        "todayRev": 15.76
+        "todayRpm": 51.3,
+        "todayRev": 25.54
       },
       {
         "offerId": "3x3XWX174Z5V",
@@ -51,8 +51,8 @@
         "channelId": "7893692728",
         "countryCode": "US",
         "afsSource": "7",
-        "todayRpm": 15.4,
-        "todayRev": 5.67
+        "todayRpm": 15.8,
+        "todayRev": 6.24
       },
       {
         "offerId": "3x3XPpAsqz2o",
@@ -62,19 +62,19 @@
         "channelId": "9731171890",
         "countryCode": "US",
         "afsSource": "4",
-        "todayRpm": 5.9,
+        "todayRpm": 5.7,
         "todayRev": 1.31
       },
       {
         "offerId": "3x3XHiMgzHr7",
         "offerName": "JZ-05-A7-us-5319500273-www.newamc.com",
         "categoryName": "宠物产品",
-        "weight": 0.21,
+        "weight": 0.2,
         "channelId": "5319500273",
         "countryCode": "US",
         "afsSource": "7",
-        "todayRpm": 27.8,
-        "todayRev": 10.24
+        "todayRpm": 28.6,
+        "todayRev": 12.64
       },
       {
         "offerId": "3x3WMyXbiFVW",
@@ -84,8 +84,8 @@
         "channelId": "9588273761",
         "countryCode": "US",
         "afsSource": "12",
-        "todayRpm": 22.7,
-        "todayRev": 3.82
+        "todayRpm": 26.9,
+        "todayRev": 4.97
       },
       {
         "offerId": "3x3WHv45ayCj",
@@ -95,19 +95,19 @@
         "channelId": "16503",
         "countryCode": "US",
         "afsSource": "1",
-        "todayRpm": 41.1,
-        "todayRev": 47.39
+        "todayRpm": 42.5,
+        "todayRev": 54.4
       },
       {
         "offerId": "3x3WCujvl6mI",
         "offerName": "JZ-05-A1-us-9683214635-beauty-center-nearby.com",
         "categoryName": "消费电子",
-        "weight": 0.39,
+        "weight": 0.34,
         "channelId": "9683214635",
         "countryCode": "US",
         "afsSource": "1",
-        "todayRpm": 47.1,
-        "todayRev": 72.16
+        "todayRpm": 47.5,
+        "todayRev": 80.91
       },
       {
         "offerId": "3x3W5tBvGzaX",
@@ -117,14 +117,14 @@
         "channelId": "5044812577",
         "countryCode": "US",
         "afsSource": "12",
-        "todayRpm": 26.1,
-        "todayRev": 32.4
+        "todayRpm": 26,
+        "todayRev": 33.28
       },
       {
         "offerId": "43qQ00wBH8M0",
         "offerName": "ShortMax-v05-A17-us-6152233541-seekmoon.ai",
-        "categoryName": null,
-        "weight": 0.2,
+        "categoryName": "面部提拉",
+        "weight": 0.03,
         "channelId": "6152233541",
         "countryCode": "US",
         "afsSource": "17",

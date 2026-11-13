@@ -18,19 +18,19 @@
         "channelId": "6255000890",
         "countryCode": "US",
         "afsSource": "12",
-        "todayRpm": 48.8,
+        "todayRpm": 45.9,
         "todayRev": 0.78
       },
       {
         "offerId": "3w2POO9le2qX",
         "offerName": "vibeshort-v03-A1-us-16492-insurance-consulting-nearby.com",
         "categoryName": "新能源汽车",
-        "weight": 0.51,
+        "weight": 0.45,
         "channelId": "16492",
         "countryCode": "US",
         "afsSource": "1",
-        "todayRpm": 93.3,
-        "todayRev": 5.32
+        "todayRpm": 74.2,
+        "todayRev": 6.16
       },
       {
         "offerId": "3w2PDvakvMeu",
@@ -40,8 +40,8 @@
         "channelId": "11452",
         "countryCode": "US",
         "afsSource": "7",
-        "todayRpm": 4.7,
-        "todayRev": 0.09
+        "todayRpm": 44.8,
+        "todayRev": 1.03
       },
       {
         "offerId": "3w2Pf6Suv2K3",
@@ -62,7 +62,7 @@
         "channelId": "1484206431",
         "countryCode": "US",
         "afsSource": "5",
-        "todayRpm": 1.5,
+        "todayRpm": 1.4,
         "todayRev": 0.22
       },
       {
@@ -73,30 +73,30 @@
         "channelId": "5794350713",
         "countryCode": "US",
         "afsSource": "12",
-        "todayRpm": 0,
-        "todayRev": 0
+        "todayRpm": 8,
+        "todayRev": 0.24
       },
       {
         "offerId": "3ywsGbt3Wc1A",
         "offerName": "vibeshort-v03-A1-us-13425-beauty-center-nearby.com",
         "categoryName": "注射除皱",
-        "weight": 0.63,
+        "weight": 0.42,
         "channelId": "13425",
         "countryCode": "US",
         "afsSource": "1",
-        "todayRpm": 91.5,
-        "todayRev": 28.65
+        "todayRpm": 83.4,
+        "todayRev": 28.27
       },
       {
         "offerId": "3ywsLD6Synj2",
         "offerName": "vibeshort-v03-A1-us-13426-homeguarddeals.com",
         "categoryName": "汽车金融",
-        "weight": 0.56,
+        "weight": 0.75,
         "channelId": "13426",
         "countryCode": "US",
         "afsSource": "1",
-        "todayRpm": 159.4,
-        "todayRev": 29.17
+        "todayRpm": 189.7,
+        "todayRev": 39.26
       },
       {
         "offerId": "3ywsZ48jk6et",
@@ -117,7 +117,7 @@
         "channelId": "18644",
         "countryCode": "US",
         "afsSource": "7",
-        "todayRpm": 17.4,
+        "todayRpm": 16.9,
         "todayRev": 0.54
       },
       {
@@ -128,14 +128,14 @@
         "channelId": "18645",
         "countryCode": "US",
         "afsSource": "7",
-        "todayRpm": 6.4,
-        "todayRev": 0.14
+        "todayRpm": 10.8,
+        "todayRev": 0.26
       },
       {
         "offerId": "3ywstdHX0ddl",
         "offerName": "Vibeshort-V03-A15-us-6971165930-lstmai.com",
         "categoryName": "SUV",
-        "weight": 0.06,
+        "weight": 0.08,
         "channelId": "6971165930",
         "countryCode": "US",
         "afsSource": "15",
@@ -150,19 +150,8 @@
         "channelId": "7788687495",
         "countryCode": "US",
         "afsSource": "15",
-        "todayRpm": 12,
+        "todayRpm": 10.9,
         "todayRev": 1.97
-      },
-      {
-        "offerId": "43qP09ptN9di",
-        "offerName": "Vibeshort-V03-A17-us-9133620108-seekmoon.ai",
-        "categoryName": null,
-        "weight": 0.22,
-        "channelId": "9133620108",
-        "countryCode": "US",
-        "afsSource": "17",
-        "todayRpm": 0,
-        "todayRev": 0
       }
     ],
     "funnelId": "3w2ShcbnMk5i",

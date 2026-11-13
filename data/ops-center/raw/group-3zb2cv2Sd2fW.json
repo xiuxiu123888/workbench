@@ -18,7 +18,7 @@
         "channelId": "10926",
         "countryCode": null,
         "afsSource": "7",
-        "todayRpm": 4.8,
+        "todayRpm": 4.3,
         "todayRev": 0.34
       },
       {
@@ -29,13 +29,13 @@
         "channelId": "2506279147",
         "countryCode": null,
         "afsSource": "12",
-        "todayRpm": 7.5,
+        "todayRpm": 6.8,
         "todayRev": 2.26
       },
       {
         "offerId": "43qO2m9YUmCL",
         "offerName": "moboreels-v02-A17-us-5769090169-seekmoon.ai",
-        "categoryName": null,
+        "categoryName": "面部提拉",
         "weight": 1,
         "channelId": "5769090169",
         "countryCode": "US",

@@ -13,18 +13,18 @@
       {
         "offerId": "3zauhaQtjnmN",
         "offerName": "reader-v01-A4-us-7723809864-zestfularcade.com",
-        "categoryName": "宠物产品",
+        "categoryName": "面部提拉",
         "weight": 0.02,
         "channelId": "7723809864",
         "countryCode": "US",
         "afsSource": "4",
-        "todayRpm": 2.2,
+        "todayRpm": 2.1,
         "todayRev": 1.06
       },
       {
         "offerId": "3zaubr1X75QS",
         "offerName": "reader-v01-A7-us-9508193152-algo-cash.com",
-        "categoryName": "注射除皱",
+        "categoryName": "面部提拉",
         "weight": 0.03,
         "channelId": "9508193152",
         "countryCode": "US",
@@ -35,24 +35,24 @@
       {
         "offerId": "3zauUYPQam8T",
         "offerName": "reader-v01-A5-us-1930962446-whirlwindarcade.com",
-        "categoryName": "消费电子",
+        "categoryName": "面部提拉",
         "weight": 0.02,
         "channelId": "1930962446",
         "countryCode": "US",
         "afsSource": "5",
-        "todayRpm": 3.2,
+        "todayRpm": 2.9,
         "todayRev": 2.51
       },
       {
         "offerId": "3zauMtMZADGQ",
         "offerName": "reader-v01-A12-us-5132442487-degreesuccesstips.com",
-        "categoryName": "新能源汽车",
+        "categoryName": "面部提拉",
         "weight": 0.26,
         "channelId": "5132442487",
         "countryCode": "US",
         "afsSource": "12",
-        "todayRpm": 9.2,
-        "todayRev": 25.8
+        "todayRpm": 8.8,
+        "todayRev": 26.22
       },
       {
         "offerId": "402puqcfi3OP",
@@ -62,19 +62,19 @@
         "channelId": "7241902323",
         "countryCode": "US",
         "afsSource": "15",
-        "todayRpm": 3.2,
+        "todayRpm": 3,
         "todayRev": 0.42
       },
       {
         "offerId": "402pqlh1EebJ",
         "offerName": "reader-v01-A15-us-1934461675-mpbus.com",
         "categoryName": "肿瘤 / 生物制剂",
-        "weight": 0.28,
+        "weight": 0.19,
         "channelId": "1934461675",
         "countryCode": "US",
         "afsSource": "15",
-        "todayRpm": 8.1,
-        "todayRev": 1.03
+        "todayRpm": 4,
+        "todayRev": 1.12
       },
       {
         "offerId": "402pdf7yxaqY",
@@ -91,12 +91,12 @@
         "offerId": "402pNfsJyFmJ",
         "offerName": "reader-v01-A12-us-5363195167-protectlifeplan.com",
         "categoryName": "汽车金融",
-        "weight": 0.36,
+        "weight": 0.52,
         "channelId": "5363195167",
         "countryCode": "US",
         "afsSource": "12",
-        "todayRpm": 9.8,
-        "todayRev": 3.05
+        "todayRpm": 13.1,
+        "todayRev": 7.98
       },
       {
         "offerId": "402pJOxizWHm",
@@ -106,18 +106,18 @@
         "channelId": "2826687852",
         "countryCode": "US",
         "afsSource": "12",
-        "todayRpm": 8.1,
-        "todayRev": 2.66
+        "todayRpm": 7.5,
+        "todayRev": 3.61
       },
       {
         "offerId": "402pCz9wmpwz",
         "offerName": "reader-v01-A7-us-18632-bank-flux.com",
         "categoryName": "汽车金融",
-        "weight": 0.19,
+        "weight": 0.15,
         "channelId": "18632",
         "countryCode": "US",
         "afsSource": "7",
-        "todayRpm": 5.7,
+        "todayRpm": 3.4,
         "todayRev": 0.83
       },
       {
@@ -128,19 +128,19 @@
         "channelId": "9400896264",
         "countryCode": "US",
         "afsSource": "7",
-        "todayRpm": 3.7,
+        "todayRpm": 3.4,
         "todayRev": 0.66
       },
       {
         "offerId": "402owoo78HLE",
         "offerName": "reader-v01-A5-us-1863497929-funfillgames.com",
         "categoryName": "宠物产品",
-        "weight": 0.19,
+        "weight": 0.17,
         "channelId": "1863497929",
         "countryCode": "US",
         "afsSource": "5",
-        "todayRpm": 6,
-        "todayRev": 2.18
+        "todayRpm": 6.9,
+        "todayRev": 3.27
       },
       {
         "offerId": "402osICYQATy",
@@ -161,17 +161,6 @@
         "channelId": "9869244018",
         "countryCode": "US",
         "afsSource": "4",
-        "todayRpm": 0,
-        "todayRev": 0
-      },
-      {
-        "offerId": "43qKCLmBcYoS",
-        "offerName": "reader-v01-A17-us-8315362458-seekmoon.ai",
-        "categoryName": null,
-        "weight": 0.17,
-        "channelId": "8315362458",
-        "countryCode": "US",
-        "afsSource": "17",
         "todayRpm": 0,
         "todayRev": 0
       }

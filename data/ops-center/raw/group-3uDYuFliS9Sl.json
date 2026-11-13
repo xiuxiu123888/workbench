@@ -5,32 +5,32 @@
     "groupName": "Blinkdrama-v03-us",
     "routing": "rotator",
     "geo": "US",
-    "yesterdayRpm": 52.6,
-    "yesterdayRev": 153.04,
-    "yesterdayRpmTrend": 6.05,
-    "yesterdayRevTrend": 3.43,
+    "yesterdayRpm": 52.5,
+    "yesterdayRev": 152.75,
+    "yesterdayRpmTrend": 5.85,
+    "yesterdayRevTrend": 3.24,
     "offerList": [
       {
         "offerId": "3uDYSHvFKceJ",
         "offerName": "Blinkdrama-v03-A7-Us-12151-algo-cash.com",
         "categoryName": "新能源汽车",
-        "weight": 0.27,
+        "weight": 0.24,
         "channelId": "12151",
         "countryCode": "US",
         "afsSource": "7",
-        "todayRpm": 43.5,
-        "todayRev": 11.82
+        "todayRpm": 42.3,
+        "todayRev": 12.19
       },
       {
         "offerId": "3uDYXV4jbuv7",
         "offerName": "Blinkdrama-v03-A4-Us-2696852428-laidbackgam.com",
         "categoryName": "肿瘤 / 生物制剂",
-        "weight": 0.26,
+        "weight": 0.25,
         "channelId": "2696852428",
         "countryCode": "US",
         "afsSource": "4",
-        "todayRpm": 46.5,
-        "todayRev": 23.02
+        "todayRpm": 47,
+        "todayRev": 25.33
       },
       {
         "offerId": "3v8SqRTkISDj",
@@ -40,8 +40,8 @@
         "channelId": "15586",
         "countryCode": "US",
         "afsSource": "1",
-        "todayRpm": 57.3,
-        "todayRev": 38.32
+        "todayRpm": 56.9,
+        "todayRev": 39.18
       },
       {
         "offerId": "3wsFvDuIbLEn",
@@ -51,7 +51,7 @@
         "channelId": "7227122706",
         "countryCode": "US",
         "afsSource": "15",
-        "todayRpm": 2.1,
+        "todayRpm": 1.8,
         "todayRev": 0.35
       },
       {
@@ -62,29 +62,29 @@
         "channelId": "5602828114",
         "countryCode": "US",
         "afsSource": "5",
-        "todayRpm": 5.4,
+        "todayRpm": 4.4,
         "todayRev": 1.06
       },
       {
         "offerId": "3yQh3RzmisW0",
         "offerName": "Blinkdrama-v03-A12-us-2175454077-degreesuccesstips.com",
         "categoryName": "心理健康 / 成瘾",
-        "weight": 0.04,
+        "weight": 0.17,
         "channelId": "2175454077",
         "countryCode": "US",
         "afsSource": "12",
-        "todayRpm": 30.2,
-        "todayRev": 2.54
+        "todayRpm": 34.3,
+        "todayRev": 3.05
       },
       {
         "offerId": "3ywNuugCoYbG",
         "offerName": "Blinkdrama-v03-A1-Us-new-13433-nearby-dental-implants.com",
         "categoryName": "肿瘤 / 生物制剂",
-        "weight": 0.2,
+        "weight": 0.18,
         "channelId": "13433",
         "countryCode": "US",
         "afsSource": "1",
-        "todayRpm": 33.8,
+        "todayRpm": 25.6,
         "todayRev": 1.79
       },
       {
@@ -106,63 +106,52 @@
         "channelId": "3969197763",
         "countryCode": "US",
         "afsSource": "5",
-        "todayRpm": 22,
+        "todayRpm": 21.7,
         "todayRev": 1.8
       },
       {
         "offerId": "3ywO9wp99Kq6",
         "offerName": "Blinkdrama-v03-A7-Us-18652-aifinteches.com",
         "categoryName": "注射除皱",
-        "weight": 0.2,
+        "weight": 0.17,
         "channelId": "18652",
         "countryCode": "US",
         "afsSource": "7",
-        "todayRpm": 31,
+        "todayRpm": 27.5,
         "todayRev": 5.93
       },
       {
         "offerId": "3ywOEif8ByXJ",
         "offerName": "Blinkdrama-v03-A7-Us-18653-quantify-energy.com",
         "categoryName": "新能源汽车",
-        "weight": 0.21,
+        "weight": 0.2,
         "channelId": "18653",
         "countryCode": "US",
         "afsSource": "7",
-        "todayRpm": 35.6,
+        "todayRpm": 33.9,
         "todayRev": 11.89
       },
       {
         "offerId": "3ywOJVdq0Iu2",
         "offerName": "Blinkdrama-v03-A12-us-3565054458-aivestorhq.com",
         "categoryName": "注射除皱",
-        "weight": 0.04,
+        "weight": 0.03,
         "channelId": "3565054458",
         "countryCode": "US",
         "afsSource": "12",
-        "todayRpm": 21.1,
-        "todayRev": 1.33
+        "todayRpm": 20.3,
+        "todayRev": 1.38
       },
       {
         "offerId": "3ywOO0wAItpv",
         "offerName": "Blinkdrama-v03-A15-us-9484922286-51jiejue.com",
         "categoryName": "面部提拉",
-        "weight": 0.2,
+        "weight": 0.19,
         "channelId": "9484922286",
         "countryCode": "US",
         "afsSource": "15",
-        "todayRpm": 36.2,
+        "todayRpm": 32.8,
         "todayRev": 3.8
-      },
-      {
-        "offerId": "43qJs797knn3",
-        "offerName": "Blinkdrama-v03-A17-us-6343805230-seekmoon.ai",
-        "categoryName": null,
-        "weight": 0.22,
-        "channelId": "6343805230",
-        "countryCode": "US",
-        "afsSource": "17",
-        "todayRpm": 0,
-        "todayRev": 0
       }
     ],
     "funnelId": "3uDZjmliiexb",

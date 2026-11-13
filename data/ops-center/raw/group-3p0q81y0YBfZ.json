@@ -18,7 +18,7 @@
         "channelId": "6233251331",
         "countryCode": "US",
         "afsSource": "4",
-        "todayRpm": 57,
+        "todayRpm": 46.5,
         "todayRev": 2.51
       },
       {
@@ -29,8 +29,8 @@
         "channelId": "5661257225",
         "countryCode": "US",
         "afsSource": "12",
-        "todayRpm": 44.6,
-        "todayRev": 84.89
+        "todayRpm": 43.5,
+        "todayRev": 90.84
       }
     ],
     "funnelId": "3p0rRj7GzSgd",

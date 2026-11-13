@@ -35,23 +35,23 @@
       {
         "offerId": "3zavUMkw3NMi",
         "offerName": "reader-v02-A12-US-2402337368-degreesuccesstips.com",
-        "categoryName": "肿瘤 / 生物制剂",
-        "weight": 0.53,
+        "categoryName": "面部提拉",
+        "weight": 0.54,
         "channelId": "2402337368",
         "countryCode": "US",
         "afsSource": "12",
-        "todayRpm": 3.8,
+        "todayRpm": 3.4,
         "todayRev": 0.9
       },
       {
         "offerId": "402rm6THtpNp",
         "offerName": "reader-v02-A7-us-18633-aifinteches.com",
         "categoryName": "心理健康 / 成瘾",
-        "weight": 0.6,
+        "weight": 0.64,
         "channelId": "18633",
         "countryCode": "US",
         "afsSource": "7",
-        "todayRpm": 4.6,
+        "todayRpm": 4.2,
         "todayRev": 2.75
       },
       {
@@ -113,34 +113,23 @@
         "offerId": "402qy5qGO6lD",
         "offerName": "reader-v02-A15-6503525985-us-mpbus.com",
         "categoryName": "注射除皱",
-        "weight": 0.43,
+        "weight": 0.41,
         "channelId": "2952029875",
         "countryCode": "US",
         "afsSource": "15",
-        "todayRpm": 3.1,
+        "todayRpm": 2.2,
         "todayRev": 0.4
       },
       {
         "offerId": "402qnFTeo9OY",
         "offerName": "reader-v02-A15-2952029875-us-51jiejue.com",
         "categoryName": "面部提拉",
-        "weight": 0.43,
+        "weight": 0.41,
         "channelId": "2952029875",
         "countryCode": "US",
         "afsSource": "15",
-        "todayRpm": 3.1,
+        "todayRpm": 2.2,
         "todayRev": 0.4
-      },
-      {
-        "offerId": "43qKNRT7L7OO",
-        "offerName": "reader-v02-A17-us-5637228228-seekmoon.ai",
-        "categoryName": null,
-        "weight": 0.24,
-        "channelId": "5637228228",
-        "countryCode": "US",
-        "afsSource": "17",
-        "todayRpm": 0,
-        "todayRev": 0
       }
     ],
     "funnelId": "3zaxNqwFxfnB",

@@ -18,7 +18,7 @@
         "channelId": "9827539423",
         "countryCode": null,
         "afsSource": null,
-        "todayRpm": 10.6,
+        "todayRpm": 8,
         "todayRev": 0.37
       },
       {
@@ -40,8 +40,8 @@
         "channelId": "8488653000",
         "countryCode": null,
         "afsSource": null,
-        "todayRpm": 0,
-        "todayRev": 0
+        "todayRpm": 6.8,
+        "todayRev": 0.17
       }
     ],
     "funnelId": "3aXEOxFRbofy",

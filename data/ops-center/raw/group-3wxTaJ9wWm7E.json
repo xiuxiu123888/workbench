@@ -29,7 +29,7 @@
         "channelId": "9298290578",
         "countryCode": "US",
         "afsSource": "5",
-        "todayRpm": 13.5,
+        "todayRpm": 11.5,
         "todayRev": 0.23
       },
       {
@@ -51,8 +51,8 @@
         "channelId": "16496",
         "countryCode": "US",
         "afsSource": "1",
-        "todayRpm": 190.8,
-        "todayRev": 9.92
+        "todayRpm": 357.3,
+        "todayRev": 30.37
       },
       {
         "offerId": "3wxReRqtdRJ8",
@@ -80,7 +80,7 @@
         "offerId": "3ywdYJvlu15H",
         "offerName": "storyreel-v05-A1-us-13421-insurance-consulting-nearby.com",
         "categoryName": "注射除皱",
-        "weight": 0.07,
+        "weight": 0.13,
         "channelId": "13421",
         "countryCode": "US",
         "afsSource": "1",
@@ -106,7 +106,7 @@
         "channelId": "3797775551",
         "countryCode": "US",
         "afsSource": "5",
-        "todayRpm": 1,
+        "todayRpm": 0.9,
         "todayRev": 0.01
       },
       {
@@ -163,17 +163,6 @@
         "afsSource": "7",
         "todayRpm": 21.3,
         "todayRev": 0.17
-      },
-      {
-        "offerId": "43qRJ8XcOLqy",
-        "offerName": "storyreel-v05-A17-us-9161540260-seekmoon.ai",
-        "categoryName": null,
-        "weight": 0.16,
-        "channelId": "9161540260",
-        "countryCode": "US",
-        "afsSource": "17",
-        "todayRpm": 0,
-        "todayRev": 0
       }
     ],
     "funnelId": "3wxU24LWkWif",

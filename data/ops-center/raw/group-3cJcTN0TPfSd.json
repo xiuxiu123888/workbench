@@ -19,7 +19,7 @@
         "countryCode": null,
         "afsSource": null,
         "todayRpm": 0.3,
-        "todayRev": 0.29
+        "todayRev": 0.34
       },
       {
         "offerId": "3fhjme02cZ0m",
@@ -30,13 +30,13 @@
         "countryCode": null,
         "afsSource": null,
         "todayRpm": 0,
-        "todayRev": 0
+        "todayRev": 0.03
       },
       {
         "offerId": "3lplh98pJjbv",
         "offerName": "cd-reel-50-A14-IT-7826736975",
         "categoryName": "太阳能储能",
-        "weight": 0.04,
+        "weight": 0.02,
         "channelId": "7826736975",
         "countryCode": null,
         "afsSource": null,
@@ -47,18 +47,18 @@
         "offerId": "3lWWRRHYbQkh",
         "offerName": "cd-reel-50-A12-IT-3731730900",
         "categoryName": "太阳能储能",
-        "weight": 0.73,
+        "weight": 0.16,
         "channelId": "3731730900",
         "countryCode": null,
         "afsSource": null,
-        "todayRpm": 0.1,
-        "todayRev": 0.11
+        "todayRpm": 0.2,
+        "todayRev": 0.21
       },
       {
         "offerId": "3XKjdR7V6Qpx",
         "offerName": "CD-50-A1-US-4677485294",
         "categoryName": "事故律师",
-        "weight": 0.04,
+        "weight": 0.02,
         "channelId": "4677485294",
         "countryCode": null,
         "afsSource": null,

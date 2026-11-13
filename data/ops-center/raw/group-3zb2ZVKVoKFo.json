@@ -13,12 +13,12 @@
       {
         "offerId": "3zb1drsZvtna",
         "offerName": "moboreels-v03-A12-us-2506279147-intodeepdive.com",
-        "categoryName": "消费电子",
+        "categoryName": "面部提拉",
         "weight": 0.17,
         "channelId": "2506279147",
         "countryCode": "US",
         "afsSource": "12",
-        "todayRpm": 7.5,
+        "todayRpm": 6.8,
         "todayRev": 2.26
       },
       {
@@ -29,19 +29,8 @@
         "channelId": "1747103610",
         "countryCode": "US",
         "afsSource": "4",
-        "todayRpm": 14.7,
-        "todayRev": 15.91
-      },
-      {
-        "offerId": "43qO2m9YUmCL",
-        "offerName": "moboreels-v02-A17-us-5769090169-seekmoon.ai",
-        "categoryName": null,
-        "weight": 0.25,
-        "channelId": "5769090169",
-        "countryCode": "US",
-        "afsSource": "17",
-        "todayRpm": 0,
-        "todayRev": 0
+        "todayRpm": 14.5,
+        "todayRev": 17.3
       }
     ],
     "funnelId": "3zb3PGEznP52",

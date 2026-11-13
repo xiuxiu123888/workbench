@@ -19,7 +19,7 @@
         "countryCode": null,
         "afsSource": null,
         "todayRpm": 0.1,
-        "todayRev": 0.13
+        "todayRev": 0.15
       },
       {
         "offerId": "3lplh9ayCyBq",
@@ -47,11 +47,11 @@
         "offerId": "3XKv5AZ8jEN3",
         "offerName": "Cd-reel-0825-fan-62-A7-br-10926",
         "categoryName": "冰箱分期",
-        "weight": 0.15,
+        "weight": 0.16,
         "channelId": "10926",
         "countryCode": null,
         "afsSource": null,
-        "todayRpm": 0.1,
+        "todayRpm": 0,
         "todayRev": 0.06
       }
     ],

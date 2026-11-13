@@ -1,5 +1,5 @@
 {
-  "pulledAt": "2026-11-13T10:00:27.352Z",
+  "pulledAt": "2026-11-13T14:00:26.229Z",
   "primaryDay": "2026-11-13",
   "metricDays": [
     "2026-11-13",
@@ -9,10 +9,10 @@
   "groupCount": 275,
   "offerCount": 1124,
   "matchedOfferCount": 556,
-  "flatStatsCount": 562,
-  "rebuiltAt": "2026-11-13T10:29:52.256Z",
+  "flatStatsCount": 566,
+  "rebuiltAt": "2026-11-13T14:00:26.317Z",
   "replaceAdviceCount": 40,
-  "funnelReplaceCount": 14,
-  "lastHourlyAt": "2026-11-13T10:00:27.352Z",
-  "lastHourlyHour": "18"
+  "funnelReplaceCount": 15,
+  "lastHourlyAt": "2026-11-13T14:00:26.229Z",
+  "lastHourlyHour": "22"
 }

@@ -25,12 +25,12 @@
         "offerId": "3lWWRRQQ6pc1",
         "offerName": "cd-reel-50-A12-GB-3731730900",
         "categoryName": "种牙",
-        "weight": 0.14,
+        "weight": 0.13,
         "channelId": "3731730900",
         "countryCode": null,
         "afsSource": null,
-        "todayRpm": 1.2,
-        "todayRev": 0.18
+        "todayRpm": 1,
+        "todayRev": 0.19
       },
       {
         "offerId": "3UYxJwBrc8Yn",
@@ -40,7 +40,7 @@
         "channelId": "9653496952",
         "countryCode": null,
         "afsSource": null,
-        "todayRpm": 3.2,
+        "todayRpm": 2.8,
         "todayRev": 0.61
       },
       {

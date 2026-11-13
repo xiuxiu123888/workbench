@@ -14,7 +14,7 @@
         "offerId": "3lplh98XtPst",
         "offerName": "cd-reel-50-A14-DE-7826736975",
         "categoryName": "分期购买手机",
-        "weight": 0.02,
+        "weight": 0.04,
         "channelId": "7826736975",
         "countryCode": null,
         "afsSource": null,
@@ -25,11 +25,11 @@
         "offerId": "3lWWRRH1PzOR",
         "offerName": "cd-reel-50-A12-DE-3731730900",
         "categoryName": "移民律师",
-        "weight": 0.16,
+        "weight": 0.74,
         "channelId": "3731730900",
         "countryCode": null,
         "afsSource": null,
-        "todayRpm": 1.1,
+        "todayRpm": 0.9,
         "todayRev": 0.45
       },
       {
@@ -40,7 +40,7 @@
         "channelId": "9653496952",
         "countryCode": null,
         "afsSource": null,
-        "todayRpm": 1.9,
+        "todayRpm": 1.5,
         "todayRev": 0.84
       },
       {

@@ -29,8 +29,8 @@
         "channelId": "2582495292",
         "countryCode": null,
         "afsSource": "4",
-        "todayRpm": 71.6,
-        "todayRev": 42.7
+        "todayRpm": 67.4,
+        "todayRev": 43.72
       },
       {
         "offerId": "3wsF8g4iRZWO",
@@ -40,7 +40,7 @@
         "channelId": "4932131851",
         "countryCode": null,
         "afsSource": "15",
-        "todayRpm": 7.5,
+        "todayRpm": 6.9,
         "todayRev": 1.72
       },
       {
@@ -51,7 +51,7 @@
         "channelId": "1304490452",
         "countryCode": null,
         "afsSource": "5",
-        "todayRpm": 17,
+        "todayRpm": 15.4,
         "todayRev": 4.21
       },
       {
@@ -62,13 +62,13 @@
         "channelId": "2092927125",
         "countryCode": null,
         "afsSource": "12",
-        "todayRpm": 26.9,
-        "todayRev": 2.02
+        "todayRpm": 28.3,
+        "todayRev": 2.35
       },
       {
         "offerId": "43qK1R5ujOmd",
         "offerName": "Blinkdrama-v04-A17-us-1937656365-seekmoon.ai",
-        "categoryName": null,
+        "categoryName": "面部提拉",
         "weight": 1,
         "channelId": "1937656365",
         "countryCode": "US",

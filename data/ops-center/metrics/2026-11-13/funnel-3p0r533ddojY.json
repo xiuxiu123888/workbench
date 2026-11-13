@@ -25,24 +25,24 @@
         "conversion": 0,
         "category": "Flare-V03",
         "offerSource": "flare-hit",
-        "revenue": "24.08",
-        "funnelImpressions": 943,
-        "funnelClicks": 328,
-        "clicks": 121,
-        "funnelRpm": "25.54",
-        "rpc": "0.199",
-        "funnelCtr": "34.78260869565217",
-        "cvr1": "36.890243902439025",
-        "cvr2": "12.831389183457052",
+        "revenue": "24.41",
+        "funnelImpressions": 967,
+        "funnelClicks": 341,
+        "clicks": 123,
+        "funnelRpm": "25.24",
+        "rpc": "0.198",
+        "funnelCtr": "35.263702171664946",
+        "cvr1": "36.070381231671554",
+        "cvr2": "12.719751809720785",
         "url": "https://protectlifeplan.com/detail/662147821723?ref=Cart%C3%A3o%20de%20Cr%C3%A9dito%20para%20Negativado%20Aprovado%20na%20Hora:%20Comparativo%202026&channel=4212444181&hit={hit}&rType=2&partner=Flare",
         "countryInfos": [
           {
             "countryCode": "US",
-            "revenue": "24.08",
-            "impressions": 918,
-            "rpm": "26.23",
-            "funnelClicks": 323,
-            "clicks": 121
+            "revenue": "24.41",
+            "impressions": 937,
+            "rpm": "26.05",
+            "funnelClicks": 330,
+            "clicks": 123
           },
           {
             "countryCode": "AR",
@@ -77,6 +77,14 @@
             "clicks": 0
           },
           {
+            "countryCode": "ES",
+            "revenue": "0.00",
+            "impressions": 0,
+            "rpm": "0",
+            "funnelClicks": 1,
+            "clicks": 0
+          },
+          {
             "countryCode": "IT",
             "revenue": "0.00",
             "impressions": 1,
@@ -89,7 +97,15 @@
             "revenue": "0.00",
             "impressions": 14,
             "rpm": "0.00",
-            "funnelClicks": 0,
+            "funnelClicks": 1,
+            "clicks": 0
+          },
+          {
+            "countryCode": "VE",
+            "revenue": "0.00",
+            "impressions": 5,
+            "rpm": "0.00",
+            "funnelClicks": 4,
             "clicks": 0
           }
         ]
@@ -103,24 +119,24 @@
         "conversion": 0,
         "category": "Flare-V03",
         "offerSource": "flare-hit",
-        "revenue": "24.08",
-        "funnelImpressions": 943,
-        "funnelClicks": 328,
-        "clicks": 121,
-        "funnelRpm": "25.54",
-        "rpc": "0.199",
-        "funnelCtr": "34.78260869565217",
-        "cvr1": "36.890243902439025",
-        "cvr2": "12.831389183457052",
+        "revenue": "24.41",
+        "funnelImpressions": 967,
+        "funnelClicks": 341,
+        "clicks": 123,
+        "funnelRpm": "25.24",
+        "rpc": "0.198",
+        "funnelCtr": "35.263702171664946",
+        "cvr1": "36.070381231671554",
+        "cvr2": "12.719751809720785",
         "url": "https://protectlifeplan.com/detail/698976626521?ref=Emergency%20Loans%20in%202026&channel=4212444181&hit={hit}&rType=2&partner=Flare",
         "countryInfos": [
           {
             "countryCode": "US",
-            "revenue": "24.08",
-            "impressions": 918,
-            "rpm": "26.23",
-            "funnelClicks": 323,
-            "clicks": 121
+            "revenue": "24.41",
+            "impressions": 937,
+            "rpm": "26.05",
+            "funnelClicks": 330,
+            "clicks": 123
           },
           {
             "countryCode": "AR",
@@ -155,6 +171,14 @@
             "clicks": 0
           },
           {
+            "countryCode": "ES",
+            "revenue": "0.00",
+            "impressions": 0,
+            "rpm": "0",
+            "funnelClicks": 1,
+            "clicks": 0
+          },
+          {
             "countryCode": "IT",
             "revenue": "0.00",
             "impressions": 1,
@@ -167,7 +191,15 @@
             "revenue": "0.00",
             "impressions": 14,
             "rpm": "0.00",
-            "funnelClicks": 0,
+            "funnelClicks": 1,
+            "clicks": 0
+          },
+          {
+            "countryCode": "VE",
+            "revenue": "0.00",
+            "impressions": 5,
+            "rpm": "0.00",
+            "funnelClicks": 4,
             "clicks": 0
           }
         ]
@@ -181,24 +213,24 @@
         "conversion": 0,
         "category": "Flare-V03",
         "offerSource": "flare-hit",
-        "revenue": "24.08",
-        "funnelImpressions": 943,
-        "funnelClicks": 328,
-        "clicks": 121,
-        "funnelRpm": "25.54",
-        "rpc": "0.199",
-        "funnelCtr": "34.78260869565217",
-        "cvr1": "36.890243902439025",
-        "cvr2": "12.831389183457052",
+        "revenue": "24.41",
+        "funnelImpressions": 967,
+        "funnelClicks": 341,
+        "clicks": 123,
+        "funnelRpm": "25.24",
+        "rpc": "0.198",
+        "funnelCtr": "35.263702171664946",
+        "cvr1": "36.070381231671554",
+        "cvr2": "12.719751809720785",
         "url": "https://protectlifeplan.com/detail/662147821723?ref=Cart%C3%A3o%20de%20Cr%C3%A9dito%20para%20Negativado%20Aprovado%20na%20Hora:%20Comparativo%202026&channel=4212444181&hit={hit}&rType=2&partner=Flare",
         "countryInfos": [
           {
             "countryCode": "US",
-            "revenue": "24.08",
-            "impressions": 918,
-            "rpm": "26.23",
-            "funnelClicks": 323,
-            "clicks": 121
+            "revenue": "24.41",
+            "impressions": 937,
+            "rpm": "26.05",
+            "funnelClicks": 330,
+            "clicks": 123
           },
           {
             "countryCode": "AR",
@@ -233,6 +265,14 @@
             "clicks": 0
           },
           {
+            "countryCode": "ES",
+            "revenue": "0.00",
+            "impressions": 0,
+            "rpm": "0",
+            "funnelClicks": 1,
+            "clicks": 0
+          },
+          {
             "countryCode": "IT",
             "revenue": "0.00",
             "impressions": 1,
@@ -245,7 +285,15 @@
             "revenue": "0.00",
             "impressions": 14,
             "rpm": "0.00",
-            "funnelClicks": 0,
+            "funnelClicks": 1,
+            "clicks": 0
+          },
+          {
+            "countryCode": "VE",
+            "revenue": "0.00",
+            "impressions": 5,
+            "rpm": "0.00",
+            "funnelClicks": 4,
             "clicks": 0
           }
         ]
@@ -259,23 +307,23 @@
         "conversion": 0,
         "category": "Flare-V03",
         "offerSource": "flare-hit",
-        "revenue": "0.07",
-        "funnelImpressions": 51,
-        "funnelClicks": 13,
+        "revenue": "0.28",
+        "funnelImpressions": 70,
+        "funnelClicks": 19,
         "clicks": 0,
-        "funnelRpm": "1.37",
+        "funnelRpm": "4.00",
         "rpc": "0",
-        "funnelCtr": "25.49019607843137",
+        "funnelCtr": "27.142857142857142",
         "cvr1": "0.0",
         "cvr2": "0.0",
         "url": "https://fluxpaid.com/detail/329095452933?ref=Cart%C3%A3o%20de%20Cr%C3%A9dito%20para%20Negativado%20Aprovado%20na%20Hora:%20Comparativo%202026&channel=3747055389&hit={hit}&rType=2&partner=Flare",
         "countryInfos": [
           {
             "countryCode": "US",
-            "revenue": "0.07",
-            "impressions": 29,
-            "rpm": "2.41",
-            "funnelClicks": 4,
+            "revenue": "0.28",
+            "impressions": 39,
+            "rpm": "7.18",
+            "funnelClicks": 9,
             "clicks": 0
           },
           {
@@ -321,7 +369,7 @@
           {
             "countryCode": "FR",
             "revenue": "0.00",
-            "impressions": 2,
+            "impressions": 6,
             "rpm": "0.00",
             "funnelClicks": 1,
             "clicks": 0
@@ -353,9 +401,9 @@
           {
             "countryCode": "GN",
             "revenue": "0.00",
-            "impressions": 1,
+            "impressions": 2,
             "rpm": "0.00",
-            "funnelClicks": 1,
+            "funnelClicks": 2,
             "clicks": 0
           },
           {
@@ -402,6 +450,14 @@
             "countryCode": "SA",
             "revenue": "0.00",
             "impressions": 1,
+            "rpm": "0.00",
+            "funnelClicks": 0,
+            "clicks": 0
+          },
+          {
+            "countryCode": "ZA",
+            "revenue": "0.00",
+            "impressions": 4,
             "rpm": "0.00",
             "funnelClicks": 0,
             "clicks": 0
@@ -417,23 +473,23 @@
         "conversion": 0,
         "category": "Flare-V03",
         "offerSource": "afs-common",
-        "revenue": "0.07",
-        "funnelImpressions": 51,
-        "funnelClicks": 13,
+        "revenue": "0.28",
+        "funnelImpressions": 70,
+        "funnelClicks": 19,
         "clicks": 0,
-        "funnelRpm": "1.37",
+        "funnelRpm": "4.00",
         "rpc": "0",
-        "funnelCtr": "25.49019607843137",
+        "funnelCtr": "27.142857142857142",
         "cvr1": "0.0",
         "cvr2": "0.0",
         "url": "https://joyfulgaminghub9.com/detail/491294484924?channel=3747055389&hit={hit}",
         "countryInfos": [
           {
             "countryCode": "US",
-            "revenue": "0.07",
-            "impressions": 29,
-            "rpm": "2.41",
-            "funnelClicks": 4,
+            "revenue": "0.28",
+            "impressions": 39,
+            "rpm": "7.18",
+            "funnelClicks": 9,
             "clicks": 0
           },
           {
@@ -479,7 +535,7 @@
           {
             "countryCode": "FR",
             "revenue": "0.00",
-            "impressions": 2,
+            "impressions": 6,
             "rpm": "0.00",
             "funnelClicks": 1,
             "clicks": 0
@@ -511,9 +567,9 @@
           {
             "countryCode": "GN",
             "revenue": "0.00",
-            "impressions": 1,
+            "impressions": 2,
             "rpm": "0.00",
-            "funnelClicks": 1,
+            "funnelClicks": 2,
             "clicks": 0
           },
           {
@@ -560,6 +616,14 @@
             "countryCode": "SA",
             "revenue": "0.00",
             "impressions": 1,
+            "rpm": "0.00",
+            "funnelClicks": 0,
+            "clicks": 0
+          },
+          {
+            "countryCode": "ZA",
+            "revenue": "0.00",
+            "impressions": 4,
             "rpm": "0.00",
             "funnelClicks": 0,
             "clicks": 0
@@ -575,23 +639,23 @@
         "conversion": 0,
         "category": "Flare-V03",
         "offerSource": "flare-hit",
-        "revenue": "0.07",
-        "funnelImpressions": 51,
-        "funnelClicks": 13,
+        "revenue": "0.28",
+        "funnelImpressions": 70,
+        "funnelClicks": 19,
         "clicks": 0,
-        "funnelRpm": "1.37",
+        "funnelRpm": "4.00",
         "rpc": "0",
-        "funnelCtr": "25.49019607843137",
+        "funnelCtr": "27.142857142857142",
         "cvr1": "0.0",
         "cvr2": "0.0",
         "url": "https://zestfularcade.com/detail/138338230325?channel=3747055389&ref=PrEP%20Cost%20Guide%202026&hit={hit}&rType=2&partner=Flare",
         "countryInfos": [
           {
             "countryCode": "US",
-            "revenue": "0.07",
-            "impressions": 29,
-            "rpm": "2.41",
-            "funnelClicks": 4,
+            "revenue": "0.28",
+            "impressions": 39,
+            "rpm": "7.18",
+            "funnelClicks": 9,
             "clicks": 0
           },
           {
@@ -637,7 +701,7 @@
           {
             "countryCode": "FR",
             "revenue": "0.00",
-            "impressions": 2,
+            "impressions": 6,
             "rpm": "0.00",
             "funnelClicks": 1,
             "clicks": 0
@@ -669,9 +733,9 @@
           {
             "countryCode": "GN",
             "revenue": "0.00",
-            "impressions": 1,
+            "impressions": 2,
             "rpm": "0.00",
-            "funnelClicks": 1,
+            "funnelClicks": 2,
             "clicks": 0
           },
           {
@@ -718,6 +782,14 @@
             "countryCode": "SA",
             "revenue": "0.00",
             "impressions": 1,
+            "rpm": "0.00",
+            "funnelClicks": 0,
+            "clicks": 0
+          },
+          {
+            "countryCode": "ZA",
+            "revenue": "0.00",
+            "impressions": 4,
             "rpm": "0.00",
             "funnelClicks": 0,
             "clicks": 0

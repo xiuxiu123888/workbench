@@ -18,7 +18,7 @@
         "channelId": "7723809864",
         "countryCode": null,
         "afsSource": "4",
-        "todayRpm": 2.2,
+        "todayRpm": 2.1,
         "todayRev": 1.06
       },
       {
@@ -40,8 +40,8 @@
         "channelId": "5132442487",
         "countryCode": null,
         "afsSource": "12",
-        "todayRpm": 9.2,
-        "todayRev": 25.8
+        "todayRpm": 8.8,
+        "todayRev": 26.22
       },
       {
         "offerId": "402qhISngEHL",
@@ -51,7 +51,7 @@
         "channelId": "1930962446",
         "countryCode": null,
         "afsSource": "5",
-        "todayRpm": 3.2,
+        "todayRpm": 2.9,
         "todayRev": 2.51
       },
       {
@@ -68,7 +68,7 @@
       {
         "offerId": "43qKCLmBcYoS",
         "offerName": "reader-v01-A17-us-8315362458-seekmoon.ai",
-        "categoryName": null,
+        "categoryName": "面部提拉",
         "weight": 1,
         "channelId": "8315362458",
         "countryCode": "US",

@@ -29,7 +29,7 @@
         "channelId": "2402337368",
         "countryCode": null,
         "afsSource": "12",
-        "todayRpm": 3.8,
+        "todayRpm": 3.4,
         "todayRev": 0.9
       },
       {
@@ -51,13 +51,13 @@
         "channelId": "2952029875",
         "countryCode": null,
         "afsSource": "15",
-        "todayRpm": 3.1,
+        "todayRpm": 2.2,
         "todayRev": 0.4
       },
       {
         "offerId": "43qKNRT7L7OO",
         "offerName": "reader-v02-A17-us-5637228228-seekmoon.ai",
-        "categoryName": null,
+        "categoryName": "面部提拉",
         "weight": 1,
         "channelId": "5637228228",
         "countryCode": "US",
