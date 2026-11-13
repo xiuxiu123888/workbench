@@ -1,0 +1,120 @@
+{
+  "code": 200,
+  "data": {
+    "groupId": "3x49ayZLAjiG",
+    "groupName": "shortmax-v11-us",
+    "routing": "rotator",
+    "geo": "US",
+    "yesterdayRpm": 38.6,
+    "yesterdayRev": 79.3,
+    "yesterdayRpmTrend": 4.04,
+    "yesterdayRevTrend": 9.09,
+    "offerList": [
+      {
+        "offerId": "3x47XGA8G6oL",
+        "offerName": "JZ11-A4-us-6792427953-zestfularcade.com",
+        "categoryName": "临床研究",
+        "weight": 0.55,
+        "channelId": "6792427953",
+        "countryCode": "US",
+        "afsSource": "4",
+        "todayRpm": 48.3,
+        "todayRev": 18.84
+      },
+      {
+        "offerId": "3x47bc5nrVeU",
+        "offerName": "JZ11-A7-us-2299609366-www.newamc.com",
+        "categoryName": "丁丙诺啡市场",
+        "weight": 0.08,
+        "channelId": "2299609366",
+        "countryCode": "US",
+        "afsSource": "7",
+        "todayRpm": 34.6,
+        "todayRev": 12.28
+      },
+      {
+        "offerId": "3x47xHmO7egF",
+        "offerName": "jz-11-A1-us-16516-homeguarddeals.com",
+        "categoryName": "其他",
+        "weight": 0.03,
+        "channelId": "16516",
+        "countryCode": "US",
+        "afsSource": "1",
+        "todayRpm": 5.7,
+        "todayRev": 0.53
+      },
+      {
+        "offerId": "3x482woz9HCk",
+        "offerName": "jz-11-A1-us-16497-beauty-center-nearby.com",
+        "categoryName": "其他",
+        "weight": 0.03,
+        "channelId": "16497",
+        "countryCode": "US",
+        "afsSource": "1",
+        "todayRpm": 26.7,
+        "todayRev": 0.56
+      },
+      {
+        "offerId": "3x488et4ntrT",
+        "offerName": "JZ11-A4-us-6935898186-joyfulgaminghub9.com",
+        "categoryName": "丁丙诺啡市场",
+        "weight": 0.5,
+        "channelId": "6935898186",
+        "countryCode": "US",
+        "afsSource": "4",
+        "todayRpm": 50.8,
+        "todayRev": 26.45
+      },
+      {
+        "offerId": "3x48ENcZOqWP",
+        "offerName": "JZ11-A7-us-8883994701-algo-cash.com",
+        "categoryName": "事故律师",
+        "weight": 0.08,
+        "channelId": "8883994701",
+        "countryCode": "US",
+        "afsSource": "7",
+        "todayRpm": 29.8,
+        "todayRev": 1.19
+      },
+      {
+        "offerId": "3x48Jgtl1XWr",
+        "offerName": "JZ11-A12-US-9779845452-intodeepdive.com ",
+        "categoryName": "健康保险",
+        "weight": 0.03,
+        "channelId": "9779845452",
+        "countryCode": "US",
+        "afsSource": "12",
+        "todayRpm": 6.7,
+        "todayRev": 0.22
+      },
+      {
+        "offerId": "3x48P8lgLiex",
+        "offerName": "JZ11-A5-us-3547510412-easyfungalaxy.com",
+        "categoryName": "特殊疾病药品",
+        "weight": 0.08,
+        "channelId": "3547510412",
+        "countryCode": "US",
+        "afsSource": "5",
+        "todayRpm": 33.5,
+        "todayRev": 5.7
+      },
+      {
+        "offerId": "3x48UcfcTaFs",
+        "offerName": "JZ11-A15-us-5586737973-mpbus.com",
+        "categoryName": "其他",
+        "weight": 0.03,
+        "channelId": "5586737973",
+        "countryCode": "US",
+        "afsSource": "15",
+        "todayRpm": 10.5,
+        "todayRev": 0.2
+      }
+    ],
+    "funnelId": "3x4Biffp1su8",
+    "funnelName": "ShortMax-v11",
+    "partnerName": "shortmax",
+    "urlName": null,
+    "urlId": null,
+    "platform": "MIS"
+  }
+}

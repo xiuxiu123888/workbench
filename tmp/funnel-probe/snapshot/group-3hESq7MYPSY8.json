@@ -1,0 +1,54 @@
+{
+  "code": 200,
+  "data": {
+    "groupId": "3hESq7MYPSY8",
+    "groupName": "JZ-16-SA",
+    "routing": "",
+    "geo": "SA",
+    "yesterdayRpm": 0,
+    "yesterdayRev": 0,
+    "yesterdayRpmTrend": 0,
+    "yesterdayRevTrend": 0,
+    "offerList": [
+      {
+        "offerId": "3hDLLKYTUON2",
+        "offerName": "JZ-16-A14-SA-1779686454",
+        "categoryName": "汽车保险",
+        "weight": 0.34,
+        "channelId": "1779686454",
+        "countryCode": null,
+        "afsSource": null,
+        "todayRpm": 0,
+        "todayRev": 0
+      },
+      {
+        "offerId": "3lMAsjAlQv5D",
+        "offerName": "JZ-16-A12-SA-8227937129",
+        "categoryName": "汽车保险",
+        "weight": 0.33,
+        "channelId": "8227937129",
+        "countryCode": null,
+        "afsSource": null,
+        "todayRpm": 0,
+        "todayRev": 0
+      },
+      {
+        "offerId": "3lMEEzBPcxSZ",
+        "offerName": "JZ-16-A4-SA-3236326320",
+        "categoryName": "手机分期",
+        "weight": 0.33,
+        "channelId": "3236326320",
+        "countryCode": null,
+        "afsSource": null,
+        "todayRpm": 0,
+        "todayRev": 0
+      }
+    ],
+    "funnelId": "3cQHLR9KPkS9",
+    "funnelName": "JZ-16",
+    "partnerName": "shortmax",
+    "urlName": "JZ-16",
+    "urlId": 98,
+    "platform": "FF"
+  }
+}

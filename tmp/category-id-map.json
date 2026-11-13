@@ -1,0 +1,259 @@
+{
+  "fetchedAt": "2026-11-11T09:35:52.019Z",
+  "sources": {
+    "categoriesUrl": "https://adesmobi.com/admin/back/article/allCategoryNew",
+    "sitesUrl": "https://adesmobi.com/admin/back/site/getAll",
+    "categoryCount": 1360,
+    "siteCount": 156,
+    "uniqueHosts": 156
+  },
+  "categoryIdMap": [
+    {
+      "domainCategory": "GLP-1 / 糖尿病",
+      "categoryId": 6305,
+      "matchedName": "GLP-1 / 糖尿病",
+      "confidence": "exact"
+    },
+    {
+      "domainCategory": "心理健康 / 成瘾",
+      "categoryId": 6314,
+      "matchedName": "心理健康 / 成瘾",
+      "confidence": "exact"
+    },
+    {
+      "domainCategory": "心血管 / 抗凝",
+      "categoryId": 6307,
+      "matchedName": "心血管 / 抗凝",
+      "confidence": "exact"
+    },
+    {
+      "domainCategory": "牙科",
+      "categoryId": 5342,
+      "matchedName": "牙科",
+      "confidence": "exact"
+    },
+    {
+      "domainCategory": "眼科 / 视力",
+      "categoryId": 6311,
+      "matchedName": "眼科 / 视力",
+      "confidence": "exact"
+    },
+    {
+      "domainCategory": "肿瘤 / 生物制剂",
+      "categoryId": 6308,
+      "matchedName": "肿瘤 / 生物制剂",
+      "confidence": "exact"
+    },
+    {
+      "domainCategory": "诊断 / 急诊",
+      "categoryId": 6316,
+      "matchedName": "诊断 / 急诊",
+      "confidence": "exact"
+    },
+    {
+      "domainCategory": "骨科 / 关节",
+      "categoryId": 6310,
+      "matchedName": "骨科 / 关节",
+      "confidence": "exact"
+    },
+    {
+      "domainCategory": "医疗·肾脏与泌尿",
+      "categoryId": 6333,
+      "matchedName": "医疗·泌尿外科",
+      "confidence": "confirmed",
+      "note": "沿用 医疗·泌尿外科"
+    },
+    {
+      "domainCategory": "医疗·皮肤",
+      "categoryId": 6453,
+      "matchedName": "医疗·皮肤",
+      "confidence": "user_confirmed",
+      "alias": "Medicine · Skin"
+    },
+    {
+      "domainCategory": "医疗·偏头痛",
+      "categoryId": 6451,
+      "matchedName": "医疗·偏头痛",
+      "confidence": "user_confirmed",
+      "alias": "(user)"
+    },
+    {
+      "domainCategory": "医疗·呼吸与睡眠",
+      "categoryId": 6452,
+      "matchedName": "呼吸与睡眠",
+      "confidence": "user_confirmed",
+      "alias": "Breathing and Sleep"
+    },
+    {
+      "domainCategory": "医疗·自身免疫",
+      "categoryId": 6454,
+      "matchedName": "自身免疫",
+      "confidence": "user_confirmed",
+      "alias": "autoimmunity"
+    }
+  ],
+  "exactCount": 13,
+  "proposedCount": 0,
+  "missingCount": 0,
+  "siblingsUnder医药研发": [
+    {
+      "id": 5110,
+      "name": "临床研究",
+      "alias": "clinical study"
+    },
+    {
+      "id": 5674,
+      "name": "专科药",
+      "alias": "Specialty drugs"
+    },
+    {
+      "id": 5690,
+      "name": "药物研发",
+      "alias": "Drug development"
+    },
+    {
+      "id": 6305,
+      "name": "GLP-1 / 糖尿病",
+      "alias": "GLP-1 / Diabetes"
+    },
+    {
+      "id": 6306,
+      "name": "胰岛素 / 血糖",
+      "alias": "Insulin / Blood Glucose"
+    },
+    {
+      "id": 6307,
+      "name": "心血管 / 抗凝",
+      "alias": "Cardiovascular / Anticoagulation"
+    },
+    {
+      "id": 6308,
+      "name": "肿瘤 / 生物制剂",
+      "alias": "Tumor / Biologics"
+    },
+    {
+      "id": 6309,
+      "name": "生育 / IVF",
+      "alias": "Fertility / IVF"
+    },
+    {
+      "id": 6310,
+      "name": "骨科 / 关节",
+      "alias": "Orthopedics / Joint Surgery"
+    },
+    {
+      "id": 6311,
+      "name": "眼科 / 视力",
+      "alias": "Ophthalmology / Vision"
+    },
+    {
+      "id": 6312,
+      "name": "整形 / 医美",
+      "alias": "Plastic Surgery / Medical Aesthetics"
+    },
+    {
+      "id": 6313,
+      "name": "减肥手术",
+      "alias": "Weight Loss Surgery"
+    },
+    {
+      "id": 6314,
+      "name": "心理健康 / 成瘾",
+      "alias": "Mental health / Addiction"
+    },
+    {
+      "id": 6315,
+      "name": "疫苗 / 预防",
+      "alias": "Vaccine / Prevention"
+    },
+    {
+      "id": 6316,
+      "name": "诊断 / 急诊",
+      "alias": "Diagnosis / Emergency"
+    }
+  ],
+  "siteHostIndexSample": [
+    {
+      "host": "news-early.uk",
+      "siteId": 1,
+      "accountId": 1,
+      "siteName": "news-early.uk",
+      "siteUrl": "news-early.uk",
+      "isPass": true
+    },
+    {
+      "host": "feelwellus.com",
+      "siteId": 2,
+      "accountId": 7,
+      "siteName": "feelwellus.com",
+      "siteUrl": "feelwellus.com",
+      "isPass": true
+    },
+    {
+      "host": "ohwellmind.com",
+      "siteId": 3,
+      "accountId": 1,
+      "siteName": "ohwellmind.com",
+      "siteUrl": "ohwellmind.com",
+      "isPass": true
+    },
+    {
+      "host": "all",
+      "siteId": 4,
+      "accountId": -1,
+      "siteName": "all",
+      "siteUrl": "all",
+      "isPass": false
+    },
+    {
+      "host": "jubilantsphere.com",
+      "siteId": 5,
+      "accountId": 2,
+      "siteName": "jubilantsphere.com",
+      "siteUrl": "jubilantsphere.com",
+      "isPass": true
+    },
+    {
+      "host": "zestfularcade.com",
+      "siteId": 6,
+      "accountId": 2,
+      "siteName": "zestfularcade.com",
+      "siteUrl": "zestfularcade.com",
+      "isPass": true
+    },
+    {
+      "host": "aiseparation.com",
+      "siteId": 7,
+      "accountId": 1,
+      "siteName": "aiseparation.com",
+      "siteUrl": "aiseparation.com",
+      "isPass": true
+    },
+    {
+      "host": "ai-third.com",
+      "siteId": 8,
+      "accountId": 6,
+      "siteName": "ai-third.com",
+      "siteUrl": "ai-third.com",
+      "isPass": false
+    },
+    {
+      "host": "bestretry.com",
+      "siteId": 9,
+      "accountId": 1,
+      "siteName": "bestretry.com",
+      "siteUrl": "bestretry.com",
+      "isPass": true
+    },
+    {
+      "host": "search-finance.com",
+      "siteId": 10,
+      "accountId": -1,
+      "siteName": "search-finance.com",
+      "siteUrl": "search-finance.com",
+      "isPass": false
+    }
+  ],
+  "updatedAt": "2026-11-11T09:48:49.897Z",
+  "allResolved": true
+}

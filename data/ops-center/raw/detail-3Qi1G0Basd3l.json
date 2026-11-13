@@ -1,0 +1,27 @@
+{
+  "code": 200,
+  "data": {
+    "funnelId": "3Qi1G0Basd3l",
+    "funnelName": "cd-reel-A71",
+    "partnerName": "changdu",
+    "urlName": "moboreels",
+    "urlId": 72,
+    "offerGroupList": [
+      {
+        "groupId": "3Qi8zbnGJuBp",
+        "groupName": "CD-Reel-A71-BR",
+        "geo": "BR"
+      },
+      {
+        "groupId": "3Qi94uh6XuV3",
+        "groupName": "CD-Reel-A71-US",
+        "geo": "US"
+      },
+      {
+        "groupId": "3Qi9A8ovV3ZW",
+        "groupName": "CD-Reel-A71-JP",
+        "geo": "JP"
+      }
+    ]
+  }
+}

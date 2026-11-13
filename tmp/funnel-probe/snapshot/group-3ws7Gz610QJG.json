@@ -1,0 +1,65 @@
+{
+  "code": 200,
+  "data": {
+    "groupId": "3ws7Gz610QJG",
+    "groupName": "shortmax-v06-us",
+    "routing": "rotator",
+    "geo": "US",
+    "yesterdayRpm": 20.3,
+    "yesterdayRev": 17.56,
+    "yesterdayRpmTrend": -9.78,
+    "yesterdayRevTrend": -13.37,
+    "offerList": [
+      {
+        "offerId": "3ws6Jb9txj8G",
+        "offerName": "shortmax-v06-A15-us-2054687076-51jiejue.com",
+        "categoryName": "其他",
+        "weight": 0.02,
+        "channelId": "2054687076",
+        "countryCode": "US",
+        "afsSource": "15",
+        "todayRpm": 18.3,
+        "todayRev": 0.75
+      },
+      {
+        "offerId": "3ws68hp7I77a",
+        "offerName": "shortmax-v06-A5-us-5231879751-funfillgames.com",
+        "categoryName": "HIV",
+        "weight": 0.16,
+        "channelId": "5231879751",
+        "countryCode": "US",
+        "afsSource": "5",
+        "todayRpm": 19,
+        "todayRev": 2.62
+      },
+      {
+        "offerId": "3ws5Fv9mJEBR",
+        "offerName": "shortmax-v06-A7-us-3115809079-quantify-energy.com",
+        "categoryName": "其他",
+        "weight": 0.79,
+        "channelId": "3115809079",
+        "countryCode": "US",
+        "afsSource": "7",
+        "todayRpm": 23.7,
+        "todayRev": 8.13
+      },
+      {
+        "offerId": "3ws4BPqKwI9C",
+        "offerName": "shortmax-v06-A4-Us-9259456650-zestfularcade.com",
+        "categoryName": "临床研究",
+        "weight": 0.14,
+        "channelId": "9259456650",
+        "countryCode": "US",
+        "afsSource": "4",
+        "todayRpm": 17.6,
+        "todayRev": 1.48
+      }
+    ],
+    "funnelId": "3ws8SMf82B2C",
+    "funnelName": "ShortMax-v06",
+    "partnerName": "shortmax",
+    "urlName": null,
+    "urlId": null,
+    "platform": "MIS"
+  }
+}

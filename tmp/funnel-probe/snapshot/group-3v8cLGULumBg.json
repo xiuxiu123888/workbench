@@ -1,0 +1,54 @@
+{
+  "code": 200,
+  "data": {
+    "groupId": "3v8cLGULumBg",
+    "groupName": "Novelix-V01-US",
+    "routing": "rotator",
+    "geo": "US",
+    "yesterdayRpm": 0,
+    "yesterdayRev": 0,
+    "yesterdayRpmTrend": 0,
+    "yesterdayRevTrend": 0,
+    "offerList": [
+      {
+        "offerId": "3v8YY2mHx61C",
+        "offerName": "Novelix-V01-A4-US-1593395995",
+        "categoryName": "丁丙诺啡市场",
+        "weight": 1,
+        "channelId": "1593395995",
+        "countryCode": "US",
+        "afsSource": "4",
+        "todayRpm": 0,
+        "todayRev": 0
+      },
+      {
+        "offerId": "3v8ZIMsVeXjY",
+        "offerName": "Novelix-V01-A7-US-12437",
+        "categoryName": "血压测量",
+        "weight": 1,
+        "channelId": "12437",
+        "countryCode": "US",
+        "afsSource": "7",
+        "todayRpm": 0,
+        "todayRev": 0
+      },
+      {
+        "offerId": "3v8alG9B4nCd",
+        "offerName": "Novelix-V01-A12-US-8856001430",
+        "categoryName": "特殊疾病药品",
+        "weight": 1,
+        "channelId": "8856001430",
+        "countryCode": "US",
+        "afsSource": "12",
+        "todayRpm": 0,
+        "todayRev": 0
+      }
+    ],
+    "funnelId": "3v8c4XlVpGsX",
+    "funnelName": "Novelix-V01",
+    "partnerName": null,
+    "urlName": null,
+    "urlId": null,
+    "platform": "MIS"
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "code": 200,
+  "data": {
+    "groupId": "3XKqN5EGpmu8",
+    "groupName": "cd-reel-A61-br",
+    "routing": "",
+    "geo": "BR",
+    "yesterdayRpm": 0.1,
+    "yesterdayRev": 0.33,
+    "yesterdayRpmTrend": 0,
+    "yesterdayRevTrend": 22.22,
+    "offerList": [
+      {
+        "offerId": "3i2aPs0q22YH",
+        "offerName": "cd-reel-A61-A12-BR-4301742392",
+        "categoryName": "健康保险",
+        "weight": 1,
+        "channelId": "4301742392",
+        "countryCode": null,
+        "afsSource": null,
+        "todayRpm": 0.1,
+        "todayRev": 0.17
+      },
+      {
+        "offerId": "3lplh9RvPvs9",
+        "offerName": "cd-reel-A61-A14-BR-4079063652",
+        "categoryName": "健康保险",
+        "weight": 0.02,
+        "channelId": "4079063652",
+        "countryCode": null,
+        "afsSource": null,
+        "todayRpm": 0,
+        "todayRev": 0
+      }
+    ],
+    "funnelId": "3O4uJVikic4W",
+    "funnelName": "cd-reel-A4-61",
+    "partnerName": "changdu",
+    "urlName": "moboreels",
+    "urlId": 61,
+    "platform": "FF"
+  }
+}

@@ -1,0 +1,76 @@
+{
+  "code": 200,
+  "data": {
+    "groupId": "3uDYzidrayvZ",
+    "groupName": "Blinkdrama-v03-default",
+    "routing": "rotator",
+    "geo": "US",
+    "yesterdayRpm": 27.1,
+    "yesterdayRev": 28.52,
+    "yesterdayRpmTrend": 173.74,
+    "yesterdayRevTrend": 582.3,
+    "offerList": [
+      {
+        "offerId": "3uDY9PTC5nbC",
+        "offerName": "Blinkdrama-v03-A7-default-12151",
+        "categoryName": "心理健康 / 成瘾",
+        "weight": 1,
+        "channelId": "12151",
+        "countryCode": null,
+        "afsSource": "7",
+        "todayRpm": 43.5,
+        "todayRev": 11.82
+      },
+      {
+        "offerId": "3uDJioaqpLXK",
+        "offerName": "Blinkdrama-v03-A4-default-2696852428",
+        "categoryName": "肿瘤 / 生物制剂",
+        "weight": 1,
+        "channelId": "2696852428",
+        "countryCode": "US",
+        "afsSource": "4",
+        "todayRpm": 46.5,
+        "todayRev": 23.02
+      },
+      {
+        "offerId": "3wsF5e8y08Mn",
+        "offerName": "Blinkdrama-v03-A15-default-7227122706",
+        "categoryName": "医疗·泌尿外科",
+        "weight": 1,
+        "channelId": "7227122706",
+        "countryCode": null,
+        "afsSource": "15",
+        "todayRpm": 2.1,
+        "todayRev": 0.35
+      },
+      {
+        "offerId": "3wsDkXElan6f",
+        "offerName": "Blinkdrama-v03-A5-default-5602828114",
+        "categoryName": "GLP-1 / 糖尿病",
+        "weight": 1,
+        "channelId": "5602828114",
+        "countryCode": null,
+        "afsSource": "5",
+        "todayRpm": 5.4,
+        "todayRev": 1.06
+      },
+      {
+        "offerId": "3wsD8NtAYVFs",
+        "offerName": "Blinkdrama-v03-A12-default-2175454077",
+        "categoryName": "自身免疫",
+        "weight": 1,
+        "channelId": "2175454077",
+        "countryCode": null,
+        "afsSource": "12",
+        "todayRpm": 30.2,
+        "todayRev": 2.54
+      }
+    ],
+    "funnelId": "3uDZjmliiexb",
+    "funnelName": "Blinkdrama-v03",
+    "partnerName": "Blinkdrama",
+    "urlName": "Blinkdrama-v03",
+    "urlId": 142,
+    "platform": "MIS"
+  }
+}

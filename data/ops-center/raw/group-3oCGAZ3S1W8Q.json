@@ -1,0 +1,43 @@
+{
+  "code": 200,
+  "data": {
+    "groupId": "3oCGAZ3S1W8Q",
+    "groupName": "cd-ori-v01-default",
+    "routing": "rotator",
+    "geo": "CD",
+    "yesterdayRpm": 0,
+    "yesterdayRev": 0,
+    "yesterdayRpmTrend": 0,
+    "yesterdayRevTrend": 0,
+    "offerList": [
+      {
+        "offerId": "3oCFZf2PIicM",
+        "offerName": "cd-ori-A12-default-5441068559",
+        "categoryName": "紧急贷款",
+        "weight": 1,
+        "channelId": "5441068559",
+        "countryCode": null,
+        "afsSource": null,
+        "todayRpm": 0,
+        "todayRev": 0
+      },
+      {
+        "offerId": "3e5PM3kE2UYU",
+        "offerName": "cd-ori-A4-default-8250445903",
+        "categoryName": "紧急贷款",
+        "weight": 1,
+        "channelId": "8250445903",
+        "countryCode": null,
+        "afsSource": null,
+        "todayRpm": 0,
+        "todayRev": 0
+      }
+    ],
+    "funnelId": "3e5POoixvvOh",
+    "funnelName": "cd-ori-v01",
+    "partnerName": null,
+    "urlName": null,
+    "urlId": null,
+    "platform": "FF"
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "code": 200,
+  "data": {
+    "groupId": "3aXCpPMToVJa",
+    "groupName": "JZ10-BR",
+    "routing": "",
+    "geo": "BR",
+    "yesterdayRpm": 0.8,
+    "yesterdayRev": 0.09,
+    "yesterdayRpmTrend": 166.67,
+    "yesterdayRevTrend": 80,
+    "offerList": [
+      {
+        "offerId": "3aX0gCSnYz5l",
+        "offerName": "JZ10-A4-br-9610162982",
+        "categoryName": "冰箱分期",
+        "weight": 0.78,
+        "channelId": "9610162982",
+        "countryCode": null,
+        "afsSource": null,
+        "todayRpm": 0.2,
+        "todayRev": 0.01
+      },
+      {
+        "offerId": "3aX9IziD1vJm",
+        "offerName": "JZ10-A7-br-1940266699",
+        "categoryName": "家装分期购买",
+        "weight": 0,
+        "channelId": "1940266699",
+        "countryCode": null,
+        "afsSource": null,
+        "todayRpm": 0,
+        "todayRev": 0
+      },
+      {
+        "offerId": "3bk2Z7tmCJ4f",
+        "offerName": "JZ10-A12-BR-5525525852",
+        "categoryName": "汽车分期",
+        "weight": 0.22,
+        "channelId": "5525525852",
+        "countryCode": null,
+        "afsSource": null,
+        "todayRpm": 1.6,
+        "todayRev": 0.05
+      }
+    ],
+    "funnelId": "3aXER1jGKCjP",
+    "funnelName": "jz-10",
+    "partnerName": "shortmax",
+    "urlName": "JZ-10",
+    "urlId": 92,
+    "platform": "FF"
+  }
+}

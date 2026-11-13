@@ -1,0 +1,54 @@
+{
+  "code": 200,
+  "data": {
+    "groupId": "3XcD9PcRqn7h",
+    "groupName": "CD-Reader-A51-default",
+    "routing": "",
+    "geo": "CD",
+    "yesterdayRpm": 0,
+    "yesterdayRev": 0,
+    "yesterdayRpmTrend": 0,
+    "yesterdayRevTrend": 0,
+    "offerList": [
+      {
+        "offerId": "3lWWRRQX1bUD",
+        "offerName": "cd-reader-51-A12-default-5132442487",
+        "categoryName": "种牙",
+        "weight": 1,
+        "channelId": "5132442487",
+        "countryCode": null,
+        "afsSource": null,
+        "todayRpm": 0,
+        "todayRev": 0
+      },
+      {
+        "offerId": "3UZHog5J4fnB",
+        "offerName": "Cd-read-A51-A7-us-9508193152",
+        "categoryName": "事故律师",
+        "weight": 1,
+        "channelId": "9508193152",
+        "countryCode": null,
+        "afsSource": null,
+        "todayRpm": 0,
+        "todayRev": 0
+      },
+      {
+        "offerId": "3Xc9Vzw0jzjZ",
+        "offerName": "Cd-read-A51-A4-us-7723809864",
+        "categoryName": "临床研究",
+        "weight": 1,
+        "channelId": "7723809864",
+        "countryCode": null,
+        "afsSource": null,
+        "todayRpm": 0,
+        "todayRev": 0
+      }
+    ],
+    "funnelId": "3LyxpT9hzzh6",
+    "funnelName": "cd-reader-A5-51",
+    "partnerName": "changdu",
+    "urlName": "moboreader",
+    "urlId": 51,
+    "platform": "FF"
+  }
+}

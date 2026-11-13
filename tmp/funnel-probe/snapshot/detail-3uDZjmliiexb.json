@@ -1,0 +1,26 @@
+{
+  "code": 200,
+  "data": {
+    "funnelId": "3uDZjmliiexb",
+    "funnelName": "Blinkdrama-v03",
+    "partnerName": "Blinkdrama",
+    "urlName": "Blinkdrama-v03",
+    "urlId": 142,
+    "offerGroupList": [
+      {
+        "groupId": "3uDYzidrayvZ",
+        "groupName": "Blinkdrama-v03-default",
+        "geo": "US"
+      },
+      {
+        "groupId": "3uDYuFliS9Sl",
+        "groupName": "Blinkdrama-v03-us",
+        "geo": "US"
+      }
+    ],
+    "platform": "MIS",
+    "status": "active",
+    "autoWeightEnabled": 1,
+    "autoWeightRuleType": "TODAY_RPM"
+  }
+}

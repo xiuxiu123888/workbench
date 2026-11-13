@@ -1,0 +1,87 @@
+{
+  "code": 200,
+  "data": {
+    "groupId": "3TAg1aVvtyht",
+    "groupName": "Jiu-0912-US",
+    "routing": "",
+    "geo": "US",
+    "yesterdayRpm": 125.5,
+    "yesterdayRev": 367.12,
+    "yesterdayRpmTrend": 27.02,
+    "yesterdayRevTrend": 35.6,
+    "offerList": [
+      {
+        "offerId": "3beZf5VdPQ2S",
+        "offerName": "A12-Us-1898762721",
+        "categoryName": "临床研究",
+        "weight": 0.07,
+        "channelId": "1898762721",
+        "countryCode": null,
+        "afsSource": null,
+        "todayRpm": 60.5,
+        "todayRev": 5.57
+      },
+      {
+        "offerId": "3TAfCjAZfkRx",
+        "offerName": "A1-Us-6172506158",
+        "categoryName": "医疗咨询",
+        "weight": 0.04,
+        "channelId": "6172506158",
+        "countryCode": null,
+        "afsSource": null,
+        "todayRpm": 0,
+        "todayRev": 0
+      },
+      {
+        "offerId": "3XCleiEpNgke",
+        "offerName": "A4-Us-7474002238",
+        "categoryName": "特殊疾病药品",
+        "weight": 0.69,
+        "channelId": "7474002238",
+        "countryCode": null,
+        "afsSource": null,
+        "todayRpm": 130.5,
+        "todayRev": 121.9
+      },
+      {
+        "offerId": "3XD3Jh4m2Ila",
+        "offerName": "A7-Us-7868532178",
+        "categoryName": "健康保险",
+        "weight": 0.51,
+        "channelId": "7868532178",
+        "countryCode": null,
+        "afsSource": null,
+        "todayRpm": 96.7,
+        "todayRev": 51.65
+      },
+      {
+        "offerId": "3wSCYN17t59S",
+        "offerName": "0912-A15-us-7917387848",
+        "categoryName": "医疗健康",
+        "weight": 0.04,
+        "channelId": "7917387848",
+        "countryCode": null,
+        "afsSource": null,
+        "todayRpm": 8.5,
+        "todayRev": 0.35
+      },
+      {
+        "offerId": "3wSCVONR4gYh",
+        "offerName": "0912-A5-us-2222573036",
+        "categoryName": "HIV",
+        "weight": 0.52,
+        "channelId": "2222573036",
+        "countryCode": null,
+        "afsSource": null,
+        "todayRpm": 89.9,
+        "todayRev": 53.42
+      }
+    ],
+    "funnelId": "3PZNC9XTyfXp",
+    "funnelName": "Jiu-reel-0912",
+    "partnerName": "shortmax",
+    "urlName": "Jiu-reel-0912",
+    "urlId": 68,
+    "platform": "FF"
+  }
+}

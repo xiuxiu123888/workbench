@@ -1,0 +1,54 @@
+{
+  "code": 200,
+  "data": {
+    "groupId": "3nMhxsspzvPe",
+    "groupName": "cd-A50-fr",
+    "routing": "",
+    "geo": "FR",
+    "yesterdayRpm": 0.1,
+    "yesterdayRev": 0.1,
+    "yesterdayRpmTrend": -50,
+    "yesterdayRevTrend": -23.08,
+    "offerList": [
+      {
+        "offerId": "3nMeNj8Vhz1k",
+        "offerName": "cd-reel-50-A12-fr-3731730900",
+        "categoryName": "健康保险",
+        "weight": 1,
+        "channelId": "3731730900",
+        "countryCode": null,
+        "afsSource": null,
+        "todayRpm": 0.2,
+        "todayRev": 0.09
+      },
+      {
+        "offerId": "3nMeY6MTXTvD",
+        "offerName": "cd-reel-50-A14-fr-7826736975",
+        "categoryName": "附近公寓指南",
+        "weight": 0.02,
+        "channelId": "7826736975",
+        "countryCode": null,
+        "afsSource": null,
+        "todayRpm": 0,
+        "todayRev": 0
+      },
+      {
+        "offerId": "3oFCBqzAGKMt",
+        "offerName": "CD-50-A1-fr-4677485294",
+        "categoryName": "荷尔蒙优化",
+        "weight": 0.02,
+        "channelId": "4677485294",
+        "countryCode": null,
+        "afsSource": null,
+        "todayRpm": 0,
+        "todayRev": 0
+      }
+    ],
+    "funnelId": "3LcdpN4mS9hK",
+    "funnelName": "cd-reel-A5-50",
+    "partnerName": "changdu",
+    "urlName": "moboreels",
+    "urlId": 50,
+    "platform": "FF"
+  }
+}

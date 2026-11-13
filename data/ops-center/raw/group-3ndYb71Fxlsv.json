@@ -1,0 +1,43 @@
+{
+  "code": 200,
+  "data": {
+    "groupId": "3ndYb71Fxlsv",
+    "groupName": "CD-Reel-A70-default",
+    "routing": "",
+    "geo": "CD",
+    "yesterdayRpm": 0,
+    "yesterdayRev": 0,
+    "yesterdayRpmTrend": 0,
+    "yesterdayRevTrend": 0,
+    "offerList": [
+      {
+        "offerId": "3lWUUxMHkjT7",
+        "offerName": "cd-reel-A70-A4-US-8941329599",
+        "categoryName": "汽车租购",
+        "weight": 0.5,
+        "channelId": "8941329599",
+        "countryCode": null,
+        "afsSource": null,
+        "todayRpm": 0,
+        "todayRev": 0
+      },
+      {
+        "offerId": "3ndYMHwpkeCx",
+        "offerName": "A70-A12-default-9067818065",
+        "categoryName": "分期购买手机",
+        "weight": 0.5,
+        "channelId": "9067818065",
+        "countryCode": null,
+        "afsSource": null,
+        "todayRpm": 0,
+        "todayRev": 0
+      }
+    ],
+    "funnelId": "3Qi0wZnVilho",
+    "funnelName": "cd-reel-A70",
+    "partnerName": "changdu",
+    "urlName": "moboreels",
+    "urlId": 71,
+    "platform": "FF"
+  }
+}

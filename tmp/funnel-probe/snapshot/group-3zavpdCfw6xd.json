@@ -1,0 +1,76 @@
+{
+  "code": 200,
+  "data": {
+    "groupId": "3zavpdCfw6xd",
+    "groupName": "reader-v01-default",
+    "routing": "rotator",
+    "geo": null,
+    "yesterdayRpm": 0,
+    "yesterdayRev": 0,
+    "yesterdayRpmTrend": 0,
+    "yesterdayRevTrend": 0,
+    "offerList": [
+      {
+        "offerId": "3zau8RmL62F6",
+        "offerName": "reader-v01-A4-default-7723809864",
+        "categoryName": "HIV",
+        "weight": 1,
+        "channelId": "7723809864",
+        "countryCode": null,
+        "afsSource": "4",
+        "todayRpm": 0,
+        "todayRev": 0
+      },
+      {
+        "offerId": "3zau1jwSK9N4",
+        "offerName": "reader-v01-A7-default-9508193152",
+        "categoryName": "HIV",
+        "weight": 1,
+        "channelId": "9508193152",
+        "countryCode": null,
+        "afsSource": "7",
+        "todayRpm": 0,
+        "todayRev": 0
+      },
+      {
+        "offerId": "3zatuizFOLYi",
+        "offerName": "reader-v01-A12-default-5132442487",
+        "categoryName": "种牙",
+        "weight": 1,
+        "channelId": "5132442487",
+        "countryCode": null,
+        "afsSource": "12",
+        "todayRpm": 0,
+        "todayRev": 0
+      },
+      {
+        "offerId": "402qhISngEHL",
+        "offerName": "reader-v01-A5-us-1930962446-default",
+        "categoryName": "HIV",
+        "weight": 1,
+        "channelId": "1930962446",
+        "countryCode": null,
+        "afsSource": "5",
+        "todayRpm": 0,
+        "todayRev": 0
+      },
+      {
+        "offerId": "402qJWBBxRg1",
+        "offerName": "reader-v01-A15-9325866530-default",
+        "categoryName": "医疗健康",
+        "weight": 1,
+        "channelId": "9325866530",
+        "countryCode": null,
+        "afsSource": "15",
+        "todayRpm": 0,
+        "todayRev": 0
+      }
+    ],
+    "funnelId": "3zawx1d3eHDg",
+    "funnelName": "reader-v01",
+    "partnerName": null,
+    "urlName": null,
+    "urlId": null,
+    "platform": "MIS"
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "code": 200,
+  "data": {
+    "groupId": "3nMvcSG46zRn",
+    "groupName": "cd-reel-A61-de",
+    "routing": "",
+    "geo": "DE",
+    "yesterdayRpm": 0.5,
+    "yesterdayRev": 0.59,
+    "yesterdayRpmTrend": -28.57,
+    "yesterdayRevTrend": -39.18,
+    "offerList": [
+      {
+        "offerId": "3lplh9YxcvyD",
+        "offerName": "cd-reel-A61-A14-DE-4079063652",
+        "categoryName": "分期购买手机",
+        "weight": 0.02,
+        "channelId": "4079063652",
+        "countryCode": null,
+        "afsSource": null,
+        "todayRpm": 0,
+        "todayRev": 0
+      },
+      {
+        "offerId": "3lWWRRYDuld2",
+        "offerName": "cd-reel-A61-A12-DE-4301742392",
+        "categoryName": "种牙",
+        "weight": 1,
+        "channelId": "4301742392",
+        "countryCode": null,
+        "afsSource": null,
+        "todayRpm": 1.2,
+        "todayRev": 1.2
+      }
+    ],
+    "funnelId": "3O4uJVikic4W",
+    "funnelName": "cd-reel-A4-61",
+    "partnerName": "changdu",
+    "urlName": "moboreels",
+    "urlId": 61,
+    "platform": "FF"
+  }
+}

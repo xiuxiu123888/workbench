@@ -1,0 +1,54 @@
+{
+  "code": 200,
+  "data": {
+    "groupId": "3Qi3kAstDewT",
+    "groupName": "CD-Reel-A70-Us",
+    "routing": "",
+    "geo": "US",
+    "yesterdayRpm": 115.9,
+    "yesterdayRev": 22.61,
+    "yesterdayRpmTrend": 168.91,
+    "yesterdayRevTrend": 210.58,
+    "offerList": [
+      {
+        "offerId": "3bwuZpcDjVSM",
+        "offerName": "A70-A12-us-9067818065",
+        "categoryName": "临床研究",
+        "weight": 0,
+        "channelId": "9067818065",
+        "countryCode": null,
+        "afsSource": null,
+        "todayRpm": 0,
+        "todayRev": 0
+      },
+      {
+        "offerId": "3XcL5lMUD8fG",
+        "offerName": "CD-A70-A4-Us-8941329599",
+        "categoryName": "HIV",
+        "weight": 0.72,
+        "channelId": "8941329599",
+        "countryCode": null,
+        "afsSource": null,
+        "todayRpm": 88.1,
+        "todayRev": 7.84
+      },
+      {
+        "offerId": "3XcOHFM7wni5",
+        "offerName": "A70-A7-us-10928",
+        "categoryName": "常见健康",
+        "weight": 0.28,
+        "channelId": "10928",
+        "countryCode": null,
+        "afsSource": null,
+        "todayRpm": 13.9,
+        "todayRev": 0.61
+      }
+    ],
+    "funnelId": "3Qi0wZnVilho",
+    "funnelName": "cd-reel-A70",
+    "partnerName": "changdu",
+    "urlName": "moboreels",
+    "urlId": 71,
+    "platform": "FF"
+  }
+}

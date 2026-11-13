@@ -1,0 +1,54 @@
+{
+  "code": 200,
+  "data": {
+    "groupId": "3h7bvGyqCkxF",
+    "groupName": "JZ-18-IT",
+    "routing": "",
+    "geo": "IT",
+    "yesterdayRpm": 0.6,
+    "yesterdayRev": 0.32,
+    "yesterdayRpmTrend": -66.67,
+    "yesterdayRevTrend": -57.33,
+    "offerList": [
+      {
+        "offerId": "3h73zWvYDBGS",
+        "offerName": "JZ-18-A12-IT-2165711172",
+        "categoryName": "太阳能储能",
+        "weight": 0.38,
+        "channelId": "2165711172",
+        "countryCode": null,
+        "afsSource": null,
+        "todayRpm": 0,
+        "todayRev": 0
+      },
+      {
+        "offerId": "3h74oUCElTDz",
+        "offerName": "JZ-18-A14-IT-9494524946",
+        "categoryName": "太阳能储能",
+        "weight": 0,
+        "channelId": "9494524946",
+        "countryCode": null,
+        "afsSource": null,
+        "todayRpm": 0,
+        "todayRev": 0
+      },
+      {
+        "offerId": "3mmuxAkbWIIE",
+        "offerName": "JZ-18-A1-it-16517",
+        "categoryName": "太阳能储能",
+        "weight": 0.62,
+        "channelId": "16517",
+        "countryCode": null,
+        "afsSource": null,
+        "todayRpm": 0,
+        "todayRev": 0
+      }
+    ],
+    "funnelId": "3h7auqpMJMVz",
+    "funnelName": "JZ-18",
+    "partnerName": "shortmax",
+    "urlName": "JZ-18",
+    "urlId": 107,
+    "platform": "FF"
+  }
+}

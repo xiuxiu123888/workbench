@@ -1,0 +1,43 @@
+{
+  "code": 200,
+  "data": {
+    "groupId": "3Ua6jh4GszUv",
+    "groupName": "cd-reel-0825-fan-62-Us",
+    "routing": "rotator",
+    "geo": "US",
+    "yesterdayRpm": 73.2,
+    "yesterdayRev": 164.35,
+    "yesterdayRpmTrend": -31.27,
+    "yesterdayRevTrend": -23.96,
+    "offerList": [
+      {
+        "offerId": "3bwuElKYMqFv",
+        "offerName": "Cd-reel-0825-fan-62-A12-us-2506279147",
+        "categoryName": "HIV",
+        "weight": 0.02,
+        "channelId": "2506279147",
+        "countryCode": null,
+        "afsSource": null,
+        "todayRpm": 8.3,
+        "todayRev": 0.69
+      },
+      {
+        "offerId": "3XKt5KYtgDmJ",
+        "offerName": "Cd-reel-0825-fan-62-A4-us-1747103610",
+        "categoryName": "HIV",
+        "weight": 1,
+        "channelId": "1747103610",
+        "countryCode": null,
+        "afsSource": null,
+        "todayRpm": 56.7,
+        "todayRev": 97.01
+      }
+    ],
+    "funnelId": "3O9Vr9Ar6pNC",
+    "funnelName": "cd-reel-A6fan-62",
+    "partnerName": "changdu",
+    "urlName": "moboreels",
+    "urlId": 62,
+    "platform": "FF"
+  }
+}

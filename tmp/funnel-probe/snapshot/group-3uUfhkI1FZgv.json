@@ -1,0 +1,175 @@
+{
+  "code": 200,
+  "data": {
+    "groupId": "3uUfhkI1FZgv",
+    "groupName": "Blinkdrama-sign-v01-us",
+    "routing": "rotator",
+    "geo": "US",
+    "yesterdayRpm": 27.8,
+    "yesterdayRev": 1696.44,
+    "yesterdayRpmTrend": -7.64,
+    "yesterdayRevTrend": 3.98,
+    "offerList": [
+      {
+        "offerId": "3uZdL8nMVrYF",
+        "offerName": "Blinkdrama-sign-v01-A1-us-15633-homeguarddeals.com",
+        "categoryName": "丁丙诺啡市场",
+        "weight": 0.4,
+        "channelId": "15633",
+        "countryCode": "US",
+        "afsSource": "1",
+        "todayRpm": 41.1,
+        "todayRev": 548.6
+      },
+      {
+        "offerId": "3uUeo9IhbaYj",
+        "offerName": "Blinkdrama-sign-v01-A4-Us-1628696221-zestfularcade.com",
+        "categoryName": "丁丙诺啡市场",
+        "weight": 0.34,
+        "channelId": "1628696221",
+        "countryCode": "US",
+        "afsSource": "4",
+        "todayRpm": 35,
+        "todayRev": 404.04
+      },
+      {
+        "offerId": "3uUfE2yfRfra",
+        "offerName": "Blinkdrama-sign-v01-A5-Us-4669020397-funfillgames.com",
+        "categoryName": "其他",
+        "weight": 0.03,
+        "channelId": "4669020397",
+        "countryCode": "US",
+        "afsSource": "5",
+        "todayRpm": 11.6,
+        "todayRev": 18.73
+      },
+      {
+        "offerId": "3uZdTp0CLbkH",
+        "offerName": "Blinkdrama-sign-v01-A7-us-12486-algo-cash.com",
+        "categoryName": "丁丙诺啡市场",
+        "weight": 0.15,
+        "channelId": "12486",
+        "countryCode": "US",
+        "afsSource": "7",
+        "todayRpm": 16.3,
+        "todayRev": 43.13
+      },
+      {
+        "offerId": "3wsFbYKpWvog",
+        "offerName": "Blinkdrama-sign-v01-A15-us-2979233422-mpbus.com",
+        "categoryName": "其他",
+        "weight": 0.03,
+        "channelId": "2979233422",
+        "countryCode": "US",
+        "afsSource": "15",
+        "todayRpm": 13.7,
+        "todayRev": 40.36
+      },
+      {
+        "offerId": "3yBLPFvA5Gt5",
+        "offerName": "Blinkdrama-sign-v01-A12-Us-new-7815494570-degreesuccesstips.com",
+        "categoryName": "其他",
+        "weight": 0.03,
+        "channelId": "7815494570",
+        "countryCode": "US",
+        "afsSource": "12",
+        "todayRpm": 10.5,
+        "todayRev": 10.05
+      },
+      {
+        "offerId": "3ywHlLRE1lbo",
+        "offerName": "Blinkdrama-sign-v01-A1-us-13249-nearby-dental-implants.com",
+        "categoryName": "丁丙诺啡市场",
+        "weight": 0,
+        "channelId": "13249",
+        "countryCode": "US",
+        "afsSource": "1",
+        "todayRpm": 0.8,
+        "todayRev": 0.29
+      },
+      {
+        "offerId": "3ywHqKdulnAf",
+        "offerName": "Blinkdrama-sign-v01-A1-us-13250-beauty-center-nearby.com",
+        "categoryName": "丁丙诺啡市场",
+        "weight": 0,
+        "channelId": "13249",
+        "countryCode": "US",
+        "afsSource": "1",
+        "todayRpm": 0.8,
+        "todayRev": 0.29
+      },
+      {
+        "offerId": "3ywIRG6wdkPv",
+        "offerName": "Blinkdrama-sign-v01-A4-Us-4719974988-joyfulgaminghub9.com",
+        "categoryName": "丁丙诺啡市场",
+        "weight": 0.31,
+        "channelId": "4719974988",
+        "countryCode": "US",
+        "afsSource": "4",
+        "todayRpm": 33.1,
+        "todayRev": 400.17
+      },
+      {
+        "offerId": "3ywIFsiZSjA1",
+        "offerName": "Blinkdrama-sign-v01-A5-Us-5103118368-playfulbreak.com",
+        "categoryName": "其他",
+        "weight": 0.02,
+        "channelId": "5103118368",
+        "countryCode": "US",
+        "afsSource": "5",
+        "todayRpm": 9.3,
+        "todayRev": 7.01
+      },
+      {
+        "offerId": "3ywHxBFftKbT",
+        "offerName": "Blinkdrama-sign-v01-A7-us-18668-craftaio.com",
+        "categoryName": "其他",
+        "weight": 0.01,
+        "channelId": "18668",
+        "countryCode": "US",
+        "afsSource": "7",
+        "todayRpm": 6.9,
+        "todayRev": 3.12
+      },
+      {
+        "offerId": "3ywI1pGz5wLY",
+        "offerName": "Blinkdrama-sign-v01-A7-us-18669-xveluxai.com",
+        "categoryName": "其他",
+        "weight": 0.02,
+        "channelId": "18669",
+        "countryCode": "US",
+        "afsSource": "7",
+        "todayRpm": 8.7,
+        "todayRev": 6.53
+      },
+      {
+        "offerId": "3ywI7ngx19LX",
+        "offerName": "Blinkdrama-sign-v01-A15-us-1607158614-lstmai.com",
+        "categoryName": "其他",
+        "weight": 0.02,
+        "channelId": "1607158614",
+        "countryCode": "US",
+        "afsSource": "15",
+        "todayRpm": 7.6,
+        "todayRev": 6.86
+      },
+      {
+        "offerId": "3wsFDZA5jvIB",
+        "offerName": "Blinkdrama-sign-v01-A15-default-2979233422",
+        "categoryName": "医疗健康",
+        "weight": 0.03,
+        "channelId": "2979233422",
+        "countryCode": null,
+        "afsSource": "15",
+        "todayRpm": 13.7,
+        "todayRev": 40.36
+      }
+    ],
+    "funnelId": "3uUfpSpZ3e2U",
+    "funnelName": "Blinkdrama-sign-v01",
+    "partnerName": "Blinkdrama",
+    "urlName": "Blinkdrama-sign-v01",
+    "urlId": 145,
+    "platform": "MIS"
+  }
+}

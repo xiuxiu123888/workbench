@@ -1,0 +1,76 @@
+{
+  "code": 200,
+  "data": {
+    "groupId": "3TAgAwCMIRnG",
+    "groupName": "Jiu-0912-JP",
+    "routing": "",
+    "geo": "JP",
+    "yesterdayRpm": 0,
+    "yesterdayRev": 0,
+    "yesterdayRpmTrend": 0,
+    "yesterdayRevTrend": 0,
+    "offerList": [
+      {
+        "offerId": "3bvoZ8JIj2Jt",
+        "offerName": "A1-JP-6172506158-NEW",
+        "categoryName": null,
+        "weight": 1,
+        "channelId": "6172506158",
+        "countryCode": null,
+        "afsSource": null,
+        "todayRpm": 0,
+        "todayRev": 0
+      },
+      {
+        "offerId": "3lMAsjREt58A",
+        "offerName": "Jiu-reel-0912-A12-JP-1898762721",
+        "categoryName": "紧急贷款",
+        "weight": 1,
+        "channelId": "1898762721",
+        "countryCode": null,
+        "afsSource": null,
+        "todayRpm": 0,
+        "todayRev": 0
+      },
+      {
+        "offerId": "3nnxeHBqqw4r",
+        "offerName": "A1-jp-6172506158",
+        "categoryName": "个人贷款",
+        "weight": 1,
+        "channelId": "6172506158",
+        "countryCode": null,
+        "afsSource": null,
+        "todayRpm": 0,
+        "todayRev": 0
+      },
+      {
+        "offerId": "3XD6xctqKirg",
+        "offerName": "A4-Jp-7474002238",
+        "categoryName": "个人贷款",
+        "weight": 1,
+        "channelId": "7474002238",
+        "countryCode": null,
+        "afsSource": null,
+        "todayRpm": 0,
+        "todayRev": 0
+      },
+      {
+        "offerId": "3XD9WNns6Z7l",
+        "offerName": "A7-JP-7868532178",
+        "categoryName": "个人贷款",
+        "weight": 1,
+        "channelId": "7868532178",
+        "countryCode": null,
+        "afsSource": null,
+        "todayRpm": 0,
+        "todayRev": 0
+      }
+    ],
+    "funnelId": "3PZNC9XTyfXp",
+    "funnelName": "Jiu-reel-0912",
+    "partnerName": "shortmax",
+    "urlName": "Jiu-reel-0912",
+    "urlId": 68,
+    "platform": "FF"
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "code": 200,
+  "data": {
+    "groupId": "3bovDEX8Ww7j",
+    "groupName": "JZ09-MX",
+    "routing": "",
+    "geo": "MX",
+    "yesterdayRpm": 0.1,
+    "yesterdayRev": 0.05,
+    "yesterdayRpmTrend": -75,
+    "yesterdayRevTrend": -68.75,
+    "offerList": [
+      {
+        "offerId": "3bov7AkUMDiG",
+        "offerName": "JZ09-A7-mx-1751917633",
+        "categoryName": "汽车贷款",
+        "weight": 1,
+        "channelId": "1751917633",
+        "countryCode": null,
+        "afsSource": null,
+        "todayRpm": 0,
+        "todayRev": 0
+      },
+      {
+        "offerId": "3bwYDKd73N8T",
+        "offerName": "JZ09-A4-mx-8488653000",
+        "categoryName": "肝脏健康",
+        "weight": 0.04,
+        "channelId": "8488653000",
+        "countryCode": null,
+        "afsSource": null,
+        "todayRpm": 1,
+        "todayRev": 0.12
+      },
+      {
+        "offerId": "3lMAsjIWG53V",
+        "offerName": "jz-09-A12-MX-9827539423",
+        "categoryName": "种牙",
+        "weight": 1,
+        "channelId": "9827539423",
+        "countryCode": null,
+        "afsSource": null,
+        "todayRpm": 0,
+        "todayRev": 0
+      }
+    ],
+    "funnelId": "3aXEOxFRbofy",
+    "funnelName": "jz-09",
+    "partnerName": "shortmax",
+    "urlName": "JZ-09",
+    "urlId": 91,
+    "platform": "FF"
+  }
+}

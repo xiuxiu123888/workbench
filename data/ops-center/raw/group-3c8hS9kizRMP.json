@@ -1,0 +1,54 @@
+{
+  "code": 200,
+  "data": {
+    "groupId": "3c8hS9kizRMP",
+    "groupName": "Jiu-0912-sa",
+    "routing": "",
+    "geo": "SA",
+    "yesterdayRpm": 0,
+    "yesterdayRev": 0,
+    "yesterdayRpmTrend": 0,
+    "yesterdayRevTrend": 0,
+    "offerList": [
+      {
+        "offerId": "3c8hFuW6CStp",
+        "offerName": "A4-sa-7474002238",
+        "categoryName": "汽车贷款",
+        "weight": 1,
+        "channelId": "7474002238",
+        "countryCode": null,
+        "afsSource": null,
+        "todayRpm": 0,
+        "todayRev": 0
+      },
+      {
+        "offerId": "3c8hMPMkxzmW",
+        "offerName": "A7-sa-7868532178",
+        "categoryName": "汽车分期",
+        "weight": 1,
+        "channelId": "7868532178",
+        "countryCode": null,
+        "afsSource": null,
+        "todayRpm": 0,
+        "todayRev": 0
+      },
+      {
+        "offerId": "3lMAsjRcSInq",
+        "offerName": "Jiu-reel-0912-A12-SA-1898762721",
+        "categoryName": "汽车保险",
+        "weight": 1,
+        "channelId": "1898762721",
+        "countryCode": null,
+        "afsSource": null,
+        "todayRpm": 0,
+        "todayRev": 0
+      }
+    ],
+    "funnelId": "3PZNC9XTyfXp",
+    "funnelName": "Jiu-reel-0912",
+    "partnerName": "shortmax",
+    "urlName": "Jiu-reel-0912",
+    "urlId": 68,
+    "platform": "FF"
+  }
+}

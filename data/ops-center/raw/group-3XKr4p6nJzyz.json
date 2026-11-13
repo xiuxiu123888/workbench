@@ -1,0 +1,54 @@
+{
+  "code": 200,
+  "data": {
+    "groupId": "3XKr4p6nJzyz",
+    "groupName": "cd-reel-A61-default",
+    "routing": "",
+    "geo": "CD",
+    "yesterdayRpm": 0,
+    "yesterdayRev": 0,
+    "yesterdayRpmTrend": 0,
+    "yesterdayRevTrend": 0,
+    "offerList": [
+      {
+        "offerId": "3i2aPrz1HDCB",
+        "offerName": "cd-reel-A61-A12-default-4301742392",
+        "categoryName": "种牙",
+        "weight": 1,
+        "channelId": "4301742392",
+        "countryCode": null,
+        "afsSource": null,
+        "todayRpm": 0,
+        "todayRev": 0
+      },
+      {
+        "offerId": "3oIF8hyLbHpS",
+        "offerName": "cd-reel-A61-A7-default-10924",
+        "categoryName": "紧急贷款",
+        "weight": 1,
+        "channelId": "10924",
+        "countryCode": null,
+        "afsSource": null,
+        "todayRpm": 0,
+        "todayRev": 0
+      },
+      {
+        "offerId": "3oIFCZsYoEaw",
+        "offerName": "cd-reel-A61-A4-default-2811958953",
+        "categoryName": "紧急贷款",
+        "weight": 1,
+        "channelId": "2811958953",
+        "countryCode": null,
+        "afsSource": null,
+        "todayRpm": 0,
+        "todayRev": 0
+      }
+    ],
+    "funnelId": "3O4uJVikic4W",
+    "funnelName": "cd-reel-A4-61",
+    "partnerName": "changdu",
+    "urlName": "moboreels",
+    "urlId": 61,
+    "platform": "FF"
+  }
+}

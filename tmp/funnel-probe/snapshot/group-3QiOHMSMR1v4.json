@@ -1,0 +1,65 @@
+{
+  "code": 200,
+  "data": {
+    "groupId": "3QiOHMSMR1v4",
+    "groupName": "CD-Reel-A73-BR",
+    "routing": "",
+    "geo": "BR",
+    "yesterdayRpm": 0,
+    "yesterdayRev": 0,
+    "yesterdayRpmTrend": 0,
+    "yesterdayRevTrend": 0,
+    "offerList": [
+      {
+        "offerId": "3i2aPryJosoW",
+        "offerName": "cd-reader-A73-A12-BR-5527570793",
+        "categoryName": "种牙",
+        "weight": 0.25,
+        "channelId": "5527570793",
+        "countryCode": null,
+        "afsSource": null,
+        "todayRpm": 0,
+        "todayRev": 0
+      },
+      {
+        "offerId": "3lplh9jhW0xK",
+        "offerName": "cd-reader-A73-A14-BR-6813038203",
+        "categoryName": "家电分期",
+        "weight": 0.25,
+        "channelId": "6813038203",
+        "countryCode": null,
+        "afsSource": null,
+        "todayRpm": 0,
+        "todayRev": 0
+      },
+      {
+        "offerId": "3XcemGn8gKq4",
+        "offerName": "A73-A4-br-8217965358",
+        "categoryName": "冰箱分期",
+        "weight": 0.25,
+        "channelId": "8217965358",
+        "countryCode": null,
+        "afsSource": null,
+        "todayRpm": 0,
+        "todayRev": 0
+      },
+      {
+        "offerId": "3XcfAWWKqhrI",
+        "offerName": "A73-A7-br-10934",
+        "categoryName": "冰箱分期",
+        "weight": 0.25,
+        "channelId": "10934",
+        "countryCode": null,
+        "afsSource": null,
+        "todayRpm": 0,
+        "todayRev": 0
+      }
+    ],
+    "funnelId": "3Qi1gJ9jSk2n",
+    "funnelName": "cd-reader-A73",
+    "partnerName": "changdu",
+    "urlName": "moboreader",
+    "urlId": 74,
+    "platform": "FF"
+  }
+}

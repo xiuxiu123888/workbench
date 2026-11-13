@@ -1,0 +1,21 @@
+{
+  "code": 200,
+  "data": {
+    "funnelId": "3yuiJUqm4utg",
+    "funnelName": "adsense-v001",
+    "partnerName": null,
+    "urlName": null,
+    "urlId": null,
+    "offerGroupList": [
+      {
+        "groupId": "3yuihVyD34mq",
+        "groupName": "adsense",
+        "geo": "TG"
+      }
+    ],
+    "platform": "MIS",
+    "status": "active",
+    "autoWeightEnabled": null,
+    "autoWeightRuleType": null
+  }
+}

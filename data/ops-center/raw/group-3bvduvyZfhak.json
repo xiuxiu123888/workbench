@@ -1,0 +1,54 @@
+{
+  "code": 200,
+  "data": {
+    "groupId": "3bvduvyZfhak",
+    "groupName": "JZ-07-SA",
+    "routing": "",
+    "geo": "SA",
+    "yesterdayRpm": 0,
+    "yesterdayRev": 0,
+    "yesterdayRpmTrend": 0,
+    "yesterdayRevTrend": 0,
+    "offerList": [
+      {
+        "offerId": "3bvddsj3FOYG",
+        "offerName": "JZ-07-A7-sa-9761308166",
+        "categoryName": "汽车分期",
+        "weight": 0.72,
+        "channelId": "9761308166",
+        "countryCode": null,
+        "afsSource": null,
+        "todayRpm": 0,
+        "todayRev": 0
+      },
+      {
+        "offerId": "3c8XuF0UymW6",
+        "offerName": "JZ-07-A4-sa-3221603862 (copy)",
+        "categoryName": "汽车贷款",
+        "weight": 0,
+        "channelId": "3221603862",
+        "countryCode": null,
+        "afsSource": null,
+        "todayRpm": 0,
+        "todayRev": 0
+      },
+      {
+        "offerId": "3lMAsjLpCsOV",
+        "offerName": "JZ-07-A12-SA-8514457756",
+        "categoryName": "汽车保险",
+        "weight": 0.28,
+        "channelId": "8514457756",
+        "countryCode": null,
+        "afsSource": null,
+        "todayRpm": 0,
+        "todayRev": 0
+      }
+    ],
+    "funnelId": "3SqmT5M7rv4d",
+    "funnelName": "JZ-07",
+    "partnerName": "shortmax",
+    "urlName": "JZ-07",
+    "urlId": 87,
+    "platform": "FF"
+  }
+}

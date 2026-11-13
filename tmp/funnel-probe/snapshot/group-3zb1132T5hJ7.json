@@ -1,0 +1,65 @@
+{
+  "code": 200,
+  "data": {
+    "groupId": "3zb1132T5hJ7",
+    "groupName": "moboreels-v02-default",
+    "routing": "rotator",
+    "geo": null,
+    "yesterdayRpm": 0,
+    "yesterdayRev": 0,
+    "yesterdayRpmTrend": 0,
+    "yesterdayRevTrend": 0,
+    "offerList": [
+      {
+        "offerId": "3zazvURRj6TD",
+        "offerName": "moboreels-v02-A4-default-8671712417",
+        "categoryName": "紧急贷款",
+        "weight": 1,
+        "channelId": "8671712417",
+        "countryCode": null,
+        "afsSource": "4",
+        "todayRpm": 0,
+        "todayRev": 0
+      },
+      {
+        "offerId": "3zazqy3l27Ar",
+        "offerName": "moboreels-v02-A7-default-9653496952",
+        "categoryName": "紧急贷款",
+        "weight": 1,
+        "channelId": "9653496952",
+        "countryCode": null,
+        "afsSource": "7",
+        "todayRpm": 0,
+        "todayRev": 0
+      },
+      {
+        "offerId": "3zazlAyBvvaN",
+        "offerName": "moboreels-v02-A12-default-3731730900",
+        "categoryName": "种牙",
+        "weight": 1,
+        "channelId": "3731730900",
+        "countryCode": null,
+        "afsSource": "12",
+        "todayRpm": 0,
+        "todayRev": 0
+      },
+      {
+        "offerId": "402LNtAdJE3e",
+        "offerName": "moboreels-v02-A15-default-8746545947",
+        "categoryName": "医疗健康",
+        "weight": 1,
+        "channelId": "8746545947",
+        "countryCode": null,
+        "afsSource": "15",
+        "todayRpm": 0,
+        "todayRev": 0
+      }
+    ],
+    "funnelId": "3zb2pKLqQr7e",
+    "funnelName": "moboreels-v02",
+    "partnerName": "changdu",
+    "urlName": "moboreels",
+    "urlId": 50,
+    "platform": "MIS"
+  }
+}

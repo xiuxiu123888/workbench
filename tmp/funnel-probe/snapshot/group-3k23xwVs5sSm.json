@@ -1,0 +1,32 @@
+{
+  "code": 200,
+  "data": {
+    "groupId": "3k23xwVs5sSm",
+    "groupName": "ailuxovex.com",
+    "routing": "rotator",
+    "geo": null,
+    "yesterdayRpm": 0,
+    "yesterdayRev": 0,
+    "yesterdayRpmTrend": 0,
+    "yesterdayRevTrend": 0,
+    "offerList": [
+      {
+        "offerId": "3h5is17uRTdT",
+        "offerName": "ailuxovex.com",
+        "categoryName": null,
+        "weight": 1,
+        "channelId": null,
+        "countryCode": null,
+        "afsSource": null,
+        "todayRpm": 0,
+        "todayRev": 0
+      }
+    ],
+    "funnelId": "3LyxpT9hzzh6",
+    "funnelName": "cd-reader-A5-51",
+    "partnerName": "changdu",
+    "urlName": "moboreader",
+    "urlId": 51,
+    "platform": "FF"
+  }
+}

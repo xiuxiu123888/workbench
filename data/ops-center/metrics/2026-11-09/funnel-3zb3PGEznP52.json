@@ -1,0 +1,4709 @@
+{
+  "funnelId": "3zb3PGEznP52",
+  "funnelName": "moboreels-v03",
+  "day": "2026-11-09",
+  "query": {
+    "day": "2026-11-09",
+    "startTime": "2026-11-09 00:00:00",
+    "endTime": "2026-11-09 23:59:59"
+  },
+  "data": {
+    "categoryList": [
+      {
+        "categoryId": "3zb1J2NCGSys",
+        "categoryName": "moboreels-v03",
+        "categoryType": "offer"
+      }
+    ],
+    "statsList": [
+      {
+        "id": "3zb1W9LGvPyZ",
+        "name": "moboreels-v03-A7-default-10926",
+        "categoryId": "3zb1J2NCGSys",
+        "visits": 28684,
+        "views": 28684,
+        "conversion": 106,
+        "category": "moboreels-v03",
+        "offerSource": "afs-common",
+        "revenue": "5.35",
+        "funnelImpressions": 31500,
+        "funnelClicks": 5144,
+        "clicks": 61,
+        "funnelRpm": "0.17",
+        "rpc": "0.088",
+        "funnelCtr": "16.33015873015873",
+        "cvr1": "1.1858475894245724",
+        "cvr2": "0.19365079365079366",
+        "url": "https://bank-flux.com/detail/950330401436?ref=Mesothelioma+Treatment+Costs+in+2026&channel=10926&hit={hit}",
+        "countryInfos": [
+          {
+            "countryCode": "DE",
+            "revenue": "0.86",
+            "impressions": 796,
+            "rpm": "1.08",
+            "funnelClicks": 122,
+            "clicks": 13
+          },
+          {
+            "countryCode": "CA",
+            "revenue": "0.79",
+            "impressions": 197,
+            "rpm": "4.01",
+            "funnelClicks": 50,
+            "clicks": 0
+          },
+          {
+            "countryCode": "FR",
+            "revenue": "0.45",
+            "impressions": 995,
+            "rpm": "0.45",
+            "funnelClicks": 170,
+            "clicks": 17
+          },
+          {
+            "countryCode": "IE",
+            "revenue": "0.44",
+            "impressions": 133,
+            "rpm": "3.31",
+            "funnelClicks": 110,
+            "clicks": 12
+          },
+          {
+            "countryCode": "SG",
+            "revenue": "0.43",
+            "impressions": 56,
+            "rpm": "7.68",
+            "funnelClicks": 3,
+            "clicks": 0
+          },
+          {
+            "countryCode": "SA",
+            "revenue": "0.39",
+            "impressions": 384,
+            "rpm": "1.02",
+            "funnelClicks": 66,
+            "clicks": 0
+          },
+          {
+            "countryCode": "JP",
+            "revenue": "0.36",
+            "impressions": 962,
+            "rpm": "0.37",
+            "funnelClicks": 165,
+            "clicks": 0
+          },
+          {
+            "countryCode": "PA",
+            "revenue": "0.36",
+            "impressions": 105,
+            "rpm": "3.43",
+            "funnelClicks": 26,
+            "clicks": 0
+          },
+          {
+            "countryCode": "BR",
+            "revenue": "0.27",
+            "impressions": 2179,
+            "rpm": "0.12",
+            "funnelClicks": 276,
+            "clicks": 19
+          },
+          {
+            "countryCode": "SE",
+            "revenue": "0.23",
+            "impressions": 82,
+            "rpm": "2.80",
+            "funnelClicks": 21,
+            "clicks": 0
+          },
+          {
+            "countryCode": "NL",
+            "revenue": "0.19",
+            "impressions": 120,
+            "rpm": "1.58",
+            "funnelClicks": 7,
+            "clicks": 0
+          },
+          {
+            "countryCode": "PL",
+            "revenue": "0.13",
+            "impressions": 1972,
+            "rpm": "0.07",
+            "funnelClicks": 165,
+            "clicks": 0
+          },
+          {
+            "countryCode": "ZA",
+            "revenue": "0.11",
+            "impressions": 794,
+            "rpm": "0.14",
+            "funnelClicks": 195,
+            "clicks": 0
+          },
+          {
+            "countryCode": "AU",
+            "revenue": "0.06",
+            "impressions": 112,
+            "rpm": "0.54",
+            "funnelClicks": 3,
+            "clicks": 0
+          },
+          {
+            "countryCode": "MY",
+            "revenue": "0.06",
+            "impressions": 337,
+            "rpm": "0.18",
+            "funnelClicks": 64,
+            "clicks": 0
+          },
+          {
+            "countryCode": "TR",
+            "revenue": "0.05",
+            "impressions": 1154,
+            "rpm": "0.04",
+            "funnelClicks": 107,
+            "clicks": 0
+          },
+          {
+            "countryCode": "PH",
+            "revenue": "0.04",
+            "impressions": 3807,
+            "rpm": "0.01",
+            "funnelClicks": 511,
+            "clicks": 0
+          },
+          {
+            "countryCode": "ES",
+            "revenue": "0.03",
+            "impressions": 445,
+            "rpm": "0.07",
+            "funnelClicks": 25,
+            "clicks": 0
+          },
+          {
+            "countryCode": "GB",
+            "revenue": "0.03",
+            "impressions": 318,
+            "rpm": "0.09",
+            "funnelClicks": 14,
+            "clicks": 0
+          },
+          {
+            "countryCode": "IT",
+            "revenue": "0.03",
+            "impressions": 1476,
+            "rpm": "0.02",
+            "funnelClicks": 390,
+            "clicks": 0
+          },
+          {
+            "countryCode": "MX",
+            "revenue": "0.03",
+            "impressions": 1022,
+            "rpm": "0.03",
+            "funnelClicks": 160,
+            "clicks": 0
+          },
+          {
+            "countryCode": "BH",
+            "revenue": "0.01",
+            "impressions": 40,
+            "rpm": "0.25",
+            "funnelClicks": 12,
+            "clicks": 0
+          },
+          {
+            "countryCode": "AE",
+            "revenue": "0.00",
+            "impressions": 120,
+            "rpm": "0.00",
+            "funnelClicks": 14,
+            "clicks": 0
+          },
+          {
+            "countryCode": "AG",
+            "revenue": "0.00",
+            "impressions": 1,
+            "rpm": "0.00",
+            "funnelClicks": 0,
+            "clicks": 0
+          },
+          {
+            "countryCode": "AL",
+            "revenue": "0.00",
+            "impressions": 3,
+            "rpm": "0.00",
+            "funnelClicks": 0,
+            "clicks": 0
+          },
+          {
+            "countryCode": "AM",
+            "revenue": "0.00",
+            "impressions": 89,
+            "rpm": "0.00",
+            "funnelClicks": 23,
+            "clicks": 0
+          },
+          {
+            "countryCode": "AO",
+            "revenue": "0.00",
+            "impressions": 95,
+            "rpm": "0.00",
+            "funnelClicks": 7,
+            "clicks": 0
+          },
+          {
+            "countryCode": "AR",
+            "revenue": "0.00",
+            "impressions": 385,
+            "rpm": "0.00",
+            "funnelClicks": 63,
+            "clicks": 0
+          },
+          {
+            "countryCode": "AT",
+            "revenue": "0.00",
+            "impressions": 61,
+            "rpm": "0.00",
+            "funnelClicks": 23,
+            "clicks": 0
+          },
+          {
+            "countryCode": "AZ",
+            "revenue": "0.00",
+            "impressions": 38,
+            "rpm": "0.00",
+            "funnelClicks": 0,
+            "clicks": 0
+          },
+          {
+            "countryCode": "BA",
+            "revenue": "0.00",
+            "impressions": 6,
+            "rpm": "0.00",
+            "funnelClicks": 2,
+            "clicks": 0
+          },
+          {
+            "countryCode": "BB",
+            "revenue": "0.00",
+            "impressions": 18,
+            "rpm": "0.00",
+            "funnelClicks": 0,
+            "clicks": 0
+          },
+          {
+            "countryCode": "BD",
+            "revenue": "0.00",
+            "impressions": 205,
+            "rpm": "0.00",
+            "funnelClicks": 40,
+            "clicks": 0
+          },
+          {
+            "countryCode": "BE",
+            "revenue": "0.00",
+            "impressions": 143,
+            "rpm": "0.00",
+            "funnelClicks": 30,
+            "clicks": 0
+          },
+          {
+            "countryCode": "BF",
+            "revenue": "0.00",
+            "impressions": 1,
+            "rpm": "0.00",
+            "funnelClicks": 0,
+            "clicks": 0
+          },
+          {
+            "countryCode": "BG",
+            "revenue": "0.00",
+            "impressions": 109,
+            "rpm": "0.00",
+            "funnelClicks": 76,
+            "clicks": 0
+          },
+          {
+            "countryCode": "BJ",
+            "revenue": "0.00",
+            "impressions": 4,
+            "rpm": "0.00",
+            "funnelClicks": 1,
+            "clicks": 0
+          },
+          {
+            "countryCode": "BN",
+            "revenue": "0.00",
+            "impressions": 18,
+            "rpm": "0.00",
+            "funnelClicks": 1,
+            "clicks": 0
+          },
+          {
+            "countryCode": "BO",
+            "revenue": "0.00",
+            "impressions": 25,
+            "rpm": "0.00",
+            "funnelClicks": 7,
+            "clicks": 0
+          },
+          {
+            "countryCode": "BS",
+            "revenue": "0.00",
+            "impressions": 15,
+            "rpm": "0.00",
+            "funnelClicks": 4,
+            "clicks": 0
+          },
+          {
+            "countryCode": "BT",
+            "revenue": "0.00",
+            "impressions": 4,
+            "rpm": "0.00",
+            "funnelClicks": 0,
+            "clicks": 0
+          },
+          {
+            "countryCode": "BW",
+            "revenue": "0.00",
+            "impressions": 54,
+            "rpm": "0.00",
+            "funnelClicks": 2,
+            "clicks": 0
+          },
+          {
+            "countryCode": "BY",
+            "revenue": "0.00",
+            "impressions": 159,
+            "rpm": "0.00",
+            "funnelClicks": 8,
+            "clicks": 0
+          },
+          {
+            "countryCode": "BZ",
+            "revenue": "0.00",
+            "impressions": 12,
+            "rpm": "0.00",
+            "funnelClicks": 0,
+            "clicks": 0
+          },
+          {
+            "countryCode": "CD",
+            "revenue": "0.00",
+            "impressions": 12,
+            "rpm": "0.00",
+            "funnelClicks": 0,
+            "clicks": 0
+          },
+          {
+            "countryCode": "CG",
+            "revenue": "0.00",
+            "impressions": 10,
+            "rpm": "0.00",
+            "funnelClicks": 0,
+            "clicks": 0
+          },
+          {
+            "countryCode": "CH",
+            "revenue": "0.00",
+            "impressions": 26,
+            "rpm": "0.00",
+            "funnelClicks": 1,
+            "clicks": 0
+          },
+          {
+            "countryCode": "CI",
+            "revenue": "0.00",
+            "impressions": 84,
+            "rpm": "0.00",
+            "funnelClicks": 29,
+            "clicks": 0
+          },
+          {
+            "countryCode": "CL",
+            "revenue": "0.00",
+            "impressions": 197,
+            "rpm": "0.00",
+            "funnelClicks": 19,
+            "clicks": 0
+          },
+          {
+            "countryCode": "CM",
+            "revenue": "0.00",
+            "impressions": 47,
+            "rpm": "0.00",
+            "funnelClicks": 7,
+            "clicks": 0
+          },
+          {
+            "countryCode": "CO",
+            "revenue": "0.00",
+            "impressions": 372,
+            "rpm": "0.00",
+            "funnelClicks": 88,
+            "clicks": 0
+          },
+          {
+            "countryCode": "CR",
+            "revenue": "0.00",
+            "impressions": 97,
+            "rpm": "0.00",
+            "funnelClicks": 29,
+            "clicks": 0
+          },
+          {
+            "countryCode": "CU",
+            "revenue": "0.00",
+            "impressions": 33,
+            "rpm": "0.00",
+            "funnelClicks": 0,
+            "clicks": 0
+          },
+          {
+            "countryCode": "CV",
+            "revenue": "0.00",
+            "impressions": 2,
+            "rpm": "0.00",
+            "funnelClicks": 1,
+            "clicks": 0
+          },
+          {
+            "countryCode": "CY",
+            "revenue": "0.00",
+            "impressions": 15,
+            "rpm": "0.00",
+            "funnelClicks": 2,
+            "clicks": 0
+          },
+          {
+            "countryCode": "CZ",
+            "revenue": "0.00",
+            "impressions": 40,
+            "rpm": "0.00",
+            "funnelClicks": 0,
+            "clicks": 0
+          },
+          {
+            "countryCode": "DK",
+            "revenue": "0.00",
+            "impressions": 70,
+            "rpm": "0.00",
+            "funnelClicks": 18,
+            "clicks": 0
+          },
+          {
+            "countryCode": "DO",
+            "revenue": "0.00",
+            "impressions": 108,
+            "rpm": "0.00",
+            "funnelClicks": 11,
+            "clicks": 0
+          },
+          {
+            "countryCode": "DZ",
+            "revenue": "0.00",
+            "impressions": 332,
+            "rpm": "0.00",
+            "funnelClicks": 68,
+            "clicks": 0
+          },
+          {
+            "countryCode": "EC",
+            "revenue": "0.00",
+            "impressions": 132,
+            "rpm": "0.00",
+            "funnelClicks": 11,
+            "clicks": 0
+          },
+          {
+            "countryCode": "EE",
+            "revenue": "0.00",
+            "impressions": 13,
+            "rpm": "0.00",
+            "funnelClicks": 0,
+            "clicks": 0
+          },
+          {
+            "countryCode": "EG",
+            "revenue": "0.00",
+            "impressions": 647,
+            "rpm": "0.00",
+            "funnelClicks": 72,
+            "clicks": 0
+          },
+          {
+            "countryCode": "ET",
+            "revenue": "0.00",
+            "impressions": 12,
+            "rpm": "0.00",
+            "funnelClicks": 2,
+            "clicks": 0
+          },
+          {
+            "countryCode": "FI",
+            "revenue": "0.00",
+            "impressions": 64,
+            "rpm": "0.00",
+            "funnelClicks": 0,
+            "clicks": 0
+          },
+          {
+            "countryCode": "FJ",
+            "revenue": "0.00",
+            "impressions": 19,
+            "rpm": "0.00",
+            "funnelClicks": 4,
+            "clicks": 0
+          },
+          {
+            "countryCode": "GA",
+            "revenue": "0.00",
+            "impressions": 8,
+            "rpm": "0.00",
+            "funnelClicks": 0,
+            "clicks": 0
+          },
+          {
+            "countryCode": "GE",
+            "revenue": "0.00",
+            "impressions": 78,
+            "rpm": "0.00",
+            "funnelClicks": 26,
+            "clicks": 0
+          },
+          {
+            "countryCode": "GF",
+            "revenue": "0.00",
+            "impressions": 1,
+            "rpm": "0.00",
+            "funnelClicks": 0,
+            "clicks": 0
+          },
+          {
+            "countryCode": "GH",
+            "revenue": "0.00",
+            "impressions": 191,
+            "rpm": "0.00",
+            "funnelClicks": 17,
+            "clicks": 0
+          },
+          {
+            "countryCode": "GM",
+            "revenue": "0.00",
+            "impressions": 2,
+            "rpm": "0.00",
+            "funnelClicks": 0,
+            "clicks": 0
+          },
+          {
+            "countryCode": "GN",
+            "revenue": "0.00",
+            "impressions": 11,
+            "rpm": "0.00",
+            "funnelClicks": 0,
+            "clicks": 0
+          },
+          {
+            "countryCode": "GP",
+            "revenue": "0.00",
+            "impressions": 4,
+            "rpm": "0.00",
+            "funnelClicks": 0,
+            "clicks": 0
+          },
+          {
+            "countryCode": "GR",
+            "revenue": "0.00",
+            "impressions": 66,
+            "rpm": "0.00",
+            "funnelClicks": 0,
+            "clicks": 0
+          },
+          {
+            "countryCode": "GT",
+            "revenue": "0.00",
+            "impressions": 66,
+            "rpm": "0.00",
+            "funnelClicks": 1,
+            "clicks": 0
+          },
+          {
+            "countryCode": "GU",
+            "revenue": "0.00",
+            "impressions": 7,
+            "rpm": "0.00",
+            "funnelClicks": 0,
+            "clicks": 0
+          },
+          {
+            "countryCode": "GW",
+            "revenue": "0.00",
+            "impressions": 13,
+            "rpm": "0.00",
+            "funnelClicks": 1,
+            "clicks": 0
+          },
+          {
+            "countryCode": "GY",
+            "revenue": "0.00",
+            "impressions": 39,
+            "rpm": "0.00",
+            "funnelClicks": 1,
+            "clicks": 0
+          },
+          {
+            "countryCode": "HK",
+            "revenue": "0.00",
+            "impressions": 92,
+            "rpm": "0.00",
+            "funnelClicks": 8,
+            "clicks": 0
+          },
+          {
+            "countryCode": "HN",
+            "revenue": "0.00",
+            "impressions": 65,
+            "rpm": "0.00",
+            "funnelClicks": 4,
+            "clicks": 0
+          },
+          {
+            "countryCode": "HR",
+            "revenue": "0.00",
+            "impressions": 3,
+            "rpm": "0.00",
+            "funnelClicks": 0,
+            "clicks": 0
+          },
+          {
+            "countryCode": "HT",
+            "revenue": "0.00",
+            "impressions": 27,
+            "rpm": "0.00",
+            "funnelClicks": 0,
+            "clicks": 0
+          },
+          {
+            "countryCode": "HU",
+            "revenue": "0.00",
+            "impressions": 25,
+            "rpm": "0.00",
+            "funnelClicks": 4,
+            "clicks": 0
+          },
+          {
+            "countryCode": "ID",
+            "revenue": "0.00",
+            "impressions": 1069,
+            "rpm": "0.00",
+            "funnelClicks": 104,
+            "clicks": 0
+          },
+          {
+            "countryCode": "IL",
+            "revenue": "0.00",
+            "impressions": 78,
+            "rpm": "0.00",
+            "funnelClicks": 26,
+            "clicks": 0
+          },
+          {
+            "countryCode": "IN",
+            "revenue": "0.00",
+            "impressions": 837,
+            "rpm": "0.00",
+            "funnelClicks": 200,
+            "clicks": 0
+          },
+          {
+            "countryCode": "IQ",
+            "revenue": "0.00",
+            "impressions": 258,
+            "rpm": "0.00",
+            "funnelClicks": 57,
+            "clicks": 0
+          },
+          {
+            "countryCode": "IR",
+            "revenue": "0.00",
+            "impressions": 14,
+            "rpm": "0.00",
+            "funnelClicks": 0,
+            "clicks": 0
+          },
+          {
+            "countryCode": "JM",
+            "revenue": "0.00",
+            "impressions": 104,
+            "rpm": "0.00",
+            "funnelClicks": 17,
+            "clicks": 0
+          },
+          {
+            "countryCode": "JO",
+            "revenue": "0.00",
+            "impressions": 26,
+            "rpm": "0.00",
+            "funnelClicks": 5,
+            "clicks": 0
+          },
+          {
+            "countryCode": "KE",
+            "revenue": "0.00",
+            "impressions": 125,
+            "rpm": "0.00",
+            "funnelClicks": 11,
+            "clicks": 0
+          },
+          {
+            "countryCode": "KG",
+            "revenue": "0.00",
+            "impressions": 78,
+            "rpm": "0.00",
+            "funnelClicks": 8,
+            "clicks": 0
+          },
+          {
+            "countryCode": "KH",
+            "revenue": "0.00",
+            "impressions": 44,
+            "rpm": "0.00",
+            "funnelClicks": 20,
+            "clicks": 0
+          },
+          {
+            "countryCode": "KN",
+            "revenue": "0.00",
+            "impressions": 1,
+            "rpm": "0.00",
+            "funnelClicks": 0,
+            "clicks": 0
+          },
+          {
+            "countryCode": "KR",
+            "revenue": "0.00",
+            "impressions": 887,
+            "rpm": "0.00",
+            "funnelClicks": 248,
+            "clicks": 0
+          },
+          {
+            "countryCode": "KW",
+            "revenue": "0.00",
+            "impressions": 45,
+            "rpm": "0.00",
+            "funnelClicks": 2,
+            "clicks": 0
+          },
+          {
+            "countryCode": "KY",
+            "revenue": "0.00",
+            "impressions": 4,
+            "rpm": "0.00",
+            "funnelClicks": 2,
+            "clicks": 0
+          },
+          {
+            "countryCode": "KZ",
+            "revenue": "0.00",
+            "impressions": 352,
+            "rpm": "0.00",
+            "funnelClicks": 60,
+            "clicks": 0
+          },
+          {
+            "countryCode": "LA",
+            "revenue": "0.00",
+            "impressions": 2,
+            "rpm": "0.00",
+            "funnelClicks": 0,
+            "clicks": 0
+          },
+          {
+            "countryCode": "LB",
+            "revenue": "0.00",
+            "impressions": 38,
+            "rpm": "0.00",
+            "funnelClicks": 12,
+            "clicks": 0
+          },
+          {
+            "countryCode": "LC",
+            "revenue": "0.00",
+            "impressions": 13,
+            "rpm": "0.00",
+            "funnelClicks": 2,
+            "clicks": 0
+          },
+          {
+            "countryCode": "LK",
+            "revenue": "0.00",
+            "impressions": 66,
+            "rpm": "0.00",
+            "funnelClicks": 18,
+            "clicks": 0
+          },
+          {
+            "countryCode": "LR",
+            "revenue": "0.00",
+            "impressions": 11,
+            "rpm": "0.00",
+            "funnelClicks": 1,
+            "clicks": 0
+          },
+          {
+            "countryCode": "LS",
+            "revenue": "0.00",
+            "impressions": 2,
+            "rpm": "0.00",
+            "funnelClicks": 0,
+            "clicks": 0
+          },
+          {
+            "countryCode": "LT",
+            "revenue": "0.00",
+            "impressions": 34,
+            "rpm": "0.00",
+            "funnelClicks": 0,
+            "clicks": 0
+          },
+          {
+            "countryCode": "LU",
+            "revenue": "0.00",
+            "impressions": 1,
+            "rpm": "0.00",
+            "funnelClicks": 0,
+            "clicks": 0
+          },
+          {
+            "countryCode": "LV",
+            "revenue": "0.00",
+            "impressions": 6,
+            "rpm": "0.00",
+            "funnelClicks": 1,
+            "clicks": 0
+          },
+          {
+            "countryCode": "LY",
+            "revenue": "0.00",
+            "impressions": 22,
+            "rpm": "0.00",
+            "funnelClicks": 3,
+            "clicks": 0
+          },
+          {
+            "countryCode": "MA",
+            "revenue": "0.00",
+            "impressions": 98,
+            "rpm": "0.00",
+            "funnelClicks": 5,
+            "clicks": 0
+          },
+          {
+            "countryCode": "MD",
+            "revenue": "0.00",
+            "impressions": 56,
+            "rpm": "0.00",
+            "funnelClicks": 0,
+            "clicks": 0
+          },
+          {
+            "countryCode": "ME",
+            "revenue": "0.00",
+            "impressions": 13,
+            "rpm": "0.00",
+            "funnelClicks": 0,
+            "clicks": 0
+          },
+          {
+            "countryCode": "MG",
+            "revenue": "0.00",
+            "impressions": 18,
+            "rpm": "0.00",
+            "funnelClicks": 4,
+            "clicks": 0
+          },
+          {
+            "countryCode": "MK",
+            "revenue": "0.00",
+            "impressions": 6,
+            "rpm": "0.00",
+            "funnelClicks": 2,
+            "clicks": 0
+          },
+          {
+            "countryCode": "ML",
+            "revenue": "0.00",
+            "impressions": 6,
+            "rpm": "0.00",
+            "funnelClicks": 0,
+            "clicks": 0
+          },
+          {
+            "countryCode": "MM",
+            "revenue": "0.00",
+            "impressions": 10,
+            "rpm": "0.00",
+            "funnelClicks": 0,
+            "clicks": 0
+          },
+          {
+            "countryCode": "MN",
+            "revenue": "0.00",
+            "impressions": 10,
+            "rpm": "0.00",
+            "funnelClicks": 2,
+            "clicks": 0
+          },
+          {
+            "countryCode": "MO",
+            "revenue": "0.00",
+            "impressions": 1,
+            "rpm": "0.00",
+            "funnelClicks": 0,
+            "clicks": 0
+          },
+          {
+            "countryCode": "MQ",
+            "revenue": "0.00",
+            "impressions": 8,
+            "rpm": "0.00",
+            "funnelClicks": 0,
+            "clicks": 0
+          },
+          {
+            "countryCode": "MR",
+            "revenue": "0.00",
+            "impressions": 1,
+            "rpm": "0.00",
+            "funnelClicks": 0,
+            "clicks": 0
+          },
+          {
+            "countryCode": "MT",
+            "revenue": "0.00",
+            "impressions": 2,
+            "rpm": "0.00",
+            "funnelClicks": 0,
+            "clicks": 0
+          },
+          {
+            "countryCode": "MU",
+            "revenue": "0.00",
+            "impressions": 6,
+            "rpm": "0.00",
+            "funnelClicks": 3,
+            "clicks": 0
+          },
+          {
+            "countryCode": "MV",
+            "revenue": "0.00",
+            "impressions": 3,
+            "rpm": "0.00",
+            "funnelClicks": 0,
+            "clicks": 0
+          },
+          {
+            "countryCode": "MW",
+            "revenue": "0.00",
+            "impressions": 7,
+            "rpm": "0.00",
+            "funnelClicks": 0,
+            "clicks": 0
+          },
+          {
+            "countryCode": "MZ",
+            "revenue": "0.00",
+            "impressions": 15,
+            "rpm": "0.00",
+            "funnelClicks": 4,
+            "clicks": 0
+          },
+          {
+            "countryCode": "NA",
+            "revenue": "0.00",
+            "impressions": 10,
+            "rpm": "0.00",
+            "funnelClicks": 0,
+            "clicks": 0
+          },
+          {
+            "countryCode": "NC",
+            "revenue": "0.00",
+            "impressions": 63,
+            "rpm": "0.00",
+            "funnelClicks": 49,
+            "clicks": 0
+          },
+          {
+            "countryCode": "NE",
+            "revenue": "0.00",
+            "impressions": 14,
+            "rpm": "0.00",
+            "funnelClicks": 0,
+            "clicks": 0
+          },
+          {
+            "countryCode": "NG",
+            "revenue": "0.00",
+            "impressions": 1038,
+            "rpm": "0.00",
+            "funnelClicks": 146,
+            "clicks": 0
+          },
+          {
+            "countryCode": "NI",
+            "revenue": "0.00",
+            "impressions": 106,
+            "rpm": "0.00",
+            "funnelClicks": 82,
+            "clicks": 0
+          },
+          {
+            "countryCode": "NO",
+            "revenue": "0.00",
+            "impressions": 28,
+            "rpm": "0.00",
+            "funnelClicks": 0,
+            "clicks": 0
+          },
+          {
+            "countryCode": "NP",
+            "revenue": "0.00",
+            "impressions": 17,
+            "rpm": "0.00",
+            "funnelClicks": 0,
+            "clicks": 0
+          },
+          {
+            "countryCode": "NZ",
+            "revenue": "0.00",
+            "impressions": 28,
+            "rpm": "0.00",
+            "funnelClicks": 6,
+            "clicks": 0
+          },
+          {
+            "countryCode": "OM",
+            "revenue": "0.00",
+            "impressions": 90,
+            "rpm": "0.00",
+            "funnelClicks": 5,
+            "clicks": 0
+          },
+          {
+            "countryCode": "PE",
+            "revenue": "0.00",
+            "impressions": 154,
+            "rpm": "0.00",
+            "funnelClicks": 19,
+            "clicks": 0
+          },
+          {
+            "countryCode": "PF",
+            "revenue": "0.00",
+            "impressions": 1,
+            "rpm": "0.00",
+            "funnelClicks": 0,
+            "clicks": 0
+          },
+          {
+            "countryCode": "PG",
+            "revenue": "0.00",
+            "impressions": 14,
+            "rpm": "0.00",
+            "funnelClicks": 2,
+            "clicks": 0
+          },
+          {
+            "countryCode": "PK",
+            "revenue": "0.00",
+            "impressions": 238,
+            "rpm": "0.00",
+            "funnelClicks": 43,
+            "clicks": 0
+          },
+          {
+            "countryCode": "PR",
+            "revenue": "0.00",
+            "impressions": 23,
+            "rpm": "0.00",
+            "funnelClicks": 3,
+            "clicks": 0
+          },
+          {
+            "countryCode": "PS",
+            "revenue": "0.00",
+            "impressions": 39,
+            "rpm": "0.00",
+            "funnelClicks": 2,
+            "clicks": 0
+          },
+          {
+            "countryCode": "PT",
+            "revenue": "0.00",
+            "impressions": 472,
+            "rpm": "0.00",
+            "funnelClicks": 87,
+            "clicks": 0
+          },
+          {
+            "countryCode": "PW",
+            "revenue": "0.00",
+            "impressions": 1,
+            "rpm": "0.00",
+            "funnelClicks": 0,
+            "clicks": 0
+          },
+          {
+            "countryCode": "PY",
+            "revenue": "0.00",
+            "impressions": 33,
+            "rpm": "0.00",
+            "funnelClicks": 6,
+            "clicks": 0
+          },
+          {
+            "countryCode": "QA",
+            "revenue": "0.00",
+            "impressions": 42,
+            "rpm": "0.00",
+            "funnelClicks": 10,
+            "clicks": 0
+          },
+          {
+            "countryCode": "RE",
+            "revenue": "0.00",
+            "impressions": 16,
+            "rpm": "0.00",
+            "funnelClicks": 0,
+            "clicks": 0
+          },
+          {
+            "countryCode": "RO",
+            "revenue": "0.00",
+            "impressions": 118,
+            "rpm": "0.00",
+            "funnelClicks": 9,
+            "clicks": 0
+          },
+          {
+            "countryCode": "RS",
+            "revenue": "0.00",
+            "impressions": 36,
+            "rpm": "0.00",
+            "funnelClicks": 3,
+            "clicks": 0
+          },
+          {
+            "countryCode": "RU",
+            "revenue": "0.00",
+            "impressions": 0,
+            "rpm": "0",
+            "funnelClicks": 0,
+            "clicks": 0
+          },
+          {
+            "countryCode": "RW",
+            "revenue": "0.00",
+            "impressions": 5,
+            "rpm": "0.00",
+            "funnelClicks": 0,
+            "clicks": 0
+          },
+          {
+            "countryCode": "SC",
+            "revenue": "0.00",
+            "impressions": 2,
+            "rpm": "0.00",
+            "funnelClicks": 0,
+            "clicks": 0
+          },
+          {
+            "countryCode": "SD",
+            "revenue": "0.00",
+            "impressions": 6,
+            "rpm": "0.00",
+            "funnelClicks": 0,
+            "clicks": 0
+          },
+          {
+            "countryCode": "SI",
+            "revenue": "0.00",
+            "impressions": 11,
+            "rpm": "0.00",
+            "funnelClicks": 0,
+            "clicks": 0
+          },
+          {
+            "countryCode": "SK",
+            "revenue": "0.00",
+            "impressions": 16,
+            "rpm": "0.00",
+            "funnelClicks": 0,
+            "clicks": 0
+          },
+          {
+            "countryCode": "SL",
+            "revenue": "0.00",
+            "impressions": 18,
+            "rpm": "0.00",
+            "funnelClicks": 2,
+            "clicks": 0
+          },
+          {
+            "countryCode": "SN",
+            "revenue": "0.00",
+            "impressions": 55,
+            "rpm": "0.00",
+            "funnelClicks": 7,
+            "clicks": 0
+          },
+          {
+            "countryCode": "SR",
+            "revenue": "0.00",
+            "impressions": 2,
+            "rpm": "0.00",
+            "funnelClicks": 0,
+            "clicks": 0
+          },
+          {
+            "countryCode": "SV",
+            "revenue": "0.00",
+            "impressions": 67,
+            "rpm": "0.00",
+            "funnelClicks": 3,
+            "clicks": 0
+          },
+          {
+            "countryCode": "SX",
+            "revenue": "0.00",
+            "impressions": 2,
+            "rpm": "0.00",
+            "funnelClicks": 0,
+            "clicks": 0
+          },
+          {
+            "countryCode": "SY",
+            "revenue": "0.00",
+            "impressions": 24,
+            "rpm": "0.00",
+            "funnelClicks": 0,
+            "clicks": 0
+          },
+          {
+            "countryCode": "SZ",
+            "revenue": "0.00",
+            "impressions": 1,
+            "rpm": "0.00",
+            "funnelClicks": 0,
+            "clicks": 0
+          },
+          {
+            "countryCode": "TD",
+            "revenue": "0.00",
+            "impressions": 6,
+            "rpm": "0.00",
+            "funnelClicks": 1,
+            "clicks": 0
+          },
+          {
+            "countryCode": "TG",
+            "revenue": "0.00",
+            "impressions": 8,
+            "rpm": "0.00",
+            "funnelClicks": 0,
+            "clicks": 0
+          },
+          {
+            "countryCode": "TH",
+            "revenue": "0.00",
+            "impressions": 311,
+            "rpm": "0.00",
+            "funnelClicks": 15,
+            "clicks": 0
+          },
+          {
+            "countryCode": "TJ",
+            "revenue": "0.00",
+            "impressions": 15,
+            "rpm": "0.00",
+            "funnelClicks": 0,
+            "clicks": 0
+          },
+          {
+            "countryCode": "TM",
+            "revenue": "0.00",
+            "impressions": 2,
+            "rpm": "0.00",
+            "funnelClicks": 0,
+            "clicks": 0
+          },
+          {
+            "countryCode": "TN",
+            "revenue": "0.00",
+            "impressions": 78,
+            "rpm": "0.00",
+            "funnelClicks": 41,
+            "clicks": 0
+          },
+          {
+            "countryCode": "TT",
+            "revenue": "0.00",
+            "impressions": 50,
+            "rpm": "0.00",
+            "funnelClicks": 25,
+            "clicks": 0
+          },
+          {
+            "countryCode": "TW",
+            "revenue": "0.00",
+            "impressions": 65,
+            "rpm": "0.00",
+            "funnelClicks": 2,
+            "clicks": 0
+          },
+          {
+            "countryCode": "TZ",
+            "revenue": "0.00",
+            "impressions": 21,
+            "rpm": "0.00",
+            "funnelClicks": 5,
+            "clicks": 0
+          },
+          {
+            "countryCode": "UA",
+            "revenue": "0.00",
+            "impressions": 830,
+            "rpm": "0.00",
+            "funnelClicks": 170,
+            "clicks": 0
+          },
+          {
+            "countryCode": "UG",
+            "revenue": "0.00",
+            "impressions": 8,
+            "rpm": "0.00",
+            "funnelClicks": 0,
+            "clicks": 0
+          },
+          {
+            "countryCode": "US",
+            "revenue": "0.00",
+            "impressions": 26,
+            "rpm": "0.00",
+            "funnelClicks": 0,
+            "clicks": 0
+          },
+          {
+            "countryCode": "UY",
+            "revenue": "0.00",
+            "impressions": 60,
+            "rpm": "0.00",
+            "funnelClicks": 39,
+            "clicks": 0
+          },
+          {
+            "countryCode": "UZ",
+            "revenue": "0.00",
+            "impressions": 88,
+            "rpm": "0.00",
+            "funnelClicks": 15,
+            "clicks": 0
+          },
+          {
+            "countryCode": "VC",
+            "revenue": "0.00",
+            "impressions": 2,
+            "rpm": "0.00",
+            "funnelClicks": 0,
+            "clicks": 0
+          },
+          {
+            "countryCode": "VE",
+            "revenue": "0.00",
+            "impressions": 402,
+            "rpm": "0.00",
+            "funnelClicks": 106,
+            "clicks": 0
+          },
+          {
+            "countryCode": "VG",
+            "revenue": "0.00",
+            "impressions": 1,
+            "rpm": "0.00",
+            "funnelClicks": 0,
+            "clicks": 0
+          },
+          {
+            "countryCode": "VN",
+            "revenue": "0.00",
+            "impressions": 196,
+            "rpm": "0.00",
+            "funnelClicks": 29,
+            "clicks": 0
+          },
+          {
+            "countryCode": "VU",
+            "revenue": "0.00",
+            "impressions": 1,
+            "rpm": "0.00",
+            "funnelClicks": 0,
+            "clicks": 0
+          },
+          {
+            "countryCode": "WS",
+            "revenue": "0.00",
+            "impressions": 1,
+            "rpm": "0.00",
+            "funnelClicks": 0,
+            "clicks": 0
+          },
+          {
+            "countryCode": "XK",
+            "revenue": "0.00",
+            "impressions": 9,
+            "rpm": "0.00",
+            "funnelClicks": 0,
+            "clicks": 0
+          },
+          {
+            "countryCode": "YE",
+            "revenue": "0.00",
+            "impressions": 26,
+            "rpm": "0.00",
+            "funnelClicks": 7,
+            "clicks": 0
+          },
+          {
+            "countryCode": "ZM",
+            "revenue": "0.00",
+            "impressions": 16,
+            "rpm": "0.00",
+            "funnelClicks": 0,
+            "clicks": 0
+          },
+          {
+            "countryCode": "ZW",
+            "revenue": "0.00",
+            "impressions": 30,
+            "rpm": "0.00",
+            "funnelClicks": 1,
+            "clicks": 0
+          }
+        ]
+      },
+      {
+        "id": "3zb1PLgN7r1k",
+        "name": "moboreels-v03-A12-default-2506279147",
+        "categoryId": "3zb1J2NCGSys",
+        "visits": 28639,
+        "views": 28639,
+        "conversion": 3,
+        "category": "moboreels-v03",
+        "offerSource": "afs-common",
+        "revenue": "13.62",
+        "funnelImpressions": 1495,
+        "funnelClicks": 198,
+        "clicks": 25,
+        "funnelRpm": "9.11",
+        "rpc": "0.545",
+        "funnelCtr": "13.244147157190636",
+        "cvr1": "12.626262626262626",
+        "cvr2": "1.6722408026755853",
+        "url": "https://intodeepdive.com/detail/816378075069?channel=2506279147&hit={hit}",
+        "countryInfos": [
+          {
+            "countryCode": "US",
+            "revenue": "13.58",
+            "impressions": 459,
+            "rpm": "29.59",
+            "funnelClicks": 51,
+            "clicks": 25
+          },
+          {
+            "countryCode": "IE",
+            "revenue": "0.03",
+            "impressions": 4,
+            "rpm": "7.50",
+            "funnelClicks": 2,
+            "clicks": 0
+          },
+          {
+            "countryCode": "PL",
+            "revenue": "0.01",
+            "impressions": 76,
+            "rpm": "0.13",
+            "funnelClicks": 7,
+            "clicks": 0
+          },
+          {
+            "countryCode": "AE",
+            "revenue": "0.00",
+            "impressions": 1,
+            "rpm": "0.00",
+            "funnelClicks": 0,
+            "clicks": 0
+          },
+          {
+            "countryCode": "AG",
+            "revenue": "0.00",
+            "impressions": 0,
+            "rpm": "0",
+            "funnelClicks": 0,
+            "clicks": 0
+          },
+          {
+            "countryCode": "AI",
+            "revenue": "0.00",
+            "impressions": 0,
+            "rpm": "0",
+            "funnelClicks": 0,
+            "clicks": 0
+          },
+          {
+            "countryCode": "AL",
+            "revenue": "0.00",
+            "impressions": 0,
+            "rpm": "0",
+            "funnelClicks": 0,
+            "clicks": 0
+          },
+          {
+            "countryCode": "AM",
+            "revenue": "0.00",
+            "impressions": 3,
+            "rpm": "0.00",
+            "funnelClicks": 3,
+            "clicks": 0
+          },
+          {
+            "countryCode": "AO",
+            "revenue": "0.00",
+            "impressions": 1,
+            "rpm": "0.00",
+            "funnelClicks": 0,
+            "clicks": 0
+          },
+          {
+            "countryCode": "AR",
+            "revenue": "0.00",
+            "impressions": 5,
+            "rpm": "0.00",
+            "funnelClicks": 3,
+            "clicks": 0
+          },
+          {
+            "countryCode": "AT",
+            "revenue": "0.00",
+            "impressions": 2,
+            "rpm": "0.00",
+            "funnelClicks": 5,
+            "clicks": 0
+          },
+          {
+            "countryCode": "AU",
+            "revenue": "0.00",
+            "impressions": 7,
+            "rpm": "0.00",
+            "funnelClicks": 0,
+            "clicks": 0
+          },
+          {
+            "countryCode": "AW",
+            "revenue": "0.00",
+            "impressions": 0,
+            "rpm": "0",
+            "funnelClicks": 0,
+            "clicks": 0
+          },
+          {
+            "countryCode": "AZ",
+            "revenue": "0.00",
+            "impressions": 1,
+            "rpm": "0.00",
+            "funnelClicks": 0,
+            "clicks": 0
+          },
+          {
+            "countryCode": "BA",
+            "revenue": "0.00",
+            "impressions": 0,
+            "rpm": "0",
+            "funnelClicks": 0,
+            "clicks": 0
+          },
+          {
+            "countryCode": "BB",
+            "revenue": "0.00",
+            "impressions": 0,
+            "rpm": "0",
+            "funnelClicks": 0,
+            "clicks": 0
+          },
+          {
+            "countryCode": "BD",
+            "revenue": "0.00",
+            "impressions": 8,
+            "rpm": "0.00",
+            "funnelClicks": 0,
+            "clicks": 0
+          },
+          {
+            "countryCode": "BE",
+            "revenue": "0.00",
+            "impressions": 1,
+            "rpm": "0.00",
+            "funnelClicks": 0,
+            "clicks": 0
+          },
+          {
+            "countryCode": "BF",
+            "revenue": "0.00",
+            "impressions": 0,
+            "rpm": "0",
+            "funnelClicks": 0,
+            "clicks": 0
+          },
+          {
+            "countryCode": "BG",
+            "revenue": "0.00",
+            "impressions": 2,
+            "rpm": "0.00",
+            "funnelClicks": 0,
+            "clicks": 0
+          },
+          {
+            "countryCode": "BH",
+            "revenue": "0.00",
+            "impressions": 1,
+            "rpm": "0.00",
+            "funnelClicks": 1,
+            "clicks": 0
+          },
+          {
+            "countryCode": "BM",
+            "revenue": "0.00",
+            "impressions": 0,
+            "rpm": "0",
+            "funnelClicks": 0,
+            "clicks": 0
+          },
+          {
+            "countryCode": "BN",
+            "revenue": "0.00",
+            "impressions": 1,
+            "rpm": "0.00",
+            "funnelClicks": 0,
+            "clicks": 0
+          },
+          {
+            "countryCode": "BO",
+            "revenue": "0.00",
+            "impressions": 2,
+            "rpm": "0.00",
+            "funnelClicks": 0,
+            "clicks": 0
+          },
+          {
+            "countryCode": "BQ",
+            "revenue": "0.00",
+            "impressions": 0,
+            "rpm": "0",
+            "funnelClicks": 0,
+            "clicks": 0
+          },
+          {
+            "countryCode": "BR",
+            "revenue": "0.00",
+            "impressions": 66,
+            "rpm": "0.00",
+            "funnelClicks": 12,
+            "clicks": 0
+          },
+          {
+            "countryCode": "BS",
+            "revenue": "0.00",
+            "impressions": 2,
+            "rpm": "0.00",
+            "funnelClicks": 0,
+            "clicks": 0
+          },
+          {
+            "countryCode": "BT",
+            "revenue": "0.00",
+            "impressions": 0,
+            "rpm": "0",
+            "funnelClicks": 0,
+            "clicks": 0
+          },
+          {
+            "countryCode": "BW",
+            "revenue": "0.00",
+            "impressions": 0,
+            "rpm": "0",
+            "funnelClicks": 0,
+            "clicks": 0
+          },
+          {
+            "countryCode": "BY",
+            "revenue": "0.00",
+            "impressions": 8,
+            "rpm": "0.00",
+            "funnelClicks": 1,
+            "clicks": 0
+          },
+          {
+            "countryCode": "BZ",
+            "revenue": "0.00",
+            "impressions": 1,
+            "rpm": "0.00",
+            "funnelClicks": 1,
+            "clicks": 0
+          },
+          {
+            "countryCode": "CA",
+            "revenue": "0.00",
+            "impressions": 3,
+            "rpm": "0.00",
+            "funnelClicks": 0,
+            "clicks": 0
+          },
+          {
+            "countryCode": "CD",
+            "revenue": "0.00",
+            "impressions": 2,
+            "rpm": "0.00",
+            "funnelClicks": 0,
+            "clicks": 0
+          },
+          {
+            "countryCode": "CG",
+            "revenue": "0.00",
+            "impressions": 0,
+            "rpm": "0",
+            "funnelClicks": 0,
+            "clicks": 0
+          },
+          {
+            "countryCode": "CH",
+            "revenue": "0.00",
+            "impressions": 2,
+            "rpm": "0.00",
+            "funnelClicks": 0,
+            "clicks": 0
+          },
+          {
+            "countryCode": "CI",
+            "revenue": "0.00",
+            "impressions": 6,
+            "rpm": "0.00",
+            "funnelClicks": 0,
+            "clicks": 0
+          },
+          {
+            "countryCode": "CL",
+            "revenue": "0.00",
+            "impressions": 5,
+            "rpm": "0.00",
+            "funnelClicks": 2,
+            "clicks": 0
+          },
+          {
+            "countryCode": "CM",
+            "revenue": "0.00",
+            "impressions": 3,
+            "rpm": "0.00",
+            "funnelClicks": 0,
+            "clicks": 0
+          },
+          {
+            "countryCode": "CO",
+            "revenue": "0.00",
+            "impressions": 15,
+            "rpm": "0.00",
+            "funnelClicks": 2,
+            "clicks": 0
+          },
+          {
+            "countryCode": "CR",
+            "revenue": "0.00",
+            "impressions": 6,
+            "rpm": "0.00",
+            "funnelClicks": 1,
+            "clicks": 0
+          },
+          {
+            "countryCode": "CU",
+            "revenue": "0.00",
+            "impressions": 6,
+            "rpm": "0.00",
+            "funnelClicks": 0,
+            "clicks": 0
+          },
+          {
+            "countryCode": "CV",
+            "revenue": "0.00",
+            "impressions": 0,
+            "rpm": "0",
+            "funnelClicks": 0,
+            "clicks": 0
+          },
+          {
+            "countryCode": "CY",
+            "revenue": "0.00",
+            "impressions": 0,
+            "rpm": "0",
+            "funnelClicks": 0,
+            "clicks": 0
+          },
+          {
+            "countryCode": "CZ",
+            "revenue": "0.00",
+            "impressions": 1,
+            "rpm": "0.00",
+            "funnelClicks": 0,
+            "clicks": 0
+          },
+          {
+            "countryCode": "DE",
+            "revenue": "0.00",
+            "impressions": 30,
+            "rpm": "0.00",
+            "funnelClicks": 5,
+            "clicks": 0
+          },
+          {
+            "countryCode": "DK",
+            "revenue": "0.00",
+            "impressions": 4,
+            "rpm": "0.00",
+            "funnelClicks": 1,
+            "clicks": 0
+          },
+          {
+            "countryCode": "DO",
+            "revenue": "0.00",
+            "impressions": 8,
+            "rpm": "0.00",
+            "funnelClicks": 1,
+            "clicks": 0
+          },
+          {
+            "countryCode": "DZ",
+            "revenue": "0.00",
+            "impressions": 6,
+            "rpm": "0.00",
+            "funnelClicks": 2,
+            "clicks": 0
+          },
+          {
+            "countryCode": "EC",
+            "revenue": "0.00",
+            "impressions": 2,
+            "rpm": "0.00",
+            "funnelClicks": 0,
+            "clicks": 0
+          },
+          {
+            "countryCode": "EE",
+            "revenue": "0.00",
+            "impressions": 0,
+            "rpm": "0",
+            "funnelClicks": 0,
+            "clicks": 0
+          },
+          {
+            "countryCode": "EG",
+            "revenue": "0.00",
+            "impressions": 27,
+            "rpm": "0.00",
+            "funnelClicks": 1,
+            "clicks": 0
+          },
+          {
+            "countryCode": "ES",
+            "revenue": "0.00",
+            "impressions": 8,
+            "rpm": "0.00",
+            "funnelClicks": 0,
+            "clicks": 0
+          },
+          {
+            "countryCode": "ET",
+            "revenue": "0.00",
+            "impressions": 0,
+            "rpm": "0",
+            "funnelClicks": 0,
+            "clicks": 0
+          },
+          {
+            "countryCode": "FI",
+            "revenue": "0.00",
+            "impressions": 4,
+            "rpm": "0.00",
+            "funnelClicks": 0,
+            "clicks": 0
+          },
+          {
+            "countryCode": "FJ",
+            "revenue": "0.00",
+            "impressions": 0,
+            "rpm": "0",
+            "funnelClicks": 0,
+            "clicks": 0
+          },
+          {
+            "countryCode": "FM",
+            "revenue": "0.00",
+            "impressions": 0,
+            "rpm": "0",
+            "funnelClicks": 0,
+            "clicks": 0
+          },
+          {
+            "countryCode": "FR",
+            "revenue": "0.00",
+            "impressions": 48,
+            "rpm": "0.00",
+            "funnelClicks": 9,
+            "clicks": 0
+          },
+          {
+            "countryCode": "GA",
+            "revenue": "0.00",
+            "impressions": 0,
+            "rpm": "0",
+            "funnelClicks": 0,
+            "clicks": 0
+          },
+          {
+            "countryCode": "GB",
+            "revenue": "0.00",
+            "impressions": 11,
+            "rpm": "0.00",
+            "funnelClicks": 0,
+            "clicks": 0
+          },
+          {
+            "countryCode": "GD",
+            "revenue": "0.00",
+            "impressions": 0,
+            "rpm": "0",
+            "funnelClicks": 0,
+            "clicks": 0
+          },
+          {
+            "countryCode": "GE",
+            "revenue": "0.00",
+            "impressions": 1,
+            "rpm": "0.00",
+            "funnelClicks": 0,
+            "clicks": 0
+          },
+          {
+            "countryCode": "GF",
+            "revenue": "0.00",
+            "impressions": 0,
+            "rpm": "0",
+            "funnelClicks": 0,
+            "clicks": 0
+          },
+          {
+            "countryCode": "GH",
+            "revenue": "0.00",
+            "impressions": 7,
+            "rpm": "0.00",
+            "funnelClicks": 0,
+            "clicks": 0
+          },
+          {
+            "countryCode": "GM",
+            "revenue": "0.00",
+            "impressions": 0,
+            "rpm": "0",
+            "funnelClicks": 0,
+            "clicks": 0
+          },
+          {
+            "countryCode": "GN",
+            "revenue": "0.00",
+            "impressions": 0,
+            "rpm": "0",
+            "funnelClicks": 0,
+            "clicks": 0
+          },
+          {
+            "countryCode": "GP",
+            "revenue": "0.00",
+            "impressions": 0,
+            "rpm": "0",
+            "funnelClicks": 0,
+            "clicks": 0
+          },
+          {
+            "countryCode": "GR",
+            "revenue": "0.00",
+            "impressions": 0,
+            "rpm": "0",
+            "funnelClicks": 0,
+            "clicks": 0
+          },
+          {
+            "countryCode": "GT",
+            "revenue": "0.00",
+            "impressions": 1,
+            "rpm": "0.00",
+            "funnelClicks": 0,
+            "clicks": 0
+          },
+          {
+            "countryCode": "GU",
+            "revenue": "0.00",
+            "impressions": 0,
+            "rpm": "0",
+            "funnelClicks": 0,
+            "clicks": 0
+          },
+          {
+            "countryCode": "GW",
+            "revenue": "0.00",
+            "impressions": 0,
+            "rpm": "0",
+            "funnelClicks": 0,
+            "clicks": 0
+          },
+          {
+            "countryCode": "GY",
+            "revenue": "0.00",
+            "impressions": 3,
+            "rpm": "0.00",
+            "funnelClicks": 0,
+            "clicks": 0
+          },
+          {
+            "countryCode": "HK",
+            "revenue": "0.00",
+            "impressions": 1,
+            "rpm": "0.00",
+            "funnelClicks": 0,
+            "clicks": 0
+          },
+          {
+            "countryCode": "HN",
+            "revenue": "0.00",
+            "impressions": 0,
+            "rpm": "0",
+            "funnelClicks": 0,
+            "clicks": 0
+          },
+          {
+            "countryCode": "HR",
+            "revenue": "0.00",
+            "impressions": 0,
+            "rpm": "0",
+            "funnelClicks": 0,
+            "clicks": 0
+          },
+          {
+            "countryCode": "HT",
+            "revenue": "0.00",
+            "impressions": 1,
+            "rpm": "0.00",
+            "funnelClicks": 0,
+            "clicks": 0
+          },
+          {
+            "countryCode": "HU",
+            "revenue": "0.00",
+            "impressions": 0,
+            "rpm": "0",
+            "funnelClicks": 0,
+            "clicks": 0
+          },
+          {
+            "countryCode": "ID",
+            "revenue": "0.00",
+            "impressions": 41,
+            "rpm": "0.00",
+            "funnelClicks": 4,
+            "clicks": 0
+          },
+          {
+            "countryCode": "IL",
+            "revenue": "0.00",
+            "impressions": 3,
+            "rpm": "0.00",
+            "funnelClicks": 3,
+            "clicks": 0
+          },
+          {
+            "countryCode": "IN",
+            "revenue": "0.00",
+            "impressions": 23,
+            "rpm": "0.00",
+            "funnelClicks": 2,
+            "clicks": 0
+          },
+          {
+            "countryCode": "IQ",
+            "revenue": "0.00",
+            "impressions": 13,
+            "rpm": "0.00",
+            "funnelClicks": 1,
+            "clicks": 0
+          },
+          {
+            "countryCode": "IR",
+            "revenue": "0.00",
+            "impressions": 1,
+            "rpm": "0.00",
+            "funnelClicks": 0,
+            "clicks": 0
+          },
+          {
+            "countryCode": "IT",
+            "revenue": "0.00",
+            "impressions": 62,
+            "rpm": "0.00",
+            "funnelClicks": 21,
+            "clicks": 0
+          },
+          {
+            "countryCode": "JM",
+            "revenue": "0.00",
+            "impressions": 1,
+            "rpm": "0.00",
+            "funnelClicks": 0,
+            "clicks": 0
+          },
+          {
+            "countryCode": "JO",
+            "revenue": "0.00",
+            "impressions": 1,
+            "rpm": "0.00",
+            "funnelClicks": 0,
+            "clicks": 0
+          },
+          {
+            "countryCode": "JP",
+            "revenue": "0.00",
+            "impressions": 38,
+            "rpm": "0.00",
+            "funnelClicks": 6,
+            "clicks": 0
+          },
+          {
+            "countryCode": "KE",
+            "revenue": "0.00",
+            "impressions": 6,
+            "rpm": "0.00",
+            "funnelClicks": 0,
+            "clicks": 0
+          },
+          {
+            "countryCode": "KG",
+            "revenue": "0.00",
+            "impressions": 5,
+            "rpm": "0.00",
+            "funnelClicks": 0,
+            "clicks": 0
+          },
+          {
+            "countryCode": "KH",
+            "revenue": "0.00",
+            "impressions": 1,
+            "rpm": "0.00",
+            "funnelClicks": 0,
+            "clicks": 0
+          },
+          {
+            "countryCode": "KN",
+            "revenue": "0.00",
+            "impressions": 0,
+            "rpm": "0",
+            "funnelClicks": 0,
+            "clicks": 0
+          },
+          {
+            "countryCode": "KR",
+            "revenue": "0.00",
+            "impressions": 22,
+            "rpm": "0.00",
+            "funnelClicks": 3,
+            "clicks": 0
+          },
+          {
+            "countryCode": "KW",
+            "revenue": "0.00",
+            "impressions": 3,
+            "rpm": "0.00",
+            "funnelClicks": 0,
+            "clicks": 0
+          },
+          {
+            "countryCode": "KY",
+            "revenue": "0.00",
+            "impressions": 0,
+            "rpm": "0",
+            "funnelClicks": 0,
+            "clicks": 0
+          },
+          {
+            "countryCode": "KZ",
+            "revenue": "0.00",
+            "impressions": 9,
+            "rpm": "0.00",
+            "funnelClicks": 0,
+            "clicks": 0
+          },
+          {
+            "countryCode": "LB",
+            "revenue": "0.00",
+            "impressions": 0,
+            "rpm": "0",
+            "funnelClicks": 0,
+            "clicks": 0
+          },
+          {
+            "countryCode": "LC",
+            "revenue": "0.00",
+            "impressions": 0,
+            "rpm": "0",
+            "funnelClicks": 0,
+            "clicks": 0
+          },
+          {
+            "countryCode": "LK",
+            "revenue": "0.00",
+            "impressions": 1,
+            "rpm": "0.00",
+            "funnelClicks": 0,
+            "clicks": 0
+          },
+          {
+            "countryCode": "LR",
+            "revenue": "0.00",
+            "impressions": 0,
+            "rpm": "0",
+            "funnelClicks": 0,
+            "clicks": 0
+          },
+          {
+            "countryCode": "LT",
+            "revenue": "0.00",
+            "impressions": 0,
+            "rpm": "0",
+            "funnelClicks": 0,
+            "clicks": 0
+          },
+          {
+            "countryCode": "LU",
+            "revenue": "0.00",
+            "impressions": 0,
+            "rpm": "0",
+            "funnelClicks": 0,
+            "clicks": 0
+          },
+          {
+            "countryCode": "LV",
+            "revenue": "0.00",
+            "impressions": 0,
+            "rpm": "0",
+            "funnelClicks": 0,
+            "clicks": 0
+          },
+          {
+            "countryCode": "LY",
+            "revenue": "0.00",
+            "impressions": 2,
+            "rpm": "0.00",
+            "funnelClicks": 0,
+            "clicks": 0
+          },
+          {
+            "countryCode": "MA",
+            "revenue": "0.00",
+            "impressions": 1,
+            "rpm": "0.00",
+            "funnelClicks": 0,
+            "clicks": 0
+          },
+          {
+            "countryCode": "MD",
+            "revenue": "0.00",
+            "impressions": 1,
+            "rpm": "0.00",
+            "funnelClicks": 0,
+            "clicks": 0
+          },
+          {
+            "countryCode": "ME",
+            "revenue": "0.00",
+            "impressions": 0,
+            "rpm": "0",
+            "funnelClicks": 0,
+            "clicks": 0
+          },
+          {
+            "countryCode": "MF",
+            "revenue": "0.00",
+            "impressions": 0,
+            "rpm": "0",
+            "funnelClicks": 0,
+            "clicks": 0
+          },
+          {
+            "countryCode": "MG",
+            "revenue": "0.00",
+            "impressions": 1,
+            "rpm": "0.00",
+            "funnelClicks": 0,
+            "clicks": 0
+          },
+          {
+            "countryCode": "MK",
+            "revenue": "0.00",
+            "impressions": 0,
+            "rpm": "0",
+            "funnelClicks": 0,
+            "clicks": 0
+          },
+          {
+            "countryCode": "ML",
+            "revenue": "0.00",
+            "impressions": 2,
+            "rpm": "0.00",
+            "funnelClicks": 0,
+            "clicks": 0
+          },
+          {
+            "countryCode": "MM",
+            "revenue": "0.00",
+            "impressions": 1,
+            "rpm": "0.00",
+            "funnelClicks": 0,
+            "clicks": 0
+          },
+          {
+            "countryCode": "MN",
+            "revenue": "0.00",
+            "impressions": 0,
+            "rpm": "0",
+            "funnelClicks": 0,
+            "clicks": 0
+          },
+          {
+            "countryCode": "MQ",
+            "revenue": "0.00",
+            "impressions": 0,
+            "rpm": "0",
+            "funnelClicks": 0,
+            "clicks": 0
+          },
+          {
+            "countryCode": "MR",
+            "revenue": "0.00",
+            "impressions": 1,
+            "rpm": "0.00",
+            "funnelClicks": 0,
+            "clicks": 0
+          },
+          {
+            "countryCode": "MT",
+            "revenue": "0.00",
+            "impressions": 0,
+            "rpm": "0",
+            "funnelClicks": 0,
+            "clicks": 0
+          },
+          {
+            "countryCode": "MU",
+            "revenue": "0.00",
+            "impressions": 0,
+            "rpm": "0",
+            "funnelClicks": 0,
+            "clicks": 0
+          },
+          {
+            "countryCode": "MV",
+            "revenue": "0.00",
+            "impressions": 0,
+            "rpm": "0",
+            "funnelClicks": 0,
+            "clicks": 0
+          },
+          {
+            "countryCode": "MW",
+            "revenue": "0.00",
+            "impressions": 0,
+            "rpm": "0",
+            "funnelClicks": 0,
+            "clicks": 0
+          },
+          {
+            "countryCode": "MX",
+            "revenue": "0.00",
+            "impressions": 40,
+            "rpm": "0.00",
+            "funnelClicks": 4,
+            "clicks": 0
+          },
+          {
+            "countryCode": "MY",
+            "revenue": "0.00",
+            "impressions": 12,
+            "rpm": "0.00",
+            "funnelClicks": 2,
+            "clicks": 0
+          },
+          {
+            "countryCode": "MZ",
+            "revenue": "0.00",
+            "impressions": 1,
+            "rpm": "0.00",
+            "funnelClicks": 0,
+            "clicks": 0
+          },
+          {
+            "countryCode": "NA",
+            "revenue": "0.00",
+            "impressions": 1,
+            "rpm": "0.00",
+            "funnelClicks": 0,
+            "clicks": 0
+          },
+          {
+            "countryCode": "NC",
+            "revenue": "0.00",
+            "impressions": 1,
+            "rpm": "0.00",
+            "funnelClicks": 1,
+            "clicks": 0
+          },
+          {
+            "countryCode": "NE",
+            "revenue": "0.00",
+            "impressions": 1,
+            "rpm": "0.00",
+            "funnelClicks": 0,
+            "clicks": 0
+          },
+          {
+            "countryCode": "NG",
+            "revenue": "0.00",
+            "impressions": 26,
+            "rpm": "0.00",
+            "funnelClicks": 4,
+            "clicks": 0
+          },
+          {
+            "countryCode": "NI",
+            "revenue": "0.00",
+            "impressions": 2,
+            "rpm": "0.00",
+            "funnelClicks": 1,
+            "clicks": 0
+          },
+          {
+            "countryCode": "NL",
+            "revenue": "0.00",
+            "impressions": 5,
+            "rpm": "0.00",
+            "funnelClicks": 0,
+            "clicks": 0
+          },
+          {
+            "countryCode": "NO",
+            "revenue": "0.00",
+            "impressions": 0,
+            "rpm": "0",
+            "funnelClicks": 0,
+            "clicks": 0
+          },
+          {
+            "countryCode": "NP",
+            "revenue": "0.00",
+            "impressions": 0,
+            "rpm": "0",
+            "funnelClicks": 0,
+            "clicks": 0
+          },
+          {
+            "countryCode": "NZ",
+            "revenue": "0.00",
+            "impressions": 0,
+            "rpm": "0",
+            "funnelClicks": 0,
+            "clicks": 0
+          },
+          {
+            "countryCode": "OM",
+            "revenue": "0.00",
+            "impressions": 2,
+            "rpm": "0.00",
+            "funnelClicks": 0,
+            "clicks": 0
+          },
+          {
+            "countryCode": "PA",
+            "revenue": "0.00",
+            "impressions": 3,
+            "rpm": "0.00",
+            "funnelClicks": 0,
+            "clicks": 0
+          },
+          {
+            "countryCode": "PE",
+            "revenue": "0.00",
+            "impressions": 8,
+            "rpm": "0.00",
+            "funnelClicks": 1,
+            "clicks": 0
+          },
+          {
+            "countryCode": "PF",
+            "revenue": "0.00",
+            "impressions": 1,
+            "rpm": "0.00",
+            "funnelClicks": 0,
+            "clicks": 0
+          },
+          {
+            "countryCode": "PG",
+            "revenue": "0.00",
+            "impressions": 1,
+            "rpm": "0.00",
+            "funnelClicks": 0,
+            "clicks": 0
+          },
+          {
+            "countryCode": "PH",
+            "revenue": "0.00",
+            "impressions": 119,
+            "rpm": "0.00",
+            "funnelClicks": 21,
+            "clicks": 0
+          },
+          {
+            "countryCode": "PK",
+            "revenue": "0.00",
+            "impressions": 7,
+            "rpm": "0.00",
+            "funnelClicks": 2,
+            "clicks": 0
+          },
+          {
+            "countryCode": "PR",
+            "revenue": "0.00",
+            "impressions": 0,
+            "rpm": "0",
+            "funnelClicks": 0,
+            "clicks": 0
+          },
+          {
+            "countryCode": "PS",
+            "revenue": "0.00",
+            "impressions": 1,
+            "rpm": "0.00",
+            "funnelClicks": 0,
+            "clicks": 0
+          },
+          {
+            "countryCode": "PT",
+            "revenue": "0.00",
+            "impressions": 9,
+            "rpm": "0.00",
+            "funnelClicks": 0,
+            "clicks": 0
+          },
+          {
+            "countryCode": "PY",
+            "revenue": "0.00",
+            "impressions": 1,
+            "rpm": "0.00",
+            "funnelClicks": 0,
+            "clicks": 0
+          },
+          {
+            "countryCode": "QA",
+            "revenue": "0.00",
+            "impressions": 0,
+            "rpm": "0",
+            "funnelClicks": 0,
+            "clicks": 0
+          },
+          {
+            "countryCode": "RE",
+            "revenue": "0.00",
+            "impressions": 0,
+            "rpm": "0",
+            "funnelClicks": 0,
+            "clicks": 0
+          },
+          {
+            "countryCode": "RO",
+            "revenue": "0.00",
+            "impressions": 6,
+            "rpm": "0.00",
+            "funnelClicks": 1,
+            "clicks": 0
+          },
+          {
+            "countryCode": "RS",
+            "revenue": "0.00",
+            "impressions": 1,
+            "rpm": "0.00",
+            "funnelClicks": 0,
+            "clicks": 0
+          },
+          {
+            "countryCode": "RU",
+            "revenue": "0.00",
+            "impressions": 0,
+            "rpm": "0",
+            "funnelClicks": 0,
+            "clicks": 0
+          },
+          {
+            "countryCode": "RW",
+            "revenue": "0.00",
+            "impressions": 0,
+            "rpm": "0",
+            "funnelClicks": 0,
+            "clicks": 0
+          },
+          {
+            "countryCode": "SA",
+            "revenue": "0.00",
+            "impressions": 12,
+            "rpm": "0.00",
+            "funnelClicks": 2,
+            "clicks": 0
+          },
+          {
+            "countryCode": "SC",
+            "revenue": "0.00",
+            "impressions": 0,
+            "rpm": "0",
+            "funnelClicks": 0,
+            "clicks": 0
+          },
+          {
+            "countryCode": "SD",
+            "revenue": "0.00",
+            "impressions": 0,
+            "rpm": "0",
+            "funnelClicks": 0,
+            "clicks": 0
+          },
+          {
+            "countryCode": "SE",
+            "revenue": "0.00",
+            "impressions": 5,
+            "rpm": "0.00",
+            "funnelClicks": 0,
+            "clicks": 0
+          },
+          {
+            "countryCode": "SG",
+            "revenue": "0.00",
+            "impressions": 2,
+            "rpm": "0.00",
+            "funnelClicks": 0,
+            "clicks": 0
+          },
+          {
+            "countryCode": "SI",
+            "revenue": "0.00",
+            "impressions": 0,
+            "rpm": "0",
+            "funnelClicks": 0,
+            "clicks": 0
+          },
+          {
+            "countryCode": "SK",
+            "revenue": "0.00",
+            "impressions": 0,
+            "rpm": "0",
+            "funnelClicks": 0,
+            "clicks": 0
+          },
+          {
+            "countryCode": "SL",
+            "revenue": "0.00",
+            "impressions": 0,
+            "rpm": "0",
+            "funnelClicks": 0,
+            "clicks": 0
+          },
+          {
+            "countryCode": "SN",
+            "revenue": "0.00",
+            "impressions": 2,
+            "rpm": "0.00",
+            "funnelClicks": 1,
+            "clicks": 0
+          },
+          {
+            "countryCode": "SO",
+            "revenue": "0.00",
+            "impressions": 0,
+            "rpm": "0",
+            "funnelClicks": 0,
+            "clicks": 0
+          },
+          {
+            "countryCode": "SR",
+            "revenue": "0.00",
+            "impressions": 2,
+            "rpm": "0.00",
+            "funnelClicks": 0,
+            "clicks": 0
+          },
+          {
+            "countryCode": "SV",
+            "revenue": "0.00",
+            "impressions": 1,
+            "rpm": "0.00",
+            "funnelClicks": 0,
+            "clicks": 0
+          },
+          {
+            "countryCode": "SX",
+            "revenue": "0.00",
+            "impressions": 0,
+            "rpm": "0",
+            "funnelClicks": 0,
+            "clicks": 0
+          },
+          {
+            "countryCode": "SY",
+            "revenue": "0.00",
+            "impressions": 0,
+            "rpm": "0",
+            "funnelClicks": 0,
+            "clicks": 0
+          },
+          {
+            "countryCode": "SZ",
+            "revenue": "0.00",
+            "impressions": 0,
+            "rpm": "0",
+            "funnelClicks": 0,
+            "clicks": 0
+          },
+          {
+            "countryCode": "TD",
+            "revenue": "0.00",
+            "impressions": 0,
+            "rpm": "0",
+            "funnelClicks": 0,
+            "clicks": 0
+          },
+          {
+            "countryCode": "TG",
+            "revenue": "0.00",
+            "impressions": 1,
+            "rpm": "0.00",
+            "funnelClicks": 0,
+            "clicks": 0
+          },
+          {
+            "countryCode": "TH",
+            "revenue": "0.00",
+            "impressions": 12,
+            "rpm": "0.00",
+            "funnelClicks": 0,
+            "clicks": 0
+          },
+          {
+            "countryCode": "TJ",
+            "revenue": "0.00",
+            "impressions": 0,
+            "rpm": "0",
+            "funnelClicks": 0,
+            "clicks": 0
+          },
+          {
+            "countryCode": "TM",
+            "revenue": "0.00",
+            "impressions": 0,
+            "rpm": "0",
+            "funnelClicks": 0,
+            "clicks": 0
+          },
+          {
+            "countryCode": "TN",
+            "revenue": "0.00",
+            "impressions": 2,
+            "rpm": "0.00",
+            "funnelClicks": 2,
+            "clicks": 0
+          },
+          {
+            "countryCode": "TR",
+            "revenue": "0.00",
+            "impressions": 40,
+            "rpm": "0.00",
+            "funnelClicks": 2,
+            "clicks": 0
+          },
+          {
+            "countryCode": "TT",
+            "revenue": "0.00",
+            "impressions": 1,
+            "rpm": "0.00",
+            "funnelClicks": 2,
+            "clicks": 0
+          },
+          {
+            "countryCode": "TW",
+            "revenue": "0.00",
+            "impressions": 1,
+            "rpm": "0.00",
+            "funnelClicks": 0,
+            "clicks": 0
+          },
+          {
+            "countryCode": "TZ",
+            "revenue": "0.00",
+            "impressions": 0,
+            "rpm": "0",
+            "funnelClicks": 0,
+            "clicks": 0
+          },
+          {
+            "countryCode": "UA",
+            "revenue": "0.00",
+            "impressions": 17,
+            "rpm": "0.00",
+            "funnelClicks": 1,
+            "clicks": 0
+          },
+          {
+            "countryCode": "UG",
+            "revenue": "0.00",
+            "impressions": 0,
+            "rpm": "0",
+            "funnelClicks": 0,
+            "clicks": 0
+          },
+          {
+            "countryCode": "UY",
+            "revenue": "0.00",
+            "impressions": 1,
+            "rpm": "0.00",
+            "funnelClicks": 0,
+            "clicks": 0
+          },
+          {
+            "countryCode": "UZ",
+            "revenue": "0.00",
+            "impressions": 4,
+            "rpm": "0.00",
+            "funnelClicks": 0,
+            "clicks": 0
+          },
+          {
+            "countryCode": "VC",
+            "revenue": "0.00",
+            "impressions": 0,
+            "rpm": "0",
+            "funnelClicks": 0,
+            "clicks": 0
+          },
+          {
+            "countryCode": "VE",
+            "revenue": "0.00",
+            "impressions": 8,
+            "rpm": "0.00",
+            "funnelClicks": 0,
+            "clicks": 0
+          },
+          {
+            "countryCode": "VN",
+            "revenue": "0.00",
+            "impressions": 9,
+            "rpm": "0.00",
+            "funnelClicks": 0,
+            "clicks": 0
+          },
+          {
+            "countryCode": "VU",
+            "revenue": "0.00",
+            "impressions": 0,
+            "rpm": "0",
+            "funnelClicks": 0,
+            "clicks": 0
+          },
+          {
+            "countryCode": "WS",
+            "revenue": "0.00",
+            "impressions": 0,
+            "rpm": "0",
+            "funnelClicks": 0,
+            "clicks": 0
+          },
+          {
+            "countryCode": "XK",
+            "revenue": "0.00",
+            "impressions": 0,
+            "rpm": "0",
+            "funnelClicks": 0,
+            "clicks": 0
+          },
+          {
+            "countryCode": "YE",
+            "revenue": "0.00",
+            "impressions": 0,
+            "rpm": "0",
+            "funnelClicks": 0,
+            "clicks": 0
+          },
+          {
+            "countryCode": "ZA",
+            "revenue": "0.00",
+            "impressions": 24,
+            "rpm": "0.00",
+            "funnelClicks": 1,
+            "clicks": 0
+          },
+          {
+            "countryCode": "ZM",
+            "revenue": "0.00",
+            "impressions": 0,
+            "rpm": "0",
+            "funnelClicks": 0,
+            "clicks": 0
+          },
+          {
+            "countryCode": "ZW",
+            "revenue": "0.00",
+            "impressions": 2,
+            "rpm": "0.00",
+            "funnelClicks": 0,
+            "clicks": 0
+          }
+        ]
+      },
+      {
+        "id": "3zb1ibulZhr3",
+        "name": "moboreels-v03-A4-us-1747103610-zestfularcade.com",
+        "categoryId": "3zb1J2NCGSys",
+        "visits": 1793,
+        "views": 1793,
+        "conversion": 133,
+        "category": "moboreels-v03",
+        "offerSource": "afs-common",
+        "revenue": "150.78",
+        "funnelImpressions": 1859,
+        "funnelClicks": 288,
+        "clicks": 127,
+        "funnelRpm": "81.11",
+        "rpc": "1.187",
+        "funnelCtr": "15.492200107584724",
+        "cvr1": "44.09722222222222",
+        "cvr2": "6.831629908552985",
+        "url": "https://zestfularcade.com/detail/963671542428?ref=Truvada+Cost+Without+Insurance&channel=1747103610&hit={hit}",
+        "countryInfos": [
+          {
+            "countryCode": "US",
+            "revenue": "150.77",
+            "impressions": 1786,
+            "rpm": "84.42",
+            "funnelClicks": 282,
+            "clicks": 127
+          },
+          {
+            "countryCode": "DO",
+            "revenue": "0.01",
+            "impressions": 2,
+            "rpm": "5.00",
+            "funnelClicks": 2,
+            "clicks": 0
+          },
+          {
+            "countryCode": "AU",
+            "revenue": "0.00",
+            "impressions": 1,
+            "rpm": "0.00",
+            "funnelClicks": 0,
+            "clicks": 0
+          },
+          {
+            "countryCode": "BR",
+            "revenue": "0.00",
+            "impressions": 1,
+            "rpm": "0.00",
+            "funnelClicks": 0,
+            "clicks": 0
+          },
+          {
+            "countryCode": "CA",
+            "revenue": "0.00",
+            "impressions": 2,
+            "rpm": "0.00",
+            "funnelClicks": 0,
+            "clicks": 0
+          },
+          {
+            "countryCode": "CN",
+            "revenue": "0.00",
+            "impressions": 1,
+            "rpm": "0.00",
+            "funnelClicks": 0,
+            "clicks": 0
+          },
+          {
+            "countryCode": "CO",
+            "revenue": "0.00",
+            "impressions": 4,
+            "rpm": "0.00",
+            "funnelClicks": 0,
+            "clicks": 0
+          },
+          {
+            "countryCode": "CU",
+            "revenue": "0.00",
+            "impressions": 9,
+            "rpm": "0.00",
+            "funnelClicks": 0,
+            "clicks": 0
+          },
+          {
+            "countryCode": "DE",
+            "revenue": "0.00",
+            "impressions": 1,
+            "rpm": "0.00",
+            "funnelClicks": 0,
+            "clicks": 0
+          },
+          {
+            "countryCode": "IN",
+            "revenue": "0.00",
+            "impressions": 1,
+            "rpm": "0.00",
+            "funnelClicks": 2,
+            "clicks": 0
+          },
+          {
+            "countryCode": "IR",
+            "revenue": "0.00",
+            "impressions": 4,
+            "rpm": "0.00",
+            "funnelClicks": 0,
+            "clicks": 0
+          },
+          {
+            "countryCode": "JM",
+            "revenue": "0.00",
+            "impressions": 1,
+            "rpm": "0.00",
+            "funnelClicks": 0,
+            "clicks": 0
+          },
+          {
+            "countryCode": "KE",
+            "revenue": "0.00",
+            "impressions": 6,
+            "rpm": "0.00",
+            "funnelClicks": 0,
+            "clicks": 0
+          },
+          {
+            "countryCode": "MM",
+            "revenue": "0.00",
+            "impressions": 2,
+            "rpm": "0.00",
+            "funnelClicks": 0,
+            "clicks": 0
+          },
+          {
+            "countryCode": "MX",
+            "revenue": "0.00",
+            "impressions": 18,
+            "rpm": "0.00",
+            "funnelClicks": 0,
+            "clicks": 0
+          },
+          {
+            "countryCode": "MY",
+            "revenue": "0.00",
+            "impressions": 0,
+            "rpm": "0",
+            "funnelClicks": 1,
+            "clicks": 0
+          },
+          {
+            "countryCode": "NA",
+            "revenue": "0.00",
+            "impressions": 1,
+            "rpm": "0.00",
+            "funnelClicks": 0,
+            "clicks": 0
+          },
+          {
+            "countryCode": "NG",
+            "revenue": "0.00",
+            "impressions": 3,
+            "rpm": "0.00",
+            "funnelClicks": 0,
+            "clicks": 0
+          },
+          {
+            "countryCode": "NL",
+            "revenue": "0.00",
+            "impressions": 3,
+            "rpm": "0.00",
+            "funnelClicks": 0,
+            "clicks": 0
+          },
+          {
+            "countryCode": "PH",
+            "revenue": "0.00",
+            "impressions": 1,
+            "rpm": "0.00",
+            "funnelClicks": 1,
+            "clicks": 0
+          },
+          {
+            "countryCode": "PK",
+            "revenue": "0.00",
+            "impressions": 6,
+            "rpm": "0.00",
+            "funnelClicks": 0,
+            "clicks": 0
+          },
+          {
+            "countryCode": "RU",
+            "revenue": "0.00",
+            "impressions": 0,
+            "rpm": "0",
+            "funnelClicks": 0,
+            "clicks": 0
+          },
+          {
+            "countryCode": "SE",
+            "revenue": "0.00",
+            "impressions": 1,
+            "rpm": "0.00",
+            "funnelClicks": 0,
+            "clicks": 0
+          },
+          {
+            "countryCode": "TZ",
+            "revenue": "0.00",
+            "impressions": 3,
+            "rpm": "0.00",
+            "funnelClicks": 0,
+            "clicks": 0
+          },
+          {
+            "countryCode": "ZA",
+            "revenue": "0.00",
+            "impressions": 2,
+            "rpm": "0.00",
+            "funnelClicks": 0,
+            "clicks": 0
+          }
+        ]
+      },
+      {
+        "id": "3zb1drsZvtna",
+        "name": "moboreels-v03-A12-us-2506279147-intodeepdive.com",
+        "categoryId": "3zb1J2NCGSys",
+        "visits": 526,
+        "views": 526,
+        "conversion": 25,
+        "category": "moboreels-v03",
+        "offerSource": "afs-common",
+        "revenue": "13.62",
+        "funnelImpressions": 1495,
+        "funnelClicks": 198,
+        "clicks": 25,
+        "funnelRpm": "9.11",
+        "rpc": "0.545",
+        "funnelCtr": "13.244147157190636",
+        "cvr1": "12.626262626262626",
+        "cvr2": "1.6722408026755853",
+        "url": "https://intodeepdive.com/detail/940333215536?ref=Descovy+Cost+Without+Insurance%2C+PEP+Cost+Post+Exposure+Prophylaxis%2C+PrEP+vs+PEP+Cost%2C+Truvada+Cost+Without+Insurance%2C+PrEP+Cost+Guide+2026%2C+PrEP+Cost+Without+Insurance&channel=2506279147&hit={hit}",
+        "countryInfos": [
+          {
+            "countryCode": "US",
+            "revenue": "13.58",
+            "impressions": 459,
+            "rpm": "29.59",
+            "funnelClicks": 51,
+            "clicks": 25
+          },
+          {
+            "countryCode": "IE",
+            "revenue": "0.03",
+            "impressions": 4,
+            "rpm": "7.50",
+            "funnelClicks": 2,
+            "clicks": 0
+          },
+          {
+            "countryCode": "PL",
+            "revenue": "0.01",
+            "impressions": 76,
+            "rpm": "0.13",
+            "funnelClicks": 7,
+            "clicks": 0
+          },
+          {
+            "countryCode": "AE",
+            "revenue": "0.00",
+            "impressions": 1,
+            "rpm": "0.00",
+            "funnelClicks": 0,
+            "clicks": 0
+          },
+          {
+            "countryCode": "AG",
+            "revenue": "0.00",
+            "impressions": 0,
+            "rpm": "0",
+            "funnelClicks": 0,
+            "clicks": 0
+          },
+          {
+            "countryCode": "AI",
+            "revenue": "0.00",
+            "impressions": 0,
+            "rpm": "0",
+            "funnelClicks": 0,
+            "clicks": 0
+          },
+          {
+            "countryCode": "AL",
+            "revenue": "0.00",
+            "impressions": 0,
+            "rpm": "0",
+            "funnelClicks": 0,
+            "clicks": 0
+          },
+          {
+            "countryCode": "AM",
+            "revenue": "0.00",
+            "impressions": 3,
+            "rpm": "0.00",
+            "funnelClicks": 3,
+            "clicks": 0
+          },
+          {
+            "countryCode": "AO",
+            "revenue": "0.00",
+            "impressions": 1,
+            "rpm": "0.00",
+            "funnelClicks": 0,
+            "clicks": 0
+          },
+          {
+            "countryCode": "AR",
+            "revenue": "0.00",
+            "impressions": 5,
+            "rpm": "0.00",
+            "funnelClicks": 3,
+            "clicks": 0
+          },
+          {
+            "countryCode": "AT",
+            "revenue": "0.00",
+            "impressions": 2,
+            "rpm": "0.00",
+            "funnelClicks": 5,
+            "clicks": 0
+          },
+          {
+            "countryCode": "AU",
+            "revenue": "0.00",
+            "impressions": 7,
+            "rpm": "0.00",
+            "funnelClicks": 0,
+            "clicks": 0
+          },
+          {
+            "countryCode": "AW",
+            "revenue": "0.00",
+            "impressions": 0,
+            "rpm": "0",
+            "funnelClicks": 0,
+            "clicks": 0
+          },
+          {
+            "countryCode": "AZ",
+            "revenue": "0.00",
+            "impressions": 1,
+            "rpm": "0.00",
+            "funnelClicks": 0,
+            "clicks": 0
+          },
+          {
+            "countryCode": "BA",
+            "revenue": "0.00",
+            "impressions": 0,
+            "rpm": "0",
+            "funnelClicks": 0,
+            "clicks": 0
+          },
+          {
+            "countryCode": "BB",
+            "revenue": "0.00",
+            "impressions": 0,
+            "rpm": "0",
+            "funnelClicks": 0,
+            "clicks": 0
+          },
+          {
+            "countryCode": "BD",
+            "revenue": "0.00",
+            "impressions": 8,
+            "rpm": "0.00",
+            "funnelClicks": 0,
+            "clicks": 0
+          },
+          {
+            "countryCode": "BE",
+            "revenue": "0.00",
+            "impressions": 1,
+            "rpm": "0.00",
+            "funnelClicks": 0,
+            "clicks": 0
+          },
+          {
+            "countryCode": "BF",
+            "revenue": "0.00",
+            "impressions": 0,
+            "rpm": "0",
+            "funnelClicks": 0,
+            "clicks": 0
+          },
+          {
+            "countryCode": "BG",
+            "revenue": "0.00",
+            "impressions": 2,
+            "rpm": "0.00",
+            "funnelClicks": 0,
+            "clicks": 0
+          },
+          {
+            "countryCode": "BH",
+            "revenue": "0.00",
+            "impressions": 1,
+            "rpm": "0.00",
+            "funnelClicks": 1,
+            "clicks": 0
+          },
+          {
+            "countryCode": "BM",
+            "revenue": "0.00",
+            "impressions": 0,
+            "rpm": "0",
+            "funnelClicks": 0,
+            "clicks": 0
+          },
+          {
+            "countryCode": "BN",
+            "revenue": "0.00",
+            "impressions": 1,
+            "rpm": "0.00",
+            "funnelClicks": 0,
+            "clicks": 0
+          },
+          {
+            "countryCode": "BO",
+            "revenue": "0.00",
+            "impressions": 2,
+            "rpm": "0.00",
+            "funnelClicks": 0,
+            "clicks": 0
+          },
+          {
+            "countryCode": "BQ",
+            "revenue": "0.00",
+            "impressions": 0,
+            "rpm": "0",
+            "funnelClicks": 0,
+            "clicks": 0
+          },
+          {
+            "countryCode": "BR",
+            "revenue": "0.00",
+            "impressions": 66,
+            "rpm": "0.00",
+            "funnelClicks": 12,
+            "clicks": 0
+          },
+          {
+            "countryCode": "BS",
+            "revenue": "0.00",
+            "impressions": 2,
+            "rpm": "0.00",
+            "funnelClicks": 0,
+            "clicks": 0
+          },
+          {
+            "countryCode": "BT",
+            "revenue": "0.00",
+            "impressions": 0,
+            "rpm": "0",
+            "funnelClicks": 0,
+            "clicks": 0
+          },
+          {
+            "countryCode": "BW",
+            "revenue": "0.00",
+            "impressions": 0,
+            "rpm": "0",
+            "funnelClicks": 0,
+            "clicks": 0
+          },
+          {
+            "countryCode": "BY",
+            "revenue": "0.00",
+            "impressions": 8,
+            "rpm": "0.00",
+            "funnelClicks": 1,
+            "clicks": 0
+          },
+          {
+            "countryCode": "BZ",
+            "revenue": "0.00",
+            "impressions": 1,
+            "rpm": "0.00",
+            "funnelClicks": 1,
+            "clicks": 0
+          },
+          {
+            "countryCode": "CA",
+            "revenue": "0.00",
+            "impressions": 3,
+            "rpm": "0.00",
+            "funnelClicks": 0,
+            "clicks": 0
+          },
+          {
+            "countryCode": "CD",
+            "revenue": "0.00",
+            "impressions": 2,
+            "rpm": "0.00",
+            "funnelClicks": 0,
+            "clicks": 0
+          },
+          {
+            "countryCode": "CG",
+            "revenue": "0.00",
+            "impressions": 0,
+            "rpm": "0",
+            "funnelClicks": 0,
+            "clicks": 0
+          },
+          {
+            "countryCode": "CH",
+            "revenue": "0.00",
+            "impressions": 2,
+            "rpm": "0.00",
+            "funnelClicks": 0,
+            "clicks": 0
+          },
+          {
+            "countryCode": "CI",
+            "revenue": "0.00",
+            "impressions": 6,
+            "rpm": "0.00",
+            "funnelClicks": 0,
+            "clicks": 0
+          },
+          {
+            "countryCode": "CL",
+            "revenue": "0.00",
+            "impressions": 5,
+            "rpm": "0.00",
+            "funnelClicks": 2,
+            "clicks": 0
+          },
+          {
+            "countryCode": "CM",
+            "revenue": "0.00",
+            "impressions": 3,
+            "rpm": "0.00",
+            "funnelClicks": 0,
+            "clicks": 0
+          },
+          {
+            "countryCode": "CO",
+            "revenue": "0.00",
+            "impressions": 15,
+            "rpm": "0.00",
+            "funnelClicks": 2,
+            "clicks": 0
+          },
+          {
+            "countryCode": "CR",
+            "revenue": "0.00",
+            "impressions": 6,
+            "rpm": "0.00",
+            "funnelClicks": 1,
+            "clicks": 0
+          },
+          {
+            "countryCode": "CU",
+            "revenue": "0.00",
+            "impressions": 6,
+            "rpm": "0.00",
+            "funnelClicks": 0,
+            "clicks": 0
+          },
+          {
+            "countryCode": "CV",
+            "revenue": "0.00",
+            "impressions": 0,
+            "rpm": "0",
+            "funnelClicks": 0,
+            "clicks": 0
+          },
+          {
+            "countryCode": "CY",
+            "revenue": "0.00",
+            "impressions": 0,
+            "rpm": "0",
+            "funnelClicks": 0,
+            "clicks": 0
+          },
+          {
+            "countryCode": "CZ",
+            "revenue": "0.00",
+            "impressions": 1,
+            "rpm": "0.00",
+            "funnelClicks": 0,
+            "clicks": 0
+          },
+          {
+            "countryCode": "DE",
+            "revenue": "0.00",
+            "impressions": 30,
+            "rpm": "0.00",
+            "funnelClicks": 5,
+            "clicks": 0
+          },
+          {
+            "countryCode": "DK",
+            "revenue": "0.00",
+            "impressions": 4,
+            "rpm": "0.00",
+            "funnelClicks": 1,
+            "clicks": 0
+          },
+          {
+            "countryCode": "DO",
+            "revenue": "0.00",
+            "impressions": 8,
+            "rpm": "0.00",
+            "funnelClicks": 1,
+            "clicks": 0
+          },
+          {
+            "countryCode": "DZ",
+            "revenue": "0.00",
+            "impressions": 6,
+            "rpm": "0.00",
+            "funnelClicks": 2,
+            "clicks": 0
+          },
+          {
+            "countryCode": "EC",
+            "revenue": "0.00",
+            "impressions": 2,
+            "rpm": "0.00",
+            "funnelClicks": 0,
+            "clicks": 0
+          },
+          {
+            "countryCode": "EE",
+            "revenue": "0.00",
+            "impressions": 0,
+            "rpm": "0",
+            "funnelClicks": 0,
+            "clicks": 0
+          },
+          {
+            "countryCode": "EG",
+            "revenue": "0.00",
+            "impressions": 27,
+            "rpm": "0.00",
+            "funnelClicks": 1,
+            "clicks": 0
+          },
+          {
+            "countryCode": "ES",
+            "revenue": "0.00",
+            "impressions": 8,
+            "rpm": "0.00",
+            "funnelClicks": 0,
+            "clicks": 0
+          },
+          {
+            "countryCode": "ET",
+            "revenue": "0.00",
+            "impressions": 0,
+            "rpm": "0",
+            "funnelClicks": 0,
+            "clicks": 0
+          },
+          {
+            "countryCode": "FI",
+            "revenue": "0.00",
+            "impressions": 4,
+            "rpm": "0.00",
+            "funnelClicks": 0,
+            "clicks": 0
+          },
+          {
+            "countryCode": "FJ",
+            "revenue": "0.00",
+            "impressions": 0,
+            "rpm": "0",
+            "funnelClicks": 0,
+            "clicks": 0
+          },
+          {
+            "countryCode": "FM",
+            "revenue": "0.00",
+            "impressions": 0,
+            "rpm": "0",
+            "funnelClicks": 0,
+            "clicks": 0
+          },
+          {
+            "countryCode": "FR",
+            "revenue": "0.00",
+            "impressions": 48,
+            "rpm": "0.00",
+            "funnelClicks": 9,
+            "clicks": 0
+          },
+          {
+            "countryCode": "GA",
+            "revenue": "0.00",
+            "impressions": 0,
+            "rpm": "0",
+            "funnelClicks": 0,
+            "clicks": 0
+          },
+          {
+            "countryCode": "GB",
+            "revenue": "0.00",
+            "impressions": 11,
+            "rpm": "0.00",
+            "funnelClicks": 0,
+            "clicks": 0
+          },
+          {
+            "countryCode": "GD",
+            "revenue": "0.00",
+            "impressions": 0,
+            "rpm": "0",
+            "funnelClicks": 0,
+            "clicks": 0
+          },
+          {
+            "countryCode": "GE",
+            "revenue": "0.00",
+            "impressions": 1,
+            "rpm": "0.00",
+            "funnelClicks": 0,
+            "clicks": 0
+          },
+          {
+            "countryCode": "GF",
+            "revenue": "0.00",
+            "impressions": 0,
+            "rpm": "0",
+            "funnelClicks": 0,
+            "clicks": 0
+          },
+          {
+            "countryCode": "GH",
+            "revenue": "0.00",
+            "impressions": 7,
+            "rpm": "0.00",
+            "funnelClicks": 0,
+            "clicks": 0
+          },
+          {
+            "countryCode": "GM",
+            "revenue": "0.00",
+            "impressions": 0,
+            "rpm": "0",
+            "funnelClicks": 0,
+            "clicks": 0
+          },
+          {
+            "countryCode": "GN",
+            "revenue": "0.00",
+            "impressions": 0,
+            "rpm": "0",
+            "funnelClicks": 0,
+            "clicks": 0
+          },
+          {
+            "countryCode": "GP",
+            "revenue": "0.00",
+            "impressions": 0,
+            "rpm": "0",
+            "funnelClicks": 0,
+            "clicks": 0
+          },
+          {
+            "countryCode": "GR",
+            "revenue": "0.00",
+            "impressions": 0,
+            "rpm": "0",
+            "funnelClicks": 0,
+            "clicks": 0
+          },
+          {
+            "countryCode": "GT",
+            "revenue": "0.00",
+            "impressions": 1,
+            "rpm": "0.00",
+            "funnelClicks": 0,
+            "clicks": 0
+          },
+          {
+            "countryCode": "GU",
+            "revenue": "0.00",
+            "impressions": 0,
+            "rpm": "0",
+            "funnelClicks": 0,
+            "clicks": 0
+          },
+          {
+            "countryCode": "GW",
+            "revenue": "0.00",
+            "impressions": 0,
+            "rpm": "0",
+            "funnelClicks": 0,
+            "clicks": 0
+          },
+          {
+            "countryCode": "GY",
+            "revenue": "0.00",
+            "impressions": 3,
+            "rpm": "0.00",
+            "funnelClicks": 0,
+            "clicks": 0
+          },
+          {
+            "countryCode": "HK",
+            "revenue": "0.00",
+            "impressions": 1,
+            "rpm": "0.00",
+            "funnelClicks": 0,
+            "clicks": 0
+          },
+          {
+            "countryCode": "HN",
+            "revenue": "0.00",
+            "impressions": 0,
+            "rpm": "0",
+            "funnelClicks": 0,
+            "clicks": 0
+          },
+          {
+            "countryCode": "HR",
+            "revenue": "0.00",
+            "impressions": 0,
+            "rpm": "0",
+            "funnelClicks": 0,
+            "clicks": 0
+          },
+          {
+            "countryCode": "HT",
+            "revenue": "0.00",
+            "impressions": 1,
+            "rpm": "0.00",
+            "funnelClicks": 0,
+            "clicks": 0
+          },
+          {
+            "countryCode": "HU",
+            "revenue": "0.00",
+            "impressions": 0,
+            "rpm": "0",
+            "funnelClicks": 0,
+            "clicks": 0
+          },
+          {
+            "countryCode": "ID",
+            "revenue": "0.00",
+            "impressions": 41,
+            "rpm": "0.00",
+            "funnelClicks": 4,
+            "clicks": 0
+          },
+          {
+            "countryCode": "IL",
+            "revenue": "0.00",
+            "impressions": 3,
+            "rpm": "0.00",
+            "funnelClicks": 3,
+            "clicks": 0
+          },
+          {
+            "countryCode": "IN",
+            "revenue": "0.00",
+            "impressions": 23,
+            "rpm": "0.00",
+            "funnelClicks": 2,
+            "clicks": 0
+          },
+          {
+            "countryCode": "IQ",
+            "revenue": "0.00",
+            "impressions": 13,
+            "rpm": "0.00",
+            "funnelClicks": 1,
+            "clicks": 0
+          },
+          {
+            "countryCode": "IR",
+            "revenue": "0.00",
+            "impressions": 1,
+            "rpm": "0.00",
+            "funnelClicks": 0,
+            "clicks": 0
+          },
+          {
+            "countryCode": "IT",
+            "revenue": "0.00",
+            "impressions": 62,
+            "rpm": "0.00",
+            "funnelClicks": 21,
+            "clicks": 0
+          },
+          {
+            "countryCode": "JM",
+            "revenue": "0.00",
+            "impressions": 1,
+            "rpm": "0.00",
+            "funnelClicks": 0,
+            "clicks": 0
+          },
+          {
+            "countryCode": "JO",
+            "revenue": "0.00",
+            "impressions": 1,
+            "rpm": "0.00",
+            "funnelClicks": 0,
+            "clicks": 0
+          },
+          {
+            "countryCode": "JP",
+            "revenue": "0.00",
+            "impressions": 38,
+            "rpm": "0.00",
+            "funnelClicks": 6,
+            "clicks": 0
+          },
+          {
+            "countryCode": "KE",
+            "revenue": "0.00",
+            "impressions": 6,
+            "rpm": "0.00",
+            "funnelClicks": 0,
+            "clicks": 0
+          },
+          {
+            "countryCode": "KG",
+            "revenue": "0.00",
+            "impressions": 5,
+            "rpm": "0.00",
+            "funnelClicks": 0,
+            "clicks": 0
+          },
+          {
+            "countryCode": "KH",
+            "revenue": "0.00",
+            "impressions": 1,
+            "rpm": "0.00",
+            "funnelClicks": 0,
+            "clicks": 0
+          },
+          {
+            "countryCode": "KN",
+            "revenue": "0.00",
+            "impressions": 0,
+            "rpm": "0",
+            "funnelClicks": 0,
+            "clicks": 0
+          },
+          {
+            "countryCode": "KR",
+            "revenue": "0.00",
+            "impressions": 22,
+            "rpm": "0.00",
+            "funnelClicks": 3,
+            "clicks": 0
+          },
+          {
+            "countryCode": "KW",
+            "revenue": "0.00",
+            "impressions": 3,
+            "rpm": "0.00",
+            "funnelClicks": 0,
+            "clicks": 0
+          },
+          {
+            "countryCode": "KY",
+            "revenue": "0.00",
+            "impressions": 0,
+            "rpm": "0",
+            "funnelClicks": 0,
+            "clicks": 0
+          },
+          {
+            "countryCode": "KZ",
+            "revenue": "0.00",
+            "impressions": 9,
+            "rpm": "0.00",
+            "funnelClicks": 0,
+            "clicks": 0
+          },
+          {
+            "countryCode": "LB",
+            "revenue": "0.00",
+            "impressions": 0,
+            "rpm": "0",
+            "funnelClicks": 0,
+            "clicks": 0
+          },
+          {
+            "countryCode": "LC",
+            "revenue": "0.00",
+            "impressions": 0,
+            "rpm": "0",
+            "funnelClicks": 0,
+            "clicks": 0
+          },
+          {
+            "countryCode": "LK",
+            "revenue": "0.00",
+            "impressions": 1,
+            "rpm": "0.00",
+            "funnelClicks": 0,
+            "clicks": 0
+          },
+          {
+            "countryCode": "LR",
+            "revenue": "0.00",
+            "impressions": 0,
+            "rpm": "0",
+            "funnelClicks": 0,
+            "clicks": 0
+          },
+          {
+            "countryCode": "LT",
+            "revenue": "0.00",
+            "impressions": 0,
+            "rpm": "0",
+            "funnelClicks": 0,
+            "clicks": 0
+          },
+          {
+            "countryCode": "LU",
+            "revenue": "0.00",
+            "impressions": 0,
+            "rpm": "0",
+            "funnelClicks": 0,
+            "clicks": 0
+          },
+          {
+            "countryCode": "LV",
+            "revenue": "0.00",
+            "impressions": 0,
+            "rpm": "0",
+            "funnelClicks": 0,
+            "clicks": 0
+          },
+          {
+            "countryCode": "LY",
+            "revenue": "0.00",
+            "impressions": 2,
+            "rpm": "0.00",
+            "funnelClicks": 0,
+            "clicks": 0
+          },
+          {
+            "countryCode": "MA",
+            "revenue": "0.00",
+            "impressions": 1,
+            "rpm": "0.00",
+            "funnelClicks": 0,
+            "clicks": 0
+          },
+          {
+            "countryCode": "MD",
+            "revenue": "0.00",
+            "impressions": 1,
+            "rpm": "0.00",
+            "funnelClicks": 0,
+            "clicks": 0
+          },
+          {
+            "countryCode": "ME",
+            "revenue": "0.00",
+            "impressions": 0,
+            "rpm": "0",
+            "funnelClicks": 0,
+            "clicks": 0
+          },
+          {
+            "countryCode": "MF",
+            "revenue": "0.00",
+            "impressions": 0,
+            "rpm": "0",
+            "funnelClicks": 0,
+            "clicks": 0
+          },
+          {
+            "countryCode": "MG",
+            "revenue": "0.00",
+            "impressions": 1,
+            "rpm": "0.00",
+            "funnelClicks": 0,
+            "clicks": 0
+          },
+          {
+            "countryCode": "MK",
+            "revenue": "0.00",
+            "impressions": 0,
+            "rpm": "0",
+            "funnelClicks": 0,
+            "clicks": 0
+          },
+          {
+            "countryCode": "ML",
+            "revenue": "0.00",
+            "impressions": 2,
+            "rpm": "0.00",
+            "funnelClicks": 0,
+            "clicks": 0
+          },
+          {
+            "countryCode": "MM",
+            "revenue": "0.00",
+            "impressions": 1,
+            "rpm": "0.00",
+            "funnelClicks": 0,
+            "clicks": 0
+          },
+          {
+            "countryCode": "MN",
+            "revenue": "0.00",
+            "impressions": 0,
+            "rpm": "0",
+            "funnelClicks": 0,
+            "clicks": 0
+          },
+          {
+            "countryCode": "MQ",
+            "revenue": "0.00",
+            "impressions": 0,
+            "rpm": "0",
+            "funnelClicks": 0,
+            "clicks": 0
+          },
+          {
+            "countryCode": "MR",
+            "revenue": "0.00",
+            "impressions": 1,
+            "rpm": "0.00",
+            "funnelClicks": 0,
+            "clicks": 0
+          },
+          {
+            "countryCode": "MT",
+            "revenue": "0.00",
+            "impressions": 0,
+            "rpm": "0",
+            "funnelClicks": 0,
+            "clicks": 0
+          },
+          {
+            "countryCode": "MU",
+            "revenue": "0.00",
+            "impressions": 0,
+            "rpm": "0",
+            "funnelClicks": 0,
+            "clicks": 0
+          },
+          {
+            "countryCode": "MV",
+            "revenue": "0.00",
+            "impressions": 0,
+            "rpm": "0",
+            "funnelClicks": 0,
+            "clicks": 0
+          },
+          {
+            "countryCode": "MW",
+            "revenue": "0.00",
+            "impressions": 0,
+            "rpm": "0",
+            "funnelClicks": 0,
+            "clicks": 0
+          },
+          {
+            "countryCode": "MX",
+            "revenue": "0.00",
+            "impressions": 40,
+            "rpm": "0.00",
+            "funnelClicks": 4,
+            "clicks": 0
+          },
+          {
+            "countryCode": "MY",
+            "revenue": "0.00",
+            "impressions": 12,
+            "rpm": "0.00",
+            "funnelClicks": 2,
+            "clicks": 0
+          },
+          {
+            "countryCode": "MZ",
+            "revenue": "0.00",
+            "impressions": 1,
+            "rpm": "0.00",
+            "funnelClicks": 0,
+            "clicks": 0
+          },
+          {
+            "countryCode": "NA",
+            "revenue": "0.00",
+            "impressions": 1,
+            "rpm": "0.00",
+            "funnelClicks": 0,
+            "clicks": 0
+          },
+          {
+            "countryCode": "NC",
+            "revenue": "0.00",
+            "impressions": 1,
+            "rpm": "0.00",
+            "funnelClicks": 1,
+            "clicks": 0
+          },
+          {
+            "countryCode": "NE",
+            "revenue": "0.00",
+            "impressions": 1,
+            "rpm": "0.00",
+            "funnelClicks": 0,
+            "clicks": 0
+          },
+          {
+            "countryCode": "NG",
+            "revenue": "0.00",
+            "impressions": 26,
+            "rpm": "0.00",
+            "funnelClicks": 4,
+            "clicks": 0
+          },
+          {
+            "countryCode": "NI",
+            "revenue": "0.00",
+            "impressions": 2,
+            "rpm": "0.00",
+            "funnelClicks": 1,
+            "clicks": 0
+          },
+          {
+            "countryCode": "NL",
+            "revenue": "0.00",
+            "impressions": 5,
+            "rpm": "0.00",
+            "funnelClicks": 0,
+            "clicks": 0
+          },
+          {
+            "countryCode": "NO",
+            "revenue": "0.00",
+            "impressions": 0,
+            "rpm": "0",
+            "funnelClicks": 0,
+            "clicks": 0
+          },
+          {
+            "countryCode": "NP",
+            "revenue": "0.00",
+            "impressions": 0,
+            "rpm": "0",
+            "funnelClicks": 0,
+            "clicks": 0
+          },
+          {
+            "countryCode": "NZ",
+            "revenue": "0.00",
+            "impressions": 0,
+            "rpm": "0",
+            "funnelClicks": 0,
+            "clicks": 0
+          },
+          {
+            "countryCode": "OM",
+            "revenue": "0.00",
+            "impressions": 2,
+            "rpm": "0.00",
+            "funnelClicks": 0,
+            "clicks": 0
+          },
+          {
+            "countryCode": "PA",
+            "revenue": "0.00",
+            "impressions": 3,
+            "rpm": "0.00",
+            "funnelClicks": 0,
+            "clicks": 0
+          },
+          {
+            "countryCode": "PE",
+            "revenue": "0.00",
+            "impressions": 8,
+            "rpm": "0.00",
+            "funnelClicks": 1,
+            "clicks": 0
+          },
+          {
+            "countryCode": "PF",
+            "revenue": "0.00",
+            "impressions": 1,
+            "rpm": "0.00",
+            "funnelClicks": 0,
+            "clicks": 0
+          },
+          {
+            "countryCode": "PG",
+            "revenue": "0.00",
+            "impressions": 1,
+            "rpm": "0.00",
+            "funnelClicks": 0,
+            "clicks": 0
+          },
+          {
+            "countryCode": "PH",
+            "revenue": "0.00",
+            "impressions": 119,
+            "rpm": "0.00",
+            "funnelClicks": 21,
+            "clicks": 0
+          },
+          {
+            "countryCode": "PK",
+            "revenue": "0.00",
+            "impressions": 7,
+            "rpm": "0.00",
+            "funnelClicks": 2,
+            "clicks": 0
+          },
+          {
+            "countryCode": "PR",
+            "revenue": "0.00",
+            "impressions": 0,
+            "rpm": "0",
+            "funnelClicks": 0,
+            "clicks": 0
+          },
+          {
+            "countryCode": "PS",
+            "revenue": "0.00",
+            "impressions": 1,
+            "rpm": "0.00",
+            "funnelClicks": 0,
+            "clicks": 0
+          },
+          {
+            "countryCode": "PT",
+            "revenue": "0.00",
+            "impressions": 9,
+            "rpm": "0.00",
+            "funnelClicks": 0,
+            "clicks": 0
+          },
+          {
+            "countryCode": "PY",
+            "revenue": "0.00",
+            "impressions": 1,
+            "rpm": "0.00",
+            "funnelClicks": 0,
+            "clicks": 0
+          },
+          {
+            "countryCode": "QA",
+            "revenue": "0.00",
+            "impressions": 0,
+            "rpm": "0",
+            "funnelClicks": 0,
+            "clicks": 0
+          },
+          {
+            "countryCode": "RE",
+            "revenue": "0.00",
+            "impressions": 0,
+            "rpm": "0",
+            "funnelClicks": 0,
+            "clicks": 0
+          },
+          {
+            "countryCode": "RO",
+            "revenue": "0.00",
+            "impressions": 6,
+            "rpm": "0.00",
+            "funnelClicks": 1,
+            "clicks": 0
+          },
+          {
+            "countryCode": "RS",
+            "revenue": "0.00",
+            "impressions": 1,
+            "rpm": "0.00",
+            "funnelClicks": 0,
+            "clicks": 0
+          },
+          {
+            "countryCode": "RU",
+            "revenue": "0.00",
+            "impressions": 0,
+            "rpm": "0",
+            "funnelClicks": 0,
+            "clicks": 0
+          },
+          {
+            "countryCode": "RW",
+            "revenue": "0.00",
+            "impressions": 0,
+            "rpm": "0",
+            "funnelClicks": 0,
+            "clicks": 0
+          },
+          {
+            "countryCode": "SA",
+            "revenue": "0.00",
+            "impressions": 12,
+            "rpm": "0.00",
+            "funnelClicks": 2,
+            "clicks": 0
+          },
+          {
+            "countryCode": "SC",
+            "revenue": "0.00",
+            "impressions": 0,
+            "rpm": "0",
+            "funnelClicks": 0,
+            "clicks": 0
+          },
+          {
+            "countryCode": "SD",
+            "revenue": "0.00",
+            "impressions": 0,
+            "rpm": "0",
+            "funnelClicks": 0,
+            "clicks": 0
+          },
+          {
+            "countryCode": "SE",
+            "revenue": "0.00",
+            "impressions": 5,
+            "rpm": "0.00",
+            "funnelClicks": 0,
+            "clicks": 0
+          },
+          {
+            "countryCode": "SG",
+            "revenue": "0.00",
+            "impressions": 2,
+            "rpm": "0.00",
+            "funnelClicks": 0,
+            "clicks": 0
+          },
+          {
+            "countryCode": "SI",
+            "revenue": "0.00",
+            "impressions": 0,
+            "rpm": "0",
+            "funnelClicks": 0,
+            "clicks": 0
+          },
+          {
+            "countryCode": "SK",
+            "revenue": "0.00",
+            "impressions": 0,
+            "rpm": "0",
+            "funnelClicks": 0,
+            "clicks": 0
+          },
+          {
+            "countryCode": "SL",
+            "revenue": "0.00",
+            "impressions": 0,
+            "rpm": "0",
+            "funnelClicks": 0,
+            "clicks": 0
+          },
+          {
+            "countryCode": "SN",
+            "revenue": "0.00",
+            "impressions": 2,
+            "rpm": "0.00",
+            "funnelClicks": 1,
+            "clicks": 0
+          },
+          {
+            "countryCode": "SO",
+            "revenue": "0.00",
+            "impressions": 0,
+            "rpm": "0",
+            "funnelClicks": 0,
+            "clicks": 0
+          },
+          {
+            "countryCode": "SR",
+            "revenue": "0.00",
+            "impressions": 2,
+            "rpm": "0.00",
+            "funnelClicks": 0,
+            "clicks": 0
+          },
+          {
+            "countryCode": "SV",
+            "revenue": "0.00",
+            "impressions": 1,
+            "rpm": "0.00",
+            "funnelClicks": 0,
+            "clicks": 0
+          },
+          {
+            "countryCode": "SX",
+            "revenue": "0.00",
+            "impressions": 0,
+            "rpm": "0",
+            "funnelClicks": 0,
+            "clicks": 0
+          },
+          {
+            "countryCode": "SY",
+            "revenue": "0.00",
+            "impressions": 0,
+            "rpm": "0",
+            "funnelClicks": 0,
+            "clicks": 0
+          },
+          {
+            "countryCode": "SZ",
+            "revenue": "0.00",
+            "impressions": 0,
+            "rpm": "0",
+            "funnelClicks": 0,
+            "clicks": 0
+          },
+          {
+            "countryCode": "TD",
+            "revenue": "0.00",
+            "impressions": 0,
+            "rpm": "0",
+            "funnelClicks": 0,
+            "clicks": 0
+          },
+          {
+            "countryCode": "TG",
+            "revenue": "0.00",
+            "impressions": 1,
+            "rpm": "0.00",
+            "funnelClicks": 0,
+            "clicks": 0
+          },
+          {
+            "countryCode": "TH",
+            "revenue": "0.00",
+            "impressions": 12,
+            "rpm": "0.00",
+            "funnelClicks": 0,
+            "clicks": 0
+          },
+          {
+            "countryCode": "TJ",
+            "revenue": "0.00",
+            "impressions": 0,
+            "rpm": "0",
+            "funnelClicks": 0,
+            "clicks": 0
+          },
+          {
+            "countryCode": "TM",
+            "revenue": "0.00",
+            "impressions": 0,
+            "rpm": "0",
+            "funnelClicks": 0,
+            "clicks": 0
+          },
+          {
+            "countryCode": "TN",
+            "revenue": "0.00",
+            "impressions": 2,
+            "rpm": "0.00",
+            "funnelClicks": 2,
+            "clicks": 0
+          },
+          {
+            "countryCode": "TR",
+            "revenue": "0.00",
+            "impressions": 40,
+            "rpm": "0.00",
+            "funnelClicks": 2,
+            "clicks": 0
+          },
+          {
+            "countryCode": "TT",
+            "revenue": "0.00",
+            "impressions": 1,
+            "rpm": "0.00",
+            "funnelClicks": 2,
+            "clicks": 0
+          },
+          {
+            "countryCode": "TW",
+            "revenue": "0.00",
+            "impressions": 1,
+            "rpm": "0.00",
+            "funnelClicks": 0,
+            "clicks": 0
+          },
+          {
+            "countryCode": "TZ",
+            "revenue": "0.00",
+            "impressions": 0,
+            "rpm": "0",
+            "funnelClicks": 0,
+            "clicks": 0
+          },
+          {
+            "countryCode": "UA",
+            "revenue": "0.00",
+            "impressions": 17,
+            "rpm": "0.00",
+            "funnelClicks": 1,
+            "clicks": 0
+          },
+          {
+            "countryCode": "UG",
+            "revenue": "0.00",
+            "impressions": 0,
+            "rpm": "0",
+            "funnelClicks": 0,
+            "clicks": 0
+          },
+          {
+            "countryCode": "UY",
+            "revenue": "0.00",
+            "impressions": 1,
+            "rpm": "0.00",
+            "funnelClicks": 0,
+            "clicks": 0
+          },
+          {
+            "countryCode": "UZ",
+            "revenue": "0.00",
+            "impressions": 4,
+            "rpm": "0.00",
+            "funnelClicks": 0,
+            "clicks": 0
+          },
+          {
+            "countryCode": "VC",
+            "revenue": "0.00",
+            "impressions": 0,
+            "rpm": "0",
+            "funnelClicks": 0,
+            "clicks": 0
+          },
+          {
+            "countryCode": "VE",
+            "revenue": "0.00",
+            "impressions": 8,
+            "rpm": "0.00",
+            "funnelClicks": 0,
+            "clicks": 0
+          },
+          {
+            "countryCode": "VN",
+            "revenue": "0.00",
+            "impressions": 9,
+            "rpm": "0.00",
+            "funnelClicks": 0,
+            "clicks": 0
+          },
+          {
+            "countryCode": "VU",
+            "revenue": "0.00",
+            "impressions": 0,
+            "rpm": "0",
+            "funnelClicks": 0,
+            "clicks": 0
+          },
+          {
+            "countryCode": "WS",
+            "revenue": "0.00",
+            "impressions": 0,
+            "rpm": "0",
+            "funnelClicks": 0,
+            "clicks": 0
+          },
+          {
+            "countryCode": "XK",
+            "revenue": "0.00",
+            "impressions": 0,
+            "rpm": "0",
+            "funnelClicks": 0,
+            "clicks": 0
+          },
+          {
+            "countryCode": "YE",
+            "revenue": "0.00",
+            "impressions": 0,
+            "rpm": "0",
+            "funnelClicks": 0,
+            "clicks": 0
+          },
+          {
+            "countryCode": "ZA",
+            "revenue": "0.00",
+            "impressions": 24,
+            "rpm": "0.00",
+            "funnelClicks": 1,
+            "clicks": 0
+          },
+          {
+            "countryCode": "ZM",
+            "revenue": "0.00",
+            "impressions": 0,
+            "rpm": "0",
+            "funnelClicks": 0,
+            "clicks": 0
+          },
+          {
+            "countryCode": "ZW",
+            "revenue": "0.00",
+            "impressions": 2,
+            "rpm": "0.00",
+            "funnelClicks": 0,
+            "clicks": 0
+          }
+        ]
+      }
+    ]
+  }
+}

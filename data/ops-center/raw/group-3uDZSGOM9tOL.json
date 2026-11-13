@@ -1,0 +1,175 @@
+{
+  "code": 200,
+  "data": {
+    "groupId": "3uDZSGOM9tOL",
+    "groupName": "Blinkdrama-v04-us",
+    "routing": "rotator",
+    "geo": "US",
+    "yesterdayRpm": 41.9,
+    "yesterdayRev": 150.19,
+    "yesterdayRpmTrend": -23.12,
+    "yesterdayRevTrend": -22.55,
+    "offerList": [
+      {
+        "offerId": "3uDYeT5aPPtk",
+        "offerName": "Blinkdrama-v04-A4-Us-2582495292-zestfularcade.com",
+        "categoryName": "肿瘤 / 生物制剂",
+        "weight": 0.33,
+        "channelId": "2582495292",
+        "countryCode": "US",
+        "afsSource": "4",
+        "todayRpm": 71.6,
+        "todayRev": 42.7
+      },
+      {
+        "offerId": "3uDYkbUyIjd4",
+        "offerName": "Blinkdrama-v04-A7-Us-12152-algo-cash.com",
+        "categoryName": "心理健康 / 成瘾",
+        "weight": 0.01,
+        "channelId": "12152",
+        "countryCode": "US",
+        "afsSource": "7",
+        "todayRpm": 12.7,
+        "todayRev": 1.17
+      },
+      {
+        "offerId": "3v8StjHNuib6",
+        "offerName": "Blinkdrama-v04-A1-Us-15587-homeguarddeals.com",
+        "categoryName": "消费电子",
+        "weight": 0.17,
+        "channelId": "15587",
+        "countryCode": "US",
+        "afsSource": "1",
+        "todayRpm": 36.1,
+        "todayRev": 4.11
+      },
+      {
+        "offerId": "3wsFpL1meodv",
+        "offerName": "Blinkdrama-v04-A15-us-4932131851-mpbus.com",
+        "categoryName": "心理健康 / 成瘾",
+        "weight": 0.01,
+        "channelId": "4932131851",
+        "countryCode": "US",
+        "afsSource": "15",
+        "todayRpm": 7.5,
+        "todayRev": 1.72
+      },
+      {
+        "offerId": "3wsEeZLuKQWU",
+        "offerName": "Blinkdrama-v04-A5-us-1304490452-joyfullplayland.com",
+        "categoryName": "消费电子",
+        "weight": 0.02,
+        "channelId": "1304490452",
+        "countryCode": "US",
+        "afsSource": "5",
+        "todayRpm": 17,
+        "todayRev": 4.21
+      },
+      {
+        "offerId": "3yQhAOrPBABm",
+        "offerName": "Blinkdrama-v04-A12-us-2092927125-degreesuccesstips.com",
+        "categoryName": "注射除皱",
+        "weight": 0.03,
+        "channelId": "2092927125",
+        "countryCode": "US",
+        "afsSource": "12",
+        "todayRpm": 26.9,
+        "todayRev": 2.02
+      },
+      {
+        "offerId": "3ywPwkSXwBMK",
+        "offerName": "Blinkdrama-v04-A1-Us-13435-beauty-center-nearby.com",
+        "categoryName": "呼吸与睡眠",
+        "weight": 0.03,
+        "channelId": "13435",
+        "countryCode": "US",
+        "afsSource": "1",
+        "todayRpm": 27.1,
+        "todayRev": 3.61
+      },
+      {
+        "offerId": "3ywQ3NAIOhNT",
+        "offerName": "Blinkdrama-v04-A1-Us-13436-insurance-consulting-nearby.com",
+        "categoryName": "医疗·偏头痛",
+        "weight": 0.25,
+        "channelId": "13436",
+        "countryCode": "US",
+        "afsSource": "1",
+        "todayRpm": 56.8,
+        "todayRev": 32.75
+      },
+      {
+        "offerId": "3ywQ8jFYryVg",
+        "offerName": "Blinkdrama-v04-A5-us-5282279430-easyfungalaxy.com",
+        "categoryName": "面部提拉",
+        "weight": 0.18,
+        "channelId": "5282279430",
+        "countryCode": "US",
+        "afsSource": "5",
+        "todayRpm": 39.2,
+        "todayRev": 3.37
+      },
+      {
+        "offerId": "3ywQHa5elDYV",
+        "offerName": "Blinkdrama-v04-A7-Us-18654-www.newamc.com",
+        "categoryName": "牙科",
+        "weight": 0.22,
+        "channelId": "18654",
+        "countryCode": "US",
+        "afsSource": "7",
+        "todayRpm": 48.9,
+        "todayRev": 43.25
+      },
+      {
+        "offerId": "3ywQK5GtqBQZ",
+        "offerName": "Blinkdrama-v04-A7-Us-18655-bank-flux.com",
+        "categoryName": "消费电子",
+        "weight": 0.25,
+        "channelId": "18655",
+        "countryCode": "US",
+        "afsSource": "7",
+        "todayRpm": 54.1,
+        "todayRev": 17.52
+      },
+      {
+        "offerId": "3ywQQ3BdmntQ",
+        "offerName": "Blinkdrama-v04-A12-us-4878136127-intodeepdive.com",
+        "categoryName": "消费电子",
+        "weight": 0.18,
+        "channelId": "4878136127",
+        "countryCode": "US",
+        "afsSource": "12",
+        "todayRpm": 34.6,
+        "todayRev": 3.11
+      },
+      {
+        "offerId": "3ywQXlD6l6Pu",
+        "offerName": "Blinkdrama-v04-A15-us-6803644972-lstmai.com",
+        "categoryName": "面部提拉",
+        "weight": 0.03,
+        "channelId": "6803644972",
+        "countryCode": "US",
+        "afsSource": "15",
+        "todayRpm": 3.9,
+        "todayRev": 0.23
+      },
+      {
+        "offerId": "43qK1R5ujOmd",
+        "offerName": "Blinkdrama-v04-A17-us-1937656365-seekmoon.ai",
+        "categoryName": null,
+        "weight": 0.19,
+        "channelId": "1937656365",
+        "countryCode": "US",
+        "afsSource": "17",
+        "todayRpm": 0,
+        "todayRev": 0
+      }
+    ],
+    "funnelId": "3uDZt8ImMHUl",
+    "funnelName": "Blinkdrama-v04",
+    "partnerName": "Blinkdrama",
+    "urlName": "Blinkdrama-v04",
+    "urlId": 143,
+    "platform": "MIS"
+  }
+}

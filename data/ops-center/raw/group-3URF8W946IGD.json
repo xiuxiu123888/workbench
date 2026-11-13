@@ -1,0 +1,65 @@
+{
+  "code": 200,
+  "data": {
+    "groupId": "3URF8W946IGD",
+    "groupName": "JZ-06-IT",
+    "routing": "",
+    "geo": "IT",
+    "yesterdayRpm": 0.1,
+    "yesterdayRev": 0.07,
+    "yesterdayRpmTrend": -83.33,
+    "yesterdayRevTrend": -77.42,
+    "offerList": [
+      {
+        "offerId": "3bwD77ZJhZaf",
+        "offerName": "JZ-06-A1-it-4613686949",
+        "categoryName": "太阳能储能",
+        "weight": 0.02,
+        "channelId": "4613686949",
+        "countryCode": null,
+        "afsSource": null,
+        "todayRpm": 0,
+        "todayRev": 0
+      },
+      {
+        "offerId": "3lMAsjNe9in0",
+        "offerName": "JZ-06-A12-IT-6838607522",
+        "categoryName": "种植牙",
+        "weight": 0.02,
+        "channelId": "6838607522",
+        "countryCode": null,
+        "afsSource": null,
+        "todayRpm": 0,
+        "todayRev": 0
+      },
+      {
+        "offerId": "3X6NP5vxaLvB",
+        "offerName": "JZ-06-A7-IT-3115809079",
+        "categoryName": "BNPL",
+        "weight": 1,
+        "channelId": "3115809079",
+        "countryCode": null,
+        "afsSource": null,
+        "todayRpm": 0.3,
+        "todayRev": 0.07
+      },
+      {
+        "offerId": "3XGvuPD8aqT7",
+        "offerName": "JZ-06-A4-IT-9259456650",
+        "categoryName": "BNPL",
+        "weight": 0.02,
+        "channelId": "9259456650",
+        "countryCode": null,
+        "afsSource": null,
+        "todayRpm": 0,
+        "todayRev": 0
+      }
+    ],
+    "funnelId": "3SmbEZti3YSr",
+    "funnelName": "JZ-06",
+    "partnerName": "shortmax",
+    "urlName": "JZ-06",
+    "urlId": 86,
+    "platform": "FF"
+  }
+}

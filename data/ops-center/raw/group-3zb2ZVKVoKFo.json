@@ -1,0 +1,54 @@
+{
+  "code": 200,
+  "data": {
+    "groupId": "3zb2ZVKVoKFo",
+    "groupName": "moboreels-v03-us",
+    "routing": "rotator",
+    "geo": "US",
+    "yesterdayRpm": 20,
+    "yesterdayRev": 20.23,
+    "yesterdayRpmTrend": -66.44,
+    "yesterdayRevTrend": -84.45,
+    "offerList": [
+      {
+        "offerId": "3zb1drsZvtna",
+        "offerName": "moboreels-v03-A12-us-2506279147-intodeepdive.com",
+        "categoryName": "消费电子",
+        "weight": 0.17,
+        "channelId": "2506279147",
+        "countryCode": "US",
+        "afsSource": "12",
+        "todayRpm": 7.5,
+        "todayRev": 2.26
+      },
+      {
+        "offerId": "3zb1ibulZhr3",
+        "offerName": "moboreels-v03-A4-us-1747103610-zestfularcade.com",
+        "categoryName": "新能源汽车",
+        "weight": 1,
+        "channelId": "1747103610",
+        "countryCode": "US",
+        "afsSource": "4",
+        "todayRpm": 14.7,
+        "todayRev": 15.91
+      },
+      {
+        "offerId": "43qO2m9YUmCL",
+        "offerName": "moboreels-v02-A17-us-5769090169-seekmoon.ai",
+        "categoryName": null,
+        "weight": 0.25,
+        "channelId": "5769090169",
+        "countryCode": "US",
+        "afsSource": "17",
+        "todayRpm": 0,
+        "todayRev": 0
+      }
+    ],
+    "funnelId": "3zb3PGEznP52",
+    "funnelName": "moboreels-v03",
+    "partnerName": null,
+    "urlName": null,
+    "urlId": null,
+    "platform": "MIS"
+  }
+}

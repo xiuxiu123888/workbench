@@ -1,0 +1,18 @@
+{
+  "pulledAt": "2026-11-13T10:00:27.352Z",
+  "primaryDay": "2026-11-13",
+  "metricDays": [
+    "2026-11-13",
+    "2026-11-12"
+  ],
+  "funnelCount": 77,
+  "groupCount": 275,
+  "offerCount": 1124,
+  "matchedOfferCount": 556,
+  "flatStatsCount": 562,
+  "rebuiltAt": "2026-11-13T10:29:52.256Z",
+  "replaceAdviceCount": 40,
+  "funnelReplaceCount": 14,
+  "lastHourlyAt": "2026-11-13T10:00:27.352Z",
+  "lastHourlyHour": "18"
+}

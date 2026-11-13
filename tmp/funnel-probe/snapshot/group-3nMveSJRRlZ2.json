@@ -1,0 +1,43 @@
+{
+  "code": 200,
+  "data": {
+    "groupId": "3nMveSJRRlZ2",
+    "groupName": "cd-reel-A61-it",
+    "routing": "",
+    "geo": "IT",
+    "yesterdayRpm": 0.3,
+    "yesterdayRev": 0.51,
+    "yesterdayRpmTrend": 200,
+    "yesterdayRevTrend": 466.67,
+    "offerList": [
+      {
+        "offerId": "3i2aPs07M74d",
+        "offerName": "cd-reel-A61-A12-IT-4301742392",
+        "categoryName": "太阳能储能",
+        "weight": 1,
+        "channelId": "4301742392",
+        "countryCode": null,
+        "afsSource": null,
+        "todayRpm": 0.3,
+        "todayRev": 0.28
+      },
+      {
+        "offerId": "3lplh9SWgOO2",
+        "offerName": "cd-reel-A61-A14-IT-4079063652",
+        "categoryName": "太阳能储能",
+        "weight": 0.02,
+        "channelId": "4079063652",
+        "countryCode": null,
+        "afsSource": null,
+        "todayRpm": 0,
+        "todayRev": 0
+      }
+    ],
+    "funnelId": "3O4uJVikic4W",
+    "funnelName": "cd-reel-A4-61",
+    "partnerName": "changdu",
+    "urlName": "moboreels",
+    "urlId": 61,
+    "platform": "FF"
+  }
+}

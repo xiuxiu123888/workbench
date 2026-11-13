@@ -1,0 +1,76 @@
+{
+  "code": 200,
+  "data": {
+    "groupId": "3zb0wsFpgmB0",
+    "groupName": "moboreels-v01-default",
+    "routing": "rotator",
+    "geo": "US",
+    "yesterdayRpm": 9.8,
+    "yesterdayRev": 98.48,
+    "yesterdayRpmTrend": -45.56,
+    "yesterdayRevTrend": 56.29,
+    "offerList": [
+      {
+        "offerId": "3zayyeTlDgbi",
+        "offerName": "moboreels-v01-A4-default-2811958953",
+        "categoryName": "医疗·泌尿外科",
+        "weight": 1,
+        "channelId": "2811958953",
+        "countryCode": null,
+        "afsSource": "4",
+        "todayRpm": 24.9,
+        "todayRev": 33.33
+      },
+      {
+        "offerId": "3zayu67Walb2",
+        "offerName": "moboreels-v01-A7-default-10924",
+        "categoryName": "肿瘤 / 生物制剂",
+        "weight": 1,
+        "channelId": "10924",
+        "countryCode": null,
+        "afsSource": "7",
+        "todayRpm": 17.3,
+        "todayRev": 14.34
+      },
+      {
+        "offerId": "3zaygnhstMYT",
+        "offerName": "moboreels-v01-A12-default-4301742392",
+        "categoryName": "心理健康 / 成瘾",
+        "weight": 1,
+        "channelId": "4301742392",
+        "countryCode": null,
+        "afsSource": "12",
+        "todayRpm": 19.4,
+        "todayRev": 11.03
+      },
+      {
+        "offerId": "402HrJ1TwFPp",
+        "offerName": "moboreels-v01-A15-6671046943-default",
+        "categoryName": "骨科 / 关节",
+        "weight": 1,
+        "channelId": "6671046943",
+        "countryCode": null,
+        "afsSource": "15",
+        "todayRpm": 1.7,
+        "todayRev": 1.12
+      },
+      {
+        "offerId": "43qNtX76TPpN",
+        "offerName": "moboreels-v01-A17-us-6890600145-seekmoon.ai",
+        "categoryName": null,
+        "weight": 1,
+        "channelId": "6890600145",
+        "countryCode": "US",
+        "afsSource": "17",
+        "todayRpm": 0,
+        "todayRev": 0
+      }
+    ],
+    "funnelId": "3zb0bcaeqhVS",
+    "funnelName": "moboreels-v01",
+    "partnerName": null,
+    "urlName": null,
+    "urlId": null,
+    "platform": "MIS"
+  }
+}

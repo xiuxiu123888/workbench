@@ -1,0 +1,131 @@
+{
+  "code": 200,
+  "data": {
+    "groupId": "3x46sbUFq6hL",
+    "groupName": "ShortMax-v05-us",
+    "routing": "rotator",
+    "geo": "US",
+    "yesterdayRpm": 91.4,
+    "yesterdayRev": 795.23,
+    "yesterdayRpmTrend": 2.7,
+    "yesterdayRevTrend": 1.59,
+    "offerList": [
+      {
+        "offerId": "3x3XmmUlwdky",
+        "offerName": "JZ-05-A15-Us-9741605402-51jiejue.com",
+        "categoryName": "其他",
+        "weight": 0.01,
+        "channelId": "9741605402",
+        "countryCode": "US",
+        "afsSource": "15",
+        "todayRpm": 6.6,
+        "todayRev": 0.83
+      },
+      {
+        "offerId": "3x3Xh65BLqEK",
+        "offerName": "JZ-05-A5-Us-9921347079-funfillgames.com",
+        "categoryName": "HIV",
+        "weight": 0.04,
+        "channelId": "9921347079",
+        "countryCode": "US",
+        "afsSource": "5",
+        "todayRpm": 34,
+        "todayRev": 8.93
+      },
+      {
+        "offerId": "3x3Xc12uDBJd",
+        "offerName": "JZ-05-A4-Us-7105008550-zestfularcade.com",
+        "categoryName": "特殊疾病药品",
+        "weight": 0.25,
+        "channelId": "7105008550",
+        "countryCode": "US",
+        "afsSource": "4",
+        "todayRpm": 36.8,
+        "todayRev": 17.27
+      },
+      {
+        "offerId": "3x3XWX174Z5V",
+        "offerName": "JZ-05-A7-us-7893692728-algo-cash.com",
+        "categoryName": "丁丙诺啡市场",
+        "weight": 0.02,
+        "channelId": "7893692728",
+        "countryCode": "US",
+        "afsSource": "7",
+        "todayRpm": 9.9,
+        "todayRev": 1.64
+      },
+      {
+        "offerId": "3x3XPpAsqz2o",
+        "offerName": "JZ-05-A4-Us-9731171890-fluxpaid.com",
+        "categoryName": "HIV",
+        "weight": 0.68,
+        "channelId": "9731171890",
+        "countryCode": "US",
+        "afsSource": "4",
+        "todayRpm": 117.4,
+        "todayRev": 446.01
+      },
+      {
+        "offerId": "3x3XHiMgzHr7",
+        "offerName": "JZ-05-A7-us-5319500273-www.newamc.com",
+        "categoryName": "丁丙诺啡市场",
+        "weight": 0.28,
+        "channelId": "5319500273",
+        "countryCode": "US",
+        "afsSource": "7",
+        "todayRpm": 50.5,
+        "todayRev": 57.28
+      },
+      {
+        "offerId": "3x3WMyXbiFVW",
+        "offerName": "JZ-05-A12-us-9588273761-intodeepdive.com",
+        "categoryName": "丁丙诺啡市场",
+        "weight": 0.01,
+        "channelId": "9588273761",
+        "countryCode": "US",
+        "afsSource": "12",
+        "todayRpm": 7.9,
+        "todayRev": 0.89
+      },
+      {
+        "offerId": "3x3WHv45ayCj",
+        "offerName": "JZ-05-A1-us-16503-insurance-consulting-nearby.com",
+        "categoryName": "事故律师",
+        "weight": 0.22,
+        "channelId": "16503",
+        "countryCode": "US",
+        "afsSource": "1",
+        "todayRpm": 40.3,
+        "todayRev": 14.02
+      },
+      {
+        "offerId": "3x3WCujvl6mI",
+        "offerName": "JZ-05-A1-us-9683214635-beauty-center-nearby.com",
+        "categoryName": "其他",
+        "weight": 0.03,
+        "channelId": "9683214635",
+        "countryCode": "US",
+        "afsSource": "1",
+        "todayRpm": 22.4,
+        "todayRev": 2.4
+      },
+      {
+        "offerId": "3x3W5tBvGzaX",
+        "offerName": "JZ-05-A12-us-5044812577-degreesuccesstips.com",
+        "categoryName": "临床研究",
+        "weight": 0.03,
+        "channelId": "5044812577",
+        "countryCode": "US",
+        "afsSource": "12",
+        "todayRpm": 20,
+        "todayRev": 5.77
+      }
+    ],
+    "funnelId": "3x47BxwjQBMo",
+    "funnelName": "ShortMax-v05",
+    "partnerName": "shortmax",
+    "urlName": null,
+    "urlId": null,
+    "platform": "MIS"
+  }
+}

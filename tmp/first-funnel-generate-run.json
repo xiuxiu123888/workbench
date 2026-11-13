@@ -1,0 +1,4070 @@
+{
+  "title": "第一个漏斗产文执行",
+  "startedAt": "2026-11-11T10:15:54.519Z",
+  "funnel": {
+    "funnelId": "3sFDWWqvNxR9",
+    "funnelName": "Blinkdrama-v01",
+    "partnerName": "Blinkdrama",
+    "revenue": 1919.1099999999997,
+    "offerCountReport": 23,
+    "groupCountReport": 2
+  },
+  "generateArticles": true,
+  "publish": false,
+  "user": {
+    "userId": "43",
+    "userName": "jiayaowu@pixeljet.cn"
+  },
+  "languageFallbackId": 1,
+  "tasks": [
+    {
+      "taskIndex": 1,
+      "status": "published",
+      "offerId": "3sF8IOP57Geg",
+      "offerName": "Blinkdrama-v01-A4-Us-9111267282-zestfularcade.com",
+      "groupId": "3sFCVTgYYRkx",
+      "groupName": "Blinkdrama-v01-us",
+      "geo": "US",
+      "channelId": "9111267282",
+      "oldLandingUrl": "https://zestfularcade.com/detail/236588121583?ref=Buprenorphine%20Market%202026&channel=9111267282&hit={hit}&rType=2&partner=Blinkdrama",
+      "oldArticleId": "236588121583",
+      "host": "zestfularcade.com",
+      "siteId": 6,
+      "accountId": 2,
+      "siteName": "zestfularcade.com",
+      "siteResolved": true,
+      "seed": {
+        "keyword": "Opdivo Cost Without Insurance",
+        "intentKeyword": "Opdivo Cost Without Insurance",
+        "ref": "Opdivo Cost Without Insurance",
+        "domainCategory": "肿瘤 / 生物制剂",
+        "categoryId": 6308,
+        "regionId": "US"
+      },
+      "articleJobPreview": {
+        "publish": false,
+        "articlesPerDomain": 1,
+        "willCreate": false,
+        "note": "本轮只出计划，不调用 article-jobs",
+        "targets": [
+          {
+            "domain": "jubilantsphere.com",
+            "site_id": 5,
+            "account_id": 2
+          }
+        ]
+      },
+      "newLandingUrlExample": "https://jubilantsphere.com/detail/PENDING_ARTICLE_1?ref=construction+accident+lawyer+near+me&channel=9111267282&hit={hit}&rType=2&partner=Blinkdrama&subid1=9111267282&subid2=PENDING_ARTICLE_1",
+      "urlRewriteRule": {
+        "replaceArticleIdInPath": true,
+        "setSubid1": "channelId",
+        "setSubid2": "newArticleId",
+        "keepOtherQueryParams": true,
+        "overwriteRefWithKeyword": false
+      },
+      "languageId": 1,
+      "taskId": "job_5e27401e6e574395944e217303897286",
+      "createError": null,
+      "createdAt": "2026-11-11T10:15:55.456Z",
+      "rawCreate": {
+        "task_id": "job_a7a1b725eb124efe937f0f788f644828",
+        "status": "queued"
+      },
+      "pollStatus": "success",
+      "progress": {
+        "total": 1,
+        "completed": 1,
+        "success": 1,
+        "failed": 0,
+        "running": 0
+      },
+      "note": "已按 getById 纠正域名重产 article_id=849092230200",
+      "itemId": 9713,
+      "newArticleId": "849092230200",
+      "publishRaw": {
+        "task_id": "job_a7a1b725eb124efe937f0f788f644828",
+        "status": "success",
+        "mode": "auto",
+        "intent_keyword": "Opdivo Cost Without Insurance",
+        "category_id": 6308,
+        "language_id": 1,
+        "region_id": "US",
+        "options": {
+          "title": {
+            "max_length": 70,
+            "include_year": true
+          },
+          "overview": {
+            "min_length": 0,
+            "max_length": 150
+          },
+          "body": {
+            "target_length": 2000,
+            "min_length": 1500,
+            "include_cta": true,
+            "include_headings": true,
+            "include_tables": true,
+            "include_lists": true
+          },
+          "keywords": {
+            "mode": "auto",
+            "values": [],
+            "min_count": 5,
+            "max_count": 10,
+            "include_in_title": true,
+            "include_in_overview": true,
+            "include_in_headings": true,
+            "include_in_body": true,
+            "include_in_seo": true
+          },
+          "seo": {
+            "enabled": true,
+            "title_max_length": 60,
+            "description_max_length": 160
+          },
+          "image": {
+            "enabled": true
+          },
+          "video": null,
+          "source": {
+            "show_in_article": false
+          },
+          "thinking": {
+            "enabled": false
+          },
+          "outline": {
+            "enabled": false,
+            "sections": null
+          },
+          "topic_research": {
+            "provider": "tavily",
+            "query_count": 3
+          },
+          "tags": {
+            "enabled": false
+          },
+          "retry": {
+            "enabled": true
+          },
+          "articles_per_domain": 1,
+          "out_show": false,
+          "generate_author": true,
+          "publish": false
+        },
+        "user": {
+          "user_id": "43",
+          "user_name": "jiayaowu@pixeljet.cn"
+        },
+        "callback_url": null,
+        "progress": {
+          "total": 1,
+          "completed": 1,
+          "success": 1,
+          "failed": 0,
+          "running": 0
+        },
+        "usage": {
+          "tavily_calls": 7,
+          "planning_tavily_calls": 3
+        },
+        "results": [
+          {
+            "id": 9681,
+            "domain": "jubilantsphere.com",
+            "article_number": 1,
+            "site_id": 5,
+            "account_id": 2,
+            "status": "success",
+            "article_id": 679883145653,
+            "conversation_id": 16173,
+            "direction": {
+              "domain": "jubilantsphere.com",
+              "title": "Opdivo Cost Without Insurance 2026: Real Prices and Help",
+              "primary_keyword": "Opdivo cost without insurance",
+              "secondary_keywords": [
+                "nivolumab list price 2026",
+                "Opdivo Qvantig cost",
+                "Bristol Myers Squibb patient assistance program",
+                "Opdivo infusion cost per dose",
+                "manufacturer copay assistance Opdivo",
+                "cash price nivolumab"
+              ],
+              "angle": "A decision-focused cost breakdown that translates the January 2026 $8,101.94 per-vial list price into realistic per-dose and per-cycle out-of-pocket totals, then maps the practical routes uninsured patients can pursue (manufacturer assistance, independent foundations, clinical trials, cash-negotiated infusion sites) with the tradeoffs of each.",
+              "audience": "Uninsured or underinsured US adults newly prescribed nivolumab (or a caregiver/spouse managing the bills) who received a treatment plan and need to understand what they will actually owe before the first infusion.",
+              "search_intent": "Transactional-informational: the reader wants a concrete dollar figure for Opdivo without insurance and an actionable path to reduce or cover it.",
+              "core_arguments": [
+                "The published list price of $8,101.94 per 240 mg vial or Opdivo Qvantig 600 mg vial (January 2026) is a starting reference, not the bill: dose, schedule, and infusion-site fees drive the real total, and some regimens use multiple vials per cycle.",
+                "Bristol Myers Squibb's patient assistance and access programs, plus independent nonprofit funds, are the highest-yield first stops for uninsured patients, but eligibility rules, income thresholds, and fund availability change frequently.",
+                "Where a patient receives care (hospital outpatient vs. community infusion center vs. home injection) can shift the total bill more than the drug price itself, so site-of-care questions belong in the first conversation with the oncology team.",
+                "Clinical trials and expanded-access programs offer a legitimate route to treatment at little or no cost, and asking early preserves options before treatment starts.",
+                "Financial planning should happen before cycle one, not after the first invoice, because assistance applications take time and some programs require pre-authorization."
+              ],
+              "content_format": "Cost analysis with an embedded decision framework",
+              "outline_strategy": "Open with the sticker-price reality and immediately reframe it as a per-cycle estimate. Move into a structured breakdown of what drives the bill (vial price, dose, schedule, site fees), then present a ranked set of cost-reduction routes with eligibility notes and timing considerations. Close with a practical pre-treatment checklist the reader can bring to their care team.",
+              "writing_path": "direct",
+              "research_queries": [
+                "Opdivo list price 2026 without insurance per vial",
+                "Bristol Myers Squibb patient assistance program Opdivo 2026 eligibility",
+                "nivolumab infusion cost hospital outpatient vs community center 2026",
+                "nonprofit copay assistance funds oncology 2026 uninsured"
+              ],
+              "author_name": "Megan Caldwell"
+            },
+            "attempts": 1,
+            "tavily_calls": 4,
+            "author_name": "Megan Caldwell",
+            "selected_tags": [],
+            "tag_results": [],
+            "error_code": null,
+            "error_message": null
+          }
+        ],
+        "error_message": null,
+        "created_at": "2026-11-11T10:15:55.247119+00:00",
+        "started_at": "2026-11-11T10:15:57.172720+00:00",
+        "completed_at": "2026-11-11T10:18:26.429646+00:00"
+      },
+      "publishStatus": "success",
+      "publishError": null,
+      "newLandingUrl": "https://zestfularcade.com/detail/849092230200?ref=Opdivo+Cost+Without+Insurance&channel=9111267282&hit={hit}&rType=2&partner=Blinkdrama&subid1=9111267282&subid2=849092230200",
+      "publishedAt": "2026-11-11T10:24:05.644Z",
+      "regeneratedAt": "2026-11-11T11:22:08.852Z",
+      "previousWrongHost": "zestfularcade.com",
+      "previousWrongArticleId": "679883145653"
+    },
+    {
+      "taskIndex": 2,
+      "status": "published",
+      "offerId": "3sFC6AG3G1XY",
+      "offerName": "Blinkdrama-v01-A7-Us-11849-quantify-energy.com",
+      "groupId": "3sFCVTgYYRkx",
+      "groupName": "Blinkdrama-v01-us",
+      "geo": "US",
+      "channelId": "11849",
+      "oldLandingUrl": "https://quantify-energy.com/detail/627083313133?ref=birth%20injury%20lawyer%20near%20me&channel=11849&hit={hit}&rType=2&partner=Blinkdrama",
+      "oldArticleId": "627083313133",
+      "host": "quantify-energy.com",
+      "siteId": 29,
+      "accountId": 4,
+      "siteName": "quantify-energy.com",
+      "siteResolved": true,
+      "seed": {
+        "keyword": "Sleep Study Cost Without Insurance",
+        "intentKeyword": "Sleep Study Cost Without Insurance",
+        "ref": "Sleep Study Cost Without Insurance",
+        "domainCategory": "诊断 / 急诊",
+        "categoryId": 6316,
+        "regionId": "US"
+      },
+      "articleJobPreview": {
+        "publish": false,
+        "articlesPerDomain": 1,
+        "willCreate": false,
+        "note": "本轮只出计划，不调用 article-jobs",
+        "targets": [
+          {
+            "domain": "bank-flux.com",
+            "site_id": 39,
+            "account_id": 4
+          }
+        ]
+      },
+      "newLandingUrlExample": "https://bank-flux.com/detail/PENDING_ARTICLE_2?ref=construction+accident+lawyer+near+me&channel=11849&hit={hit}&rType=2&partner=Blinkdrama&subid1=11849&subid2=PENDING_ARTICLE_2",
+      "urlRewriteRule": {
+        "replaceArticleIdInPath": true,
+        "setSubid1": "channelId",
+        "setSubid2": "newArticleId",
+        "keepOtherQueryParams": true,
+        "overwriteRefWithKeyword": false
+      },
+      "languageId": 1,
+      "taskId": "job_52960409edc949bd9835d05a6fc895ac",
+      "createError": null,
+      "createdAt": "2026-11-11T10:15:55.971Z",
+      "rawCreate": {
+        "task_id": "job_ebe84e4604294ded8bd48c9556dd9654",
+        "status": "queued"
+      },
+      "pollStatus": "success",
+      "progress": {
+        "total": 1,
+        "completed": 1,
+        "success": 1,
+        "failed": 0,
+        "running": 0
+      },
+      "note": "已按 getById 纠正域名重产 article_id=201380898714",
+      "itemId": 9714,
+      "newArticleId": "201380898714",
+      "publishRaw": {
+        "task_id": "job_ebe84e4604294ded8bd48c9556dd9654",
+        "status": "success",
+        "mode": "auto",
+        "intent_keyword": "Sleep Study Cost Without Insurance",
+        "category_id": 6316,
+        "language_id": 1,
+        "region_id": "US",
+        "options": {
+          "title": {
+            "max_length": 70,
+            "include_year": true
+          },
+          "overview": {
+            "min_length": 0,
+            "max_length": 150
+          },
+          "body": {
+            "target_length": 2000,
+            "min_length": 1500,
+            "include_cta": true,
+            "include_headings": true,
+            "include_tables": true,
+            "include_lists": true
+          },
+          "keywords": {
+            "mode": "auto",
+            "values": [],
+            "min_count": 5,
+            "max_count": 10,
+            "include_in_title": true,
+            "include_in_overview": true,
+            "include_in_headings": true,
+            "include_in_body": true,
+            "include_in_seo": true
+          },
+          "seo": {
+            "enabled": true,
+            "title_max_length": 60,
+            "description_max_length": 160
+          },
+          "image": {
+            "enabled": true
+          },
+          "video": null,
+          "source": {
+            "show_in_article": false
+          },
+          "thinking": {
+            "enabled": false
+          },
+          "outline": {
+            "enabled": false,
+            "sections": null
+          },
+          "topic_research": {
+            "provider": "tavily",
+            "query_count": 3
+          },
+          "tags": {
+            "enabled": false
+          },
+          "retry": {
+            "enabled": true
+          },
+          "articles_per_domain": 1,
+          "out_show": false,
+          "generate_author": true,
+          "publish": false
+        },
+        "user": {
+          "user_id": "43",
+          "user_name": "jiayaowu@pixeljet.cn"
+        },
+        "callback_url": null,
+        "progress": {
+          "total": 1,
+          "completed": 1,
+          "success": 1,
+          "failed": 0,
+          "running": 0
+        },
+        "usage": {
+          "tavily_calls": 7,
+          "planning_tavily_calls": 3
+        },
+        "results": [
+          {
+            "id": 9682,
+            "domain": "bank-flux.com",
+            "article_number": 1,
+            "site_id": 39,
+            "account_id": 4,
+            "status": "success",
+            "article_id": 676872356431,
+            "conversation_id": 16167,
+            "direction": {
+              "domain": "bank-flux.com",
+              "title": "Sleep Study Cost Without Insurance in 2026: Real Prices",
+              "primary_keyword": "sleep study cost without insurance",
+              "secondary_keywords": [
+                "cash pay sleep study 2026",
+                "home sleep apnea test price",
+                "in-lab polysomnography cost",
+                "uninsured sleep test cost",
+                "good faith estimate sleep study",
+                "affordable sleep study options"
+              ],
+              "angle": "A cash-payer's cost breakdown that separates the sticker price from what an uninsured person actually hands over, contrasting flat-fee home tests against hospital-billed lab studies and showing how the federal Good Faith Estimate rule protects uninsured patients from surprise bills.",
+              "audience": "Uninsured or high-deductible US adults with suspected sleep apnea who are weighing a home test versus a lab study and need to budget before booking anything.",
+              "search_intent": "Transactional-informational: the reader wants concrete dollar figures for paying out of pocket and a clear path to the cheapest clinically appropriate option.",
+              "core_arguments": [
+                "The gap between the cheapest and most expensive sleep study is enormous — roughly $150 at the low end for a home test versus $5,000 to $10,000 or more for a hospital-based lab study — so where you get tested matters more than almost any other factor.",
+                "Home sleep apnea tests are the default budget route for uninsured patients, commonly $150 to $500 cash with interpretation bundled, but they are not appropriate for every condition and may need a follow-up lab study.",
+                "Uninsured patients are legally entitled to a written Good Faith Estimate before care, and a bill that exceeds that estimate by $400 or more can be disputed — a protection most cash payers never use.",
+                "Asking for a self-pay or cash package price directly from an independent sleep center often beats the billed charge by a wide margin, because list prices are negotiated down for insurers and rarely reflect what a cash patient should pay.",
+                "Total out-of-pocket cost includes more than the test itself — physician interpretation, follow-up visits, and any CPAP equipment — so a full budget should be built before the first appointment."
+              ],
+              "content_format": "Cost analysis with a decision framework",
+              "outline_strategy": "Open with the real spread of cash prices rather than a single average, then walk the reader through a side-by-side cost table for home versus lab testing including hidden add-ons. Move into the legal lever of the Good Faith Estimate and how to dispute an inflated bill, then close with a step-by-step script for requesting self-pay pricing and a simple budget worksheet that accounts for interpretation, follow-up, and treatment.",
+              "writing_path": "direct",
+              "research_queries": [
+                "sleep study cost without insurance 2026 United States",
+                "home sleep apnea test cash price 2026",
+                "Good Faith Estimate uninsured sleep study dispute 2026",
+                "in-lab polysomnography self-pay cost by state 2026"
+              ],
+              "author_name": "Daniel Reyes"
+            },
+            "attempts": 1,
+            "tavily_calls": 4,
+            "author_name": "Daniel Reyes",
+            "selected_tags": [],
+            "tag_results": [],
+            "error_code": null,
+            "error_message": null
+          }
+        ],
+        "error_message": null,
+        "created_at": "2026-11-11T10:15:55.766842+00:00",
+        "started_at": "2026-11-11T10:15:57.201908+00:00",
+        "completed_at": "2026-11-11T10:17:24.368634+00:00"
+      },
+      "publishStatus": "success",
+      "publishError": null,
+      "newLandingUrl": "https://quantify-energy.com/detail/201380898714?ref=Sleep+Study+Cost+Without+Insurance&channel=11849&hit={hit}&rType=2&partner=Blinkdrama&subid1=11849&subid2=201380898714",
+      "publishedAt": "2026-11-11T10:24:05.645Z",
+      "regeneratedAt": "2026-11-11T11:22:52.687Z",
+      "previousWrongHost": "quantify-energy.com",
+      "previousWrongArticleId": "676872356431"
+    },
+    {
+      "taskIndex": 3,
+      "status": "published",
+      "offerId": "3v8Siju4ffvs",
+      "offerName": "Blinkdrama-v01-A1-Us-15584-nearby-dental-implants.com",
+      "groupId": "3sFCVTgYYRkx",
+      "groupName": "Blinkdrama-v01-us",
+      "geo": "US",
+      "channelId": "15584",
+      "oldLandingUrl": "https://nearby-dental-implants.com/detail/236588121583?ref=Buprenorphine%20Market%202026&channel=15584&hit={hit}&rType=2&partner=Blinkdrama",
+      "oldArticleId": "236588121583",
+      "host": "nearby-dental-implants.com",
+      "siteId": 92,
+      "accountId": 13,
+      "siteName": "nearby-dental-implants.com",
+      "siteResolved": true,
+      "seed": {
+        "keyword": "PRP Injection Cost",
+        "intentKeyword": "PRP Injection Cost",
+        "ref": "PRP Injection Cost",
+        "domainCategory": "骨科 / 关节",
+        "categoryId": 6310,
+        "regionId": "US"
+      },
+      "articleJobPreview": {
+        "publish": false,
+        "articlesPerDomain": 1,
+        "willCreate": false,
+        "note": "本轮只出计划，不调用 article-jobs",
+        "targets": [
+          {
+            "domain": "nearby-dental-implants.com",
+            "site_id": 92,
+            "account_id": 13
+          }
+        ]
+      },
+      "newLandingUrlExample": "https://nearby-dental-implants.com/detail/PENDING_ARTICLE_3?ref=Buprenorphine+Market+2026&channel=15584&hit={hit}&rType=2&partner=Blinkdrama&subid1=15584&subid2=PENDING_ARTICLE_3",
+      "urlRewriteRule": {
+        "replaceArticleIdInPath": true,
+        "setSubid1": "channelId",
+        "setSubid2": "newArticleId",
+        "keepOtherQueryParams": true,
+        "overwriteRefWithKeyword": false
+      },
+      "languageId": 1,
+      "taskId": "job_615467d87ff847dfba1eb531b2fc253c",
+      "createError": null,
+      "createdAt": "2026-11-11T10:15:56.881Z",
+      "rawCreate": {
+        "task_id": "job_615467d87ff847dfba1eb531b2fc253c",
+        "status": "queued"
+      },
+      "pollStatus": "success",
+      "progress": {
+        "total": 1,
+        "completed": 1,
+        "success": 1,
+        "failed": 0,
+        "running": 0
+      },
+      "note": "已按 offerId 纠正旧链；新链基于正确域名重拼（article 仍是当时发到 nearby-dental-implants.com 的）",
+      "itemId": 9685,
+      "newArticleId": "704557932338",
+      "publishRaw": {
+        "task_id": "job_615467d87ff847dfba1eb531b2fc253c",
+        "status": "success",
+        "mode": "auto",
+        "intent_keyword": "PRP Injection Cost",
+        "category_id": 6310,
+        "language_id": 1,
+        "region_id": "US",
+        "options": {
+          "title": {
+            "max_length": 70,
+            "include_year": true
+          },
+          "overview": {
+            "min_length": 0,
+            "max_length": 150
+          },
+          "body": {
+            "target_length": 2000,
+            "min_length": 1500,
+            "include_cta": true,
+            "include_headings": true,
+            "include_tables": true,
+            "include_lists": true
+          },
+          "keywords": {
+            "mode": "auto",
+            "values": [],
+            "min_count": 5,
+            "max_count": 10,
+            "include_in_title": true,
+            "include_in_overview": true,
+            "include_in_headings": true,
+            "include_in_body": true,
+            "include_in_seo": true
+          },
+          "seo": {
+            "enabled": true,
+            "title_max_length": 60,
+            "description_max_length": 160
+          },
+          "image": {
+            "enabled": true
+          },
+          "video": null,
+          "source": {
+            "show_in_article": false
+          },
+          "thinking": {
+            "enabled": false
+          },
+          "outline": {
+            "enabled": false,
+            "sections": null
+          },
+          "topic_research": {
+            "provider": "tavily",
+            "query_count": 3
+          },
+          "tags": {
+            "enabled": false
+          },
+          "retry": {
+            "enabled": true
+          },
+          "articles_per_domain": 1,
+          "out_show": false,
+          "generate_author": true,
+          "publish": false
+        },
+        "user": {
+          "user_id": "43",
+          "user_name": "jiayaowu@pixeljet.cn"
+        },
+        "callback_url": null,
+        "progress": {
+          "total": 1,
+          "completed": 1,
+          "success": 1,
+          "failed": 0,
+          "running": 0
+        },
+        "usage": {
+          "tavily_calls": 7,
+          "planning_tavily_calls": 3
+        },
+        "results": [
+          {
+            "id": 9685,
+            "domain": "nearby-dental-implants.com",
+            "article_number": 1,
+            "site_id": 92,
+            "account_id": 13,
+            "status": "success",
+            "article_id": 704557932338,
+            "conversation_id": 16166,
+            "direction": {
+              "domain": "nearby-dental-implants.com",
+              "title": "PRP Injection Cost in 2026: Real Prices and What to Ask",
+              "primary_keyword": "PRP injection cost",
+              "secondary_keywords": [
+                "PRP injection price 2026",
+                "how much do PRP injections cost",
+                "PRP knee injection cost",
+                "PRP injection cost per session",
+                "PRP injection insurance coverage",
+                "platelet-rich plasma treatment cost"
+              ],
+              "angle": "Price transparency field guide that translates the wide $400-$2,000 per-session spread into a single per-injection value framework, so readers can compare quotes on dose, guidance, and included follow-up rather than sticker price alone.",
+              "audience": "US adults with knee, tendon, or joint pain who are self-paying and currently collecting quotes from two or more clinics before booking.",
+              "search_intent": "Commercial investigation with a transactional tail: the reader wants a realistic 2026 price range, then wants to know which quote is actually the better deal.",
+              "core_arguments": [
+                "Most 2026 US quotes fall between $400 and $2,000 per session, and a typical single injection lands near $700-$1,200, so any quote far outside that band deserves a direct question about what is included.",
+                "The number of injections in the protocol, not the per-shot price, drives the total bill; a 2-3 injection course commonly totals $1,500-$6,000 out of pocket.",
+                "Insurance almost never covers PRP for joint pain, so the practical comparison is against the out-of-pocket portion of cortisone, physical therapy, or surgery, not against a covered benefit.",
+                "Two clinics quoting the same price can deliver very different platelet doses, so dose, ultrasound guidance, and follow-up should be itemized before price is judged.",
+                "Cheap quotes often exclude the blood draw, processing, or imaging guidance, which reappear as add-on charges on the day of service."
+              ],
+              "content_format": "Cost analysis field guide with a quote-comparison worksheet",
+              "outline_strategy": "Open with the real-world moment of holding two quotes that differ by hundreds of dollars for the same joint, then walk through the 2026 national range, break the bill into its component parts, explain why protocol length matters more than unit price, and close with a short list of questions to ask before paying a deposit.",
+              "writing_path": "direct",
+              "research_queries": [
+                "PRP injection cost 2026 United States average per session",
+                "PRP injection insurance coverage 2026 out of pocket",
+                "PRP knee injection cost survey hospitals 2026",
+                "platelet-rich plasma injection price by joint 2026"
+              ],
+              "author_name": "Daniel Reyes"
+            },
+            "attempts": 1,
+            "tavily_calls": 4,
+            "author_name": "Daniel Reyes",
+            "selected_tags": [],
+            "tag_results": [],
+            "error_code": null,
+            "error_message": null
+          }
+        ],
+        "error_message": null,
+        "created_at": "2026-11-11T10:15:56.674642+00:00",
+        "started_at": "2026-11-11T10:15:57.289286+00:00",
+        "completed_at": "2026-11-11T10:17:17.386474+00:00"
+      },
+      "publishStatus": "success",
+      "publishError": null,
+      "newLandingUrl": "https://nearby-dental-implants.com/detail/704557932338?ref=PRP+Injection+Cost&channel=15584&hit={hit}&rType=2&partner=Blinkdrama&subid1=15584&subid2=704557932338",
+      "publishedAt": "2026-11-11T10:24:05.645Z"
+    },
+    {
+      "taskIndex": 4,
+      "status": "published",
+      "offerId": "3wsFVLlbyKi7",
+      "offerName": "Blinkdrama-v01-A15-us-5914041032-mpbus.com",
+      "groupId": "3sFCVTgYYRkx",
+      "groupName": "Blinkdrama-v01-us",
+      "geo": "US",
+      "channelId": "5914041032",
+      "oldLandingUrl": "https://mpbus.com/detail/194698215795?ref=Cancer%20Treatment%20Cost%202026&channel=5914041032&hit={hit}&rType=2&partner=Blinkdrama",
+      "oldArticleId": "194698215795",
+      "host": "mpbus.com",
+      "siteId": 129,
+      "accountId": 17,
+      "siteName": "mpbus.com",
+      "siteResolved": true,
+      "seed": {
+        "keyword": "PRP Injection Cost",
+        "intentKeyword": "PRP Injection Cost",
+        "ref": "PRP Injection Cost",
+        "domainCategory": "骨科 / 关节",
+        "categoryId": 6310,
+        "regionId": "US"
+      },
+      "articleJobPreview": {
+        "publish": false,
+        "articlesPerDomain": 1,
+        "willCreate": false,
+        "note": "本轮只出计划，不调用 article-jobs",
+        "targets": [
+          {
+            "domain": "lstmai.com",
+            "site_id": 127,
+            "account_id": 17
+          }
+        ]
+      },
+      "newLandingUrlExample": "https://lstmai.com/detail/PENDING_ARTICLE_4?ref=construction+accident+lawyer+near+me&channel=5914041032&hit={hit}&rType=2&partner=Blinkdrama&subid1=5914041032&subid2=PENDING_ARTICLE_4",
+      "urlRewriteRule": {
+        "replaceArticleIdInPath": true,
+        "setSubid1": "channelId",
+        "setSubid2": "newArticleId",
+        "keepOtherQueryParams": true,
+        "overwriteRefWithKeyword": false
+      },
+      "languageId": 1,
+      "taskId": "job_806f7b87250648808daa8da3462130a7",
+      "createError": null,
+      "createdAt": "2026-11-11T10:15:56.785Z",
+      "rawCreate": {
+        "task_id": "job_8794b342f8ed43c28833b12f3f3ca6aa",
+        "status": "queued"
+      },
+      "pollStatus": "success",
+      "progress": {
+        "total": 1,
+        "completed": 1,
+        "success": 1,
+        "failed": 0,
+        "running": 0
+      },
+      "note": "已按 getById 纠正域名重产 article_id=169500117861",
+      "itemId": 9715,
+      "newArticleId": "169500117861",
+      "publishRaw": {
+        "task_id": "job_8794b342f8ed43c28833b12f3f3ca6aa",
+        "status": "success",
+        "mode": "auto",
+        "intent_keyword": "PRP Injection Cost",
+        "category_id": 6310,
+        "language_id": 1,
+        "region_id": "US",
+        "options": {
+          "title": {
+            "max_length": 70,
+            "include_year": true
+          },
+          "overview": {
+            "min_length": 0,
+            "max_length": 150
+          },
+          "body": {
+            "target_length": 2000,
+            "min_length": 1500,
+            "include_cta": true,
+            "include_headings": true,
+            "include_tables": true,
+            "include_lists": true
+          },
+          "keywords": {
+            "mode": "auto",
+            "values": [],
+            "min_count": 5,
+            "max_count": 10,
+            "include_in_title": true,
+            "include_in_overview": true,
+            "include_in_headings": true,
+            "include_in_body": true,
+            "include_in_seo": true
+          },
+          "seo": {
+            "enabled": true,
+            "title_max_length": 60,
+            "description_max_length": 160
+          },
+          "image": {
+            "enabled": true
+          },
+          "video": null,
+          "source": {
+            "show_in_article": false
+          },
+          "thinking": {
+            "enabled": false
+          },
+          "outline": {
+            "enabled": false,
+            "sections": null
+          },
+          "topic_research": {
+            "provider": "tavily",
+            "query_count": 3
+          },
+          "tags": {
+            "enabled": false
+          },
+          "retry": {
+            "enabled": true
+          },
+          "articles_per_domain": 1,
+          "out_show": false,
+          "generate_author": true,
+          "publish": false
+        },
+        "user": {
+          "user_id": "43",
+          "user_name": "jiayaowu@pixeljet.cn"
+        },
+        "callback_url": null,
+        "progress": {
+          "total": 1,
+          "completed": 1,
+          "success": 1,
+          "failed": 0,
+          "running": 0
+        },
+        "usage": {
+          "tavily_calls": 7,
+          "planning_tavily_calls": 3
+        },
+        "results": [
+          {
+            "id": 9683,
+            "domain": "lstmai.com",
+            "article_number": 1,
+            "site_id": 127,
+            "account_id": 17,
+            "status": "success",
+            "article_id": 745671667962,
+            "conversation_id": 16169,
+            "direction": {
+              "domain": "lstmai.com",
+              "title": "PRP Injection Cost in 2026: A US Price Reality Check",
+              "primary_keyword": "PRP injection cost",
+              "secondary_keywords": [
+                "PRP injection price 2026",
+                "PRP cost by joint",
+                "PRP knee injection cost",
+                "PRP injection cost without insurance",
+                "PRP injection series cost",
+                "HSA FSA PRP injections",
+                "PRP injection financing options",
+                "average PRP injection cost US"
+              ],
+              "angle": "A myth-checking cost analysis that dismantles the single headline number most patients anchor on, replacing it with a dose-aware, series-aware total-cost framework so readers can judge whether a quoted price is actually a good deal.",
+              "audience": "US adults with knee, shoulder, hip, or tendon pain who are paying cash out of pocket and comparing quotes from two or more clinics before booking.",
+              "search_intent": "Commercial investigation with transactional follow-through: the reader wants a realistic 2026 price range, understands why quotes differ so widely, and needs a way to compare offers apples-to-apples before committing money.",
+              "core_arguments": [
+                "Most published PRP figures of roughly $400 to $2,000 per session hide the real driver of expense: the number of injections in the protocol, since three-injection courses are commonly recommended for knee osteoarthritis and can push a total toward several thousand dollars.",
+                "A quoted price means little without the platelet dose attached, because two clinics charging the same amount can deliver concentrations that differ several times over, and dose is what the stronger evidence ties to outcomes.",
+                "Geography and setting shift the bill substantially, with major metro clinics commonly landing well above smaller-market practices, so the same procedure can carry very different price tags depending on where the patient lives.",
+                "Insurance almost never covers PRP for joint pain, making it effectively a cash procedure, but HSA and FSA dollars plus clinic payment plans can meaningfully soften the out-of-pocket hit if arranged in advance.",
+                "The smarter comparison is total cost against alternatives, since a cortisone shot may be covered but short-acting while surgery carries thousands in cost plus downtime, so PRP's value depends on whether it delays or avoids those paths."
+              ],
+              "content_format": "Myth check plus cost analysis, structured as a price reality check with a comparison worksheet feel",
+              "outline_strategy": "Open by naming the misleading headline number patients see and why it fails them, then rebuild the true cost picture layer by layer: per-session ranges, the multiplier effect of multi-injection protocols, and the dose variable that price alone never reveals. Move into a regional and setting comparison, then a side-by-side total-cost view against cortisone and surgery. Close with a practical pre-booking checklist covering written estimates, dose questions, HSA/FSA eligibility, and financing, ending on a decision prompt rather than a summary.",
+              "writing_path": "direct",
+              "research_queries": [
+                "PRP injection cost 2026 United States price by joint",
+                "PRP injection series cost knee osteoarthritis three injections 2026",
+                "PRP injection insurance coverage HSA FSA 2026",
+                "average PRP knee injection price survey US hospitals"
+              ],
+              "author_name": "Danielle Whitmore"
+            },
+            "attempts": 1,
+            "tavily_calls": 4,
+            "author_name": "Danielle Whitmore",
+            "selected_tags": [],
+            "tag_results": [],
+            "error_code": null,
+            "error_message": null
+          }
+        ],
+        "error_message": null,
+        "created_at": "2026-11-11T10:15:56.572493+00:00",
+        "started_at": "2026-11-11T10:15:57.226284+00:00",
+        "completed_at": "2026-11-11T10:17:46.649817+00:00"
+      },
+      "publishStatus": "success",
+      "publishError": null,
+      "newLandingUrl": "https://mpbus.com/detail/169500117861?ref=PRP+Injection+Cost&channel=5914041032&hit={hit}&rType=2&partner=Blinkdrama&subid1=5914041032&subid2=169500117861",
+      "publishedAt": "2026-11-11T10:24:05.645Z",
+      "regeneratedAt": "2026-11-11T11:23:42.751Z",
+      "previousWrongHost": "mpbus.com",
+      "previousWrongArticleId": "745671667962"
+    },
+    {
+      "taskIndex": 5,
+      "status": "published",
+      "offerId": "3wsEOTo1vk4N",
+      "offerName": "Blinkdrama-v01-A5-us-5003814895-funfillgames.com",
+      "groupId": "3sFCVTgYYRkx",
+      "groupName": "Blinkdrama-v01-us",
+      "geo": "US",
+      "channelId": "5003814895",
+      "oldLandingUrl": "https://funfillgames.com/detail/858777655874?ref=car%20accident%20lawyer%20near%20me&channel=5003814895&hit={hit}&rType=2&partner=Blinkdrama",
+      "oldArticleId": "858777655874",
+      "host": "funfillgames.com",
+      "siteId": 16,
+      "accountId": 3,
+      "siteName": "funfillgames.com",
+      "siteResolved": true,
+      "seed": {
+        "keyword": "Rinvoq Cost Without Insurance",
+        "intentKeyword": "Rinvoq Cost Without Insurance",
+        "ref": "Rinvoq Cost Without Insurance",
+        "domainCategory": "医疗·自身免疫",
+        "categoryId": 6454,
+        "regionId": "US"
+      },
+      "articleJobPreview": {
+        "publish": false,
+        "articlesPerDomain": 1,
+        "willCreate": false,
+        "note": "本轮只出计划，不调用 article-jobs",
+        "targets": [
+          {
+            "domain": "whirlwindarcade.com",
+            "site_id": 14,
+            "account_id": 3
+          }
+        ]
+      },
+      "newLandingUrlExample": "https://whirlwindarcade.com/detail/PENDING_ARTICLE_5?ref=construction+accident+lawyer+near+me&channel=5003814895&hit={hit}&rType=2&partner=Blinkdrama&subid1=5003814895&subid2=PENDING_ARTICLE_5",
+      "urlRewriteRule": {
+        "replaceArticleIdInPath": true,
+        "setSubid1": "channelId",
+        "setSubid2": "newArticleId",
+        "keepOtherQueryParams": true,
+        "overwriteRefWithKeyword": false
+      },
+      "languageId": 1,
+      "taskId": "job_71ca84e7ffe8468fa977dbcf37391212",
+      "createError": null,
+      "createdAt": "2026-11-11T10:15:57.064Z",
+      "rawCreate": {
+        "task_id": "job_223e55ba52684286ba2a781adb139a7a",
+        "status": "queued"
+      },
+      "pollStatus": "success",
+      "progress": {
+        "total": 1,
+        "completed": 1,
+        "success": 1,
+        "failed": 0,
+        "running": 0
+      },
+      "note": "已按 getById 纠正域名重产 article_id=140459210171",
+      "itemId": 9716,
+      "newArticleId": "140459210171",
+      "publishRaw": {
+        "task_id": "job_223e55ba52684286ba2a781adb139a7a",
+        "status": "success",
+        "mode": "auto",
+        "intent_keyword": "Rinvoq Cost Without Insurance",
+        "category_id": 6454,
+        "language_id": 1,
+        "region_id": "US",
+        "options": {
+          "title": {
+            "max_length": 70,
+            "include_year": true
+          },
+          "overview": {
+            "min_length": 0,
+            "max_length": 150
+          },
+          "body": {
+            "target_length": 2000,
+            "min_length": 1500,
+            "include_cta": true,
+            "include_headings": true,
+            "include_tables": true,
+            "include_lists": true
+          },
+          "keywords": {
+            "mode": "auto",
+            "values": [],
+            "min_count": 5,
+            "max_count": 10,
+            "include_in_title": true,
+            "include_in_overview": true,
+            "include_in_headings": true,
+            "include_in_body": true,
+            "include_in_seo": true
+          },
+          "seo": {
+            "enabled": true,
+            "title_max_length": 60,
+            "description_max_length": 160
+          },
+          "image": {
+            "enabled": true
+          },
+          "video": null,
+          "source": {
+            "show_in_article": false
+          },
+          "thinking": {
+            "enabled": false
+          },
+          "outline": {
+            "enabled": false,
+            "sections": null
+          },
+          "topic_research": {
+            "provider": "tavily",
+            "query_count": 3
+          },
+          "tags": {
+            "enabled": false
+          },
+          "retry": {
+            "enabled": true
+          },
+          "articles_per_domain": 1,
+          "out_show": false,
+          "generate_author": true,
+          "publish": false
+        },
+        "user": {
+          "user_id": "43",
+          "user_name": "jiayaowu@pixeljet.cn"
+        },
+        "callback_url": null,
+        "progress": {
+          "total": 1,
+          "completed": 1,
+          "success": 1,
+          "failed": 0,
+          "running": 0
+        },
+        "usage": {
+          "tavily_calls": 7,
+          "planning_tavily_calls": 3
+        },
+        "results": [
+          {
+            "id": 9684,
+            "domain": "whirlwindarcade.com",
+            "article_number": 1,
+            "site_id": 14,
+            "account_id": 3,
+            "status": "success",
+            "article_id": 780203890580,
+            "conversation_id": 16168,
+            "direction": {
+              "domain": "whirlwindarcade.com",
+              "title": "Rinvoq Cost Without Insurance in 2026: Real Prices and Options",
+              "primary_keyword": "Rinvoq cost without insurance",
+              "secondary_keywords": [
+                "Rinvoq price 2026",
+                "upadacitinib list price",
+                "Rinvoq savings card eligibility",
+                "AbbVie patient assistance program",
+                "Rinvoq LQ cost",
+                "uninsured autoimmune medication help"
+              ],
+              "angle": "A cost-analysis field guide that lays out what uninsured patients actually face at the pharmacy counter in 2026—list price versus discounted cash prices versus manufacturer and foundation aid—then maps a step-by-step path to the lowest realistic out-of-pocket number.",
+              "audience": "Uninsured or underinsured US adults with rheumatoid arthritis, psoriatic arthritis, ankylosing spondylitis, eczema, or ulcerative colitis who have been prescribed or are considering Rinvoq and need to budget before filling the prescription.",
+              "search_intent": "Transactional-informational: the reader wants a concrete dollar figure for Rinvoq without insurance and a practical list of ways to pay less, ordered by how much they actually save.",
+              "core_arguments": [
+                "The sticker price is not one number: 2026 figures range from AbbVie's roughly $7,090 wholesale acquisition cost per 30-day supply to cash-discount prices near $6,900 and higher retail averages above $8,800, so where you fill matters as much as what you fill.",
+                "The Rinvoq Complete Savings Card is the biggest lever for commercially insured patients but is off-limits to Medicare, Medicaid, and cash-paying uninsured buyers, which means uninsured patients must look to AbbVie's patient access support and independent foundations instead.",
+                "Cash discount cards and pharmacy price comparisons can cut hundreds to over a thousand dollars off a single fill, but they are not insurance and do not count toward deductibles or out-of-pocket maximums.",
+                "Nonprofit copay assistance foundations and AbbVie's own uninsured support line are the most realistic route to a low or zero cost for people with no coverage, and applying before the first fill prevents a gap in treatment.",
+                "Dose and formulation change the math—higher-dose tablets and the oral solution cost materially more per month—so confirming the exact prescription with the prescriber is the first budgeting step."
+              ],
+              "content_format": "Cost analysis field guide with a decision-path walkthrough",
+              "outline_strategy": "Open with a realistic pharmacy-counter scenario, then present a 2026 price table separating list price, cash-discount price, and per-formulation costs; follow with a ranked ladder of savings options by eligibility, a short eligibility flowchart for the savings card versus assistance programs, and close with a pre-fill checklist the reader can bring to their prescriber.",
+              "writing_path": "direct",
+              "research_queries": [
+                "Rinvoq cost without insurance 2026 United States",
+                "Rinvoq Complete Savings Card eligibility 2026",
+                "AbbVie patient assistance program uninsured Rinvoq 2026",
+                "Rinvoq cash price GoodRx 2026"
+              ],
+              "author_name": "Megan Caldwell"
+            },
+            "attempts": 1,
+            "tavily_calls": 4,
+            "author_name": "Megan Caldwell",
+            "selected_tags": [],
+            "tag_results": [],
+            "error_code": null,
+            "error_message": null
+          }
+        ],
+        "error_message": null,
+        "created_at": "2026-11-11T10:15:56.632182+00:00",
+        "started_at": "2026-11-11T10:15:57.248145+00:00",
+        "completed_at": "2026-11-11T10:17:35.738256+00:00"
+      },
+      "publishStatus": "success",
+      "publishError": null,
+      "newLandingUrl": "https://funfillgames.com/detail/140459210171?ref=Rinvoq+Cost+Without+Insurance&channel=5003814895&hit={hit}&rType=2&partner=Blinkdrama&subid1=5003814895&subid2=140459210171",
+      "publishedAt": "2026-11-11T10:24:05.645Z",
+      "regeneratedAt": "2026-11-11T11:24:32.003Z",
+      "previousWrongHost": "funfillgames.com",
+      "previousWrongArticleId": "780203890580"
+    },
+    {
+      "taskIndex": 6,
+      "status": "published",
+      "offerId": "3yQgoSyy0tEe",
+      "offerName": "Blinkdrama-v01-A12-us-7345253802-degreesuccesstips.com",
+      "groupId": "3sFCVTgYYRkx",
+      "groupName": "Blinkdrama-v01-us",
+      "geo": "US",
+      "channelId": "7345253802",
+      "oldLandingUrl": "https://degreesuccesstips.com/detail/148677439006?ref=Dental%20Implants%20Cost%202026&channel=7345253802&hit={hit}&rType=2&partner=Blinkdrama",
+      "oldArticleId": "148677439006",
+      "host": "degreesuccesstips.com",
+      "siteId": 64,
+      "accountId": 11,
+      "siteName": "degreesuccesstips.com",
+      "siteResolved": true,
+      "seed": {
+        "keyword": "Trulicity Cost Without Insurance",
+        "intentKeyword": "Trulicity Cost Without Insurance",
+        "ref": "Trulicity Cost Without Insurance",
+        "domainCategory": "GLP-1 / 糖尿病",
+        "categoryId": 6305,
+        "regionId": "US"
+      },
+      "articleJobPreview": {
+        "publish": false,
+        "articlesPerDomain": 1,
+        "willCreate": false,
+        "note": "本轮只出计划，不调用 article-jobs",
+        "targets": [
+          {
+            "domain": "aivestorhq.com",
+            "site_id": 65,
+            "account_id": 11
+          }
+        ]
+      },
+      "newLandingUrlExample": "https://aivestorhq.com/detail/PENDING_ARTICLE_6?ref=construction+accident+lawyer+near+me&channel=7345253802&hit={hit}&rType=2&partner=Blinkdrama&subid1=7345253802&subid2=PENDING_ARTICLE_6",
+      "urlRewriteRule": {
+        "replaceArticleIdInPath": true,
+        "setSubid1": "channelId",
+        "setSubid2": "newArticleId",
+        "keepOtherQueryParams": true,
+        "overwriteRefWithKeyword": false
+      },
+      "languageId": 1,
+      "taskId": "job_a58d488fedd549a7a5d4e730bab76b0b",
+      "createError": null,
+      "createdAt": "2026-11-11T10:15:59.150Z",
+      "rawCreate": {
+        "task_id": "job_cbac26d8f7a94e27a16f466bded4e08c",
+        "status": "queued"
+      },
+      "pollStatus": "success",
+      "progress": {
+        "total": 1,
+        "completed": 1,
+        "success": 1,
+        "failed": 0,
+        "running": 0
+      },
+      "note": "已按 getById 纠正域名重产 article_id=734766204741",
+      "itemId": 9717,
+      "newArticleId": "734766204741",
+      "publishRaw": {
+        "task_id": "job_cbac26d8f7a94e27a16f466bded4e08c",
+        "status": "success",
+        "mode": "auto",
+        "intent_keyword": "Trulicity Cost Without Insurance",
+        "category_id": 6305,
+        "language_id": 1,
+        "region_id": "US",
+        "options": {
+          "title": {
+            "max_length": 70,
+            "include_year": true
+          },
+          "overview": {
+            "min_length": 0,
+            "max_length": 150
+          },
+          "body": {
+            "target_length": 2000,
+            "min_length": 1500,
+            "include_cta": true,
+            "include_headings": true,
+            "include_tables": true,
+            "include_lists": true
+          },
+          "keywords": {
+            "mode": "auto",
+            "values": [],
+            "min_count": 5,
+            "max_count": 10,
+            "include_in_title": true,
+            "include_in_overview": true,
+            "include_in_headings": true,
+            "include_in_body": true,
+            "include_in_seo": true
+          },
+          "seo": {
+            "enabled": true,
+            "title_max_length": 60,
+            "description_max_length": 160
+          },
+          "image": {
+            "enabled": true
+          },
+          "video": null,
+          "source": {
+            "show_in_article": false
+          },
+          "thinking": {
+            "enabled": false
+          },
+          "outline": {
+            "enabled": false,
+            "sections": null
+          },
+          "topic_research": {
+            "provider": "tavily",
+            "query_count": 3
+          },
+          "tags": {
+            "enabled": false
+          },
+          "retry": {
+            "enabled": true
+          },
+          "articles_per_domain": 1,
+          "out_show": false,
+          "generate_author": true,
+          "publish": false
+        },
+        "user": {
+          "user_id": "43",
+          "user_name": "jiayaowu@pixeljet.cn"
+        },
+        "callback_url": null,
+        "progress": {
+          "total": 1,
+          "completed": 1,
+          "success": 1,
+          "failed": 0,
+          "running": 0
+        },
+        "usage": {
+          "tavily_calls": 7,
+          "planning_tavily_calls": 3
+        },
+        "results": [
+          {
+            "id": 9690,
+            "domain": "aivestorhq.com",
+            "article_number": 1,
+            "site_id": 65,
+            "account_id": 11,
+            "status": "success",
+            "article_id": 781751844641,
+            "conversation_id": 16171,
+            "direction": {
+              "domain": "aivestorhq.com",
+              "title": "Trulicity Cost Without Insurance 2026: Real Prices and Savings",
+              "primary_keyword": "Trulicity cost without insurance",
+              "secondary_keywords": [
+                "Trulicity price 2026",
+                "dulaglutide cash price",
+                "Trulicity discount card",
+                "Trulicity generic 2027",
+                "cheapest way to buy Trulicity",
+                "Trulicity patient assistance program"
+              ],
+              "angle": "A decision framework that treats the uninsured Trulicity price as a range to be arbitraged rather than a fixed number: compare list price, pharmacy cash price, discount-card price, and cash-pay network price side by side, then map each option to a specific patient situation.",
+              "audience": "Uninsured US adults with Type 2 diabetes, plus people on high-deductible commercial plans, who are deciding whether to start, continue, or pause Trulicity and need a concrete monthly budget number before their next appointment.",
+              "search_intent": "Commercial investigation with a transactional edge: the reader wants an accurate 2026 dollar figure and a ranked set of ways to pay less, not a medical explainer.",
+              "core_arguments": [
+                "The published monthly cost of Trulicity clusters between roughly $987 and $1,400 depending on the source, so any single quoted price should be treated as a starting point rather than the answer.",
+                "The same four-pen box can be priced very differently across channels; discount cards and licensed cash-pay networks have been reported well below retail, sometimes near $455, which makes comparison shopping the highest-leverage action.",
+                "There is no generic dulaglutide available in 2026 and patent expiration points toward roughly 2027, so short-term savings must come from pricing channels and assistance programs, not from a cheaper molecule.",
+                "Manufacturer savings cards are typically restricted to commercially insured patients, which means uninsured readers need a different stack: cash-pay networks, patient assistance, and prescriber-led alternatives.",
+                "Because Trulicity is a chronic weekly injection, the decision should be modeled on a 12-month basis including deductible resets, not on a single fill."
+              ],
+              "content_format": "Decision framework with a comparison table and a step-by-step price-check sequence",
+              "outline_strategy": "Open with the moment at the pharmacy counter when the price appears, then immediately give a 2026 price range table by source. Move into a channel-by-channel comparison (retail cash, discount card, cash-pay network, assistance program), flag the eligibility traps for each, then close with a repeatable three-step routine the reader can run before every refill and a short list of questions for the prescriber.",
+              "writing_path": "direct",
+              "research_queries": [
+                "Trulicity cost without insurance 2026 United States",
+                "Trulicity discount card vs cash price 2026",
+                "dulaglutide generic availability 2027 patent expiration",
+                "Trulicity patient assistance program eligibility 2026"
+              ],
+              "author_name": "Megan Caldwell"
+            },
+            "attempts": 1,
+            "tavily_calls": 4,
+            "author_name": "Megan Caldwell",
+            "selected_tags": [],
+            "tag_results": [],
+            "error_code": null,
+            "error_message": null
+          }
+        ],
+        "error_message": null,
+        "created_at": "2026-11-11T10:15:58.962910+00:00",
+        "started_at": "2026-11-11T10:15:59.254620+00:00",
+        "completed_at": "2026-11-11T10:18:06.285065+00:00"
+      },
+      "publishStatus": "success",
+      "publishError": null,
+      "newLandingUrl": "https://degreesuccesstips.com/detail/734766204741?ref=Trulicity+Cost+Without+Insurance&channel=7345253802&hit={hit}&rType=2&partner=Blinkdrama&subid1=7345253802&subid2=734766204741",
+      "publishedAt": "2026-11-11T10:24:05.645Z",
+      "regeneratedAt": "2026-11-11T11:25:17.943Z",
+      "previousWrongHost": "degreesuccesstips.com",
+      "previousWrongArticleId": "781751844641"
+    },
+    {
+      "taskIndex": 7,
+      "status": "published",
+      "offerId": "3ykOB11qNeRV",
+      "offerName": "Blinkdrama-v01-A1-Us-13247-homeguarddeals.com",
+      "groupId": "3sFCVTgYYRkx",
+      "groupName": "Blinkdrama-v01-us",
+      "geo": "US",
+      "channelId": "13247",
+      "oldLandingUrl": "https://homeguarddeals.com/detail/236588121583?ref=Buprenorphine%20Market%202026&channel=13247&hit={hit}&rType=2&partner=Blinkdrama",
+      "oldArticleId": "236588121583",
+      "host": "homeguarddeals.com",
+      "siteId": 94,
+      "accountId": 13,
+      "siteName": "homeguarddeals.com",
+      "siteResolved": true,
+      "seed": {
+        "keyword": "Botox for Migraine Cost",
+        "intentKeyword": "Botox for Migraine Cost",
+        "ref": "Botox for Migraine Cost",
+        "domainCategory": "医疗·偏头痛",
+        "categoryId": 6451,
+        "regionId": "US"
+      },
+      "articleJobPreview": {
+        "publish": false,
+        "articlesPerDomain": 1,
+        "willCreate": false,
+        "note": "本轮只出计划，不调用 article-jobs",
+        "targets": [
+          {
+            "domain": "homeguarddeals.com",
+            "site_id": 94,
+            "account_id": 13
+          }
+        ]
+      },
+      "newLandingUrlExample": "https://homeguarddeals.com/detail/PENDING_ARTICLE_7?ref=Buprenorphine+Market+2026&channel=13247&hit={hit}&rType=2&partner=Blinkdrama&subid1=13247&subid2=PENDING_ARTICLE_7",
+      "urlRewriteRule": {
+        "replaceArticleIdInPath": true,
+        "setSubid1": "channelId",
+        "setSubid2": "newArticleId",
+        "keepOtherQueryParams": true,
+        "overwriteRefWithKeyword": false
+      },
+      "languageId": 1,
+      "taskId": "job_bebc558cec5343bc816751d2e08c3c20",
+      "createError": null,
+      "createdAt": "2026-11-11T10:15:57.708Z",
+      "rawCreate": {
+        "task_id": "job_bebc558cec5343bc816751d2e08c3c20",
+        "status": "queued"
+      },
+      "pollStatus": "success",
+      "progress": {
+        "total": 1,
+        "completed": 1,
+        "success": 1,
+        "failed": 0,
+        "running": 0
+      },
+      "note": "已按 offerId 纠正旧链；新链基于正确域名重拼（article 仍是当时发到 homeguarddeals.com 的）",
+      "itemId": 9686,
+      "newArticleId": "816792314985",
+      "publishRaw": {
+        "task_id": "job_bebc558cec5343bc816751d2e08c3c20",
+        "status": "success",
+        "mode": "auto",
+        "intent_keyword": "Botox for Migraine Cost",
+        "category_id": 6451,
+        "language_id": 1,
+        "region_id": "US",
+        "options": {
+          "title": {
+            "max_length": 70,
+            "include_year": true
+          },
+          "overview": {
+            "min_length": 0,
+            "max_length": 150
+          },
+          "body": {
+            "target_length": 2000,
+            "min_length": 1500,
+            "include_cta": true,
+            "include_headings": true,
+            "include_tables": true,
+            "include_lists": true
+          },
+          "keywords": {
+            "mode": "auto",
+            "values": [],
+            "min_count": 5,
+            "max_count": 10,
+            "include_in_title": true,
+            "include_in_overview": true,
+            "include_in_headings": true,
+            "include_in_body": true,
+            "include_in_seo": true
+          },
+          "seo": {
+            "enabled": true,
+            "title_max_length": 60,
+            "description_max_length": 160
+          },
+          "image": {
+            "enabled": true
+          },
+          "video": null,
+          "source": {
+            "show_in_article": false
+          },
+          "thinking": {
+            "enabled": false
+          },
+          "outline": {
+            "enabled": false,
+            "sections": null
+          },
+          "topic_research": {
+            "provider": "tavily",
+            "query_count": 3
+          },
+          "tags": {
+            "enabled": false
+          },
+          "retry": {
+            "enabled": true
+          },
+          "articles_per_domain": 1,
+          "out_show": false,
+          "generate_author": true,
+          "publish": false
+        },
+        "user": {
+          "user_id": "43",
+          "user_name": "jiayaowu@pixeljet.cn"
+        },
+        "callback_url": null,
+        "progress": {
+          "total": 1,
+          "completed": 1,
+          "success": 1,
+          "failed": 0,
+          "running": 0
+        },
+        "usage": {
+          "tavily_calls": 7,
+          "planning_tavily_calls": 3
+        },
+        "results": [
+          {
+            "id": 9686,
+            "domain": "homeguarddeals.com",
+            "article_number": 1,
+            "site_id": 94,
+            "account_id": 13,
+            "status": "success",
+            "article_id": 816792314985,
+            "conversation_id": 16164,
+            "direction": {
+              "domain": "homeguarddeals.com",
+              "title": "Botox for Migraine Cost in 2026: Real Prices and Insurance",
+              "primary_keyword": "Botox for migraine cost 2026",
+              "secondary_keywords": [
+                "chronic migraine Botox price",
+                "Botox migraine insurance coverage",
+                "Botox savings card migraine",
+                "Medicare Part B Botox migraine",
+                "155 unit Botox migraine cost",
+                "Botox cash pay migraine"
+              ],
+              "angle": "A cost-analysis walkthrough that separates the four price layers patients actually pay (manufacturer list price, Medicare unit rate, insurer-negotiated rate, and cash-pay quote) and shows how each layer changes the out-of-pocket number, so readers can benchmark any quote they receive.",
+              "audience": "US adults with chronic migraine (15+ headache days per month) who have been offered onabotulinumtoxinA and need to budget before their first treatment cycle, including people switching from commercial insurance to Medicare.",
+              "search_intent": "Transactional and informational: the reader wants a realistic 2026 dollar range per session and per year, plus a clear answer on whether their insurance will cover it and what to do if it will not.",
+              "core_arguments": [
+                "The 2026 wholesale acquisition cost is $1,302 per 200-unit vial, but a 155-unit migraine dose rarely equals that figure at the pharmacy counter because billing runs through unit-based rates and insurer contracts.",
+                "Medicare Part B pays 80% of the drug after the deductible at roughly $6.506 per unit in mid-2026, leaving a drug-only coinsurance near $200 for a 155-unit dose before administration fees.",
+                "Cash-pay quotes vary widely by geography and provider type, so patients should request a written estimate that itemizes drug units, injection administration, and office visit charges separately.",
+                "Manufacturer savings programs and prior authorization requirements can swing annual cost by thousands of dollars, making enrollment paperwork as financially important as the prescription itself.",
+                "Annual budgeting should assume four treatment cycles per year at 12-week intervals, not a single session, because the therapy is preventive and ongoing."
+              ],
+              "content_format": "Cost analysis with a layered price breakdown and a budgeting worksheet",
+              "outline_strategy": "Open with the gap between list price and what patients actually pay, then walk down each cost layer from vial price to insurer rate to patient responsibility, add a section on assistance programs and prior authorization, and close with a step-by-step script for requesting and comparing written estimates.",
+              "writing_path": "direct",
+              "research_queries": [
+                "Botox chronic migraine cost 2026 insurance coverage United States",
+                "Medicare Part B J0585 Botox payment limit 2026",
+                "Botox Complete savings program chronic migraine 2026 eligibility",
+                "onabotulinumtoxinA prior authorization chronic migraine commercial insurance 2026"
+              ],
+              "author_name": "Megan Caldwell"
+            },
+            "attempts": 1,
+            "tavily_calls": 4,
+            "author_name": "Megan Caldwell",
+            "selected_tags": [],
+            "tag_results": [],
+            "error_code": null,
+            "error_message": null
+          }
+        ],
+        "error_message": null,
+        "created_at": "2026-11-11T10:15:57.505195+00:00",
+        "started_at": "2026-11-11T10:15:59.177435+00:00",
+        "completed_at": "2026-11-11T10:17:03.459639+00:00"
+      },
+      "publishStatus": "success",
+      "publishError": null,
+      "newLandingUrl": "https://homeguarddeals.com/detail/816792314985?ref=Botox+for+Migraine+Cost&channel=13247&hit={hit}&rType=2&partner=Blinkdrama&subid1=13247&subid2=816792314985",
+      "publishedAt": "2026-11-11T10:24:05.645Z"
+    },
+    {
+      "taskIndex": 8,
+      "status": "published",
+      "offerId": "3ykOCh5adgGU",
+      "offerName": "Blinkdrama-v01-A1-Us-13248-beauty-center-nearby.com",
+      "groupId": "3sFCVTgYYRkx",
+      "groupName": "Blinkdrama-v01-us",
+      "geo": "US",
+      "channelId": "13248",
+      "oldLandingUrl": "https://beauty-center-nearby.com/detail/236588121583?ref=Buprenorphine%20Market%202026&channel=13248&hit={hit}&rType=2&partner=Blinkdrama",
+      "oldArticleId": "236588121583",
+      "host": "beauty-center-nearby.com",
+      "siteId": 95,
+      "accountId": 13,
+      "siteName": "beauty-center-nearby.com",
+      "siteResolved": true,
+      "seed": {
+        "keyword": "Opdivo Cost Without Insurance",
+        "intentKeyword": "Opdivo Cost Without Insurance",
+        "ref": "Opdivo Cost Without Insurance",
+        "domainCategory": "肿瘤 / 生物制剂",
+        "categoryId": 6308,
+        "regionId": "US"
+      },
+      "articleJobPreview": {
+        "publish": false,
+        "articlesPerDomain": 1,
+        "willCreate": false,
+        "note": "本轮只出计划，不调用 article-jobs",
+        "targets": [
+          {
+            "domain": "beauty-center-nearby.com",
+            "site_id": 95,
+            "account_id": 13
+          }
+        ]
+      },
+      "newLandingUrlExample": "https://beauty-center-nearby.com/detail/PENDING_ARTICLE_8?ref=Buprenorphine+Market+2026&channel=13248&hit={hit}&rType=2&partner=Blinkdrama&subid1=13248&subid2=PENDING_ARTICLE_8",
+      "urlRewriteRule": {
+        "replaceArticleIdInPath": true,
+        "setSubid1": "channelId",
+        "setSubid2": "newArticleId",
+        "keepOtherQueryParams": true,
+        "overwriteRefWithKeyword": false
+      },
+      "languageId": 1,
+      "taskId": "job_55cb715d93604c93915c8d11200c3a46",
+      "createError": null,
+      "createdAt": "2026-11-11T10:15:57.935Z",
+      "rawCreate": {
+        "task_id": "job_55cb715d93604c93915c8d11200c3a46",
+        "status": "queued"
+      },
+      "pollStatus": "success",
+      "progress": {
+        "total": 1,
+        "completed": 1,
+        "success": 1,
+        "failed": 0,
+        "running": 0
+      },
+      "note": "已按 offerId 纠正旧链；新链基于正确域名重拼（article 仍是当时发到 beauty-center-nearby.com 的）",
+      "itemId": 9687,
+      "newArticleId": "859216332924",
+      "publishRaw": {
+        "task_id": "job_55cb715d93604c93915c8d11200c3a46",
+        "status": "success",
+        "mode": "auto",
+        "intent_keyword": "Opdivo Cost Without Insurance",
+        "category_id": 6308,
+        "language_id": 1,
+        "region_id": "US",
+        "options": {
+          "title": {
+            "max_length": 70,
+            "include_year": true
+          },
+          "overview": {
+            "min_length": 0,
+            "max_length": 150
+          },
+          "body": {
+            "target_length": 2000,
+            "min_length": 1500,
+            "include_cta": true,
+            "include_headings": true,
+            "include_tables": true,
+            "include_lists": true
+          },
+          "keywords": {
+            "mode": "auto",
+            "values": [],
+            "min_count": 5,
+            "max_count": 10,
+            "include_in_title": true,
+            "include_in_overview": true,
+            "include_in_headings": true,
+            "include_in_body": true,
+            "include_in_seo": true
+          },
+          "seo": {
+            "enabled": true,
+            "title_max_length": 60,
+            "description_max_length": 160
+          },
+          "image": {
+            "enabled": true
+          },
+          "video": null,
+          "source": {
+            "show_in_article": false
+          },
+          "thinking": {
+            "enabled": false
+          },
+          "outline": {
+            "enabled": false,
+            "sections": null
+          },
+          "topic_research": {
+            "provider": "tavily",
+            "query_count": 3
+          },
+          "tags": {
+            "enabled": false
+          },
+          "retry": {
+            "enabled": true
+          },
+          "articles_per_domain": 1,
+          "out_show": false,
+          "generate_author": true,
+          "publish": false
+        },
+        "user": {
+          "user_id": "43",
+          "user_name": "jiayaowu@pixeljet.cn"
+        },
+        "callback_url": null,
+        "progress": {
+          "total": 1,
+          "completed": 1,
+          "success": 1,
+          "failed": 0,
+          "running": 0
+        },
+        "usage": {
+          "tavily_calls": 7,
+          "planning_tavily_calls": 3
+        },
+        "results": [
+          {
+            "id": 9687,
+            "domain": "beauty-center-nearby.com",
+            "article_number": 1,
+            "site_id": 95,
+            "account_id": 13,
+            "status": "success",
+            "article_id": 859216332924,
+            "conversation_id": 16172,
+            "direction": {
+              "domain": "beauty-center-nearby.com",
+              "title": "Opdivo Cost Without Insurance in 2026: Real Prices and Options",
+              "primary_keyword": "Opdivo cost without insurance",
+              "secondary_keywords": [
+                "Opdivo list price 2026",
+                "nivolumab cost per infusion",
+                "Opdivo patient assistance program",
+                "Opdivo Qvantig price",
+                "Bristol Myers Squibb patient assistance",
+                "how much does Opdivo cost per month"
+              ],
+              "angle": "A cost-analysis field guide that translates the published 2026 list price of $8,101.94 per vial into real monthly and full-course out-of-pocket totals, then ranks every practical cost-reduction lever (manufacturer assistance, copay foundations, Medicare pathways, generic-entry timing) by how much they actually move the number for an uninsured patient.",
+              "audience": "Uninsured or underinsured US adults with a new Opdivo (nivolumab) prescription, plus family caregivers comparing self-pay totals before the first infusion is scheduled.",
+              "search_intent": "Transactional and informational: the reader wants a concrete dollar figure for paying cash and a ranked list of ways to reduce it before committing to treatment.",
+              "core_arguments": [
+                "The January 2026 list price of $8,101.94 per 240 mg vial or 600 mg Qvantig vial is a starting benchmark, not a bill; dose and schedule determine whether a patient faces one vial or several per month.",
+                "Uninsured patients rarely pay list price because manufacturer free-drug and copay programs, independent foundations, and 340B-linked hospital pricing can cut exposure dramatically, but each has eligibility gates most people never check.",
+                "The shift to subcutaneous Opdivo Qvantig changes the cost math because administration fees for infusion centers disappear, so the site of care is a genuine cost lever in 2026.",
+                "Medicare and Medicaid pathways, including the 2025 Part D out-of-pocket cap, offer fallback routes for people who assume they are uninsurable.",
+                "Price negotiation and biosimilar timelines are worth understanding because they set expectations for how long self-pay costs stay at current levels."
+              ],
+              "content_format": "Cost analysis field guide with a decision ladder",
+              "outline_strategy": "Open with a single realistic patient scenario and its first bill, then build a transparent cost model from list price to dose to monthly total, followed by a ranked ladder of cost-reduction options from most to least impactful, closing with a short pre-appointment checklist of questions to ask the oncology social worker.",
+              "writing_path": "direct",
+              "research_queries": [
+                "Opdivo list price 2026 without insurance GoodRx",
+                "Bristol Myers Squibb patient assistance program Opdivo eligibility 2026",
+                "Opdivo Qvantig subcutaneous cost site of care 2026",
+                "nivolumab biosimilar launch United States 2026"
+              ],
+              "author_name": "Megan Whitfield"
+            },
+            "attempts": 1,
+            "tavily_calls": 4,
+            "author_name": "Megan Whitfield",
+            "selected_tags": [],
+            "tag_results": [],
+            "error_code": null,
+            "error_message": null
+          }
+        ],
+        "error_message": null,
+        "created_at": "2026-11-11T10:15:57.736216+00:00",
+        "started_at": "2026-11-11T10:15:59.203393+00:00",
+        "completed_at": "2026-11-11T10:18:15.191095+00:00"
+      },
+      "publishStatus": "success",
+      "publishError": null,
+      "newLandingUrl": "https://beauty-center-nearby.com/detail/859216332924?ref=Opdivo+Cost+Without+Insurance&channel=13248&hit={hit}&rType=2&partner=Blinkdrama&subid1=13248&subid2=859216332924",
+      "publishedAt": "2026-11-11T10:24:05.645Z"
+    },
+    {
+      "taskIndex": 9,
+      "status": "published",
+      "offerId": "3ykOFYkwVPai",
+      "offerName": "Blinkdrama-v01-A4-Us-8026393663-playfulviibes.com",
+      "groupId": "3sFCVTgYYRkx",
+      "groupName": "Blinkdrama-v01-us",
+      "geo": "US",
+      "channelId": "8026393663",
+      "oldLandingUrl": "https://zestfularcade.com/detail/236588121583?ref=Buprenorphine%20Market%202026&channel=8026393663&hit={hit}&rType=2&partner=Blinkdrama",
+      "oldArticleId": "236588121583",
+      "host": "zestfularcade.com",
+      "siteId": 6,
+      "accountId": 2,
+      "siteName": "zestfularcade.com",
+      "siteResolved": true,
+      "seed": {
+        "keyword": "Spinal Cord Stimulator Cost",
+        "intentKeyword": "Spinal Cord Stimulator Cost",
+        "ref": "Spinal Cord Stimulator Cost",
+        "domainCategory": "骨科 / 关节",
+        "categoryId": 6310,
+        "regionId": "US"
+      },
+      "articleJobPreview": {
+        "publish": false,
+        "articlesPerDomain": 1,
+        "willCreate": false,
+        "note": "本轮只出计划，不调用 article-jobs",
+        "targets": [
+          {
+            "domain": "zestfularcade.com",
+            "site_id": 6,
+            "account_id": 2
+          }
+        ]
+      },
+      "newLandingUrlExample": "https://zestfularcade.com/detail/PENDING_ARTICLE_9?ref=Buprenorphine+Market+2026&channel=8026393663&hit={hit}&rType=2&partner=Blinkdrama&subid1=8026393663&subid2=PENDING_ARTICLE_9",
+      "urlRewriteRule": {
+        "replaceArticleIdInPath": true,
+        "setSubid1": "channelId",
+        "setSubid2": "newArticleId",
+        "keepOtherQueryParams": true,
+        "overwriteRefWithKeyword": false
+      },
+      "languageId": 1,
+      "taskId": "job_d0026a7821c3437ca1b06654c3cd4f01",
+      "createError": null,
+      "createdAt": "2026-11-11T10:15:59.596Z",
+      "rawCreate": {
+        "task_id": "job_d0026a7821c3437ca1b06654c3cd4f01",
+        "status": "queued"
+      },
+      "pollStatus": "success",
+      "progress": {
+        "total": 1,
+        "completed": 1,
+        "success": 1,
+        "failed": 0,
+        "running": 0
+      },
+      "note": "已按 offerId 纠正旧链；新链基于正确域名重拼（article 仍是当时发到 zestfularcade.com 的）",
+      "itemId": 9689,
+      "newArticleId": "861087342611",
+      "publishRaw": {
+        "task_id": "job_d0026a7821c3437ca1b06654c3cd4f01",
+        "status": "success",
+        "mode": "auto",
+        "intent_keyword": "Spinal Cord Stimulator Cost",
+        "category_id": 6310,
+        "language_id": 1,
+        "region_id": "US",
+        "options": {
+          "title": {
+            "max_length": 70,
+            "include_year": true
+          },
+          "overview": {
+            "min_length": 0,
+            "max_length": 150
+          },
+          "body": {
+            "target_length": 2000,
+            "min_length": 1500,
+            "include_cta": true,
+            "include_headings": true,
+            "include_tables": true,
+            "include_lists": true
+          },
+          "keywords": {
+            "mode": "auto",
+            "values": [],
+            "min_count": 5,
+            "max_count": 10,
+            "include_in_title": true,
+            "include_in_overview": true,
+            "include_in_headings": true,
+            "include_in_body": true,
+            "include_in_seo": true
+          },
+          "seo": {
+            "enabled": true,
+            "title_max_length": 60,
+            "description_max_length": 160
+          },
+          "image": {
+            "enabled": true
+          },
+          "video": null,
+          "source": {
+            "show_in_article": false
+          },
+          "thinking": {
+            "enabled": false
+          },
+          "outline": {
+            "enabled": false,
+            "sections": null
+          },
+          "topic_research": {
+            "provider": "tavily",
+            "query_count": 3
+          },
+          "tags": {
+            "enabled": false
+          },
+          "retry": {
+            "enabled": true
+          },
+          "articles_per_domain": 1,
+          "out_show": false,
+          "generate_author": true,
+          "publish": false
+        },
+        "user": {
+          "user_id": "43",
+          "user_name": "jiayaowu@pixeljet.cn"
+        },
+        "callback_url": null,
+        "progress": {
+          "total": 1,
+          "completed": 1,
+          "success": 1,
+          "failed": 0,
+          "running": 0
+        },
+        "usage": {
+          "tavily_calls": 7,
+          "planning_tavily_calls": 3
+        },
+        "results": [
+          {
+            "id": 9689,
+            "domain": "zestfularcade.com",
+            "article_number": 1,
+            "site_id": 6,
+            "account_id": 2,
+            "status": "success",
+            "article_id": 861087342611,
+            "conversation_id": 16170,
+            "direction": {
+              "domain": "zestfularcade.com",
+              "title": "Spinal Cord Stimulator Cost in 2026: What US Patients Really Pay",
+              "primary_keyword": "spinal cord stimulator cost",
+              "secondary_keywords": [
+                "spinal cord stimulator cost with insurance 2026",
+                "SCS trial vs permanent implant cost",
+                "Medicare coverage spinal cord stimulator",
+                "spinal cord stimulator out-of-pocket cost",
+                "rechargeable vs non-rechargeable SCS device cost",
+                "spinal cord stimulator reimbursement 2026"
+              ],
+              "angle": "A cost-analysis field guide that separates the three numbers patients confuse — billed charges, insurer-negotiated rates, and actual out-of-pocket responsibility — and walks through the 2026 US payment landscape, including the 33.4009 conversion factor, the 20% Part B coinsurance benchmark, and MS-DRG facility payments, so readers can build a realistic budget before committing to a two-stage trial-plus-implant process.",
+              "audience": "US adults with chronic back or leg pain considering spinal cord stimulation, plus family caregivers who need to plan finances and understand what insurance will and will not cover in 2026.",
+              "search_intent": "Commercial investigation with a strong transactional edge: readers want to know what a spinal cord stimulator actually costs them in the US in 2026, how insurance and Medicare change that number, and whether the trial and implant are billed separately.",
+              "core_arguments": [
+                "The headline price of a spinal cord stimulator is not the price patients pay; billed charges, negotiated rates, and patient responsibility diverge by tens of thousands of dollars, so any single 'cost' figure is misleading without the payment context attached.",
+                "The two-stage structure of SCS therapy — a temporary trial followed by a permanent implant — creates two separate billing events, and patients who budget only for the implant are routinely surprised by trial-related charges.",
+                "For 2026, Original Medicare's 20% Part B coinsurance after deductible is a useful planning benchmark for covered professional services, but it is not an estimate of the full implant bill because facility payments follow separate MS-DRG logic.",
+                "Device choice (rechargeable versus non-rechargeable generator) shifts the long-run cost picture through replacement and revision risk, so the cheapest upfront option is not automatically the cheapest over a decade.",
+                "Patients who confirm insurance benefits, facility status, and device details in writing before scheduling gain real negotiating leverage and avoid the most common billing surprises."
+              ],
+              "content_format": "Cost analysis field guide with a three-number framing device and a pre-surgery budget checklist",
+              "outline_strategy": "Open by dismantling the idea of a single sticker price, then define the three cost layers in plain language. Move into the 2026 US payment environment using the Medicare conversion factor and coinsurance benchmark, then break the episode into trial, implant, and follow-up phases with what each typically bills. Compare rechargeable and non-rechargeable generators on long-run cost rather than sticker price, close with a written-questions checklist for the clinic's billing office, and end on a budgeting stance rather than a verdict.",
+              "writing_path": "direct",
+              "research_queries": [
+                "spinal cord stimulator cost United States 2026 insurance out-of-pocket",
+                "Medicare spinal cord stimulator coverage 2026 coinsurance Part B",
+                "SCS trial versus permanent implant billing separate charges",
+                "rechargeable versus non-rechargeable spinal cord stimulator generator replacement cost"
+              ],
+              "author_name": "Daniel Whitmore"
+            },
+            "attempts": 1,
+            "tavily_calls": 4,
+            "author_name": "Daniel Whitmore",
+            "selected_tags": [],
+            "tag_results": [],
+            "error_code": null,
+            "error_message": null
+          }
+        ],
+        "error_message": null,
+        "created_at": "2026-11-11T10:15:58.773965+00:00",
+        "started_at": "2026-11-11T10:15:59.239074+00:00",
+        "completed_at": "2026-11-11T10:17:57.490428+00:00"
+      },
+      "publishStatus": "success",
+      "publishError": null,
+      "newLandingUrl": "https://zestfularcade.com/detail/861087342611?ref=Spinal+Cord+Stimulator+Cost&channel=8026393663&hit={hit}&rType=2&partner=Blinkdrama&subid1=8026393663&subid2=861087342611",
+      "publishedAt": "2026-11-11T10:24:05.645Z"
+    },
+    {
+      "taskIndex": 10,
+      "status": "published",
+      "offerId": "3ykOHLIDuHL8",
+      "offerName": "Blinkdrama-v01-A4-Us-8002532881-joyfulgaminghub9.com",
+      "groupId": "3sFCVTgYYRkx",
+      "groupName": "Blinkdrama-v01-us",
+      "geo": "US",
+      "channelId": "8002532881",
+      "oldLandingUrl": "https://zestfularcade.com/detail/236588121583?ref=Buprenorphine%20Market%202026&channel=8002532881&hit={hit}&rType=2&partner=Blinkdrama",
+      "oldArticleId": "236588121583",
+      "host": "zestfularcade.com",
+      "siteId": 6,
+      "accountId": 2,
+      "siteName": "zestfularcade.com",
+      "siteResolved": true,
+      "seed": {
+        "keyword": "Wet AMD Treatment Cost",
+        "intentKeyword": "Wet AMD Treatment Cost",
+        "ref": "Wet AMD Treatment Cost",
+        "domainCategory": "眼科 / 视力",
+        "categoryId": 6311,
+        "regionId": "US"
+      },
+      "articleJobPreview": {
+        "publish": false,
+        "articlesPerDomain": 1,
+        "willCreate": false,
+        "note": "本轮只出计划，不调用 article-jobs",
+        "targets": [
+          {
+            "domain": "zestfularcade.com",
+            "site_id": 6,
+            "account_id": 2
+          }
+        ]
+      },
+      "newLandingUrlExample": "https://zestfularcade.com/detail/PENDING_ARTICLE_10?ref=Buprenorphine+Market+2026&channel=8002532881&hit={hit}&rType=2&partner=Blinkdrama&subid1=8002532881&subid2=PENDING_ARTICLE_10",
+      "urlRewriteRule": {
+        "replaceArticleIdInPath": true,
+        "setSubid1": "channelId",
+        "setSubid2": "newArticleId",
+        "keepOtherQueryParams": true,
+        "overwriteRefWithKeyword": false
+      },
+      "languageId": 1,
+      "taskId": "job_765c7f055c284b13905295adc53ee1bd",
+      "createError": null,
+      "createdAt": "2026-11-11T10:15:58.767Z",
+      "rawCreate": {
+        "task_id": "job_765c7f055c284b13905295adc53ee1bd",
+        "status": "queued"
+      },
+      "pollStatus": "success",
+      "progress": {
+        "total": 1,
+        "completed": 1,
+        "success": 1,
+        "failed": 0,
+        "running": 0
+      },
+      "note": "已按 offerId 纠正旧链；新链基于正确域名重拼（article 仍是当时发到 zestfularcade.com 的）",
+      "itemId": 9688,
+      "newArticleId": "810656779284",
+      "publishRaw": {
+        "task_id": "job_765c7f055c284b13905295adc53ee1bd",
+        "status": "success",
+        "mode": "auto",
+        "intent_keyword": "Wet AMD Treatment Cost",
+        "category_id": 6311,
+        "language_id": 1,
+        "region_id": "US",
+        "options": {
+          "title": {
+            "max_length": 70,
+            "include_year": true
+          },
+          "overview": {
+            "min_length": 0,
+            "max_length": 150
+          },
+          "body": {
+            "target_length": 2000,
+            "min_length": 1500,
+            "include_cta": true,
+            "include_headings": true,
+            "include_tables": true,
+            "include_lists": true
+          },
+          "keywords": {
+            "mode": "auto",
+            "values": [],
+            "min_count": 5,
+            "max_count": 10,
+            "include_in_title": true,
+            "include_in_overview": true,
+            "include_in_headings": true,
+            "include_in_body": true,
+            "include_in_seo": true
+          },
+          "seo": {
+            "enabled": true,
+            "title_max_length": 60,
+            "description_max_length": 160
+          },
+          "image": {
+            "enabled": true
+          },
+          "video": null,
+          "source": {
+            "show_in_article": false
+          },
+          "thinking": {
+            "enabled": false
+          },
+          "outline": {
+            "enabled": false,
+            "sections": null
+          },
+          "topic_research": {
+            "provider": "tavily",
+            "query_count": 3
+          },
+          "tags": {
+            "enabled": false
+          },
+          "retry": {
+            "enabled": true
+          },
+          "articles_per_domain": 1,
+          "out_show": false,
+          "generate_author": true,
+          "publish": false
+        },
+        "user": {
+          "user_id": "43",
+          "user_name": "jiayaowu@pixeljet.cn"
+        },
+        "callback_url": null,
+        "progress": {
+          "total": 1,
+          "completed": 1,
+          "success": 1,
+          "failed": 0,
+          "running": 0
+        },
+        "usage": {
+          "tavily_calls": 7,
+          "planning_tavily_calls": 3
+        },
+        "results": [
+          {
+            "id": 9688,
+            "domain": "zestfularcade.com",
+            "article_number": 1,
+            "site_id": 6,
+            "account_id": 2,
+            "status": "success",
+            "article_id": 810656779284,
+            "conversation_id": 16165,
+            "direction": {
+              "domain": "zestfularcade.com",
+              "title": "Wet AMD Treatment Cost in 2026: What US Patients Really Pay",
+              "primary_keyword": "wet AMD treatment cost",
+              "secondary_keywords": [
+                "anti-VEGF injection cost per month",
+                "Eylea vs Avastin cost comparison",
+                "Medicare Part B wet AMD coverage 2026",
+                "wet AMD out-of-pocket cost",
+                "Vabysmo cost with insurance",
+                "macular degeneration treatment cost 2026"
+              ],
+              "angle": "A line-by-line cost analysis that separates the sticker price of anti-VEGF drugs from the actual amount US patients pay after Medicare Part B, supplemental plans, and manufacturer assistance, using 2026 deductible and drug-price figures.",
+              "audience": "US adults over 60 recently diagnosed with wet AMD, plus adult children helping parents compare injection costs before their first treatment cycle.",
+              "search_intent": "Cost analysis and planning: readers want a realistic per-injection and annual dollar range and want to know which drug and coverage path keeps their share lowest.",
+              "core_arguments": [
+                "The billed price of an anti-VEGF injection and the patient's actual share are two very different numbers, and confusing them leads people to overestimate their real burden by thousands of dollars per year.",
+                "Drug choice is the single largest cost lever: Avastin, Eylea, and Vabysmo sit at very different price points, yet Medicare pays a percentage of the approved amount, so the 20% coinsurance gap between them is large and worth discussing with the retina specialist.",
+                "Medicare Part B in 2026 carries a $283 deductible plus 20% coinsurance, and hospital outpatient facility fees can add a separate charge that private clinic billing often avoids.",
+                "Dosing interval changes, including extended-interval labeling for Eylea HD, directly reduce annual cost by cutting the number of billable injection visits.",
+                "Manufacturer copay programs and supplemental Medigap or Medicare Advantage plans can shrink the patient share dramatically, but eligibility rules differ and must be checked before the first injection."
+              ],
+              "content_format": "Cost analysis with a worked annual estimate and a decision checklist",
+              "outline_strategy": "Open with a realistic annual cost range rather than a single drug price, then break the bill into its parts (drug, injection fee, facility fee, imaging), compare three common drug paths side by side, layer in 2026 Medicare mechanics, and close with a pre-treatment question list the patient can bring to the clinic.",
+              "writing_path": "direct",
+              "research_queries": [
+                "Medicare Part B 2026 deductible coinsurance eye injection costs",
+                "Eylea vs Avastin vs Vabysmo cost per injection 2026 United States",
+                "Eylea HD extended dosing interval FDA approval 2026",
+                "anti-VEGF Medicare spending macular degeneration CMS data"
+              ],
+              "author_name": "Daniel Whitmore"
+            },
+            "attempts": 1,
+            "tavily_calls": 4,
+            "author_name": "Daniel Whitmore",
+            "selected_tags": [],
+            "tag_results": [],
+            "error_code": null,
+            "error_message": null
+          }
+        ],
+        "error_message": null,
+        "created_at": "2026-11-11T10:15:58.563488+00:00",
+        "started_at": "2026-11-11T10:15:59.222197+00:00",
+        "completed_at": "2026-11-11T10:17:10.251935+00:00"
+      },
+      "publishStatus": "success",
+      "publishError": null,
+      "newLandingUrl": "https://zestfularcade.com/detail/810656779284?ref=Wet+AMD+Treatment+Cost&channel=8002532881&hit={hit}&rType=2&partner=Blinkdrama&subid1=8002532881&subid2=810656779284",
+      "publishedAt": "2026-11-11T10:24:05.645Z"
+    },
+    {
+      "taskIndex": 11,
+      "status": "published",
+      "offerId": "3ykOKo6PrIjT",
+      "offerName": "Blinkdrama-v01-A5-us-9357255815-playfulbreak.com",
+      "groupId": "3sFCVTgYYRkx",
+      "groupName": "Blinkdrama-v01-us",
+      "geo": "US",
+      "channelId": "9357255815",
+      "oldLandingUrl": "https://joyfullplayland.com/detail/236588121583?ref=Buprenorphine%20Market%202026&channel=9357255815&hit={hit}&rType=2&partner=Blinkdrama",
+      "oldArticleId": "236588121583",
+      "host": "joyfullplayland.com",
+      "siteId": 17,
+      "accountId": 3,
+      "siteName": "joyfullplayland.com",
+      "siteResolved": true,
+      "seed": {
+        "keyword": "Eylea Cost Without Insurance",
+        "intentKeyword": "Eylea Cost Without Insurance",
+        "ref": "Eylea Cost Without Insurance",
+        "domainCategory": "眼科 / 视力",
+        "categoryId": 6311,
+        "regionId": "US"
+      },
+      "articleJobPreview": {
+        "publish": false,
+        "articlesPerDomain": 1,
+        "willCreate": false,
+        "note": "本轮只出计划，不调用 article-jobs",
+        "targets": [
+          {
+            "domain": "joyfullplayland.com",
+            "site_id": 17,
+            "account_id": 3
+          }
+        ]
+      },
+      "newLandingUrlExample": "https://joyfullplayland.com/detail/PENDING_ARTICLE_11?ref=Buprenorphine+Market+2026&channel=9357255815&hit={hit}&rType=2&partner=Blinkdrama&subid1=9357255815&subid2=PENDING_ARTICLE_11",
+      "urlRewriteRule": {
+        "replaceArticleIdInPath": true,
+        "setSubid1": "channelId",
+        "setSubid2": "newArticleId",
+        "keepOtherQueryParams": true,
+        "overwriteRefWithKeyword": false
+      },
+      "languageId": 1,
+      "taskId": "job_0fd0cf7dac4647afaac0ac7dc7446687",
+      "createError": null,
+      "createdAt": "2026-11-11T10:15:59.634Z",
+      "rawCreate": {
+        "task_id": "job_0fd0cf7dac4647afaac0ac7dc7446687",
+        "status": "queued"
+      },
+      "pollStatus": "success",
+      "progress": {
+        "total": 1,
+        "completed": 1,
+        "success": 1,
+        "failed": 0,
+        "running": 0
+      },
+      "note": "已按 offerId 纠正旧链；新链基于正确域名重拼（article 仍是当时发到 joyfullplayland.com 的）",
+      "itemId": 9691,
+      "newArticleId": "935167226434",
+      "publishRaw": {
+        "task_id": "job_0fd0cf7dac4647afaac0ac7dc7446687",
+        "status": "success",
+        "mode": "auto",
+        "intent_keyword": "Eylea Cost Without Insurance",
+        "category_id": 6311,
+        "language_id": 1,
+        "region_id": "US",
+        "options": {
+          "title": {
+            "max_length": 70,
+            "include_year": true
+          },
+          "overview": {
+            "min_length": 0,
+            "max_length": 150
+          },
+          "body": {
+            "target_length": 2000,
+            "min_length": 1500,
+            "include_cta": true,
+            "include_headings": true,
+            "include_tables": true,
+            "include_lists": true
+          },
+          "keywords": {
+            "mode": "auto",
+            "values": [],
+            "min_count": 5,
+            "max_count": 10,
+            "include_in_title": true,
+            "include_in_overview": true,
+            "include_in_headings": true,
+            "include_in_body": true,
+            "include_in_seo": true
+          },
+          "seo": {
+            "enabled": true,
+            "title_max_length": 60,
+            "description_max_length": 160
+          },
+          "image": {
+            "enabled": true
+          },
+          "video": null,
+          "source": {
+            "show_in_article": false
+          },
+          "thinking": {
+            "enabled": false
+          },
+          "outline": {
+            "enabled": false,
+            "sections": null
+          },
+          "topic_research": {
+            "provider": "tavily",
+            "query_count": 3
+          },
+          "tags": {
+            "enabled": false
+          },
+          "retry": {
+            "enabled": true
+          },
+          "articles_per_domain": 1,
+          "out_show": false,
+          "generate_author": true,
+          "publish": false
+        },
+        "user": {
+          "user_id": "43",
+          "user_name": "jiayaowu@pixeljet.cn"
+        },
+        "callback_url": null,
+        "progress": {
+          "total": 1,
+          "completed": 1,
+          "success": 1,
+          "failed": 0,
+          "running": 0
+        },
+        "usage": {
+          "tavily_calls": 7,
+          "planning_tavily_calls": 3
+        },
+        "results": [
+          {
+            "id": 9691,
+            "domain": "joyfullplayland.com",
+            "article_number": 1,
+            "site_id": 17,
+            "account_id": 3,
+            "status": "success",
+            "article_id": 935167226434,
+            "conversation_id": 16174,
+            "direction": {
+              "domain": "joyfullplayland.com",
+              "title": "Eylea Cost Without Insurance in 2026: Real Prices and Options",
+              "primary_keyword": "Eylea cost without insurance",
+              "secondary_keywords": [
+                "Eylea price 2026",
+                "Eylea HD cost per injection",
+                "aflibercept cash price",
+                "patient assistance program Eylea",
+                "copay card Eylea",
+                "eye injection cost without insurance"
+              ],
+              "angle": "A decision-oriented cost breakdown that shows uninsured readers what Eylea actually bills at per injection in 2026, why the annual total depends on dosing interval, and which manufacturer, foundation, and biosimilar paths can realistically shrink the bill.",
+              "audience": "Uninsured and underinsured US adults with wet AMD, diabetic macular edema, or diabetic retinopathy who have been prescribed Eylea or Eylea HD and need to plan payment before their first injection.",
+              "search_intent": "Commercial investigation with urgent transactional undertones: the reader wants a realistic dollar figure for Eylea without insurance and a concrete list of ways to pay less.",
+              "core_arguments": [
+                "Cash prices for Eylea commonly land near $1,800 to $2,500 per injection, while Eylea HD is priced around $2,625 per single-use vial, so the annual total is driven by how often the drug is dosed rather than by the sticker price alone.",
+                "Without insurance, the procedure fee for the intravitreal injection is billed separately from the drug, so patients should ask for a bundled estimate instead of comparing drug prices in isolation.",
+                "Manufacturer copay cards are built for commercially insured patients and generally exclude Medicare and uninsured buyers, which makes foundation grants and patient assistance programs the more relevant levers for this audience.",
+                "Biosimilar and alternative anti-VEGF options, including compounded Avastin, can cost a fraction of brand Eylea, and patients should ask their retina specialist whether a lower-cost agent is clinically appropriate.",
+                "Cost planning should start before the first injection because dosing intervals of four to twelve weeks compound quickly, and a written estimate plus an assistance application can prevent treatment gaps."
+              ],
+              "content_format": "Cost analysis with a decision framework",
+              "outline_strategy": "Open with a realistic per-injection price range and immediately reframe the question from one-shot cost to annual cost by dosing schedule. Move into a breakdown of drug cost versus administration fee, then a structured comparison of payment paths (cash, manufacturer programs, foundations, biosimilars, clinical trials) with eligibility caveats. Close with a pre-appointment checklist the reader can bring to the retina clinic.",
+              "writing_path": "direct",
+              "research_queries": [
+                "Eylea cash price per injection 2026 United States",
+                "Eylea HD wholesale price 2026",
+                "Eylea patient assistance program uninsured eligibility 2026",
+                "biosimilar aflibercept US launch price 2026"
+              ],
+              "author_name": "Megan Caldwell"
+            },
+            "attempts": 1,
+            "tavily_calls": 4,
+            "author_name": "Megan Caldwell",
+            "selected_tags": [],
+            "tag_results": [],
+            "error_code": null,
+            "error_message": null
+          }
+        ],
+        "error_message": null,
+        "created_at": "2026-11-11T10:15:59.441474+00:00",
+        "started_at": "2026-11-11T10:17:03.503238+00:00",
+        "completed_at": "2026-11-11T10:18:36.914128+00:00"
+      },
+      "publishStatus": "success",
+      "publishError": null,
+      "newLandingUrl": "https://joyfullplayland.com/detail/935167226434?ref=Eylea+Cost+Without+Insurance&channel=9357255815&hit={hit}&rType=2&partner=Blinkdrama&subid1=9357255815&subid2=935167226434",
+      "publishedAt": "2026-11-11T10:24:05.645Z"
+    },
+    {
+      "taskIndex": 12,
+      "status": "published",
+      "offerId": "3ykOM7UurzAx",
+      "offerName": "Blinkdrama-v01-A5-us-3790036697-easyfungalaxy.com",
+      "groupId": "3sFCVTgYYRkx",
+      "groupName": "Blinkdrama-v01-us",
+      "geo": "US",
+      "channelId": "3790036697",
+      "oldLandingUrl": "https://joyfullplayland.com/detail/236588121583?ref=Buprenorphine%20Market%202026&channel=3790036697&hit={hit}&rType=2&partner=Blinkdrama",
+      "oldArticleId": "236588121583",
+      "host": "joyfullplayland.com",
+      "siteId": 17,
+      "accountId": 3,
+      "siteName": "joyfullplayland.com",
+      "siteResolved": true,
+      "seed": {
+        "keyword": "Contrave Cost Without Insurance",
+        "intentKeyword": "Contrave Cost Without Insurance",
+        "ref": "Contrave Cost Without Insurance",
+        "domainCategory": "GLP-1 / 糖尿病",
+        "categoryId": 6305,
+        "regionId": "US"
+      },
+      "articleJobPreview": {
+        "publish": false,
+        "articlesPerDomain": 1,
+        "willCreate": false,
+        "note": "本轮只出计划，不调用 article-jobs",
+        "targets": [
+          {
+            "domain": "joyfullplayland.com",
+            "site_id": 17,
+            "account_id": 3
+          }
+        ]
+      },
+      "newLandingUrlExample": "https://joyfullplayland.com/detail/PENDING_ARTICLE_12?ref=Buprenorphine+Market+2026&channel=3790036697&hit={hit}&rType=2&partner=Blinkdrama&subid1=3790036697&subid2=PENDING_ARTICLE_12",
+      "urlRewriteRule": {
+        "replaceArticleIdInPath": true,
+        "setSubid1": "channelId",
+        "setSubid2": "newArticleId",
+        "keepOtherQueryParams": true,
+        "overwriteRefWithKeyword": false
+      },
+      "languageId": 1,
+      "taskId": "job_7cc6f52181d6409db521b6d1ae4e1d01",
+      "createError": null,
+      "createdAt": "2026-11-11T10:15:59.982Z",
+      "rawCreate": {
+        "task_id": "job_7cc6f52181d6409db521b6d1ae4e1d01",
+        "status": "queued"
+      },
+      "pollStatus": "success",
+      "progress": {
+        "total": 1,
+        "completed": 1,
+        "success": 1,
+        "failed": 0,
+        "running": 0
+      },
+      "note": "已按 offerId 纠正旧链；新链基于正确域名重拼（article 仍是当时发到 joyfullplayland.com 的）",
+      "itemId": 9692,
+      "newArticleId": "929026324700",
+      "publishRaw": {
+        "task_id": "job_7cc6f52181d6409db521b6d1ae4e1d01",
+        "status": "success",
+        "mode": "auto",
+        "intent_keyword": "Contrave Cost Without Insurance",
+        "category_id": 6305,
+        "language_id": 1,
+        "region_id": "US",
+        "options": {
+          "title": {
+            "max_length": 70,
+            "include_year": true
+          },
+          "overview": {
+            "min_length": 0,
+            "max_length": 150
+          },
+          "body": {
+            "target_length": 2000,
+            "min_length": 1500,
+            "include_cta": true,
+            "include_headings": true,
+            "include_tables": true,
+            "include_lists": true
+          },
+          "keywords": {
+            "mode": "auto",
+            "values": [],
+            "min_count": 5,
+            "max_count": 10,
+            "include_in_title": true,
+            "include_in_overview": true,
+            "include_in_headings": true,
+            "include_in_body": true,
+            "include_in_seo": true
+          },
+          "seo": {
+            "enabled": true,
+            "title_max_length": 60,
+            "description_max_length": 160
+          },
+          "image": {
+            "enabled": true
+          },
+          "video": null,
+          "source": {
+            "show_in_article": false
+          },
+          "thinking": {
+            "enabled": false
+          },
+          "outline": {
+            "enabled": false,
+            "sections": null
+          },
+          "topic_research": {
+            "provider": "tavily",
+            "query_count": 3
+          },
+          "tags": {
+            "enabled": false
+          },
+          "retry": {
+            "enabled": true
+          },
+          "articles_per_domain": 1,
+          "out_show": false,
+          "generate_author": true,
+          "publish": false
+        },
+        "user": {
+          "user_id": "43",
+          "user_name": "jiayaowu@pixeljet.cn"
+        },
+        "callback_url": null,
+        "progress": {
+          "total": 1,
+          "completed": 1,
+          "success": 1,
+          "failed": 0,
+          "running": 0
+        },
+        "usage": {
+          "tavily_calls": 7,
+          "planning_tavily_calls": 3
+        },
+        "results": [
+          {
+            "id": 9692,
+            "domain": "joyfullplayland.com",
+            "article_number": 1,
+            "site_id": 17,
+            "account_id": 3,
+            "status": "success",
+            "article_id": 929026324700,
+            "conversation_id": 16175,
+            "direction": {
+              "domain": "joyfullplayland.com",
+              "title": "Contrave Cost Without Insurance 2026: Real Prices by Pharmacy",
+              "primary_keyword": "Contrave cost without insurance",
+              "secondary_keywords": [
+                "Contrave cash price 2026",
+                "Contrave CurAccess program",
+                "generic naltrexone-bupropion cost",
+                "Contrave GoodRx price",
+                "Contrave savings card",
+                "cheapest pharmacy for Contrave"
+              ],
+              "angle": "A receipt-style cost breakdown that separates the four price tiers patients actually encounter in 2026 — retail list price, pharmacy discount cards, the $199 GoodRx cash price, and the $99 CurAccess program — then shows how the same 120-tablet fill can swing by hundreds of dollars depending on which lane the patient uses.",
+              "audience": "Uninsured US adults with an obesity diagnosis and a Contrave prescription in hand who are standing at the pharmacy counter or comparing fill options before their first purchase.",
+              "search_intent": "Transactional and cost-research intent: the reader wants a concrete dollar figure for Contrave without insurance and a clear next step to pay the lowest available price this month.",
+              "core_arguments": [
+                "There is no single Contrave price in 2026 — the same 120-tablet monthly supply ranges from roughly $99 through manufacturer patient programs up to $530–$740 at list price, so the pharmacy and program chosen matter more than the drug itself.",
+                "The manufacturer's own access routes (CurAccess at about $99 per month and the $199 GoodRx cash price) now undercut most retail counter prices, which means uninsured patients should ask for these programs by name rather than accept the first quote.",
+                "Pharmacy-level cash prices cluster between roughly $150 and $210 at large chains like Walmart, Costco, Sam's Club, and Walgreens, so switching pharmacies can save real money even before any coupon is applied.",
+                "Generic naltrexone-bupropion, typically $60–$150 per month, is the true budget floor, but it is a separate prescription decision the patient must raise with their prescriber rather than something the pharmacy can substitute on its own.",
+                "Because CurAccess pricing has reportedly held steady since 2019 while list prices drift, uninsured patients should re-verify their specific quote each fill instead of assuming last year's number still applies."
+              ],
+              "content_format": "Cost analysis with a tiered price-comparison table and a step-by-step 'what to say at the counter' checklist",
+              "outline_strategy": "Open by anchoring the reader in a single concrete scenario — a 120-tablet fill rung up at full price — then immediately break the price into four labeled lanes (list, chain cash, GoodRx cash, CurAccess) with a comparison table. Follow with a short section on why the spread exists, then a practical sequence the reader can execute in one afternoon: call the prescriber, ask for the program names, compare two pharmacies, and confirm the refill price. Close with a caveat section on eligibility rules and price volatility rather than a summary.",
+              "writing_path": "direct",
+              "research_queries": [
+                "Contrave cost without insurance 2026 CurAccess GoodRx cash price",
+                "Contrave price by pharmacy Walmart Costco CVS Walgreens 2026",
+                "generic naltrexone bupropion cost per month 2026",
+                "Contrave savings card eligibility 2026"
+              ],
+              "author_name": "Danielle Whitcomb"
+            },
+            "attempts": 1,
+            "tavily_calls": 4,
+            "author_name": "Danielle Whitcomb",
+            "selected_tags": [],
+            "tag_results": [],
+            "error_code": null,
+            "error_message": null
+          }
+        ],
+        "error_message": null,
+        "created_at": "2026-11-11T10:15:59.778023+00:00",
+        "started_at": "2026-11-11T10:17:10.280089+00:00",
+        "completed_at": "2026-11-11T10:18:43.662176+00:00"
+      },
+      "publishStatus": "success",
+      "publishError": null,
+      "newLandingUrl": "https://joyfullplayland.com/detail/929026324700?ref=Contrave+Cost+Without+Insurance&channel=3790036697&hit={hit}&rType=2&partner=Blinkdrama&subid1=3790036697&subid2=929026324700",
+      "publishedAt": "2026-11-11T10:24:05.645Z"
+    },
+    {
+      "taskIndex": 13,
+      "status": "published",
+      "offerId": "3ykOOq8Aoduh",
+      "offerName": "Blinkdrama-v01-A7-Us-18666-xveluxai.com",
+      "groupId": "3sFCVTgYYRkx",
+      "groupName": "Blinkdrama-v01-us",
+      "geo": "US",
+      "channelId": "18666",
+      "oldLandingUrl": "https://xveluxai.com/detail/923706854063?ref=birth%20injury%20lawyer%20near%20me&channel=18666&hit={hit}&rType=2&partner=Blinkdrama",
+      "oldArticleId": "923706854063",
+      "host": "xveluxai.com",
+      "siteId": 117,
+      "accountId": 4,
+      "siteName": "xveluxai.com",
+      "siteResolved": true,
+      "seed": {
+        "keyword": "Botox for Migraine Cost",
+        "intentKeyword": "Botox for Migraine Cost",
+        "ref": "Botox for Migraine Cost",
+        "domainCategory": "医疗·偏头痛",
+        "categoryId": 6451,
+        "regionId": "US"
+      },
+      "articleJobPreview": {
+        "publish": false,
+        "articlesPerDomain": 1,
+        "willCreate": false,
+        "note": "本轮只出计划，不调用 article-jobs",
+        "targets": [
+          {
+            "domain": "xveluxai.com",
+            "site_id": 117,
+            "account_id": 4
+          }
+        ]
+      },
+      "newLandingUrlExample": "https://xveluxai.com/detail/PENDING_ARTICLE_13?ref=birth+injury+lawyer+near+me&channel=18666&hit={hit}&rType=2&partner=Blinkdrama&subid1=18666&subid2=PENDING_ARTICLE_13",
+      "urlRewriteRule": {
+        "replaceArticleIdInPath": true,
+        "setSubid1": "channelId",
+        "setSubid2": "newArticleId",
+        "keepOtherQueryParams": true,
+        "overwriteRefWithKeyword": false
+      },
+      "languageId": 1,
+      "taskId": "job_5c2292e169104cb8990df4c4e4e1f0b8",
+      "createError": null,
+      "createdAt": "2026-11-11T10:16:01.223Z",
+      "rawCreate": {
+        "task_id": "job_5c2292e169104cb8990df4c4e4e1f0b8",
+        "status": "queued"
+      },
+      "pollStatus": "success",
+      "progress": {
+        "total": 1,
+        "completed": 1,
+        "success": 1,
+        "failed": 0,
+        "running": 0
+      },
+      "note": "已按 offerId 纠正旧链；新链基于正确域名重拼（article 仍是当时发到 xveluxai.com 的）",
+      "itemId": 9695,
+      "newArticleId": "959052006999",
+      "publishRaw": {
+        "task_id": "job_5c2292e169104cb8990df4c4e4e1f0b8",
+        "status": "success",
+        "mode": "auto",
+        "intent_keyword": "Botox for Migraine Cost",
+        "category_id": 6451,
+        "language_id": 1,
+        "region_id": "US",
+        "options": {
+          "title": {
+            "max_length": 70,
+            "include_year": true
+          },
+          "overview": {
+            "min_length": 0,
+            "max_length": 150
+          },
+          "body": {
+            "target_length": 2000,
+            "min_length": 1500,
+            "include_cta": true,
+            "include_headings": true,
+            "include_tables": true,
+            "include_lists": true
+          },
+          "keywords": {
+            "mode": "auto",
+            "values": [],
+            "min_count": 5,
+            "max_count": 10,
+            "include_in_title": true,
+            "include_in_overview": true,
+            "include_in_headings": true,
+            "include_in_body": true,
+            "include_in_seo": true
+          },
+          "seo": {
+            "enabled": true,
+            "title_max_length": 60,
+            "description_max_length": 160
+          },
+          "image": {
+            "enabled": true
+          },
+          "video": null,
+          "source": {
+            "show_in_article": false
+          },
+          "thinking": {
+            "enabled": false
+          },
+          "outline": {
+            "enabled": false,
+            "sections": null
+          },
+          "topic_research": {
+            "provider": "tavily",
+            "query_count": 3
+          },
+          "tags": {
+            "enabled": false
+          },
+          "retry": {
+            "enabled": true
+          },
+          "articles_per_domain": 1,
+          "out_show": false,
+          "generate_author": true,
+          "publish": false
+        },
+        "user": {
+          "user_id": "43",
+          "user_name": "jiayaowu@pixeljet.cn"
+        },
+        "callback_url": null,
+        "progress": {
+          "total": 1,
+          "completed": 1,
+          "success": 1,
+          "failed": 0,
+          "running": 0
+        },
+        "usage": {
+          "tavily_calls": 7,
+          "planning_tavily_calls": 3
+        },
+        "results": [
+          {
+            "id": 9695,
+            "domain": "xveluxai.com",
+            "article_number": 1,
+            "site_id": 117,
+            "account_id": 4,
+            "status": "success",
+            "article_id": 959052006999,
+            "conversation_id": 16178,
+            "direction": {
+              "domain": "xveluxai.com",
+              "title": "Botox for Migraine Cost in 2026: Real Prices, Coverage, and Gaps",
+              "primary_keyword": "Botox for migraine cost 2026",
+              "secondary_keywords": [
+                "Botox migraine injection price",
+                "Medicare coverage Botox chronic migraine",
+                "Botox savings card migraine",
+                "chronic migraine Botox cost per treatment",
+                "Botox list price 200 unit vial",
+                "Botox prior authorization migraine"
+              ],
+              "angle": "Cost analysis that reconciles the wide spread in published 2026 figures — from roughly $1,000 Medicare drug-only amounts to $2,000-4,000 cash-pay sessions — by breaking the price into its components (drug units, administration, visit fees, failed-claim risk) and showing why any single headline number misleads patients.",
+              "audience": "US adults with chronic migraine (15+ headache days per month) who are weighing Botox as a preventive treatment and need a realistic budget before committing to a quarterly regimen.",
+              "search_intent": "Commercial investigation with transactional intent: readers want a concrete dollar range for Botox migraine treatment in 2026, want to know whether Medicare or commercial insurance will pay, and want to find levers (savings cards, assistance programs, site-of-care choices) that lower their out-of-pocket amount.",
+              "core_arguments": [
+                "The 2026 price of Botox for migraine is not one number: the manufacturer list price of about $1,302 per 200-unit vial, the Medicare Part B payment limit near $6.51 per unit, and cash-pay quotes of $2,000-4,000 per session describe different layers of the same transaction, and patients must map which layer their bill actually reflects.",
+                "The FDA-recommended chronic migraine dose of 155 units makes unit-level pricing the decisive variable, so a lower per-unit rate can matter more than a discounted injection fee when comparing providers.",
+                "Insurance coverage is the single largest cost determinant: Medicare Part B and many commercial plans cover Botox for chronic migraine only after documented failure of preventive medications and prior authorization, and an approval gap can turn a $200 coinsurance year into an $8,000-16,000 cash year.",
+                "Manufacturer savings programs and patient assistance can reduce commercial-insurance cost-sharing substantially, but they generally do not apply to Medicare or Medicaid, so eligibility rules should be checked before assuming a discount.",
+                "Total annual cost should be modeled across four treatment cycles per year plus consultation, follow-up, and travel, because hidden non-injection costs can add $1,000 or more annually and are routinely omitted from quoted prices."
+              ],
+              "content_format": "Cost analysis with a component-by-component breakdown and a decision framework for choosing a payment path",
+              "outline_strategy": "Open by contrasting three real 2026 price points a patient might encounter in the same week, then decompose the bill into drug units, administration, visit fees, and ancillary costs. Move into coverage pathways (Medicare Part B, commercial insurance with prior authorization, cash-pay) and how each reshapes the patient's share. Close with a step-by-step budgeting sequence: confirm dose, get a written estimate, verify coverage, layer savings programs, then model the annual figure.",
+              "writing_path": "direct",
+              "research_queries": [
+                "Botox chronic migraine cost 2026 Medicare Part B coinsurance",
+                "Botox Complete savings program 2026 eligibility commercial insurance",
+                "Botox prior authorization chronic migraine criteria 2026",
+                "cash pay Botox migraine 155 units price 2026 by state"
+              ],
+              "author_name": "Danielle Whitmore"
+            },
+            "attempts": 1,
+            "tavily_calls": 4,
+            "author_name": "Danielle Whitmore",
+            "selected_tags": [],
+            "tag_results": [],
+            "error_code": null,
+            "error_message": null
+          }
+        ],
+        "error_message": null,
+        "created_at": "2026-11-11T10:16:01.022648+00:00",
+        "started_at": "2026-11-11T10:17:35.758104+00:00",
+        "completed_at": "2026-11-11T10:19:08.269260+00:00"
+      },
+      "publishStatus": "success",
+      "publishError": null,
+      "newLandingUrl": "https://xveluxai.com/detail/959052006999?ref=Botox+for+Migraine+Cost&channel=18666&hit={hit}&rType=2&partner=Blinkdrama&subid1=18666&subid2=959052006999",
+      "publishedAt": "2026-11-11T10:24:05.645Z"
+    },
+    {
+      "taskIndex": 14,
+      "status": "published",
+      "offerId": "3ykOQIJHOXFR",
+      "offerName": "Blinkdrama-v01-A7-Us-18667-aifinteches.com",
+      "groupId": "3sFCVTgYYRkx",
+      "groupName": "Blinkdrama-v01-us",
+      "geo": "US",
+      "channelId": "18667",
+      "oldLandingUrl": "https://algo-cash.com/detail/236588121583?ref=Buprenorphine%20Market%202026&channel=18667&hit={hit}&rType=2&partner=Blinkdrama",
+      "oldArticleId": "236588121583",
+      "host": "algo-cash.com",
+      "siteId": 42,
+      "accountId": 4,
+      "siteName": "algo-cash.com",
+      "siteResolved": true,
+      "seed": {
+        "keyword": "Contrave Cost Without Insurance",
+        "intentKeyword": "Contrave Cost Without Insurance",
+        "ref": "Contrave Cost Without Insurance",
+        "domainCategory": "GLP-1 / 糖尿病",
+        "categoryId": 6305,
+        "regionId": "US"
+      },
+      "articleJobPreview": {
+        "publish": false,
+        "articlesPerDomain": 1,
+        "willCreate": false,
+        "note": "本轮只出计划，不调用 article-jobs",
+        "targets": [
+          {
+            "domain": "algo-cash.com",
+            "site_id": 42,
+            "account_id": 4
+          }
+        ]
+      },
+      "newLandingUrlExample": "https://algo-cash.com/detail/PENDING_ARTICLE_14?ref=Buprenorphine+Market+2026&channel=18667&hit={hit}&rType=2&partner=Blinkdrama&subid1=18667&subid2=PENDING_ARTICLE_14",
+      "urlRewriteRule": {
+        "replaceArticleIdInPath": true,
+        "setSubid1": "channelId",
+        "setSubid2": "newArticleId",
+        "keepOtherQueryParams": true,
+        "overwriteRefWithKeyword": false
+      },
+      "languageId": 1,
+      "taskId": "job_011ed6421fe04ab39a2bf9d557132ebb",
+      "createError": null,
+      "createdAt": "2026-11-11T10:16:00.472Z",
+      "rawCreate": {
+        "task_id": "job_011ed6421fe04ab39a2bf9d557132ebb",
+        "status": "queued"
+      },
+      "pollStatus": "success",
+      "progress": {
+        "total": 1,
+        "completed": 1,
+        "success": 1,
+        "failed": 0,
+        "running": 0
+      },
+      "note": "已按 offerId 纠正旧链；新链基于正确域名重拼（article 仍是当时发到 algo-cash.com 的）",
+      "itemId": 9693,
+      "newArticleId": "101294131213",
+      "publishRaw": {
+        "task_id": "job_011ed6421fe04ab39a2bf9d557132ebb",
+        "status": "success",
+        "mode": "auto",
+        "intent_keyword": "Contrave Cost Without Insurance",
+        "category_id": 6305,
+        "language_id": 1,
+        "region_id": "US",
+        "options": {
+          "title": {
+            "max_length": 70,
+            "include_year": true
+          },
+          "overview": {
+            "min_length": 0,
+            "max_length": 150
+          },
+          "body": {
+            "target_length": 2000,
+            "min_length": 1500,
+            "include_cta": true,
+            "include_headings": true,
+            "include_tables": true,
+            "include_lists": true
+          },
+          "keywords": {
+            "mode": "auto",
+            "values": [],
+            "min_count": 5,
+            "max_count": 10,
+            "include_in_title": true,
+            "include_in_overview": true,
+            "include_in_headings": true,
+            "include_in_body": true,
+            "include_in_seo": true
+          },
+          "seo": {
+            "enabled": true,
+            "title_max_length": 60,
+            "description_max_length": 160
+          },
+          "image": {
+            "enabled": true
+          },
+          "video": null,
+          "source": {
+            "show_in_article": false
+          },
+          "thinking": {
+            "enabled": false
+          },
+          "outline": {
+            "enabled": false,
+            "sections": null
+          },
+          "topic_research": {
+            "provider": "tavily",
+            "query_count": 3
+          },
+          "tags": {
+            "enabled": false
+          },
+          "retry": {
+            "enabled": true
+          },
+          "articles_per_domain": 1,
+          "out_show": false,
+          "generate_author": true,
+          "publish": false
+        },
+        "user": {
+          "user_id": "43",
+          "user_name": "jiayaowu@pixeljet.cn"
+        },
+        "callback_url": null,
+        "progress": {
+          "total": 1,
+          "completed": 1,
+          "success": 1,
+          "failed": 0,
+          "running": 0
+        },
+        "usage": {
+          "tavily_calls": 7,
+          "planning_tavily_calls": 3
+        },
+        "results": [
+          {
+            "id": 9693,
+            "domain": "algo-cash.com",
+            "article_number": 1,
+            "site_id": 42,
+            "account_id": 4,
+            "status": "success",
+            "article_id": 101294131213,
+            "conversation_id": 16176,
+            "direction": {
+              "domain": "algo-cash.com",
+              "title": "Contrave Cost Without Insurance 2026: Real Prices by Pharmacy",
+              "primary_keyword": "Contrave cost without insurance",
+              "secondary_keywords": [
+                "Contrave cash price 2026",
+                "Contrave CurAccess program price",
+                "generic naltrexone-bupropion cost",
+                "Contrave GoodRx price",
+                "Contrave pharmacy price comparison",
+                "cheapest way to get Contrave"
+              ],
+              "angle": "A pharmacy-by-pharmacy cost breakdown that shows why the same Contrave prescription can cost $99, $199, or $600+ depending on where and how it is filled, and how to pick the cheapest legitimate path.",
+              "audience": "Uninsured or underinsured US adults with a Contrave prescription who are deciding where to fill it and want a concrete dollar comparison rather than general savings advice.",
+              "search_intent": "Transactional and cost-research intent: users want to know what Contrave actually costs out of pocket in 2026 and the fastest way to lower that number.",
+              "core_arguments": [
+                "The sticker price at major chains ($530-$740 list) is not what most cash-paying patients should pay, because manufacturer and discount-card programs reset the floor to roughly $99-$199.",
+                "The cheapest route depends on the fill channel: CurAccess home delivery can reach $99, the GoodRx cash price sits at $199 across 70,000+ pharmacies, and generic naltrexone-bupropion can land between $60 and $150.",
+                "Pharmacy choice alone can swing the monthly bill by hundreds of dollars, so comparing Walmart, Costco, Sam's Club, CVS, and Walgreens before filling is worth real money.",
+                "Generic naltrexone-bupropion is now widely available and is often the lowest-cost option, but brand loyalty, dosing familiarity, and program eligibility affect whether it is the right switch.",
+                "Budgeting should include dispensing fees and shipping, not just the tablet price, because those add-ons quietly raise the true monthly out-of-pocket cost."
+              ],
+              "content_format": "Cost analysis with comparison tables and a decision checklist",
+              "outline_strategy": "Open with a single real-world price gap (the same 120-tablet fill quoted at three very different totals), then move into a tiered cost map from list price down to the lowest verified cash route. Build a pharmacy comparison table, explain each discount channel and its eligibility rules, then close with a short step-by-step checklist readers can run before their next refill. Keep the progression from highest price to lowest so the savings logic is visible.",
+              "writing_path": "direct",
+              "research_queries": [
+                "Contrave cost without insurance 2026 pharmacy prices",
+                "Contrave CurAccess program $99 eligibility 2026",
+                "generic naltrexone bupropion cost per month 2026",
+                "Contrave GoodRx cash price $199 pharmacies"
+              ],
+              "author_name": "Daniel Whitmore"
+            },
+            "attempts": 1,
+            "tavily_calls": 4,
+            "author_name": "Daniel Whitmore",
+            "selected_tags": [],
+            "tag_results": [],
+            "error_code": null,
+            "error_message": null
+          }
+        ],
+        "error_message": null,
+        "created_at": "2026-11-11T10:16:00.264506+00:00",
+        "started_at": "2026-11-11T10:17:17.442392+00:00",
+        "completed_at": "2026-11-11T10:18:50.790523+00:00"
+      },
+      "publishStatus": "success",
+      "publishError": null,
+      "newLandingUrl": "https://algo-cash.com/detail/101294131213?ref=Contrave+Cost+Without+Insurance&channel=18667&hit={hit}&rType=2&partner=Blinkdrama&subid1=18667&subid2=101294131213",
+      "publishedAt": "2026-11-11T10:24:05.645Z"
+    },
+    {
+      "taskIndex": 15,
+      "status": "published",
+      "offerId": "3ykPiJsMz7UB",
+      "offerName": "Blinkdrama-v01-A12-us-4212444181-aivestorhq.com",
+      "groupId": "3sFCVTgYYRkx",
+      "groupName": "Blinkdrama-v01-us",
+      "geo": "US",
+      "channelId": "4212444181",
+      "oldLandingUrl": "https://aivestorhq.com/detail/133157680934?ref=construction%20accident%20lawyer%20near%20me&channel=4212444181&hit={hit}&rType=2&partner=Blinkdrama",
+      "oldArticleId": "133157680934",
+      "host": "aivestorhq.com",
+      "siteId": 65,
+      "accountId": 11,
+      "siteName": "aivestorhq.com",
+      "siteResolved": true,
+      "seed": {
+        "keyword": "Enbrel Cost Without Insurance",
+        "intentKeyword": "Enbrel Cost Without Insurance",
+        "ref": "Enbrel Cost Without Insurance",
+        "domainCategory": "医疗·自身免疫",
+        "categoryId": 6454,
+        "regionId": "US"
+      },
+      "articleJobPreview": {
+        "publish": false,
+        "articlesPerDomain": 1,
+        "willCreate": false,
+        "note": "本轮只出计划，不调用 article-jobs",
+        "targets": [
+          {
+            "domain": "protectlifeplan.com",
+            "site_id": 63,
+            "account_id": 11
+          }
+        ]
+      },
+      "newLandingUrlExample": "https://protectlifeplan.com/detail/PENDING_ARTICLE_15?ref=Cart%C3%A3o+de+Cr%C3%A9dito+para+Negativado+Aprovado+na+Hora%3A+Comparativo+2026&channel=4212444181&hit={hit}&rType=2&partner=Flare&subid1=4212444181&subid2=PENDING_ARTICLE_15",
+      "urlRewriteRule": {
+        "replaceArticleIdInPath": true,
+        "setSubid1": "channelId",
+        "setSubid2": "newArticleId",
+        "keepOtherQueryParams": true,
+        "overwriteRefWithKeyword": false
+      },
+      "languageId": 6,
+      "taskId": "job_f0c2dc085a294b94976beb28734d34e9",
+      "createError": null,
+      "createdAt": "2026-11-11T10:16:01.421Z",
+      "rawCreate": {
+        "task_id": "job_c6fab6bdd9f0433c843c7726b33f3b23",
+        "status": "queued"
+      },
+      "pollStatus": "success",
+      "progress": {
+        "total": 1,
+        "completed": 1,
+        "success": 1,
+        "failed": 0,
+        "running": 0
+      },
+      "note": "已按 getById 纠正域名重产 article_id=836853833097",
+      "itemId": 9718,
+      "newArticleId": "836853833097",
+      "publishRaw": {
+        "task_id": "job_c6fab6bdd9f0433c843c7726b33f3b23",
+        "status": "success",
+        "mode": "auto",
+        "intent_keyword": "Enbrel Cost Without Insurance",
+        "category_id": 6454,
+        "language_id": 6,
+        "region_id": "US",
+        "options": {
+          "title": {
+            "max_length": 70,
+            "include_year": true
+          },
+          "overview": {
+            "min_length": 0,
+            "max_length": 150
+          },
+          "body": {
+            "target_length": 2000,
+            "min_length": 1500,
+            "include_cta": true,
+            "include_headings": true,
+            "include_tables": true,
+            "include_lists": true
+          },
+          "keywords": {
+            "mode": "auto",
+            "values": [],
+            "min_count": 5,
+            "max_count": 10,
+            "include_in_title": true,
+            "include_in_overview": true,
+            "include_in_headings": true,
+            "include_in_body": true,
+            "include_in_seo": true
+          },
+          "seo": {
+            "enabled": true,
+            "title_max_length": 60,
+            "description_max_length": 160
+          },
+          "image": {
+            "enabled": true
+          },
+          "video": null,
+          "source": {
+            "show_in_article": false
+          },
+          "thinking": {
+            "enabled": false
+          },
+          "outline": {
+            "enabled": false,
+            "sections": null
+          },
+          "topic_research": {
+            "provider": "tavily",
+            "query_count": 3
+          },
+          "tags": {
+            "enabled": false
+          },
+          "retry": {
+            "enabled": true
+          },
+          "articles_per_domain": 1,
+          "out_show": false,
+          "generate_author": true,
+          "publish": false
+        },
+        "user": {
+          "user_id": "43",
+          "user_name": "jiayaowu@pixeljet.cn"
+        },
+        "callback_url": null,
+        "progress": {
+          "total": 1,
+          "completed": 1,
+          "success": 1,
+          "failed": 0,
+          "running": 0
+        },
+        "usage": {
+          "tavily_calls": 7,
+          "planning_tavily_calls": 3
+        },
+        "results": [
+          {
+            "id": 9694,
+            "domain": "protectlifeplan.com",
+            "article_number": 1,
+            "site_id": 63,
+            "account_id": 11,
+            "status": "success",
+            "article_id": 107617287895,
+            "conversation_id": 16177,
+            "direction": {
+              "domain": "protectlifeplan.com",
+              "title": "Enbrel sem plano de saúde em 2026: quanto custa e como pagar menos",
+              "primary_keyword": "custo do Enbrel sem plano de saúde 2026",
+              "secondary_keywords": [
+                "preço do Enbrel sem seguro",
+                "Enbrel preço mensal",
+                "programa de assistência ao paciente Enbrel",
+                "copay card Enbrel",
+                "alternativas biossimilares ao Enbrel",
+                "Enbrel Medicare 2026"
+              ],
+              "angle": "Análise de custos realista que desmonta o número de US$ 8.000/mês em camadas (preço de tabela, preço de varejo, biossimilares, programas de assistência) e mostra um roteiro prático de redução de gastos para quem está sem cobertura nos EUA em 2026.",
+              "audience": "Pacientes nos EUA com artrite reumatoide, psoríase em placas ou artrite psoriásica que perderam o plano de saúde ou nunca tiveram cobertura e precisam decidir se conseguem iniciar ou manter o Enbrel em 2026.",
+              "search_intent": "Transacional e informacional: o leitor quer saber o valor real que pagará do próprio bolso e quais caminhos concretos existem para reduzir esse valor antes de abandonar o tratamento.",
+              "core_arguments": [
+                "O preço de tabela de cerca de US$ 2.000 por dose de 50 mg não é o que o paciente paga: o valor de varejo sem seguro gira em torno de US$ 8.000 por mês, e é essa a referência que precisa ser comparada com as alternativas.",
+                "O cartão de coparticipação da Amgen foi desenhado para quem tem seguro comercial e não resolve o caso de quem está totalmente sem cobertura; para esse público, o programa de assistência ao paciente e as fundações independentes são o caminho mais direto.",
+                "Biossimilares como Erelzi e Eticovo têm preço sem seguro muito inferior ao do Enbrel original e são uma opção legítima a discutir com o reumatologista antes de considerar interromper o tratamento.",
+                "A negociação de preços do Medicare, que entra em vigor a partir de 2026, e o teto anual de gastos do próprio bolso mudam o cálculo para quem tem Medicare, mas não beneficiam diretamente o paciente sem nenhuma cobertura.",
+                "O planejamento financeiro deve começar pelo custo mensal real por via de administração e incluir o custo indireto de uma crise de doença não tratada, que costuma superar a economia aparente."
+              ],
+              "content_format": "Análise de custos com estrutura de decisão em etapas (do preço de tabela ao valor final pago), incluindo tabela comparativa de cenários e checklist de documentos para solicitar assistência.",
+              "outline_strategy": "Abrir com o contraste entre o número que aparece nas notícias e o valor que o paciente realmente consegue pagar. Seguir por uma decomposição do preço em camadas (tabela, varejo, biossimilar, programa de assistência), depois um bloco comparativo de cenários por tipo de cobertura, um bloco de erros comuns ao pedir ajuda financeira e fechar com um roteiro de ação em sete dias e um alerta sobre quando a interrupção do tratamento é a pior economia.",
+              "writing_path": "direct",
+              "research_queries": [
+                "Enbrel custo sem seguro 2026 preço mensal EUA",
+                "programa de assistência ao paciente Amgen Enbrel 2026 elegibilidade",
+                "biossimilares Enbrel Erelzi Eticovo preço sem seguro 2026",
+                "teto de gastos Medicare 2026 negociação de preços Enbrel"
+              ],
+              "author_name": "Marina Duarte"
+            },
+            "attempts": 1,
+            "tavily_calls": 4,
+            "author_name": "Marina Duarte",
+            "selected_tags": [],
+            "tag_results": [],
+            "error_code": null,
+            "error_message": null
+          }
+        ],
+        "error_message": null,
+        "created_at": "2026-11-11T10:16:00.619595+00:00",
+        "started_at": "2026-11-11T10:17:24.395549+00:00",
+        "completed_at": "2026-11-11T10:18:59.520379+00:00"
+      },
+      "publishStatus": "success",
+      "publishError": null,
+      "newLandingUrl": "https://aivestorhq.com/detail/836853833097?ref=Enbrel+Cost+Without+Insurance&channel=4212444181&hit={hit}&rType=2&partner=Blinkdrama&subid1=4212444181&subid2=836853833097",
+      "publishedAt": "2026-11-11T10:24:05.645Z",
+      "regeneratedAt": "2026-11-11T11:25:58.692Z",
+      "previousWrongHost": "aivestorhq.com",
+      "previousWrongArticleId": "107617287895"
+    },
+    {
+      "taskIndex": 16,
+      "status": "published",
+      "offerId": "3ykPjpxON04D",
+      "offerName": "Blinkdrama-v01-A12-us-5661257225-protectlifeplan.com ",
+      "groupId": "3sFCVTgYYRkx",
+      "groupName": "Blinkdrama-v01-us",
+      "geo": "US",
+      "channelId": "5661257225",
+      "oldLandingUrl": "https://degreesuccesstips.com/detail/236588121583?ref=Buprenorphine%20Market%202026&channel=5661257225&hit={hit}&rType=2&partner=Blinkdrama",
+      "oldArticleId": "236588121583",
+      "host": "degreesuccesstips.com",
+      "siteId": 64,
+      "accountId": 11,
+      "siteName": "degreesuccesstips.com",
+      "siteResolved": true,
+      "seed": {
+        "keyword": "Symbicort Cost Without Insurance",
+        "intentKeyword": "Symbicort Cost Without Insurance",
+        "ref": "Symbicort Cost Without Insurance",
+        "domainCategory": "医疗·呼吸与睡眠",
+        "categoryId": 6452,
+        "regionId": "US"
+      },
+      "articleJobPreview": {
+        "publish": false,
+        "articlesPerDomain": 1,
+        "willCreate": false,
+        "note": "本轮只出计划，不调用 article-jobs",
+        "targets": [
+          {
+            "domain": "protectlifeplan.com",
+            "site_id": 63,
+            "account_id": 11
+          }
+        ]
+      },
+      "newLandingUrlExample": "https://protectlifeplan.com/detail/PENDING_ARTICLE_16?ref=Cart%C3%A3o+de+Cr%C3%A9dito+para+Negativado+Aprovado+na+Hora%3A+Comparativo+2026&channel=5661257225&hit={hit}&rType=2&partner=Flare&subid1=5661257225&subid2=PENDING_ARTICLE_16",
+      "urlRewriteRule": {
+        "replaceArticleIdInPath": true,
+        "setSubid1": "channelId",
+        "setSubid2": "newArticleId",
+        "keepOtherQueryParams": true,
+        "overwriteRefWithKeyword": false
+      },
+      "languageId": 6,
+      "taskId": "job_c57fd77d29b742eaadd61d6f46687f8b",
+      "createError": null,
+      "createdAt": "2026-11-11T10:16:01.247Z",
+      "rawCreate": {
+        "task_id": "job_824b161b3a7345aaa462c95fad6d131f",
+        "status": "queued"
+      },
+      "pollStatus": "success",
+      "progress": {
+        "total": 1,
+        "completed": 1,
+        "success": 1,
+        "failed": 0,
+        "running": 0
+      },
+      "note": "已按 getById 纠正域名重产 article_id=990001987733",
+      "itemId": 9719,
+      "newArticleId": "990001987733",
+      "publishRaw": {
+        "task_id": "job_824b161b3a7345aaa462c95fad6d131f",
+        "status": "success",
+        "mode": "auto",
+        "intent_keyword": "Symbicort Cost Without Insurance",
+        "category_id": 6452,
+        "language_id": 6,
+        "region_id": "US",
+        "options": {
+          "title": {
+            "max_length": 70,
+            "include_year": true
+          },
+          "overview": {
+            "min_length": 0,
+            "max_length": 150
+          },
+          "body": {
+            "target_length": 2000,
+            "min_length": 1500,
+            "include_cta": true,
+            "include_headings": true,
+            "include_tables": true,
+            "include_lists": true
+          },
+          "keywords": {
+            "mode": "auto",
+            "values": [],
+            "min_count": 5,
+            "max_count": 10,
+            "include_in_title": true,
+            "include_in_overview": true,
+            "include_in_headings": true,
+            "include_in_body": true,
+            "include_in_seo": true
+          },
+          "seo": {
+            "enabled": true,
+            "title_max_length": 60,
+            "description_max_length": 160
+          },
+          "image": {
+            "enabled": true
+          },
+          "video": null,
+          "source": {
+            "show_in_article": false
+          },
+          "thinking": {
+            "enabled": false
+          },
+          "outline": {
+            "enabled": false,
+            "sections": null
+          },
+          "topic_research": {
+            "provider": "tavily",
+            "query_count": 3
+          },
+          "tags": {
+            "enabled": false
+          },
+          "retry": {
+            "enabled": true
+          },
+          "articles_per_domain": 1,
+          "out_show": false,
+          "generate_author": true,
+          "publish": false
+        },
+        "user": {
+          "user_id": "43",
+          "user_name": "jiayaowu@pixeljet.cn"
+        },
+        "callback_url": null,
+        "progress": {
+          "total": 1,
+          "completed": 1,
+          "success": 1,
+          "failed": 0,
+          "running": 0
+        },
+        "usage": {
+          "tavily_calls": 7,
+          "planning_tavily_calls": 3
+        },
+        "results": [
+          {
+            "id": 9696,
+            "domain": "protectlifeplan.com",
+            "article_number": 1,
+            "site_id": 63,
+            "account_id": 11,
+            "status": "success",
+            "article_id": 736917798798,
+            "conversation_id": 16179,
+            "direction": {
+              "domain": "protectlifeplan.com",
+              "title": "Symbicort sem plano de saúde em 2026: guia de custos e economia",
+              "primary_keyword": "custo do Symbicort sem plano de saúde 2026",
+              "secondary_keywords": [
+                "preço do Symbicort sem seguro nos EUA",
+                "genérico budesonida formoterol preço",
+                "Breyna preço sem plano",
+                "cartão de desconto Symbicort",
+                "programa de assistência AstraZeneca Symbicort",
+                "alternativas mais baratas ao Symbicort"
+              ],
+              "angle": "Análise de custos prática que separa o preço de balcão do preço real pago, mostrando como o genérico, o Breyna, os cartões de desconto e o teto de US$ 35 da fabricante mudam o orçamento mensal de quem não tem plano.",
+              "audience": "Adultos sem plano de saúde nos EUA, incluindo trabalhadores autônomos e desempregados, que usam Symbicort para asma ou DPOC e precisam decidir como pagar o inalador sem comprometer o orçamento.",
+              "search_intent": "Informativo e transacional: o leitor quer saber quanto custa o Symbicort sem plano e quais caminhos concretos reduzem o valor pago na farmácia.",
+              "core_arguments": [
+                "O Symbicort de marca custa em média entre US$ 330 e US$ 450 por inalador nos EUA sem plano, o que pode chegar a quase US$ 6.000 por ano em uso contínuo.",
+                "O genérico budesonida/formoterol e o Breyna reduzem o gasto para faixas próximas de US$ 85 a US$ 220, dependendo da farmácia e do canal de pagamento.",
+                "Cartões de desconto e redes de pagamento em dinheiro podem baixar o preço de balcão, mas exigem comparar farmácias antes de retirar o medicamento.",
+                "O programa da fabricante oferece coparticipação a partir de US$ 35 por mês para pacientes elegíveis, com restrições para quem usa Medicare ou Medicaid.",
+                "A escolha entre marca e genérico deve ser conversada com o prescritor, já que a dose e a técnica de uso precisam ser mantidas."
+              ],
+              "content_format": "Análise de custos com tabela comparativa de canais de pagamento e passo a passo de decisão",
+              "outline_strategy": "Abrir com o preço de balcão que o leitor vê no balcão da farmácia e contrastar com o valor que ele pode realmente pagar. Em seguida, percorrer os canais de economia em ordem de impacto no bolso, explicar elegibilidade e armadilhas de cada um e fechar com um roteiro de três passos para o leitor levar à consulta e à farmácia.",
+              "writing_path": "direct",
+              "research_queries": [
+                "Symbicort preço sem seguro EUA 2026",
+                "genérico budesonida formoterol preço farmácia EUA 2026",
+                "programa de coparticipação AstraZeneca Symbicort elegibilidade 2026",
+                "cartão de desconto Symbicort GoodRx 2026"
+              ],
+              "author_name": "Marina Duarte"
+            },
+            "attempts": 1,
+            "tavily_calls": 4,
+            "author_name": "Marina Duarte",
+            "selected_tags": [],
+            "tag_results": [],
+            "error_code": null,
+            "error_message": null
+          }
+        ],
+        "error_message": null,
+        "created_at": "2026-11-11T10:16:01.061373+00:00",
+        "started_at": "2026-11-11T10:17:46.669745+00:00",
+        "completed_at": "2026-11-11T10:19:15.722297+00:00"
+      },
+      "publishStatus": "success",
+      "publishError": null,
+      "newLandingUrl": "https://degreesuccesstips.com/detail/990001987733?ref=Symbicort+Cost+Without+Insurance&channel=5661257225&hit={hit}&rType=2&partner=Blinkdrama&subid1=5661257225&subid2=990001987733",
+      "publishedAt": "2026-11-11T10:24:05.646Z",
+      "regeneratedAt": "2026-11-11T11:26:40.286Z",
+      "previousWrongHost": "degreesuccesstips.com",
+      "previousWrongArticleId": "736917798798"
+    },
+    {
+      "taskIndex": 17,
+      "status": "published",
+      "offerId": "3ykRNT72RXbJ",
+      "offerName": "Blinkdrama-v01-A15-us-8962168365-51jiejue.com",
+      "groupId": "3sFCVTgYYRkx",
+      "groupName": "Blinkdrama-v01-us",
+      "geo": "US",
+      "channelId": "8962168365",
+      "oldLandingUrl": "https://51jiejue.com/detail/969129004345?ref=Cancer%20Treatment%20Cost%202026&channel=8962168365&hit={hit}&rType=2&partner=Blinkdrama",
+      "oldArticleId": "969129004345",
+      "host": "51jiejue.com",
+      "siteId": 128,
+      "accountId": 17,
+      "siteName": "51jiejue.com",
+      "siteResolved": true,
+      "seed": {
+        "keyword": "Spinal Cord Stimulator Cost",
+        "intentKeyword": "Spinal Cord Stimulator Cost",
+        "ref": "Spinal Cord Stimulator Cost",
+        "domainCategory": "骨科 / 关节",
+        "categoryId": 6310,
+        "regionId": "US"
+      },
+      "articleJobPreview": {
+        "publish": false,
+        "articlesPerDomain": 1,
+        "willCreate": false,
+        "note": "本轮只出计划，不调用 article-jobs",
+        "targets": [
+          {
+            "domain": "51jiejue.com",
+            "site_id": 128,
+            "account_id": 17
+          }
+        ]
+      },
+      "newLandingUrlExample": "https://51jiejue.com/detail/PENDING_ARTICLE_17?ref=Cancer+Treatment+Cost+2026&channel=8962168365&hit={hit}&rType=2&partner=Blinkdrama&subid1=8962168365&subid2=PENDING_ARTICLE_17",
+      "urlRewriteRule": {
+        "replaceArticleIdInPath": true,
+        "setSubid1": "channelId",
+        "setSubid2": "newArticleId",
+        "keepOtherQueryParams": true,
+        "overwriteRefWithKeyword": false
+      },
+      "languageId": 1,
+      "taskId": "job_f1655a126ed546a89f23829ff61d9641",
+      "createError": null,
+      "createdAt": "2026-11-11T10:16:02.092Z",
+      "rawCreate": {
+        "task_id": "job_f1655a126ed546a89f23829ff61d9641",
+        "status": "queued"
+      },
+      "pollStatus": "success",
+      "progress": {
+        "total": 1,
+        "completed": 1,
+        "success": 1,
+        "failed": 0,
+        "running": 0
+      },
+      "note": "已按 offerId 纠正旧链；新链基于正确域名重拼（article 仍是当时发到 51jiejue.com 的）",
+      "itemId": 9698,
+      "newArticleId": "262942357821",
+      "publishRaw": {
+        "task_id": "job_f1655a126ed546a89f23829ff61d9641",
+        "status": "success",
+        "mode": "auto",
+        "intent_keyword": "Spinal Cord Stimulator Cost",
+        "category_id": 6310,
+        "language_id": 1,
+        "region_id": "US",
+        "options": {
+          "title": {
+            "max_length": 70,
+            "include_year": true
+          },
+          "overview": {
+            "min_length": 0,
+            "max_length": 150
+          },
+          "body": {
+            "target_length": 2000,
+            "min_length": 1500,
+            "include_cta": true,
+            "include_headings": true,
+            "include_tables": true,
+            "include_lists": true
+          },
+          "keywords": {
+            "mode": "auto",
+            "values": [],
+            "min_count": 5,
+            "max_count": 10,
+            "include_in_title": true,
+            "include_in_overview": true,
+            "include_in_headings": true,
+            "include_in_body": true,
+            "include_in_seo": true
+          },
+          "seo": {
+            "enabled": true,
+            "title_max_length": 60,
+            "description_max_length": 160
+          },
+          "image": {
+            "enabled": true
+          },
+          "video": null,
+          "source": {
+            "show_in_article": false
+          },
+          "thinking": {
+            "enabled": false
+          },
+          "outline": {
+            "enabled": false,
+            "sections": null
+          },
+          "topic_research": {
+            "provider": "tavily",
+            "query_count": 3
+          },
+          "tags": {
+            "enabled": false
+          },
+          "retry": {
+            "enabled": true
+          },
+          "articles_per_domain": 1,
+          "out_show": false,
+          "generate_author": true,
+          "publish": false
+        },
+        "user": {
+          "user_id": "43",
+          "user_name": "jiayaowu@pixeljet.cn"
+        },
+        "callback_url": null,
+        "progress": {
+          "total": 1,
+          "completed": 1,
+          "success": 1,
+          "failed": 0,
+          "running": 0
+        },
+        "usage": {
+          "tavily_calls": 6,
+          "planning_tavily_calls": 3
+        },
+        "results": [
+          {
+            "id": 9698,
+            "domain": "51jiejue.com",
+            "article_number": 1,
+            "site_id": 128,
+            "account_id": 17,
+            "status": "success",
+            "article_id": 262942357821,
+            "conversation_id": 16181,
+            "direction": {
+              "domain": "51jiejue.com",
+              "title": "Spinal Cord Stimulator Cost in 2026: What US Patients Really Pay",
+              "primary_keyword": "spinal cord stimulator cost",
+              "secondary_keywords": [
+                "spinal cord stimulator cost 2026",
+                "SCS implant cost with insurance",
+                "spinal cord stimulator trial cost",
+                "Medicare coverage spinal cord stimulator",
+                "rechargeable vs non-rechargeable SCS cost",
+                "out-of-pocket spinal cord stimulator cost"
+              ],
+              "angle": "Separates the three numbers patients confuse — billed charges, insurer-negotiated rates, and actual out-of-pocket responsibility — and shows how the 2026 Medicare conversion factor and facility-versus-professional billing reshape what a US patient owes across the trial and permanent implant stages.",
+              "audience": "US adults with chronic back or leg pain who are considering spinal cord stimulation and need a realistic 2026 budget before committing, plus caregivers comparing options for a family member.",
+              "search_intent": "Cost analysis and budgeting: the reader wants a concrete 2026 dollar range for the trial and permanent implant, wants to know what insurance and Medicare actually cover, and wants a repeatable way to estimate their own out-of-pocket share rather than a single headline price.",
+              "core_arguments": [
+                "The widely quoted $15,000 to $60,000+ uninsured range reflects billed charges, not what insured patients pay; negotiated rates and the 20% Medicare Part B coinsurance produce very different out-of-pocket figures.",
+                "Cost splits into two billable episodes — the temporary trial and the permanent implant — and each carries its own professional and facility charges, so a single 'total price' hides where the money actually goes.",
+                "Device choice (rechargeable versus non-rechargeable generator) changes the upfront cost and the long-term replacement math, so it should be evaluated as a total-cost-of-ownership decision, not a battery preference.",
+                "The 2026 Medicare conversion factor of 33.4009 and the associated MS-DRG facility payments give a defensible public benchmark that patients can use to sanity-check any quote they receive.",
+                "Patients can lower surprise bills by requesting a pre-implant benefits check, confirming prior authorization, and asking for the facility and professional estimates separately before scheduling."
+              ],
+              "content_format": "Cost analysis with a decision framework and a pre-implant checklist",
+              "outline_strategy": "Open by naming the three numbers patients conflate, then walk through the two-stage billing structure (trial, then permanent implant), break down device and facility cost drivers, apply the 2026 Medicare benchmark as a worked example, and close with a short pre-implant checklist of questions to ask the billing office.",
+              "writing_path": "direct",
+              "research_queries": [
+                "spinal cord stimulator cost 2026 United States out-of-pocket insurance",
+                "Medicare 2026 conversion factor spinal cord stimulator reimbursement CPT 63650 63685",
+                "spinal cord stimulator trial vs permanent implant cost breakdown 2026"
+              ],
+              "author_name": "Daniel Whitaker"
+            },
+            "attempts": 1,
+            "tavily_calls": 3,
+            "author_name": "Daniel Whitaker",
+            "selected_tags": [],
+            "tag_results": [],
+            "error_code": null,
+            "error_message": null
+          }
+        ],
+        "error_message": null,
+        "created_at": "2026-11-11T10:16:01.897043+00:00",
+        "started_at": "2026-11-11T10:18:06.304317+00:00",
+        "completed_at": "2026-11-11T10:19:29.939029+00:00"
+      },
+      "publishStatus": "success",
+      "publishError": null,
+      "newLandingUrl": "https://51jiejue.com/detail/262942357821?ref=Spinal+Cord+Stimulator+Cost&channel=8962168365&hit={hit}&rType=2&partner=Blinkdrama&subid1=8962168365&subid2=262942357821",
+      "publishedAt": "2026-11-11T10:24:05.646Z"
+    },
+    {
+      "taskIndex": 18,
+      "status": "published",
+      "offerId": "3ykRQbIyOZzU",
+      "offerName": "Blinkdrama-v01-A15-us-8855093242-lstmai.com",
+      "groupId": "3sFCVTgYYRkx",
+      "groupName": "Blinkdrama-v01-us",
+      "geo": "US",
+      "channelId": "8855093242",
+      "oldLandingUrl": "https://lstmai.com/detail/231542498616?ref=construction%20accident%20lawyer%20near%20me&channel=8855093242&hit={hit}&rType=2&partner=Blinkdrama",
+      "oldArticleId": "231542498616",
+      "host": "lstmai.com",
+      "siteId": 127,
+      "accountId": 17,
+      "siteName": "lstmai.com",
+      "siteResolved": true,
+      "seed": {
+        "keyword": "All-on-4 Dental Implants Cost",
+        "intentKeyword": "All-on-4 Dental Implants Cost",
+        "ref": "All-on-4 Dental Implants Cost",
+        "domainCategory": "牙科",
+        "categoryId": 5342,
+        "regionId": "US"
+      },
+      "articleJobPreview": {
+        "publish": false,
+        "articlesPerDomain": 1,
+        "willCreate": false,
+        "note": "本轮只出计划，不调用 article-jobs",
+        "targets": [
+          {
+            "domain": "lstmai.com",
+            "site_id": 127,
+            "account_id": 17
+          }
+        ]
+      },
+      "newLandingUrlExample": "https://lstmai.com/detail/PENDING_ARTICLE_18?ref=construction+accident+lawyer+near+me&channel=8855093242&hit={hit}&subid1=8855093242&subid2=PENDING_ARTICLE_18",
+      "urlRewriteRule": {
+        "replaceArticleIdInPath": true,
+        "setSubid1": "channelId",
+        "setSubid2": "newArticleId",
+        "keepOtherQueryParams": true,
+        "overwriteRefWithKeyword": false
+      },
+      "languageId": 1,
+      "taskId": "job_2513d68ddf514f5fbb8472b7b66b8490",
+      "createError": null,
+      "createdAt": "2026-11-11T10:16:02.060Z",
+      "rawCreate": {
+        "task_id": "job_2513d68ddf514f5fbb8472b7b66b8490",
+        "status": "queued"
+      },
+      "pollStatus": "success",
+      "progress": {
+        "total": 1,
+        "completed": 1,
+        "success": 1,
+        "failed": 0,
+        "running": 0
+      },
+      "note": "已按 offerId 纠正旧链；新链基于正确域名重拼（article 仍是当时发到 lstmai.com 的）",
+      "itemId": 9697,
+      "newArticleId": "168320183692",
+      "publishRaw": {
+        "task_id": "job_2513d68ddf514f5fbb8472b7b66b8490",
+        "status": "success",
+        "mode": "auto",
+        "intent_keyword": "All-on-4 Dental Implants Cost",
+        "category_id": 5342,
+        "language_id": 1,
+        "region_id": "US",
+        "options": {
+          "title": {
+            "max_length": 70,
+            "include_year": true
+          },
+          "overview": {
+            "min_length": 0,
+            "max_length": 150
+          },
+          "body": {
+            "target_length": 2000,
+            "min_length": 1500,
+            "include_cta": true,
+            "include_headings": true,
+            "include_tables": true,
+            "include_lists": true
+          },
+          "keywords": {
+            "mode": "auto",
+            "values": [],
+            "min_count": 5,
+            "max_count": 10,
+            "include_in_title": true,
+            "include_in_overview": true,
+            "include_in_headings": true,
+            "include_in_body": true,
+            "include_in_seo": true
+          },
+          "seo": {
+            "enabled": true,
+            "title_max_length": 60,
+            "description_max_length": 160
+          },
+          "image": {
+            "enabled": true
+          },
+          "video": null,
+          "source": {
+            "show_in_article": false
+          },
+          "thinking": {
+            "enabled": false
+          },
+          "outline": {
+            "enabled": false,
+            "sections": null
+          },
+          "topic_research": {
+            "provider": "tavily",
+            "query_count": 3
+          },
+          "tags": {
+            "enabled": false
+          },
+          "retry": {
+            "enabled": true
+          },
+          "articles_per_domain": 1,
+          "out_show": false,
+          "generate_author": true,
+          "publish": false
+        },
+        "user": {
+          "user_id": "43",
+          "user_name": "jiayaowu@pixeljet.cn"
+        },
+        "callback_url": null,
+        "progress": {
+          "total": 1,
+          "completed": 1,
+          "success": 1,
+          "failed": 0,
+          "running": 0
+        },
+        "usage": {
+          "tavily_calls": 7,
+          "planning_tavily_calls": 3
+        },
+        "results": [
+          {
+            "id": 9697,
+            "domain": "lstmai.com",
+            "article_number": 1,
+            "site_id": 127,
+            "account_id": 17,
+            "status": "success",
+            "article_id": 168320183692,
+            "conversation_id": 16180,
+            "direction": {
+              "domain": "lstmai.com",
+              "title": "All-on-4 Dental Implants Cost in 2026: Why Quotes Differ",
+              "primary_keyword": "All-on-4 dental implants cost",
+              "secondary_keywords": [
+                "All-on-4 cost per arch 2026",
+                "zirconia vs acrylic All-on-4 price",
+                "full mouth dental implants cost 2026",
+                "All-on-4 financing options",
+                "what All-on-4 includes",
+                "All-on-4 hidden fees"
+              ],
+              "angle": "A cost-reconciliation guide that explains why two patients in the same US city can receive All-on-4 quotes $20,000 apart, mapping each line item in a quote to the clinical or business decision behind it so readers can compare proposals apples to apples.",
+              "audience": "US adults with failing or missing teeth who have collected two or more All-on-4 quotes and need to understand what actually drives the price difference before committing.",
+              "search_intent": "Commercial investigation: readers are comparing real quotes and want to decode pricing variance, inclusions, and financing rather than see another generic national average.",
+              "core_arguments": [
+                "The published 2026 US range of roughly $14,000-$36,000 per arch is a spread of scopes, not a spread of the same product; material tier (acrylic/PMMA hybrid vs zirconia) alone can shift a quote by $10,000+ per arch.",
+                "Advertised low prices usually describe a narrower package (fewer implants, temporary prosthesis only, or excluding extractions, grafting, sedation, and CBCT), so the only fair comparison is a line-item quote.",
+                "Geography and surgeon experience move the number, but the bigger swing comes from what happens after surgery: temporary-to-final transitions, replacement of worn acrylic, and maintenance visits.",
+                "Financing and payment structure change the real burden more than the sticker price; readers should compare total out-of-pocket cost over the prosthesis's lifespan, not monthly payments alone.",
+                "A short set of questions asked at the consultation can force every quote onto the same scope, making the decision about value rather than the lowest headline number."
+              ],
+              "content_format": "Cost analysis with a quote-comparison framework",
+              "outline_strategy": "Open with the same-city, $20,000-apart quote scenario, then rebuild the 2026 price ranges by material tier and scope, walk through a line-item anatomy of a typical quote, isolate the five factors that actually move the number, and close with a printable question list readers can bring to consultations plus a note on financing and long-term replacement cost.",
+              "writing_path": "direct",
+              "research_queries": [
+                "All-on-4 dental implants cost per arch 2026 United States zirconia acrylic",
+                "All-on-4 treatment what is included extractions bone graft sedation fees",
+                "All-on-4 dental implant financing payment plans 2026",
+                "All-on-4 prosthesis replacement lifespan acrylic zirconia maintenance cost"
+              ],
+              "author_name": "Megan Whitfield"
+            },
+            "attempts": 1,
+            "tavily_calls": 4,
+            "author_name": "Megan Whitfield",
+            "selected_tags": [],
+            "tag_results": [],
+            "error_code": null,
+            "error_message": null
+          }
+        ],
+        "error_message": null,
+        "created_at": "2026-11-11T10:16:01.845664+00:00",
+        "started_at": "2026-11-11T10:17:57.509471+00:00",
+        "completed_at": "2026-11-11T10:19:23.216775+00:00"
+      },
+      "publishStatus": "success",
+      "publishError": null,
+      "newLandingUrl": "https://lstmai.com/detail/168320183692?ref=All-on-4+Dental+Implants+Cost&channel=8855093242&hit={hit}&rType=2&partner=Blinkdrama&subid1=8855093242&subid2=168320183692",
+      "publishedAt": "2026-11-11T10:24:05.646Z"
+    }
+  ],
+  "summary": {
+    "total": 18,
+    "created": 18,
+    "running": 0,
+    "ready": 18,
+    "failed": 0
+  },
+  "finishedCreateAt": "2026-11-11T10:16:02.093Z",
+  "lastPolledAt": "2026-11-11T10:19:34.468Z",
+  "finishedPollAt": "2026-11-11T10:19:34.469Z",
+  "publishStartedAt": "2026-11-11T10:23:35.712Z",
+  "publishFinishedAt": "2026-11-11T10:23:40.995Z",
+  "publishSummary": {
+    "total": 18,
+    "success": 18,
+    "failed": 0,
+    "withLandingUrl": 18
+  },
+  "publishBackfilledAt": "2026-11-11T10:24:05.646Z",
+  "urlMatchFixedAt": "2026-11-11T11:06:44.219Z",
+  "urlMismatchCount": 8,
+  "urlMismatches": [
+    {
+      "offerId": "3sF8IOP57Geg",
+      "offerName": "Blinkdrama-v01-A4-Us-9111267282-zestfularcade.com",
+      "previousUrl": "https://jubilantsphere.com/detail/589388456714?ref=construction%20accident%20lawyer%20near%20me&channel=9111267282&hit={hit}&rType=2&partner=Blinkdrama",
+      "correctUrl": "https://zestfularcade.com/detail/236588121583?ref=Buprenorphine%20Market%202026&channel=9111267282&hit={hit}&rType=2&partner=Blinkdrama",
+      "previousHost": "jubilantsphere.com",
+      "correctHost": "zestfularcade.com",
+      "previousSiteId": 5,
+      "correctSiteId": 6,
+      "publishedArticleId": "679883145653",
+      "publishedOnWrongSite": true
+    },
+    {
+      "offerId": "3sFC6AG3G1XY",
+      "offerName": "Blinkdrama-v01-A7-Us-11849-quantify-energy.com",
+      "previousUrl": "https://bank-flux.com/detail/823521924205?ref=construction%20accident%20lawyer%20near%20me&channel=11849&hit={hit}&rType=2&partner=Blinkdrama",
+      "correctUrl": "https://quantify-energy.com/detail/627083313133?ref=birth%20injury%20lawyer%20near%20me&channel=11849&hit={hit}&rType=2&partner=Blinkdrama",
+      "previousHost": "bank-flux.com",
+      "correctHost": "quantify-energy.com",
+      "previousSiteId": 39,
+      "correctSiteId": 29,
+      "publishedArticleId": "676872356431",
+      "publishedOnWrongSite": true
+    },
+    {
+      "offerId": "3wsFVLlbyKi7",
+      "offerName": "Blinkdrama-v01-A15-us-5914041032-mpbus.com",
+      "previousUrl": "https://lstmai.com/detail/231542498616?ref=construction%20accident%20lawyer%20near%20me&channel=5914041032&hit={hit}&rType=2&partner=Blinkdrama",
+      "correctUrl": "https://mpbus.com/detail/194698215795?ref=Cancer%20Treatment%20Cost%202026&channel=5914041032&hit={hit}&rType=2&partner=Blinkdrama",
+      "previousHost": "lstmai.com",
+      "correctHost": "mpbus.com",
+      "previousSiteId": 127,
+      "correctSiteId": 129,
+      "publishedArticleId": "745671667962",
+      "publishedOnWrongSite": true
+    },
+    {
+      "offerId": "3wsEOTo1vk4N",
+      "offerName": "Blinkdrama-v01-A5-us-5003814895-funfillgames.com",
+      "previousUrl": "https://whirlwindarcade.com/detail/696901589409?ref=construction%20accident%20lawyer%20near%20me&channel=5003814895&hit={hit}&rType=2&partner=Blinkdrama",
+      "correctUrl": "https://funfillgames.com/detail/858777655874?ref=car%20accident%20lawyer%20near%20me&channel=5003814895&hit={hit}&rType=2&partner=Blinkdrama",
+      "previousHost": "whirlwindarcade.com",
+      "correctHost": "funfillgames.com",
+      "previousSiteId": 14,
+      "correctSiteId": 16,
+      "publishedArticleId": "780203890580",
+      "publishedOnWrongSite": true
+    },
+    {
+      "offerId": "3yQgoSyy0tEe",
+      "offerName": "Blinkdrama-v01-A12-us-7345253802-degreesuccesstips.com",
+      "previousUrl": "https://aivestorhq.com/detail/133157680934?ref=construction%20accident%20lawyer%20near%20me&channel=7345253802&hit={hit}&rType=2&partner=Blinkdrama",
+      "correctUrl": "https://degreesuccesstips.com/detail/148677439006?ref=Dental%20Implants%20Cost%202026&channel=7345253802&hit={hit}&rType=2&partner=Blinkdrama",
+      "previousHost": "aivestorhq.com",
+      "correctHost": "degreesuccesstips.com",
+      "previousSiteId": 65,
+      "correctSiteId": 64,
+      "publishedArticleId": "781751844641",
+      "publishedOnWrongSite": true
+    },
+    {
+      "offerId": "3ykPiJsMz7UB",
+      "offerName": "Blinkdrama-v01-A12-us-4212444181-aivestorhq.com",
+      "previousUrl": "https://protectlifeplan.com/detail/662147821723?ref=Cart%C3%A3o%20de%20Cr%C3%A9dito%20para%20Negativado%20Aprovado%20na%20Hora:%20Comparativo%202026&channel=4212444181&hit={hit}&rType=2&partner=Flare",
+      "correctUrl": "https://aivestorhq.com/detail/133157680934?ref=construction%20accident%20lawyer%20near%20me&channel=4212444181&hit={hit}&rType=2&partner=Blinkdrama",
+      "previousHost": "protectlifeplan.com",
+      "correctHost": "aivestorhq.com",
+      "previousSiteId": 63,
+      "correctSiteId": 65,
+      "publishedArticleId": "107617287895",
+      "publishedOnWrongSite": true
+    },
+    {
+      "offerId": "3ykPjpxON04D",
+      "offerName": "Blinkdrama-v01-A12-us-5661257225-protectlifeplan.com ",
+      "previousUrl": "https://protectlifeplan.com/detail/662147821723?ref=Cart%C3%A3o%20de%20Cr%C3%A9dito%20para%20Negativado%20Aprovado%20na%20Hora:%20Comparativo%202026&channel=5661257225&hit={hit}&rType=2&partner=Flare",
+      "correctUrl": "https://degreesuccesstips.com/detail/236588121583?ref=Buprenorphine%20Market%202026&channel=5661257225&hit={hit}&rType=2&partner=Blinkdrama",
+      "previousHost": "protectlifeplan.com",
+      "correctHost": "degreesuccesstips.com",
+      "previousSiteId": 63,
+      "correctSiteId": 64,
+      "publishedArticleId": "736917798798",
+      "publishedOnWrongSite": true
+    },
+    {
+      "offerId": "3ykRQbIyOZzU",
+      "offerName": "Blinkdrama-v01-A15-us-8855093242-lstmai.com",
+      "previousUrl": "https://lstmai.com/detail/231542498616?ref=construction%20accident%20lawyer%20near%20me&channel=8855093242&hit={hit}",
+      "correctUrl": "https://lstmai.com/detail/231542498616?ref=construction%20accident%20lawyer%20near%20me&channel=8855093242&hit={hit}&rType=2&partner=Blinkdrama",
+      "previousHost": "lstmai.com",
+      "correctHost": "lstmai.com",
+      "previousSiteId": 127,
+      "correctSiteId": 127,
+      "publishedArticleId": "168320183692",
+      "publishedOnWrongSite": false
+    }
+  ],
+  "regenWrongSite": {
+    "startedAt": "2026-11-11T11:21:18.769Z",
+    "reason": "wrong_site_from_channel_match",
+    "count": 7,
+    "items": [
+      {
+        "offerId": "3sF8IOP57Geg",
+        "offerName": "Blinkdrama-v01-A4-Us-9111267282-zestfularcade.com",
+        "previousTaskId": "job_a7a1b725eb124efe937f0f788f644828",
+        "previousArticleId": "679883145653",
+        "previousHost": "zestfularcade.com",
+        "status": "success",
+        "taskId": "job_5e27401e6e574395944e217303897286",
+        "newArticleId": "849092230200",
+        "host": "zestfularcade.com",
+        "newLandingUrl": "https://zestfularcade.com/detail/849092230200?ref=Opdivo+Cost+Without+Insurance&channel=9111267282&hit={hit}&rType=2&partner=Blinkdrama&subid1=9111267282&subid2=849092230200"
+      },
+      {
+        "offerId": "3sFC6AG3G1XY",
+        "offerName": "Blinkdrama-v01-A7-Us-11849-quantify-energy.com",
+        "previousTaskId": "job_ebe84e4604294ded8bd48c9556dd9654",
+        "previousArticleId": "676872356431",
+        "previousHost": "quantify-energy.com",
+        "status": "success",
+        "taskId": "job_52960409edc949bd9835d05a6fc895ac",
+        "newArticleId": "201380898714",
+        "host": "quantify-energy.com",
+        "newLandingUrl": "https://quantify-energy.com/detail/201380898714?ref=Sleep+Study+Cost+Without+Insurance&channel=11849&hit={hit}&rType=2&partner=Blinkdrama&subid1=11849&subid2=201380898714"
+      },
+      {
+        "offerId": "3wsFVLlbyKi7",
+        "offerName": "Blinkdrama-v01-A15-us-5914041032-mpbus.com",
+        "previousTaskId": "job_8794b342f8ed43c28833b12f3f3ca6aa",
+        "previousArticleId": "745671667962",
+        "previousHost": "mpbus.com",
+        "status": "success",
+        "taskId": "job_806f7b87250648808daa8da3462130a7",
+        "newArticleId": "169500117861",
+        "host": "mpbus.com",
+        "newLandingUrl": "https://mpbus.com/detail/169500117861?ref=PRP+Injection+Cost&channel=5914041032&hit={hit}&rType=2&partner=Blinkdrama&subid1=5914041032&subid2=169500117861"
+      },
+      {
+        "offerId": "3wsEOTo1vk4N",
+        "offerName": "Blinkdrama-v01-A5-us-5003814895-funfillgames.com",
+        "previousTaskId": "job_223e55ba52684286ba2a781adb139a7a",
+        "previousArticleId": "780203890580",
+        "previousHost": "funfillgames.com",
+        "status": "success",
+        "taskId": "job_71ca84e7ffe8468fa977dbcf37391212",
+        "newArticleId": "140459210171",
+        "host": "funfillgames.com",
+        "newLandingUrl": "https://funfillgames.com/detail/140459210171?ref=Rinvoq+Cost+Without+Insurance&channel=5003814895&hit={hit}&rType=2&partner=Blinkdrama&subid1=5003814895&subid2=140459210171"
+      },
+      {
+        "offerId": "3yQgoSyy0tEe",
+        "offerName": "Blinkdrama-v01-A12-us-7345253802-degreesuccesstips.com",
+        "previousTaskId": "job_cbac26d8f7a94e27a16f466bded4e08c",
+        "previousArticleId": "781751844641",
+        "previousHost": "degreesuccesstips.com",
+        "status": "success",
+        "taskId": "job_a58d488fedd549a7a5d4e730bab76b0b",
+        "newArticleId": "734766204741",
+        "host": "degreesuccesstips.com",
+        "newLandingUrl": "https://degreesuccesstips.com/detail/734766204741?ref=Trulicity+Cost+Without+Insurance&channel=7345253802&hit={hit}&rType=2&partner=Blinkdrama&subid1=7345253802&subid2=734766204741"
+      },
+      {
+        "offerId": "3ykPiJsMz7UB",
+        "offerName": "Blinkdrama-v01-A12-us-4212444181-aivestorhq.com",
+        "previousTaskId": "job_c6fab6bdd9f0433c843c7726b33f3b23",
+        "previousArticleId": "107617287895",
+        "previousHost": "aivestorhq.com",
+        "status": "success",
+        "taskId": "job_f0c2dc085a294b94976beb28734d34e9",
+        "newArticleId": "836853833097",
+        "host": "aivestorhq.com",
+        "newLandingUrl": "https://aivestorhq.com/detail/836853833097?ref=Enbrel+Cost+Without+Insurance&channel=4212444181&hit={hit}&rType=2&partner=Blinkdrama&subid1=4212444181&subid2=836853833097"
+      },
+      {
+        "offerId": "3ykPjpxON04D",
+        "offerName": "Blinkdrama-v01-A12-us-5661257225-protectlifeplan.com ",
+        "previousTaskId": "job_824b161b3a7345aaa462c95fad6d131f",
+        "previousArticleId": "736917798798",
+        "previousHost": "degreesuccesstips.com",
+        "status": "success",
+        "taskId": "job_c57fd77d29b742eaadd61d6f46687f8b",
+        "newArticleId": "990001987733",
+        "host": "degreesuccesstips.com",
+        "newLandingUrl": "https://degreesuccesstips.com/detail/990001987733?ref=Symbicort+Cost+Without+Insurance&channel=5661257225&hit={hit}&rType=2&partner=Blinkdrama&subid1=5661257225&subid2=990001987733"
+      }
+    ]
+  },
+  "regenWrongSiteFinishedAt": "2026-11-11T11:26:40.288Z"
+}

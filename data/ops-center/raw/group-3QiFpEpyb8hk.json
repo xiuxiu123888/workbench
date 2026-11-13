@@ -1,0 +1,65 @@
+{
+  "code": 200,
+  "data": {
+    "groupId": "3QiFpEpyb8hk",
+    "groupName": "CD-Reel-A72-BR",
+    "routing": "",
+    "geo": "BR",
+    "yesterdayRpm": 0.4,
+    "yesterdayRev": 0.06,
+    "yesterdayRpmTrend": 100,
+    "yesterdayRevTrend": 100,
+    "offerList": [
+      {
+        "offerId": "3lpdddGWdvpN",
+        "offerName": "cd-reel-A72-A12-BR-2817465139",
+        "categoryName": "汽车分期",
+        "weight": 0.19,
+        "channelId": "2817465139",
+        "countryCode": null,
+        "afsSource": null,
+        "todayRpm": 0.1,
+        "todayRev": 0.01
+      },
+      {
+        "offerId": "3lplh9hBbYOf",
+        "offerName": "cd-reel-A72-A14-BR-7251504985",
+        "categoryName": "家电分期",
+        "weight": 0,
+        "channelId": "7251504985",
+        "countryCode": null,
+        "afsSource": null,
+        "todayRpm": 0,
+        "todayRev": 0
+      },
+      {
+        "offerId": "3XcZPpYqgTb8",
+        "offerName": "A72-A4-br-8558734953",
+        "categoryName": "冰箱分期",
+        "weight": 0.81,
+        "channelId": "8558734953",
+        "countryCode": null,
+        "afsSource": null,
+        "todayRpm": 0.8,
+        "todayRev": 0.13
+      },
+      {
+        "offerId": "3XcZyUC0WGm1",
+        "offerName": "A72-A7-br-10932",
+        "categoryName": "冰箱分期",
+        "weight": 0,
+        "channelId": "10932",
+        "countryCode": null,
+        "afsSource": null,
+        "todayRpm": 0,
+        "todayRev": 0
+      }
+    ],
+    "funnelId": "3Qi1UskIWV7m",
+    "funnelName": "cd-reel-A72",
+    "partnerName": "changdu",
+    "urlName": "moboreels",
+    "urlId": 73,
+    "platform": "FF"
+  }
+}

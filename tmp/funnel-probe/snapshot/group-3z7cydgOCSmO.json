@@ -1,0 +1,87 @@
+{
+  "code": 200,
+  "data": {
+    "groupId": "3z7cydgOCSmO",
+    "groupName": "shortmax-v04-us",
+    "routing": "rotator",
+    "geo": "US",
+    "yesterdayRpm": 125.6,
+    "yesterdayRev": 367.12,
+    "yesterdayRpmTrend": 27.13,
+    "yesterdayRevTrend": 35.6,
+    "offerList": [
+      {
+        "offerId": "3z7cWGmCnx2J",
+        "offerName": "Shortmax-V04-A5-us-2222573036-joyfullplayland.com",
+        "categoryName": "HIV",
+        "weight": 0.1,
+        "channelId": "2222573036",
+        "countryCode": "US",
+        "afsSource": "5",
+        "todayRpm": 89.9,
+        "todayRev": 53.42
+      },
+      {
+        "offerId": "3z7cK01oZgcv",
+        "offerName": "Shortmax-V04-A12-Us-1898762721-degreesuccesstips.com",
+        "categoryName": "临床研究",
+        "weight": 0.06,
+        "channelId": "1898762721",
+        "countryCode": "US",
+        "afsSource": "12",
+        "todayRpm": 60.5,
+        "todayRev": 5.57
+      },
+      {
+        "offerId": "3z7cCQnggIr4",
+        "offerName": "Shortmax-V04-A15-us-7917387848-mpbus.com",
+        "categoryName": "医疗健康",
+        "weight": 0.02,
+        "channelId": "7917387848",
+        "countryCode": "US",
+        "afsSource": "15",
+        "todayRpm": 8.5,
+        "todayRev": 0.35
+      },
+      {
+        "offerId": "3z7c3j0jm3Yw",
+        "offerName": "Shortmax-V04-A7-Us-7868532178-algo-cash.com",
+        "categoryName": "健康保险",
+        "weight": 0.41,
+        "channelId": "7868532178",
+        "countryCode": "US",
+        "afsSource": "7",
+        "todayRpm": 96.7,
+        "todayRev": 51.65
+      },
+      {
+        "offerId": "3z7bwRD3SwTQ",
+        "offerName": "Shortmax-V04-A4-Us-7474002238-zestfularcade.com",
+        "categoryName": "特殊疾病药品",
+        "weight": 0.55,
+        "channelId": "7474002238",
+        "countryCode": "US",
+        "afsSource": "4",
+        "todayRpm": 130.5,
+        "todayRev": 121.9
+      },
+      {
+        "offerId": "3z7b5qQk06Vy",
+        "offerName": "Shortmax-V04-A5-us-2222573036",
+        "categoryName": "HIV",
+        "weight": 0.1,
+        "channelId": "2222573036",
+        "countryCode": "US",
+        "afsSource": "5",
+        "todayRpm": 89.9,
+        "todayRev": 53.42
+      }
+    ],
+    "funnelId": "3z7d1Vmn8Fku",
+    "funnelName": "ShortMax-v04",
+    "partnerName": null,
+    "urlName": null,
+    "urlId": null,
+    "platform": "MIS"
+  }
+}

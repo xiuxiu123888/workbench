@@ -1,0 +1,54 @@
+{
+  "code": 200,
+  "data": {
+    "groupId": "3QiW0wfsSHdL",
+    "groupName": "CD-Reel-A74-US",
+    "routing": "",
+    "geo": "US",
+    "yesterdayRpm": 0,
+    "yesterdayRev": 0,
+    "yesterdayRpmTrend": 0,
+    "yesterdayRevTrend": 0,
+    "offerList": [
+      {
+        "offerId": "3lpdddHfZFdB",
+        "offerName": "cd-reader-A74-A12-US-2498890618",
+        "categoryName": "种牙",
+        "weight": 0,
+        "channelId": "2498890618",
+        "countryCode": null,
+        "afsSource": null,
+        "todayRpm": 0,
+        "todayRev": 0
+      },
+      {
+        "offerId": "3Xcg5QYyyuJh",
+        "offerName": "A74-A4-us-8142492474",
+        "categoryName": "肝脏健康",
+        "weight": 0,
+        "channelId": "8142492474",
+        "countryCode": null,
+        "afsSource": null,
+        "todayRpm": 0,
+        "todayRev": 0
+      },
+      {
+        "offerId": "3XcgpkLr0asb",
+        "offerName": "A74-A7-us-10936",
+        "categoryName": "肝脏健康",
+        "weight": 1,
+        "channelId": "10936",
+        "countryCode": null,
+        "afsSource": null,
+        "todayRpm": 0,
+        "todayRev": 0
+      }
+    ],
+    "funnelId": "3Qi1ty6v4Zxt",
+    "funnelName": "cd-reader-A74",
+    "partnerName": "changdu",
+    "urlName": "moboreader",
+    "urlId": 75,
+    "platform": "FF"
+  }
+}

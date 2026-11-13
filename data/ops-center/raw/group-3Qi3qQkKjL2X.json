@@ -1,0 +1,76 @@
+{
+  "code": 200,
+  "data": {
+    "groupId": "3Qi3qQkKjL2X",
+    "groupName": "CD-Reel-A70-JP",
+    "routing": "",
+    "geo": "JP",
+    "yesterdayRpm": 0.6,
+    "yesterdayRev": 0.13,
+    "yesterdayRpmTrend": 100,
+    "yesterdayRevTrend": 100,
+    "offerList": [
+      {
+        "offerId": "3lplh9btGE1n",
+        "offerName": "cd-reel-A70-A14-JP-6319774681",
+        "categoryName": "宠物保险",
+        "weight": 0,
+        "channelId": "6319774681",
+        "countryCode": null,
+        "afsSource": null,
+        "todayRpm": 0,
+        "todayRev": 0
+      },
+      {
+        "offerId": "3lWWRRdK97lT",
+        "offerName": "cd-reel-A70-A12-JP-9067818065",
+        "categoryName": "殡葬",
+        "weight": 0,
+        "channelId": "9067818065",
+        "countryCode": null,
+        "afsSource": null,
+        "todayRpm": 0,
+        "todayRev": 0
+      },
+      {
+        "offerId": "3XcL7VR7zjgu",
+        "offerName": "CD-A70-A4-jp-8941329599",
+        "categoryName": "私人债务",
+        "weight": 1,
+        "channelId": "8941329599",
+        "countryCode": null,
+        "afsSource": null,
+        "todayRpm": 0,
+        "todayRev": 0
+      },
+      {
+        "offerId": "3XcNMokyPuSq",
+        "offerName": "A70-A6-jp-3075237356",
+        "categoryName": null,
+        "weight": 0,
+        "channelId": "3075237356",
+        "countryCode": null,
+        "afsSource": null,
+        "todayRpm": 0,
+        "todayRev": 0
+      },
+      {
+        "offerId": "3XcOJD61y6Tl",
+        "offerName": "A70-A7-jp-10928",
+        "categoryName": "私募信贷",
+        "weight": 0,
+        "channelId": "10928",
+        "countryCode": null,
+        "afsSource": null,
+        "todayRpm": 0,
+        "todayRev": 0
+      }
+    ],
+    "funnelId": "3Qi0wZnVilho",
+    "funnelName": "cd-reel-A70",
+    "partnerName": "changdu",
+    "urlName": "moboreels",
+    "urlId": 71,
+    "platform": "FF"
+  }
+}

@@ -1,0 +1,65 @@
+{
+  "code": 200,
+  "data": {
+    "groupId": "3cNJuLbvIBLk",
+    "groupName": "JZ10-mx",
+    "routing": "",
+    "geo": "MX",
+    "yesterdayRpm": 0,
+    "yesterdayRev": 0,
+    "yesterdayRpmTrend": 0,
+    "yesterdayRevTrend": 0,
+    "offerList": [
+      {
+        "offerId": "3cNFa0ydA2vH",
+        "offerName": "JZ10-A4-mx-4357836304",
+        "categoryName": "肝脏健康",
+        "weight": 0.25,
+        "channelId": "4357836304",
+        "countryCode": null,
+        "afsSource": null,
+        "todayRpm": 0,
+        "todayRev": 0
+      },
+      {
+        "offerId": "3cNFJD6fiGYP",
+        "offerName": "JZ10-A7-mx-1940266699",
+        "categoryName": "肝脏健康",
+        "weight": 0.25,
+        "channelId": "1940266699",
+        "countryCode": null,
+        "afsSource": null,
+        "todayRpm": 0,
+        "todayRev": 0
+      },
+      {
+        "offerId": "3lM5vNgTssrx",
+        "offerName": "jz-10-A14-MX-2490649816",
+        "categoryName": "汽车贷款",
+        "weight": 0.25,
+        "channelId": "2490649816",
+        "countryCode": null,
+        "afsSource": null,
+        "todayRpm": 0,
+        "todayRev": 0
+      },
+      {
+        "offerId": "3lMAsjGYI5Hi",
+        "offerName": "jz-10-A12-MX-5525525852",
+        "categoryName": "种牙",
+        "weight": 0.25,
+        "channelId": "5525525852",
+        "countryCode": null,
+        "afsSource": null,
+        "todayRpm": 0,
+        "todayRev": 0
+      }
+    ],
+    "funnelId": "3aXER1jGKCjP",
+    "funnelName": "jz-10",
+    "partnerName": "shortmax",
+    "urlName": "JZ-10",
+    "urlId": 92,
+    "platform": "FF"
+  }
+}

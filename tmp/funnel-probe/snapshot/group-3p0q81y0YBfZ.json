@@ -1,0 +1,43 @@
+{
+  "code": 200,
+  "data": {
+    "groupId": "3p0q81y0YBfZ",
+    "groupName": "ff-reel-v04-us",
+    "routing": "rotator",
+    "geo": "US",
+    "yesterdayRpm": 32.9,
+    "yesterdayRev": 44.31,
+    "yesterdayRpmTrend": -31.32,
+    "yesterdayRevTrend": -73.32,
+    "offerList": [
+      {
+        "offerId": "3p0oeFQwSLQk",
+        "offerName": "flare-v04-A4-us-6233251331",
+        "categoryName": "临床研究",
+        "weight": 1,
+        "channelId": "6233251331",
+        "countryCode": "US",
+        "afsSource": "4",
+        "todayRpm": 19,
+        "todayRev": 1.31
+      },
+      {
+        "offerId": "3p6pGSQARLLA",
+        "offerName": "flare-v04-A12-us-5661257225",
+        "categoryName": "信用卡",
+        "weight": 0.37,
+        "channelId": "5661257225",
+        "countryCode": "US",
+        "afsSource": "12",
+        "todayRpm": 49.7,
+        "todayRev": 114.32
+      }
+    ],
+    "funnelId": "3p0rRj7GzSgd",
+    "funnelName": "ff-reel-v04",
+    "partnerName": null,
+    "urlName": null,
+    "urlId": null,
+    "platform": "MIS"
+  }
+}

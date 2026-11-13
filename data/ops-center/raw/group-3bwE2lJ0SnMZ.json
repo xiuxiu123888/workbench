@@ -1,0 +1,65 @@
+{
+  "code": 200,
+  "data": {
+    "groupId": "3bwE2lJ0SnMZ",
+    "groupName": "JZ-06-de",
+    "routing": "",
+    "geo": "DE",
+    "yesterdayRpm": 1,
+    "yesterdayRev": 0.1,
+    "yesterdayRpmTrend": 42.86,
+    "yesterdayRevTrend": 25,
+    "offerList": [
+      {
+        "offerId": "3bwDuIurTibc",
+        "offerName": "JZ-06-A7-de-3115809079",
+        "categoryName": "女性健康",
+        "weight": 1,
+        "channelId": "3115809079",
+        "countryCode": null,
+        "afsSource": null,
+        "todayRpm": 0,
+        "todayRev": 0
+      },
+      {
+        "offerId": "3bwDZe7rnbek",
+        "offerName": "JZ-06-A1-de-4613686949",
+        "categoryName": "种植牙",
+        "weight": 1,
+        "channelId": "4613686949",
+        "countryCode": null,
+        "afsSource": null,
+        "todayRpm": 0,
+        "todayRev": 0
+      },
+      {
+        "offerId": "3lMAsjNQfzb2",
+        "offerName": "JZ-06-A12-DE-6838607522",
+        "categoryName": "种牙",
+        "weight": 1,
+        "channelId": "6838607522",
+        "countryCode": null,
+        "afsSource": null,
+        "todayRpm": 0,
+        "todayRev": 0
+      },
+      {
+        "offerId": "3WdljEAiO9io",
+        "offerName": "JZ-06-A4-de-9259456650",
+        "categoryName": "女性健康",
+        "weight": 1,
+        "channelId": "9259456650",
+        "countryCode": null,
+        "afsSource": null,
+        "todayRpm": 0,
+        "todayRev": 0
+      }
+    ],
+    "funnelId": "3SmbEZti3YSr",
+    "funnelName": "JZ-06",
+    "partnerName": "shortmax",
+    "urlName": "JZ-06",
+    "urlId": 86,
+    "platform": "FF"
+  }
+}

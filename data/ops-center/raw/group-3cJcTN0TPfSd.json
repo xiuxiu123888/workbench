@@ -1,0 +1,76 @@
+{
+  "code": 200,
+  "data": {
+    "groupId": "3cJcTN0TPfSd",
+    "groupName": "cd-A50-it",
+    "routing": "",
+    "geo": "IT",
+    "yesterdayRpm": 0.1,
+    "yesterdayRev": 0.3,
+    "yesterdayRpmTrend": -66.67,
+    "yesterdayRevTrend": -64.29,
+    "offerList": [
+      {
+        "offerId": "3cJc890QMBtr",
+        "offerName": "Cd-A50-A7-it-9653496952",
+        "categoryName": "分期购买手机",
+        "weight": 1,
+        "channelId": "9653496952",
+        "countryCode": null,
+        "afsSource": null,
+        "todayRpm": 0.3,
+        "todayRev": 0.29
+      },
+      {
+        "offerId": "3fhjme02cZ0m",
+        "offerName": "Cd-A50-A4-it-8671712417",
+        "categoryName": "BNPL",
+        "weight": 0,
+        "channelId": "8671712417",
+        "countryCode": null,
+        "afsSource": null,
+        "todayRpm": 0,
+        "todayRev": 0
+      },
+      {
+        "offerId": "3lplh98pJjbv",
+        "offerName": "cd-reel-50-A14-IT-7826736975",
+        "categoryName": "太阳能储能",
+        "weight": 0.04,
+        "channelId": "7826736975",
+        "countryCode": null,
+        "afsSource": null,
+        "todayRpm": 0,
+        "todayRev": 0
+      },
+      {
+        "offerId": "3lWWRRHYbQkh",
+        "offerName": "cd-reel-50-A12-IT-3731730900",
+        "categoryName": "太阳能储能",
+        "weight": 0.73,
+        "channelId": "3731730900",
+        "countryCode": null,
+        "afsSource": null,
+        "todayRpm": 0.1,
+        "todayRev": 0.11
+      },
+      {
+        "offerId": "3XKjdR7V6Qpx",
+        "offerName": "CD-50-A1-US-4677485294",
+        "categoryName": "事故律师",
+        "weight": 0.04,
+        "channelId": "4677485294",
+        "countryCode": null,
+        "afsSource": null,
+        "todayRpm": 0,
+        "todayRev": 0
+      }
+    ],
+    "funnelId": "3LcdpN4mS9hK",
+    "funnelName": "cd-reel-A5-50",
+    "partnerName": "changdu",
+    "urlName": "moboreels",
+    "urlId": 50,
+    "platform": "FF"
+  }
+}

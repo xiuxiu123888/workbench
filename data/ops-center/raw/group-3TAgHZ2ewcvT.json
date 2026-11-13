@@ -1,0 +1,65 @@
+{
+  "code": 200,
+  "data": {
+    "groupId": "3TAgHZ2ewcvT",
+    "groupName": "Jiu-0912-FR",
+    "routing": "",
+    "geo": "FR",
+    "yesterdayRpm": 0,
+    "yesterdayRev": 0,
+    "yesterdayRpmTrend": -100,
+    "yesterdayRevTrend": -100,
+    "offerList": [
+      {
+        "offerId": "3bvs4jyYD9E3",
+        "offerName": "A1-fr-6172506158",
+        "categoryName": "紧急贷款",
+        "weight": 1,
+        "channelId": "6172506158",
+        "countryCode": null,
+        "afsSource": null,
+        "todayRpm": 0,
+        "todayRev": 0
+      },
+      {
+        "offerId": "3lMAsjRaSVNh",
+        "offerName": "Jiu-reel-0912-A12-FR-1898762721",
+        "categoryName": "紧急贷款",
+        "weight": 1,
+        "channelId": "1898762721",
+        "countryCode": null,
+        "afsSource": null,
+        "todayRpm": 0,
+        "todayRev": 0
+      },
+      {
+        "offerId": "3XD76XtA4Xej",
+        "offerName": "A4-FR-7474002238",
+        "categoryName": "紧急贷款",
+        "weight": 1,
+        "channelId": "7474002238",
+        "countryCode": null,
+        "afsSource": null,
+        "todayRpm": 0.8,
+        "todayRev": 0.05
+      },
+      {
+        "offerId": "3XGkCfphar6z",
+        "offerName": "A7-FR-7868532178",
+        "categoryName": "紧急贷款",
+        "weight": 1,
+        "channelId": "7868532178",
+        "countryCode": null,
+        "afsSource": null,
+        "todayRpm": 0,
+        "todayRev": 0
+      }
+    ],
+    "funnelId": "3PZNC9XTyfXp",
+    "funnelName": "Jiu-reel-0912",
+    "partnerName": "shortmax",
+    "urlName": "Jiu-reel-0912",
+    "urlId": 68,
+    "platform": "FF"
+  }
+}

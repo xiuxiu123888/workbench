@@ -1,0 +1,27 @@
+{
+  "code": 200,
+  "data": {
+    "funnelId": "3cOnuvi6z7Vg",
+    "funnelName": "JZ-13",
+    "partnerName": "shortmax",
+    "urlName": "JZ-13",
+    "urlId": 95,
+    "offerGroupList": [
+      {
+        "groupId": "3cOnqO9rgbM4",
+        "groupName": "jz13-br",
+        "geo": "BR"
+      },
+      {
+        "groupId": "3hES8LAqzoIO",
+        "groupName": "JZ-13-SA",
+        "geo": "SA"
+      },
+      {
+        "groupId": "3l50uan3e1RF",
+        "groupName": "JZ-13-JP",
+        "geo": "JP"
+      }
+    ]
+  }
+}

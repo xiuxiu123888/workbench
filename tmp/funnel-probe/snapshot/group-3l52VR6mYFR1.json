@@ -1,0 +1,43 @@
+{
+  "code": 200,
+  "data": {
+    "groupId": "3l52VR6mYFR1",
+    "groupName": "JZ-09-JP",
+    "routing": "",
+    "geo": "JP",
+    "yesterdayRpm": 0,
+    "yesterdayRev": 0,
+    "yesterdayRpmTrend": 0,
+    "yesterdayRevTrend": 0,
+    "offerList": [
+      {
+        "offerId": "3lMAsjHipJC1",
+        "offerName": "jz-09-A12-JP-9827539423",
+        "categoryName": "殡葬",
+        "weight": 1,
+        "channelId": "9827539423",
+        "countryCode": null,
+        "afsSource": null,
+        "todayRpm": 0,
+        "todayRev": 0
+      },
+      {
+        "offerId": "3lMEEzK2rHvD",
+        "offerName": "jz-09-A4-JP-8488653000",
+        "categoryName": "殡葬",
+        "weight": 1,
+        "channelId": "8488653000",
+        "countryCode": null,
+        "afsSource": null,
+        "todayRpm": 0,
+        "todayRev": 0
+      }
+    ],
+    "funnelId": "3aXEOxFRbofy",
+    "funnelName": "jz-09",
+    "partnerName": "shortmax",
+    "urlName": "JZ-09",
+    "urlId": 91,
+    "platform": "FF"
+  }
+}

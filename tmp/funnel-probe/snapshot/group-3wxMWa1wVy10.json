@@ -1,0 +1,175 @@
+{
+  "code": 200,
+  "data": {
+    "groupId": "3wxMWa1wVy10",
+    "groupName": "storyreel-v03-us",
+    "routing": "rotator",
+    "geo": "US",
+    "yesterdayRpm": 103.9,
+    "yesterdayRev": 72.43,
+    "yesterdayRpmTrend": 84.88,
+    "yesterdayRevTrend": 102.49,
+    "offerList": [
+      {
+        "offerId": "3wxLmdidcNi0",
+        "offerName": "storyreel-v03-A5-us-9392114755-joyfullplayland.com",
+        "categoryName": "特殊疾病药品",
+        "weight": 0.03,
+        "channelId": "9392114755",
+        "countryCode": "US",
+        "afsSource": "5",
+        "todayRpm": 0,
+        "todayRev": 0
+      },
+      {
+        "offerId": "3wxLhSTqwiis",
+        "offerName": "storyreel-v03-A1-us-16500-homeguarddeals.com",
+        "categoryName": "丁丙诺啡市场",
+        "weight": 0.03,
+        "channelId": "16500",
+        "countryCode": "US",
+        "afsSource": "1",
+        "todayRpm": 0,
+        "todayRev": 0
+      },
+      {
+        "offerId": "3wxLcF6qbNZF",
+        "offerName": "storyreel-v03-A4-us-9339475332-zestfularcade.com",
+        "categoryName": "其他",
+        "weight": 0.03,
+        "channelId": "9339475332",
+        "countryCode": "US",
+        "afsSource": "4",
+        "todayRpm": 0,
+        "todayRev": 0
+      },
+      {
+        "offerId": "3wxLWP2KihXc",
+        "offerName": "storyreel-v03-A15-us-8314128922-51jiejue.com",
+        "categoryName": "其他",
+        "weight": 0.03,
+        "channelId": "8314128922",
+        "countryCode": "US",
+        "afsSource": "15",
+        "todayRpm": 20,
+        "todayRev": 0.12
+      },
+      {
+        "offerId": "3wxLRGTJ2I7S",
+        "offerName": "storyreel-v03-A7-us-11502-algo-cash.com",
+        "categoryName": "其他",
+        "weight": 0.03,
+        "channelId": "11502",
+        "countryCode": "US",
+        "afsSource": "7",
+        "todayRpm": 7.9,
+        "todayRev": 0.19
+      },
+      {
+        "offerId": "3wxLKrGmQDYd",
+        "offerName": "storyreel-v03-A12-us-5380902928-degreesuccesstips.com",
+        "categoryName": "其他",
+        "weight": 0.03,
+        "channelId": "5380902928",
+        "countryCode": "US",
+        "afsSource": "12",
+        "todayRpm": 0,
+        "todayRev": 0
+      },
+      {
+        "offerId": "3ywae2w1NJZ5",
+        "offerName": "storyreel-v03-A1-us-13437-insurance-consulting-nearby.com",
+        "categoryName": "其他",
+        "weight": 0.03,
+        "channelId": "13437",
+        "countryCode": "US",
+        "afsSource": "1",
+        "todayRpm": 28.6,
+        "todayRev": 0.63
+      },
+      {
+        "offerId": "3ywai6zDsT7E",
+        "offerName": "storyreel-v03-A1-us-13438-beauty-center-nearby.com",
+        "categoryName": "其他",
+        "weight": 0.03,
+        "channelId": "13438",
+        "countryCode": "US",
+        "afsSource": "1",
+        "todayRpm": 0,
+        "todayRev": 0
+      },
+      {
+        "offerId": "3ywau3Vs2gpx",
+        "offerName": "storyreel-v03-A4-us-9892530755-fluxpaid.com",
+        "categoryName": "HIV",
+        "weight": 1,
+        "channelId": "9892530755",
+        "countryCode": "US",
+        "afsSource": "4",
+        "todayRpm": 170.1,
+        "todayRev": 67.03
+      },
+      {
+        "offerId": "3ywb00i3TYhQ",
+        "offerName": "storyreel-v03-A5-us-2484693884-whirlwindarcade.com",
+        "categoryName": "其他",
+        "weight": 0.03,
+        "channelId": "2484693884",
+        "countryCode": "US",
+        "afsSource": "5",
+        "todayRpm": 0,
+        "todayRev": 0
+      },
+      {
+        "offerId": "3ywb7kRpB1vm",
+        "offerName": "storyreel-v03-A7-us-18656-aifinteches.com",
+        "categoryName": "健康保险",
+        "weight": 0.03,
+        "channelId": "18656",
+        "countryCode": "US",
+        "afsSource": "7",
+        "todayRpm": 12,
+        "todayRev": 0.12
+      },
+      {
+        "offerId": "3ywbAtg0fBwB",
+        "offerName": "storyreel-v03-A7-us-18657-quantify-energy.com",
+        "categoryName": "其他",
+        "weight": 0.03,
+        "channelId": "18657",
+        "countryCode": "US",
+        "afsSource": "7",
+        "todayRpm": 58,
+        "todayRev": 0.58
+      },
+      {
+        "offerId": "3ywbPNU65DpC",
+        "offerName": "storyreel-v03-A12-us-8933667645-aivestorhq.com",
+        "categoryName": "其他",
+        "weight": 0.03,
+        "channelId": "8933667645",
+        "countryCode": "US",
+        "afsSource": "12",
+        "todayRpm": 0,
+        "todayRev": 0
+      },
+      {
+        "offerId": "3ywbFfIHk6hJ",
+        "offerName": "storyreel-v03-A15-us-3494219266-lstmai.com",
+        "categoryName": "其他",
+        "weight": 0.03,
+        "channelId": "3494219266",
+        "countryCode": "US",
+        "afsSource": "15",
+        "todayRpm": 0,
+        "todayRev": 0
+      }
+    ],
+    "funnelId": "3wxMhS6zF2m4",
+    "funnelName": "storyreel-v03",
+    "partnerName": "storyreel",
+    "urlName": "storyreel-v03",
+    "urlId": 129,
+    "platform": "MIS"
+  }
+}

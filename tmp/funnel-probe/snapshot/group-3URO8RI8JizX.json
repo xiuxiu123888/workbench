@@ -1,0 +1,65 @@
+{
+  "code": 200,
+  "data": {
+    "groupId": "3URO8RI8JizX",
+    "groupName": "JZ-08-IT",
+    "routing": "",
+    "geo": "IT",
+    "yesterdayRpm": 0,
+    "yesterdayRev": 0,
+    "yesterdayRpmTrend": -100,
+    "yesterdayRevTrend": -100,
+    "offerList": [
+      {
+        "offerId": "3lMAsjKjvRDo",
+        "offerName": "JZ-08-A12-IT-4007063078",
+        "categoryName": "太阳能储能",
+        "weight": 0.3,
+        "channelId": "4007063078",
+        "countryCode": null,
+        "afsSource": null,
+        "todayRpm": 1.1,
+        "todayRev": 0.05
+      },
+      {
+        "offerId": "3UlnfcRgY61A",
+        "offerName": "JZ-08-A7-it-8974640419",
+        "categoryName": "BNPL",
+        "weight": 0,
+        "channelId": "8974640419",
+        "countryCode": null,
+        "afsSource": null,
+        "todayRpm": 0,
+        "todayRev": 0
+      },
+      {
+        "offerId": "3UqMGK2nCSK1",
+        "offerName": "JZ-08-A1-it-4689191644",
+        "categoryName": "太阳能储能",
+        "weight": 0.7,
+        "channelId": "4689191644",
+        "countryCode": null,
+        "afsSource": null,
+        "todayRpm": 0,
+        "todayRev": 0
+      },
+      {
+        "offerId": "3XHEkRj9rkBe",
+        "offerName": "JZ-08-A4-IT-4612213758",
+        "categoryName": "BNPL",
+        "weight": 0,
+        "channelId": "4612213758",
+        "countryCode": null,
+        "afsSource": null,
+        "todayRpm": 0,
+        "todayRev": 0
+      }
+    ],
+    "funnelId": "3URMYo1qyRLG",
+    "funnelName": "JZ-08",
+    "partnerName": "shortmax",
+    "urlName": "JZ-08",
+    "urlId": 88,
+    "platform": "FF"
+  }
+}

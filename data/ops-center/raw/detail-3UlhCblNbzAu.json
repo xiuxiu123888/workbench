@@ -1,0 +1,22 @@
+{
+  "code": 200,
+  "data": {
+    "funnelId": "3UlhCblNbzAu",
+    "funnelName": "cd-reader-A79",
+    "partnerName": "changdu",
+    "urlName": "moboreader",
+    "urlId": 89,
+    "offerGroupList": [
+      {
+        "groupId": "3UlhHWffPIlv",
+        "groupName": "A79-A7-Us-9265748052",
+        "geo": "US"
+      },
+      {
+        "groupId": "3UlhHWfnVLtK",
+        "groupName": "A79-A7-Us-9015202708",
+        "geo": "US"
+      }
+    ]
+  }
+}

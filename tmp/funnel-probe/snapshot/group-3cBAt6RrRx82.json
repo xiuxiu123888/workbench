@@ -1,0 +1,54 @@
+{
+  "code": 200,
+  "data": {
+    "groupId": "3cBAt6RrRx82",
+    "groupName": "JZ-06-sa",
+    "routing": "",
+    "geo": "SA",
+    "yesterdayRpm": 0,
+    "yesterdayRev": 0,
+    "yesterdayRpmTrend": 0,
+    "yesterdayRevTrend": 0,
+    "offerList": [
+      {
+        "offerId": "3cBA3HmlIqx1",
+        "offerName": "JZ-06-A4-sa-9259456650",
+        "categoryName": "汽车服务",
+        "weight": 1,
+        "channelId": "9259456650",
+        "countryCode": null,
+        "afsSource": null,
+        "todayRpm": 0,
+        "todayRev": 0
+      },
+      {
+        "offerId": "3cBA7jGRLl8W",
+        "offerName": "JZ-06-A7-sa-3115809079",
+        "categoryName": "汽车租购",
+        "weight": 1,
+        "channelId": "3115809079",
+        "countryCode": null,
+        "afsSource": null,
+        "todayRpm": 0,
+        "todayRev": 0
+      },
+      {
+        "offerId": "3lMAsjMkTjhi",
+        "offerName": "JZ-06-A12-SA-6838607522",
+        "categoryName": "汽车保险",
+        "weight": 1,
+        "channelId": "6838607522",
+        "countryCode": null,
+        "afsSource": null,
+        "todayRpm": 0,
+        "todayRev": 0
+      }
+    ],
+    "funnelId": "3SmbEZti3YSr",
+    "funnelName": "JZ-06",
+    "partnerName": "shortmax",
+    "urlName": "JZ-06",
+    "urlId": 86,
+    "platform": "FF"
+  }
+}

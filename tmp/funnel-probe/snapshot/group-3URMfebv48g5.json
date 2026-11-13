@@ -1,0 +1,54 @@
+{
+  "code": 200,
+  "data": {
+    "groupId": "3URMfebv48g5",
+    "groupName": "JZ-08-US",
+    "routing": "",
+    "geo": "US",
+    "yesterdayRpm": 16,
+    "yesterdayRev": 1.31,
+    "yesterdayRpmTrend": 272.09,
+    "yesterdayRevTrend": 403.85,
+    "offerList": [
+      {
+        "offerId": "3auUgcJIa70r",
+        "offerName": "JZ-08-A7-Test-US-lawyer-8883994701",
+        "categoryName": "肝脏健康",
+        "weight": 0.94,
+        "channelId": "8883994701",
+        "countryCode": null,
+        "afsSource": null,
+        "todayRpm": 29.8,
+        "todayRev": 1.19
+      },
+      {
+        "offerId": "3beaQYZ8MNIv",
+        "offerName": "JZ-08-A12-US-4007063078",
+        "categoryName": "肝脏健康",
+        "weight": 0.03,
+        "channelId": "4007063078",
+        "countryCode": null,
+        "afsSource": null,
+        "todayRpm": 0,
+        "todayRev": 0
+      },
+      {
+        "offerId": "3XHEdoCXtjr7",
+        "offerName": "JZ-08-A4-US-4612213758",
+        "categoryName": "手机分期",
+        "weight": 0.03,
+        "channelId": "4612213758",
+        "countryCode": null,
+        "afsSource": null,
+        "todayRpm": 0,
+        "todayRev": 0
+      }
+    ],
+    "funnelId": "3URMYo1qyRLG",
+    "funnelName": "JZ-08",
+    "partnerName": "shortmax",
+    "urlName": "JZ-08",
+    "urlId": 88,
+    "platform": "FF"
+  }
+}

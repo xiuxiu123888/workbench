@@ -1,0 +1,51 @@
+{
+  "code": 200,
+  "data": {
+    "funnelId": "3O9Vr9Ar6pNC",
+    "funnelName": "cd-reel-A6fan-62",
+    "partnerName": "changdu",
+    "urlName": "moboreels",
+    "urlId": 62,
+    "offerGroupList": [
+      {
+        "groupId": "3Ua6jh4GszUv",
+        "groupName": "cd-reel-0825-fan-62-Us",
+        "geo": "US"
+      },
+      {
+        "groupId": "3Ua6mRucsznM",
+        "groupName": "cd-reel-0825-fan-62-br",
+        "geo": "BR"
+      },
+      {
+        "groupId": "3Ua6y1zRiWZT",
+        "groupName": "cd-reel-0825-fan-62-jp",
+        "geo": "JP"
+      },
+      {
+        "groupId": "3XKxeNHRbvUQ",
+        "groupName": "cd-reel-0825-fan-62-default",
+        "geo": "CD"
+      },
+      {
+        "groupId": "3nMqRddvl7lg",
+        "groupName": "cd-reel-0825-fan-62-de",
+        "geo": "DE"
+      },
+      {
+        "groupId": "3Ua6ur8oPGhN",
+        "groupName": "cd-reel-0825-fan-62-it",
+        "geo": "IT"
+      },
+      {
+        "groupId": "3Ua6owQ1I4zP",
+        "groupName": "cd-reel-0825-fan-62-fr",
+        "geo": "FR"
+      }
+    ],
+    "platform": "FF",
+    "status": "active",
+    "autoWeightEnabled": 1,
+    "autoWeightRuleType": "TODAY_RPM"
+  }
+}

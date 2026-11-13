@@ -1,0 +1,1008 @@
+{
+  "pulledAt": "2026-11-10T10:14:54.797Z",
+  "funnelCount": 77,
+  "detailCount": 77,
+  "groupCount": 275,
+  "offerCount": 1126,
+  "geos": [
+    "BR",
+    "CD",
+    "DE",
+    "DEFAULT",
+    "ES",
+    "FR",
+    "GB",
+    "IT",
+    "JP",
+    "KR",
+    "MX",
+    "SA",
+    "TG",
+    "US"
+  ],
+  "categories": [
+    "AI变现",
+    "BNPL",
+    "HIV",
+    "丁丙诺啡市场",
+    "专科治疗",
+    "个人投资",
+    "个人贷款",
+    "临床研究",
+    "事故律师",
+    "住房抗灾投资",
+    "信用卡",
+    "健康保险",
+    "公共健康",
+    "其他",
+    "冰箱分期",
+    "分期购买手机",
+    "医疗健康",
+    "医疗咨询",
+    "同城配送",
+    "园艺与室外维护",
+    "在线贷款",
+    "太阳能储能",
+    "女性健康",
+    "宠物保险",
+    "家庭装修",
+    "家电分期",
+    "家装分期购买",
+    "小额贷款",
+    "常见健康",
+    "应用软件",
+    "建筑工人招聘",
+    "律师服务",
+    "心理健康",
+    "房屋贷款",
+    "手机分期",
+    "手机套餐",
+    "摩托车",
+    "教育学习软件",
+    "数码分期",
+    "新能源汽车",
+    "殡葬",
+    "汽车保险",
+    "汽车分期",
+    "汽车服务",
+    "汽车租购",
+    "汽车租赁",
+    "汽车订阅",
+    "汽车贷款",
+    "清洁工招聘",
+    "渐开线齿轮刀具品牌",
+    "激光美容",
+    "牙科保险",
+    "牙科分期",
+    "牙齿植入",
+    "牙齿种植",
+    "特殊疾病药品",
+    "理疗诊所",
+    "生育 / IVF",
+    "疾病治疗",
+    "离婚律师",
+    "私人债务",
+    "私募信贷",
+    "种植牙",
+    "种牙",
+    "租房",
+    "移民律师",
+    "系统软件",
+    "紧急贷款",
+    "肝脏健康",
+    "药品配送",
+    "荷尔蒙优化",
+    "血压测量",
+    "酒驾交通事故律师",
+    "附近公寓指南"
+  ],
+  "partners": [
+    "Blinkdrama",
+    "changdu",
+    "shortmax",
+    "storyreel",
+    "vibeshort"
+  ],
+  "urls": [
+    "Blinkdrama-sign-v01",
+    "Blinkdrama-v01",
+    "Blinkdrama-v02",
+    "Blinkdrama-v03",
+    "Blinkdrama-v04",
+    "JZ-06",
+    "JZ-07",
+    "JZ-08",
+    "JZ-09",
+    "JZ-10",
+    "JZ-12",
+    "JZ-13",
+    "JZ-14",
+    "JZ-15",
+    "JZ-16",
+    "JZ-17",
+    "JZ-18",
+    "Jiu-reel-0912",
+    "jz-signin-v01",
+    "jz-signin-v02",
+    "moboreader",
+    "moboreaderweb",
+    "moboreels",
+    "storyreel-sign-v01",
+    "storyreel-v01",
+    "storyreel-v02",
+    "storyreel-v03",
+    "storyreel-v04",
+    "storyreel-v05",
+    "vibeshort-V05",
+    "vibeshort-v01",
+    "vibeshort-v02",
+    "vibeshort-v03",
+    "vibeshort-v04"
+  ],
+  "nonzeroTodayOffers": 445,
+  "nonzeroYdayGroups": 105,
+  "totals": {
+    "todayRev": 11273.160000000002,
+    "todayRpmSum": 12759.600000000013,
+    "yesterdayRev": 12656.000000000002,
+    "yesterdayRpmSum": 2753.5000000000014
+  },
+  "partnerRank": [
+    {
+      "key": "Blinkdrama",
+      "todayRev": 5785.910000000002,
+      "todayRpmAvg": 27.047916666666666,
+      "rev": 5785.910000000002,
+      "rpm": 27.047916666666666,
+      "count": 96
+    },
+    {
+      "key": "(empty)",
+      "todayRev": 1348.0900000000001,
+      "todayRpmAvg": 9.859793814432988,
+      "rev": 1348.0900000000001,
+      "rpm": 9.859793814432988,
+      "count": 194
+    },
+    {
+      "key": "shortmax",
+      "todayRev": 1308.28,
+      "todayRpmAvg": 5.560511363636365,
+      "rev": 1308.28,
+      "rpm": 5.560511363636365,
+      "count": 352
+    },
+    {
+      "key": "changdu",
+      "todayRev": 1240.0899999999997,
+      "todayRpmAvg": 6.7118081180811755,
+      "rev": 1240.0899999999997,
+      "rpm": 6.7118081180811755,
+      "count": 271
+    },
+    {
+      "key": "vibeshort",
+      "todayRev": 1108.6400000000003,
+      "todayRpmAvg": 25.797826086956526,
+      "rev": 1108.6400000000003,
+      "rpm": 25.797826086956526,
+      "count": 92
+    },
+    {
+      "key": "storyreel",
+      "todayRev": 482.15000000000015,
+      "todayRpmAvg": 17.360330578512396,
+      "rev": 482.15000000000015,
+      "rpm": 17.360330578512396,
+      "count": 121
+    }
+  ],
+  "urlRank": [
+    {
+      "key": "Blinkdrama-sign-v01",
+      "todayRev": 1993.7399999999998,
+      "todayRpmAvg": 15.550000000000002,
+      "rev": 1993.7399999999998,
+      "rpm": 15.550000000000002,
+      "count": 18
+    },
+    {
+      "key": "(empty)",
+      "todayRev": 1982.0800000000004,
+      "todayRpmAvg": 11.185281385281382,
+      "rev": 1982.0800000000004,
+      "rpm": 11.185281385281382,
+      "count": 231
+    },
+    {
+      "key": "Blinkdrama-v01",
+      "todayRev": 1962.85,
+      "todayRpmAvg": 33.34782608695653,
+      "rev": 1962.85,
+      "rpm": 33.34782608695653,
+      "count": 23
+    },
+    {
+      "key": "Blinkdrama-v02",
+      "todayRev": 1628.02,
+      "todayRpmAvg": 39.71578947368421,
+      "rev": 1628.02,
+      "rpm": 39.71578947368421,
+      "count": 19
+    },
+    {
+      "key": "moboreader",
+      "todayRev": 874.6400000000001,
+      "todayRpmAvg": 2.6567567567567574,
+      "rev": 874.6400000000001,
+      "rpm": 2.6567567567567574,
+      "count": 111
+    },
+    {
+      "key": "vibeshort-v01",
+      "todayRev": 618.75,
+      "todayRpmAvg": 26.87142857142857,
+      "rev": 618.75,
+      "rpm": 26.87142857142857,
+      "count": 21
+    },
+    {
+      "key": "Jiu-reel-0912",
+      "todayRev": 467.1500000000001,
+      "todayRpmAvg": 22.557142857142857,
+      "rev": 467.1500000000001,
+      "rpm": 22.557142857142857,
+      "count": 35
+    },
+    {
+      "key": "moboreels",
+      "todayRev": 365.45000000000005,
+      "todayRpmAvg": 9.645569620253157,
+      "rev": 365.45000000000005,
+      "rpm": 9.645569620253157,
+      "count": 158
+    },
+    {
+      "key": "vibeshort-v02",
+      "todayRev": 256.71,
+      "todayRpmAvg": 29.609523809523807,
+      "rev": 256.71,
+      "rpm": 29.609523809523807,
+      "count": 21
+    },
+    {
+      "key": "JZ-09",
+      "todayRev": 176.91000000000003,
+      "todayRpmAvg": 10.075757575757578,
+      "rev": 176.91000000000003,
+      "rpm": 10.075757575757578,
+      "count": 33
+    },
+    {
+      "key": "storyreel-v02",
+      "todayRev": 154.89,
+      "todayRpmAvg": 22.53181818181818,
+      "rev": 154.89,
+      "rpm": 22.53181818181818,
+      "count": 22
+    },
+    {
+      "key": "storyreel-sign-v01",
+      "todayRev": 137.85999999999999,
+      "todayRpmAvg": 18.78947368421053,
+      "rev": 137.85999999999999,
+      "rpm": 18.78947368421053,
+      "count": 19
+    },
+    {
+      "key": "Blinkdrama-v04",
+      "todayRev": 115.83,
+      "todayRpmAvg": 22.05,
+      "rev": 115.83,
+      "rpm": 22.05,
+      "count": 18
+    },
+    {
+      "key": "vibeshort-V05",
+      "todayRev": 99.02000000000001,
+      "todayRpmAvg": 21.97058823529412,
+      "rev": 99.02000000000001,
+      "rpm": 21.97058823529412,
+      "count": 17
+    },
+    {
+      "key": "Blinkdrama-v03",
+      "todayRev": 85.47000000000001,
+      "todayRpmAvg": 22.12222222222222,
+      "rev": 85.47000000000001,
+      "rpm": 22.12222222222222,
+      "count": 18
+    }
+  ],
+  "geoRank": [
+    {
+      "key": "US",
+      "todayRev": 11252.899999999994,
+      "todayRpmAvg": 25.98870636550309,
+      "rev": 11252.899999999994,
+      "rpm": 25.98870636550309,
+      "count": 487
+    },
+    {
+      "key": "FR",
+      "todayRev": 6.52,
+      "todayRpmAvg": 1.4583333333333333,
+      "rev": 6.52,
+      "rpm": 1.4583333333333333,
+      "count": 36
+    },
+    {
+      "key": "DE",
+      "todayRev": 4.979999999999999,
+      "todayRpmAvg": 0.5451612903225806,
+      "rev": 4.979999999999999,
+      "rpm": 0.5451612903225806,
+      "count": 31
+    },
+    {
+      "key": "IT",
+      "todayRev": 3.33,
+      "todayRpmAvg": 0.27631578947368424,
+      "rev": 3.33,
+      "rpm": 0.27631578947368424,
+      "count": 38
+    },
+    {
+      "key": "BR",
+      "todayRev": 3.1600000000000006,
+      "todayRpmAvg": 0.14387755102040814,
+      "rev": 3.1600000000000006,
+      "rpm": 0.14387755102040814,
+      "count": 98
+    },
+    {
+      "key": "JP",
+      "todayRev": 1.09,
+      "todayRpmAvg": 0.019999999999999997,
+      "rev": 1.09,
+      "rpm": 0.019999999999999997,
+      "count": 90
+    },
+    {
+      "key": "MX",
+      "todayRev": 0.7200000000000001,
+      "todayRpmAvg": 0.06888888888888889,
+      "rev": 0.7200000000000001,
+      "rpm": 0.06888888888888889,
+      "count": 45
+    },
+    {
+      "key": "GB",
+      "todayRev": 0.36,
+      "todayRpmAvg": 0.5,
+      "rev": 0.36,
+      "rpm": 0.5,
+      "count": 4
+    },
+    {
+      "key": "ES",
+      "todayRev": 0.08,
+      "todayRpmAvg": 0.65,
+      "rev": 0.08,
+      "rpm": 0.65,
+      "count": 2
+    },
+    {
+      "key": "SA",
+      "todayRev": 0.02,
+      "todayRpmAvg": 0.02368421052631579,
+      "rev": 0.02,
+      "rpm": 0.02368421052631579,
+      "count": 38
+    },
+    {
+      "key": "(empty)",
+      "todayRev": 0,
+      "todayRpmAvg": 0,
+      "rev": 0,
+      "rpm": 0,
+      "count": 178
+    },
+    {
+      "key": "TG",
+      "todayRev": 0,
+      "todayRpmAvg": 0,
+      "rev": 0,
+      "rpm": 0,
+      "count": 5
+    },
+    {
+      "key": "CD",
+      "todayRev": 0,
+      "todayRpmAvg": 0,
+      "rev": 0,
+      "rpm": 0,
+      "count": 42
+    },
+    {
+      "key": "DEFAULT",
+      "todayRev": 0,
+      "todayRpmAvg": 0,
+      "rev": 0,
+      "rpm": 0,
+      "count": 29
+    },
+    {
+      "key": "KR",
+      "todayRev": 0,
+      "todayRpmAvg": 0,
+      "rev": 0,
+      "rpm": 0,
+      "count": 3
+    }
+  ],
+  "categoryRank": [
+    {
+      "key": "丁丙诺啡市场",
+      "todayRev": 5426.35,
+      "todayRpmAvg": 41.034693877551014,
+      "rev": 5426.35,
+      "rpm": 41.034693877551014,
+      "count": 49
+    },
+    {
+      "key": "HIV",
+      "todayRev": 1420.0599999999997,
+      "todayRpmAvg": 43.02807017543859,
+      "rev": 1420.0599999999997,
+      "rpm": 43.02807017543859,
+      "count": 57
+    },
+    {
+      "key": "其他",
+      "todayRev": 1087.2899999999997,
+      "todayRpmAvg": 22.752702702702706,
+      "rev": 1087.2899999999997,
+      "rpm": 22.752702702702706,
+      "count": 148
+    },
+    {
+      "key": "特殊疾病药品",
+      "todayRev": 787.17,
+      "todayRpmAvg": 33.89473684210526,
+      "rev": 787.17,
+      "rpm": 33.89473684210526,
+      "count": 38
+    },
+    {
+      "key": "肝脏健康",
+      "todayRev": 734.92,
+      "todayRpmAvg": 5.0227272727272725,
+      "rev": 734.92,
+      "rpm": 5.0227272727272725,
+      "count": 44
+    },
+    {
+      "key": "个人贷款",
+      "todayRev": 407.18,
+      "todayRpmAvg": 1.5133333333333332,
+      "rev": 407.18,
+      "rpm": 1.5133333333333332,
+      "count": 45
+    },
+    {
+      "key": "临床研究",
+      "todayRev": 386.0400000000001,
+      "todayRpmAvg": 16.927397260273967,
+      "rev": 386.0400000000001,
+      "rpm": 16.927397260273967,
+      "count": 73
+    },
+    {
+      "key": "事故律师",
+      "todayRev": 276.87,
+      "todayRpmAvg": 11.305882352941175,
+      "rev": 276.87,
+      "rpm": 11.305882352941175,
+      "count": 34
+    },
+    {
+      "key": "手机分期",
+      "todayRev": 174.35,
+      "todayRpmAvg": 7.327777777777778,
+      "rev": 174.35,
+      "rpm": 7.327777777777778,
+      "count": 36
+    },
+    {
+      "key": "健康保险",
+      "todayRev": 173.02999999999997,
+      "todayRpmAvg": 18.6969696969697,
+      "rev": 173.02999999999997,
+      "rpm": 18.6969696969697,
+      "count": 33
+    },
+    {
+      "key": "信用卡",
+      "todayRev": 121.13999999999999,
+      "todayRpmAvg": 4.74,
+      "rev": 121.13999999999999,
+      "rpm": 4.74,
+      "count": 15
+    },
+    {
+      "key": "疾病治疗",
+      "todayRev": 100.71000000000001,
+      "todayRpmAvg": 12.917647058823531,
+      "rev": 100.71000000000001,
+      "rpm": 12.917647058823531,
+      "count": 17
+    },
+    {
+      "key": "医疗健康",
+      "todayRev": 100.66999999999999,
+      "todayRpmAvg": 6.494117647058822,
+      "rev": 100.66999999999999,
+      "rpm": 6.494117647058822,
+      "count": 34
+    },
+    {
+      "key": "(empty)",
+      "todayRev": 27.63,
+      "todayRpmAvg": 0.9727272727272728,
+      "rev": 27.63,
+      "rpm": 0.9727272727272728,
+      "count": 77
+    },
+    {
+      "key": "医疗咨询",
+      "todayRev": 24.82,
+      "todayRpmAvg": 22.9,
+      "rev": 24.82,
+      "rpm": 22.9,
+      "count": 4
+    }
+  ],
+  "funnelRank": [
+    {
+      "key": "Blinkdrama-v01|3sFDWWqvNxR9",
+      "todayRev": 1962.85,
+      "yRev": 2141.44,
+      "yRpm": 26.2,
+      "rev": 4104.29,
+      "rpm": 26.2,
+      "groups": 2,
+      "count": 2
+    },
+    {
+      "key": "Blinkdrama-sign-v01|3uUfpSpZ3e2U",
+      "todayRev": 1993.7399999999998,
+      "yRev": 2046.25,
+      "yRpm": 24.450000000000003,
+      "rev": 4039.99,
+      "rpm": 24.450000000000003,
+      "groups": 2,
+      "count": 2
+    },
+    {
+      "key": "Blinkdrama-v02|3sFDuJeEbeay",
+      "todayRev": 1628.02,
+      "yRev": 1649.59,
+      "yRpm": 35.6,
+      "rev": 3277.6099999999997,
+      "rpm": 35.6,
+      "groups": 2,
+      "count": 2
+    },
+    {
+      "key": "ShortMax-v05|3x47BxwjQBMo",
+      "todayRev": 555.04,
+      "yRev": 795.23,
+      "yRpm": 45.7,
+      "rev": 1350.27,
+      "rpm": 45.7,
+      "groups": 2,
+      "count": 2
+    },
+    {
+      "key": "Vibeshort-V01|3yj8jf5lC9CG",
+      "todayRev": 618.75,
+      "yRev": 712.39,
+      "yRpm": 22.7,
+      "rev": 1331.1399999999999,
+      "rpm": 22.7,
+      "groups": 2,
+      "count": 2
+    },
+    {
+      "key": "cd-reader-A75|3Qi2AaBNTLG6",
+      "todayRev": 729.74,
+      "yRev": 577.4,
+      "yRpm": 23.36,
+      "rev": 1307.1399999999999,
+      "rpm": 23.36,
+      "groups": 5,
+      "count": 5
+    },
+    {
+      "key": "Jiu-reel-0912|3PZNC9XTyfXp",
+      "todayRev": 467.1500000000001,
+      "yRev": 736.35,
+      "yRpm": 29.488888888888894,
+      "rev": 1203.5,
+      "rpm": 29.488888888888894,
+      "groups": 9,
+      "count": 9
+    },
+    {
+      "key": "ShortMax-v03|3z7nZk7WDoBd",
+      "todayRev": 355.0900000000001,
+      "yRev": 437.32,
+      "yRpm": 107,
+      "rev": 792.4100000000001,
+      "rpm": 107,
+      "groups": 2,
+      "count": 2
+    },
+    {
+      "key": "ShortMax-v04|3z7d1Vmn8Fku",
+      "todayRev": 286.31,
+      "yRev": 367.12,
+      "yRpm": 62.8,
+      "rev": 653.4300000000001,
+      "rpm": 62.8,
+      "groups": 2,
+      "count": 2
+    },
+    {
+      "key": "Vibeshort-v02|3w0aPitAgGtJ",
+      "todayRev": 256.71,
+      "yRev": 326.33,
+      "yRpm": 40.6,
+      "rev": 583.04,
+      "rpm": 40.6,
+      "groups": 2,
+      "count": 2
+    },
+    {
+      "key": "moboreels-v01|3zb0bcaeqhVS",
+      "todayRev": 245.39000000000001,
+      "yRev": 246.45,
+      "yRpm": 8.8,
+      "rev": 491.84000000000003,
+      "rpm": 8.8,
+      "groups": 2,
+      "count": 2
+    },
+    {
+      "key": "jz-09|3aXEOxFRbofy",
+      "todayRev": 176.91000000000003,
+      "yRev": 217.09,
+      "yRpm": 10.681818181818183,
+      "rev": 394,
+      "rpm": 10.681818181818183,
+      "groups": 11,
+      "count": 11
+    },
+    {
+      "key": "storyreel-v02|3ykKt2fZxicx",
+      "todayRev": 154.89,
+      "yRev": 198.85,
+      "yRpm": 26.55,
+      "rev": 353.74,
+      "rpm": 26.55,
+      "groups": 2,
+      "count": 2
+    },
+    {
+      "key": "Blinkdrama-v04|3uDZt8ImMHUl",
+      "todayRev": 115.83,
+      "yRev": 191.85,
+      "yRpm": 28.1,
+      "rev": 307.68,
+      "rpm": 28.1,
+      "groups": 2,
+      "count": 2
+    },
+    {
+      "key": "storyreel-sign-v01|3p82yVFf1xF9",
+      "todayRev": 137.85999999999999,
+      "yRev": 167.73,
+      "yRpm": 18.05,
+      "rev": 305.59,
+      "rpm": 18.05,
+      "groups": 2,
+      "count": 2
+    }
+  ],
+  "topOffers": [
+    {
+      "funnelName": "Blinkdrama-sign-v01",
+      "partnerName": "Blinkdrama",
+      "urlName": "Blinkdrama-sign-v01",
+      "geo": "US",
+      "categoryName": "丁丙诺啡市场",
+      "offerName": "Blinkdrama-sign-v01-A1-us-15633-homeguarddeals.com",
+      "channelId": "15633",
+      "afsSource": "1",
+      "weight": 0.4,
+      "todayRpm": 41.1,
+      "todayRev": 548.6
+    },
+    {
+      "funnelName": "ShortMax-v05",
+      "partnerName": "shortmax",
+      "urlName": null,
+      "geo": "US",
+      "categoryName": "HIV",
+      "offerName": "JZ-05-A4-Us-9731171890-fluxpaid.com",
+      "channelId": "9731171890",
+      "afsSource": "4",
+      "weight": 0.68,
+      "todayRpm": 117.4,
+      "todayRev": 446.01
+    },
+    {
+      "funnelName": "Blinkdrama-v01",
+      "partnerName": "Blinkdrama",
+      "urlName": "Blinkdrama-v01",
+      "geo": "US",
+      "categoryName": "丁丙诺啡市场",
+      "offerName": "Blinkdrama-v01-A1-Us-13247-homeguarddeals.com",
+      "channelId": "13247",
+      "afsSource": "1",
+      "weight": 0.25,
+      "todayRpm": 96.8,
+      "todayRev": 414.43
+    },
+    {
+      "funnelName": "Blinkdrama-v02",
+      "partnerName": "Blinkdrama",
+      "urlName": "Blinkdrama-v02",
+      "geo": "US",
+      "categoryName": "丁丙诺啡市场",
+      "offerName": "Blinkdrama-v02-A1-Us-15585-insurance-consulting-nearby.com",
+      "channelId": "15585",
+      "afsSource": "1",
+      "weight": 0.35,
+      "todayRpm": 128.7,
+      "todayRev": 411.1
+    },
+    {
+      "funnelName": "Blinkdrama-sign-v01",
+      "partnerName": "Blinkdrama",
+      "urlName": "Blinkdrama-sign-v01",
+      "geo": "US",
+      "categoryName": "个人贷款",
+      "offerName": "Blinkdrama-sign-v01-A4-default-1628696221",
+      "channelId": "1628696221",
+      "afsSource": "4",
+      "weight": 1,
+      "todayRpm": 35,
+      "todayRev": 404.04
+    },
+    {
+      "funnelName": "Blinkdrama-sign-v01",
+      "partnerName": "Blinkdrama",
+      "urlName": "Blinkdrama-sign-v01",
+      "geo": "US",
+      "categoryName": "丁丙诺啡市场",
+      "offerName": "Blinkdrama-sign-v01-A4-Us-1628696221-zestfularcade.com",
+      "channelId": "1628696221",
+      "afsSource": "4",
+      "weight": 0.34,
+      "todayRpm": 35,
+      "todayRev": 404.04
+    },
+    {
+      "funnelName": "Blinkdrama-sign-v01",
+      "partnerName": "Blinkdrama",
+      "urlName": "Blinkdrama-sign-v01",
+      "geo": "US",
+      "categoryName": "丁丙诺啡市场",
+      "offerName": "Blinkdrama-sign-v01-A4-Us-4719974988-joyfulgaminghub9.com",
+      "channelId": "4719974988",
+      "afsSource": "4",
+      "weight": 0.31,
+      "todayRpm": 33.1,
+      "todayRev": 400.17
+    },
+    {
+      "funnelName": "Blinkdrama-v02",
+      "partnerName": "Blinkdrama",
+      "urlName": "Blinkdrama-v02",
+      "geo": "US",
+      "categoryName": "丁丙诺啡市场",
+      "offerName": "Blinkdrama-v02-A1-Us-13431-homeguarddeals.com",
+      "channelId": "13431",
+      "afsSource": "1",
+      "weight": 0.34,
+      "todayRpm": 131.6,
+      "todayRev": 374.66
+    },
+    {
+      "funnelName": "Blinkdrama-v01",
+      "partnerName": "Blinkdrama",
+      "urlName": "Blinkdrama-v01",
+      "geo": "US",
+      "categoryName": "丁丙诺啡市场",
+      "offerName": "Blinkdrama-v01-A4-Us-8002532881-joyfulgaminghub9.com",
+      "channelId": "8002532881",
+      "afsSource": "4",
+      "weight": 0.2,
+      "todayRpm": 75.1,
+      "todayRev": 364.87
+    },
+    {
+      "funnelName": "cd-reader-A75",
+      "partnerName": "changdu",
+      "urlName": "moboreader",
+      "geo": "US",
+      "categoryName": "肝脏健康",
+      "offerName": "A75-A4-us-8002532881",
+      "channelId": "8002532881",
+      "afsSource": null,
+      "weight": 0.25,
+      "todayRpm": 75.1,
+      "todayRev": 364.87
+    },
+    {
+      "funnelName": "cd-reader-A75",
+      "partnerName": "changdu",
+      "urlName": "moboreader",
+      "geo": "US",
+      "categoryName": "肝脏健康",
+      "offerName": "A75-A4-us-8002532881",
+      "channelId": "8002532881",
+      "afsSource": null,
+      "weight": 0.25,
+      "todayRpm": 75.1,
+      "todayRev": 364.87
+    },
+    {
+      "funnelName": "Blinkdrama-v01",
+      "partnerName": "Blinkdrama",
+      "urlName": "Blinkdrama-v01",
+      "geo": "US",
+      "categoryName": "丁丙诺啡市场",
+      "offerName": "Blinkdrama-v01-A4-Us-9111267282-zestfularcade.com",
+      "channelId": "9111267282",
+      "afsSource": "4",
+      "weight": 0.18,
+      "todayRpm": 68.3,
+      "todayRev": 300.01
+    },
+    {
+      "funnelName": "Blinkdrama-v02",
+      "partnerName": "Blinkdrama",
+      "urlName": "Blinkdrama-v02",
+      "geo": "US",
+      "categoryName": "丁丙诺啡市场",
+      "offerName": "Blinkdrama-v02-A7-Us-18650-www.newamc.com",
+      "channelId": "18650",
+      "afsSource": "7",
+      "weight": 0.24,
+      "todayRpm": 89.1,
+      "todayRev": 261.74
+    },
+    {
+      "funnelName": "Blinkdrama-v02",
+      "partnerName": "Blinkdrama",
+      "urlName": "Blinkdrama-v02",
+      "geo": "US",
+      "categoryName": "丁丙诺啡市场",
+      "offerName": "Blinkdrama-v02-A4-Us-1502816526-jubilantsphere.com",
+      "channelId": "1502816526",
+      "afsSource": "4",
+      "weight": 0.22,
+      "todayRpm": 83.2,
+      "todayRev": 254.41
+    },
+    {
+      "funnelName": "Blinkdrama-v01",
+      "partnerName": "Blinkdrama",
+      "urlName": "Blinkdrama-v01",
+      "geo": "US",
+      "categoryName": "丁丙诺啡市场",
+      "offerName": "Blinkdrama-v01-A1-Us-13248-beauty-center-nearby.com",
+      "channelId": "13248",
+      "afsSource": "1",
+      "weight": 0.19,
+      "todayRpm": 70.8,
+      "todayRev": 220.64
+    },
+    {
+      "funnelName": "Blinkdrama-v02",
+      "partnerName": "Blinkdrama",
+      "urlName": "Blinkdrama-v02",
+      "geo": "US",
+      "categoryName": "丁丙诺啡市场",
+      "offerName": "Blinkdrama-v02-A4-Us-8895922786-zestfularcade.com",
+      "channelId": "8895922786",
+      "afsSource": "4",
+      "weight": 0.2,
+      "todayRpm": 73.4,
+      "todayRev": 189.08
+    },
+    {
+      "funnelName": "Blinkdrama-v01",
+      "partnerName": "Blinkdrama",
+      "urlName": "Blinkdrama-v01",
+      "geo": "US",
+      "categoryName": "丁丙诺啡市场",
+      "offerName": "Blinkdrama-v01-A4-Us-8026393663-playfulviibes.com",
+      "channelId": "8026393663",
+      "afsSource": "4",
+      "weight": 0.14,
+      "todayRpm": 53.5,
+      "todayRev": 168.96
+    },
+    {
+      "funnelName": "Vibeshort-v02",
+      "partnerName": "vibeshort",
+      "urlName": "vibeshort-v02",
+      "geo": "US",
+      "categoryName": "HIV",
+      "offerName": "vibeshort-v02-A4-us-1287194105-minigamemix.com",
+      "channelId": "1287194105",
+      "afsSource": "4",
+      "weight": 0.52,
+      "todayRpm": 148.1,
+      "todayRev": 160.7
+    },
+    {
+      "funnelName": "ShortMax-v03",
+      "partnerName": null,
+      "urlName": null,
+      "geo": "US",
+      "categoryName": "特殊疾病药品",
+      "offerName": "Shortmax-V03-A4-default-8488653000",
+      "channelId": "8488653000",
+      "afsSource": "4",
+      "weight": 1,
+      "todayRpm": 149.8,
+      "todayRev": 137.86
+    },
+    {
+      "funnelName": "ShortMax-v03",
+      "partnerName": null,
+      "urlName": null,
+      "geo": "US",
+      "categoryName": "特殊疾病药品",
+      "offerName": "Shortmax-V03-A4-us-8488653000-zestfularcade.com",
+      "channelId": "8488653000",
+      "afsSource": "4",
+      "weight": 0.78,
+      "todayRpm": 149.8,
+      "todayRev": 137.86
+    }
+  ],
+  "sampleGroupKeys": [
+    "groupId",
+    "groupName",
+    "routing",
+    "geo",
+    "yesterdayRpm",
+    "yesterdayRev",
+    "yesterdayRpmTrend",
+    "yesterdayRevTrend",
+    "offerList",
+    "funnelId",
+    "funnelName",
+    "partnerName",
+    "urlName",
+    "urlId",
+    "platform"
+  ],
+  "sampleOfferKeys": [
+    "offerId",
+    "offerName",
+    "categoryName",
+    "weight",
+    "channelId",
+    "countryCode",
+    "afsSource",
+    "todayRpm",
+    "todayRev"
+  ]
+}

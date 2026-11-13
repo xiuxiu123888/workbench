@@ -1,0 +1,41 @@
+{
+  "code": 200,
+  "data": {
+    "funnelId": "3cQH1PB9h2cm",
+    "funnelName": "JZ-17",
+    "partnerName": "shortmax",
+    "urlName": "JZ-17",
+    "urlId": 99,
+    "offerGroupList": [
+      {
+        "groupId": "3cQGk8jcKguu",
+        "groupName": "JZ17-Default",
+        "geo": "DEFAULT"
+      },
+      {
+        "groupId": "3cQGppN7Xjcj",
+        "groupName": "JZ17-br",
+        "geo": "BR"
+      },
+      {
+        "groupId": "3cQGtHxVCCh7",
+        "groupName": "JZ17-mx",
+        "geo": "MX"
+      },
+      {
+        "groupId": "3hETIAQFouG4",
+        "groupName": "JZ-17-SA",
+        "geo": "SA"
+      },
+      {
+        "groupId": "3l519qDB3DH0",
+        "groupName": "JZ-17-JP",
+        "geo": "JP"
+      }
+    ],
+    "platform": "FF",
+    "status": "active",
+    "autoWeightEnabled": null,
+    "autoWeightRuleType": null
+  }
+}

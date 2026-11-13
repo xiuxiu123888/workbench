@@ -1,0 +1,197 @@
+{
+  "code": 200,
+  "data": {
+    "groupId": "3zb0sMumah1B",
+    "groupName": "moboreels-v01-us",
+    "routing": "rotator",
+    "geo": "US",
+    "yesterdayRpm": 17.6,
+    "yesterdayRev": 246.45,
+    "yesterdayRpmTrend": -16.19,
+    "yesterdayRevTrend": -7.05,
+    "offerList": [
+      {
+        "offerId": "3zazNqvwbaES",
+        "offerName": "moboreels-v01-A7-us-10924-algo-cash.com",
+        "categoryName": "事故律师",
+        "weight": 0.03,
+        "channelId": "10924",
+        "countryCode": "US",
+        "afsSource": "7",
+        "todayRpm": 13,
+        "todayRev": 9.21
+      },
+      {
+        "offerId": "3zazJ1CDhdhh",
+        "offerName": "moboreels-v01-A1-us-7303350887-homeguarddeals.com",
+        "categoryName": "事故律师",
+        "weight": 0.16,
+        "channelId": "7303350887",
+        "countryCode": "US",
+        "afsSource": "1",
+        "todayRpm": 19.4,
+        "todayRev": 24.94
+      },
+      {
+        "offerId": "3zazDPPc8BIz",
+        "offerName": "moboreels-v01-A4-US-2811958953-zestfularcade.com",
+        "categoryName": "临床研究",
+        "weight": 0.18,
+        "channelId": "2811958953",
+        "countryCode": "US",
+        "afsSource": "4",
+        "todayRpm": 20.9,
+        "todayRev": 29.01
+      },
+      {
+        "offerId": "3zaz4QenVAvV",
+        "offerName": "moboreels-v01-A12-us-4301742392-degreesuccesstips.com",
+        "categoryName": "临床研究",
+        "weight": 0.02,
+        "channelId": "4301742392",
+        "countryCode": "US",
+        "afsSource": "12",
+        "todayRpm": 10.6,
+        "todayRev": 2.68
+      },
+      {
+        "offerId": "402IAzHkPYEv",
+        "offerName": "moboreels-v01-A15-us-1910410946-mpbus.com",
+        "categoryName": "HIV",
+        "weight": 0.14,
+        "channelId": "1910410946",
+        "countryCode": "US",
+        "afsSource": "15",
+        "todayRpm": 16.5,
+        "todayRev": 35.24
+      },
+      {
+        "offerId": "402I89hUb6Dw",
+        "offerName": "moboreels-v01-A15-us-1910410946-51jiejue.com",
+        "categoryName": "HIV",
+        "weight": 0.14,
+        "channelId": "1910410946",
+        "countryCode": "US",
+        "afsSource": "15",
+        "todayRpm": 16.5,
+        "todayRev": 35.24
+      },
+      {
+        "offerId": "402I1yuomGG2",
+        "offerName": "moboreels-v01-A15-us-6671046943-lstmai.com",
+        "categoryName": "HIV",
+        "weight": 0.02,
+        "channelId": "8855093242",
+        "countryCode": "US",
+        "afsSource": "15",
+        "todayRpm": 10.1,
+        "todayRev": 4.88
+      },
+      {
+        "offerId": "402HbIvajNj8",
+        "offerName": "moboreels-v01-A5-us-6163316189-easyfungalaxy.com",
+        "categoryName": "特殊疾病药品",
+        "weight": 0.14,
+        "channelId": "6163316189",
+        "countryCode": "US",
+        "afsSource": "5",
+        "todayRpm": 17,
+        "todayRev": 3.75
+      },
+      {
+        "offerId": "402HU9znZD00",
+        "offerName": "moboreels-v01-A5-us-7539927059-funfillgames.com",
+        "categoryName": "HIV",
+        "weight": 0.02,
+        "channelId": "7539927059",
+        "countryCode": "US",
+        "afsSource": "5",
+        "todayRpm": 9.7,
+        "todayRev": 1.75
+      },
+      {
+        "offerId": "402HN7xchyyH",
+        "offerName": "moboreels-v01-A5-us-8320250829-whirlwindarcade.com",
+        "categoryName": "特殊疾病药品",
+        "weight": 0.03,
+        "channelId": "8637386308",
+        "countryCode": "US",
+        "afsSource": "5",
+        "todayRpm": 12,
+        "todayRev": 3.17
+      },
+      {
+        "offerId": "402EhZK76ic2",
+        "offerName": "moboreels-v01-A12-us-3866280665-intodeepdive.com ",
+        "categoryName": "健康保险",
+        "weight": 0.02,
+        "channelId": "3866280665",
+        "countryCode": "US",
+        "afsSource": "12",
+        "todayRpm": 9,
+        "todayRev": 1.89
+      },
+      {
+        "offerId": "402ESIGRce2n",
+        "offerName": "moboreels-v01-A7-us-10924-quantify-energy.com",
+        "categoryName": "事故律师",
+        "weight": 0.03,
+        "channelId": "10924",
+        "countryCode": "US",
+        "afsSource": "7",
+        "todayRpm": 13,
+        "todayRev": 9.21
+      },
+      {
+        "offerId": "402EcnpowGGy",
+        "offerName": "moboreels-v01-A12-us-9019279851-aivestorhq.com",
+        "categoryName": "临床研究",
+        "weight": 0.02,
+        "channelId": "9019279851",
+        "countryCode": "US",
+        "afsSource": "12",
+        "todayRpm": 8.2,
+        "todayRev": 1.75
+      },
+      {
+        "offerId": "402EHfndy0ou",
+        "offerName": "moboreels-v01-A1-us-7303648630-smileclinicguide.com",
+        "categoryName": "事故律师",
+        "weight": 0.18,
+        "channelId": "7303648630",
+        "countryCode": "US",
+        "afsSource": "1",
+        "todayRpm": 20.4,
+        "todayRev": 22.84
+      },
+      {
+        "offerId": "402E7vycE8Tj",
+        "offerName": "moboreels-v01-A1-us-13411-insurance-consulting-nearby.com",
+        "categoryName": "事故律师",
+        "weight": 0.24,
+        "channelId": "13411",
+        "countryCode": "US",
+        "afsSource": "1",
+        "todayRpm": 28.5,
+        "todayRev": 49.96
+      },
+      {
+        "offerId": "402D7Xp8JIDm",
+        "offerName": "moboreels-v01-A7-us-10925-www.newamc.com",
+        "categoryName": "事故律师",
+        "weight": 0.03,
+        "channelId": "10925",
+        "countryCode": "US",
+        "afsSource": "7",
+        "todayRpm": 13.9,
+        "todayRev": 9.87
+      }
+    ],
+    "funnelId": "3zb0bcaeqhVS",
+    "funnelName": "moboreels-v01",
+    "partnerName": null,
+    "urlName": null,
+    "urlId": null,
+    "platform": "MIS"
+  }
+}

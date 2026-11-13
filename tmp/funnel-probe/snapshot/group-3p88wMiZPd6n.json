@@ -1,0 +1,65 @@
+{
+  "code": 200,
+  "data": {
+    "groupId": "3p88wMiZPd6n",
+    "groupName": "vibeshort-sign-default",
+    "routing": "rotator",
+    "geo": null,
+    "yesterdayRpm": 0,
+    "yesterdayRev": 0,
+    "yesterdayRpmTrend": 0,
+    "yesterdayRevTrend": 0,
+    "offerList": [
+      {
+        "offerId": "3p87rHrbiXe0",
+        "offerName": "vibeshort-sign-v01-A14-default-5689219290",
+        "categoryName": "个人贷款",
+        "weight": 0.03,
+        "channelId": "5689219290",
+        "countryCode": null,
+        "afsSource": "14",
+        "todayRpm": 0,
+        "todayRev": 0
+      },
+      {
+        "offerId": "3p87o2sR1HJI",
+        "offerName": "vibeshort-sign-v01-A12-default-6426391280",
+        "categoryName": "个人贷款",
+        "weight": 0.03,
+        "channelId": "6426391280",
+        "countryCode": null,
+        "afsSource": "12",
+        "todayRpm": 0,
+        "todayRev": 0
+      },
+      {
+        "offerId": "3p87kYLANUmi",
+        "offerName": "vibeshort-sign-v01-A7-default-11481",
+        "categoryName": "个人贷款",
+        "weight": 0.03,
+        "channelId": "11481",
+        "countryCode": null,
+        "afsSource": "7",
+        "todayRpm": 0,
+        "todayRev": 0
+      },
+      {
+        "offerId": "3p87I3cfw6zc",
+        "offerName": "vibeshort-sign-v01-A4-default-9473195525",
+        "categoryName": "个人贷款",
+        "weight": 0.9,
+        "channelId": "9473195525",
+        "countryCode": null,
+        "afsSource": "4",
+        "todayRpm": 0,
+        "todayRev": 0
+      }
+    ],
+    "funnelId": "3p89AEQQqtiQ",
+    "funnelName": "Vibeshort-sign-v01",
+    "partnerName": null,
+    "urlName": null,
+    "urlId": null,
+    "platform": "MIS"
+  }
+}

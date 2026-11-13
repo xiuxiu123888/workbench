@@ -1,0 +1,76 @@
+{
+  "code": 200,
+  "data": {
+    "groupId": "3wxMeXc11HFv",
+    "groupName": "storyreel-v03-default",
+    "routing": "rotator",
+    "geo": null,
+    "yesterdayRpm": 0,
+    "yesterdayRev": 0,
+    "yesterdayRpmTrend": 0,
+    "yesterdayRevTrend": 0,
+    "offerList": [
+      {
+        "offerId": "3wxLEkyf7dx0",
+        "offerName": "storyreel-v03-A15-default-8314128922",
+        "categoryName": "肿瘤 / 生物制剂",
+        "weight": 1,
+        "channelId": "8314128922",
+        "countryCode": null,
+        "afsSource": "15",
+        "todayRpm": 0,
+        "todayRev": 0
+      },
+      {
+        "offerId": "3wxL8oZLkJiA",
+        "offerName": "storyreel-v03-A5-default-9392114755",
+        "categoryName": "医疗·泌尿外科",
+        "weight": 1,
+        "channelId": "9392114755",
+        "countryCode": null,
+        "afsSource": "5",
+        "todayRpm": 0,
+        "todayRev": 0
+      },
+      {
+        "offerId": "3wxL3hwL2LaG",
+        "offerName": "storyreel-v03-A12-default-5380902928",
+        "categoryName": "骨科 / 关节",
+        "weight": 1,
+        "channelId": "5380902928",
+        "countryCode": null,
+        "afsSource": "12",
+        "todayRpm": 0,
+        "todayRev": 0
+      },
+      {
+        "offerId": "3wxKy4g7Pmah",
+        "offerName": "storyreel-v03-A7-default-11502",
+        "categoryName": "医疗·皮肤",
+        "weight": 1,
+        "channelId": "11502",
+        "countryCode": null,
+        "afsSource": "7",
+        "todayRpm": 0,
+        "todayRev": 0
+      },
+      {
+        "offerId": "3wxKrSo6LQ2m",
+        "offerName": "storyreel-v03-A4-default-9892530755",
+        "categoryName": "GLP-1 / 糖尿病",
+        "weight": 1,
+        "channelId": "9892530755",
+        "countryCode": null,
+        "afsSource": "4",
+        "todayRpm": 0,
+        "todayRev": 0
+      }
+    ],
+    "funnelId": "3wxMhS6zF2m4",
+    "funnelName": "storyreel-v03",
+    "partnerName": "storyreel",
+    "urlName": "storyreel-v03",
+    "urlId": 129,
+    "platform": "MIS"
+  }
+}

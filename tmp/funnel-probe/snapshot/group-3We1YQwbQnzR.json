@@ -1,0 +1,54 @@
+{
+  "code": 200,
+  "data": {
+    "groupId": "3We1YQwbQnzR",
+    "groupName": "JZ-08-US-default",
+    "routing": "",
+    "geo": "US",
+    "yesterdayRpm": 0,
+    "yesterdayRev": 0,
+    "yesterdayRpmTrend": 0,
+    "yesterdayRevTrend": 0,
+    "offerList": [
+      {
+        "offerId": "3beaQYZ8MNIv",
+        "offerName": "JZ-08-A12-US-4007063078",
+        "categoryName": "肝脏健康",
+        "weight": 0.34,
+        "channelId": "4007063078",
+        "countryCode": null,
+        "afsSource": null,
+        "todayRpm": 0,
+        "todayRev": 0
+      },
+      {
+        "offerId": "3UlkusZny1EJ",
+        "offerName": "JZ-08-A7-US-8974640419",
+        "categoryName": "教育学习软件",
+        "weight": 0.33,
+        "channelId": "8974640419",
+        "countryCode": null,
+        "afsSource": null,
+        "todayRpm": 0,
+        "todayRev": 0
+      },
+      {
+        "offerId": "3XHEdoCXtjr7",
+        "offerName": "JZ-08-A4-US-4612213758",
+        "categoryName": "手机分期",
+        "weight": 0.33,
+        "channelId": "4612213758",
+        "countryCode": null,
+        "afsSource": null,
+        "todayRpm": 0,
+        "todayRev": 0
+      }
+    ],
+    "funnelId": "3URMYo1qyRLG",
+    "funnelName": "JZ-08",
+    "partnerName": "shortmax",
+    "urlName": "JZ-08",
+    "urlId": 88,
+    "platform": "FF"
+  }
+}

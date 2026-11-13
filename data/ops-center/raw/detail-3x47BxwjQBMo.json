@@ -1,0 +1,22 @@
+{
+  "code": 200,
+  "data": {
+    "funnelId": "3x47BxwjQBMo",
+    "funnelName": "ShortMax-v05",
+    "partnerName": "shortmax",
+    "urlName": null,
+    "urlId": null,
+    "offerGroupList": [
+      {
+        "groupId": "3x471ixK2h14",
+        "groupName": "shortmax-v05-default",
+        "geo": null
+      },
+      {
+        "groupId": "3x46sbUFq6hL",
+        "groupName": "ShortMax-v05-us",
+        "geo": "US"
+      }
+    ]
+  }
+}

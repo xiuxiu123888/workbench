@@ -1,0 +1,76 @@
+{
+  "code": 200,
+  "data": {
+    "groupId": "3sFCawuJlJcU",
+    "groupName": "Blinkdrama-v01-default",
+    "routing": "rotator",
+    "geo": null,
+    "yesterdayRpm": 0,
+    "yesterdayRev": 0,
+    "yesterdayRpmTrend": 0,
+    "yesterdayRevTrend": 0,
+    "offerList": [
+      {
+        "offerId": "3sF8TDVUdMIS",
+        "offerName": "Blinkdrama-v01-A4-default-9111267282",
+        "categoryName": "自身免疫",
+        "weight": 1,
+        "channelId": "9111267282",
+        "countryCode": null,
+        "afsSource": "4",
+        "todayRpm": 0,
+        "todayRev": 0
+      },
+      {
+        "offerId": "3sFCDbvAfTXC",
+        "offerName": "Blinkdrama-v01-A7-default-11849",
+        "categoryName": "医疗·偏头痛",
+        "weight": 1,
+        "channelId": "11849",
+        "countryCode": null,
+        "afsSource": "7",
+        "todayRpm": 0,
+        "todayRev": 0
+      },
+      {
+        "offerId": "3wsEzCUJ03cL",
+        "offerName": "Blinkdrama-v01-A15-default-5914041032",
+        "categoryName": "GLP-1 / 糖尿病",
+        "weight": 1,
+        "channelId": "5914041032",
+        "countryCode": null,
+        "afsSource": "15",
+        "todayRpm": 0,
+        "todayRev": 0
+      },
+      {
+        "offerId": "3wsDZxqYboRh",
+        "offerName": "Blinkdrama-v01-A5-default-5003814895",
+        "categoryName": "自身免疫",
+        "weight": 1,
+        "channelId": "5003814895",
+        "countryCode": null,
+        "afsSource": "5",
+        "todayRpm": 0,
+        "todayRev": 0
+      },
+      {
+        "offerId": "3wsCf75j4g8f",
+        "offerName": "Blinkdrama-v01-A12-default-7345253802",
+        "categoryName": "眼科 / 视力",
+        "weight": 1,
+        "channelId": "7345253802",
+        "countryCode": null,
+        "afsSource": "12",
+        "todayRpm": 0,
+        "todayRev": 0
+      }
+    ],
+    "funnelId": "3sFDWWqvNxR9",
+    "funnelName": "Blinkdrama-v01",
+    "partnerName": "Blinkdrama",
+    "urlName": "Blinkdrama-v01",
+    "urlId": 140,
+    "platform": "MIS"
+  }
+}

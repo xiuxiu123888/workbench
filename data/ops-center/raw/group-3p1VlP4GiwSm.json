@@ -1,0 +1,43 @@
+{
+  "code": 200,
+  "data": {
+    "groupId": "3p1VlP4GiwSm",
+    "groupName": "ff-reel-v05-br",
+    "routing": "rotator",
+    "geo": "BR",
+    "yesterdayRpm": 0,
+    "yesterdayRev": 0,
+    "yesterdayRpmTrend": 0,
+    "yesterdayRevTrend": 0,
+    "offerList": [
+      {
+        "offerId": "3p1VE9jQGx84",
+        "offerName": "flare-v05-A12-br-4026765444",
+        "categoryName": "信用卡",
+        "weight": 1,
+        "channelId": "4026765444",
+        "countryCode": "BR",
+        "afsSource": "12",
+        "todayRpm": 0,
+        "todayRev": 0
+      },
+      {
+        "offerId": "3p1UJewdA3sN",
+        "offerName": "flare-v05-A4-br-3036134554",
+        "categoryName": "信用卡",
+        "weight": 0.44,
+        "channelId": "3036134554",
+        "countryCode": "BR",
+        "afsSource": "4",
+        "todayRpm": 0,
+        "todayRev": 0
+      }
+    ],
+    "funnelId": "3p0reOSIpMGA",
+    "funnelName": "ff-reel-v05",
+    "partnerName": null,
+    "urlName": null,
+    "urlId": null,
+    "platform": "MIS"
+  }
+}

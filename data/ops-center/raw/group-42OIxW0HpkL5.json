@@ -1,0 +1,32 @@
+{
+  "code": 200,
+  "data": {
+    "groupId": "42OIxW0HpkL5",
+    "groupName": "Dramaticreel-v03-default",
+    "routing": "rotator",
+    "geo": null,
+    "yesterdayRpm": 0,
+    "yesterdayRev": 0,
+    "yesterdayRpmTrend": 0,
+    "yesterdayRevTrend": 0,
+    "offerList": [
+      {
+        "offerId": "42OH3kzkubby",
+        "offerName": "Dramaticreel-v03-A7-default-18986",
+        "categoryName": "个人贷款",
+        "weight": 1,
+        "channelId": "18986",
+        "countryCode": null,
+        "afsSource": "7",
+        "todayRpm": 0,
+        "todayRev": 0
+      }
+    ],
+    "funnelId": "42OJergxiNN9",
+    "funnelName": "Dramaticreel-v03",
+    "partnerName": null,
+    "urlName": null,
+    "urlId": null,
+    "platform": "MIS"
+  }
+}

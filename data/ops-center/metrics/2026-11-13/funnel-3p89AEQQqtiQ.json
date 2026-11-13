@@ -1,0 +1,181 @@
+{
+  "funnelId": "3p89AEQQqtiQ",
+  "funnelName": "Vibeshort-sign-v01",
+  "day": "2026-11-13",
+  "query": {
+    "day": "2026-11-13",
+    "startTime": "2026-11-13 00:00:00",
+    "endTime": "2026-11-13 23:59:59"
+  },
+  "data": {
+    "categoryList": [
+      {
+        "categoryId": "3p800xf8pSNn",
+        "categoryName": "VibeShort-Sign-V01",
+        "categoryType": "offer"
+      }
+    ],
+    "statsList": [
+      {
+        "id": "3p88kWqiFPk8",
+        "name": "vibeshort-sign-v01-A4-us-9473195525",
+        "categoryId": "3p800xf8pSNn",
+        "visits": 0,
+        "views": 0,
+        "conversion": 0,
+        "category": "VibeShort-Sign-V01",
+        "offerSource": "vibeshort-hit",
+        "revenue": "1.56",
+        "funnelImpressions": 49,
+        "funnelClicks": 14,
+        "clicks": 0,
+        "funnelRpm": "31.84",
+        "rpc": "0",
+        "funnelCtr": "28.571428571428573",
+        "cvr1": "0.0",
+        "cvr2": "0.0",
+        "url": "https://zestfularcade.com/detail/917177923634?ref=fraxel+vs+botox&channel=9473195525&rType=2&hit={hit}&rType=2&partner=VibeShort&subid1=9473195525&subid2=917177923634",
+        "countryInfos": [
+          {
+            "countryCode": "US",
+            "revenue": "1.56",
+            "impressions": 48,
+            "rpm": "32.50",
+            "funnelClicks": 14,
+            "clicks": 0
+          },
+          {
+            "countryCode": "ZA",
+            "revenue": "0.00",
+            "impressions": 1,
+            "rpm": "0.00",
+            "funnelClicks": 0,
+            "clicks": 0
+          }
+        ]
+      },
+      {
+        "id": "3p88b0tir5uE",
+        "name": "vibeshort-sign-v01-A7-us-11481",
+        "categoryId": "3p800xf8pSNn",
+        "visits": 0,
+        "views": 0,
+        "conversion": 0,
+        "category": "VibeShort-Sign-V01",
+        "offerSource": "vibeshort-hit",
+        "revenue": "0",
+        "funnelImpressions": 0,
+        "funnelClicks": 0,
+        "clicks": 0,
+        "funnelRpm": "0",
+        "rpc": "0",
+        "funnelCtr": "0",
+        "cvr1": "0",
+        "cvr2": "0",
+        "url": "https://bank-flux.com/detail/952713140330?ref=Chevrolet+hybrid+vehicles&channel=11481&hit={hit}&rType=2&partner=VibeShort&subid1=11481&subid2=952713140330",
+        "countryInfos": []
+      },
+      {
+        "id": "3p88Q5nI9TBl",
+        "name": "vibeshort-sign-v01-A12-us-6426391280",
+        "categoryId": "3p800xf8pSNn",
+        "visits": 0,
+        "views": 0,
+        "conversion": 0,
+        "category": "VibeShort-Sign-V01",
+        "offerSource": "vibeshort-hit",
+        "revenue": "0",
+        "funnelImpressions": 0,
+        "funnelClicks": 0,
+        "clicks": 0,
+        "funnelRpm": "0",
+        "rpc": "0",
+        "funnelCtr": "0",
+        "cvr1": "0",
+        "cvr2": "0",
+        "url": "https://degreesuccesstips.com/detail/623971947776?ref=botox+vs+dysport+units&channel=6426391280&hit={hit}&rType=2&partner=VibeShort&subid1=6426391280&subid2=623971947776",
+        "countryInfos": []
+      },
+      {
+        "id": "3p87o2sR1HJI",
+        "name": "vibeshort-sign-v01-A12-default-6426391280",
+        "categoryId": "3p800xf8pSNn",
+        "visits": 0,
+        "views": 0,
+        "conversion": 0,
+        "category": "VibeShort-Sign-V01",
+        "offerSource": "vibeshort-hit",
+        "revenue": "0",
+        "funnelImpressions": 0,
+        "funnelClicks": 0,
+        "clicks": 0,
+        "funnelRpm": "0",
+        "rpc": "0",
+        "funnelCtr": "0",
+        "cvr1": "0",
+        "cvr2": "0",
+        "url": "https://protectlifeplan.com/detail/565992656476?ref=Aimovig+Cost+Without+Insurance&channel=6426391280&hit={hit}&rType=2&partner=VibeShort&subid1=6426391280&subid2=565992656476",
+        "countryInfos": []
+      },
+      {
+        "id": "3p87kYLANUmi",
+        "name": "vibeshort-sign-v01-A7-default-11481",
+        "categoryId": "3p800xf8pSNn",
+        "visits": 0,
+        "views": 0,
+        "conversion": 0,
+        "category": "VibeShort-Sign-V01",
+        "offerSource": "vibeshort-hit",
+        "revenue": "0",
+        "funnelImpressions": 0,
+        "funnelClicks": 0,
+        "clicks": 0,
+        "funnelRpm": "0",
+        "rpc": "0",
+        "funnelCtr": "0",
+        "cvr1": "0",
+        "cvr2": "0",
+        "url": "https://quantify-energy.com/detail/139747925141?ref=Entresto+Cost+Without+Insurance&channel=11481&hit={hit}&rType=2&partner=VibeShort&subid1=11481&subid2=139747925141",
+        "countryInfos": []
+      },
+      {
+        "id": "3p87I3cfw6zc",
+        "name": "vibeshort-sign-v01-A4-default-9473195525",
+        "categoryId": "3p800xf8pSNn",
+        "visits": 0,
+        "views": 0,
+        "conversion": 0,
+        "category": "VibeShort-Sign-V01",
+        "offerSource": "vibeshort-hit",
+        "revenue": "1.56",
+        "funnelImpressions": 49,
+        "funnelClicks": 14,
+        "clicks": 0,
+        "funnelRpm": "31.84",
+        "rpc": "0",
+        "funnelCtr": "28.571428571428573",
+        "cvr1": "0.0",
+        "cvr2": "0.0",
+        "url": "https://fluxpaid.com/detail/900354748614?channel=9473195525&ref=Sleep+Study+Cost+Without+Insurance&hit={hit}&rType=2&partner=VibeShort&subid1=9473195525&subid2=900354748614",
+        "countryInfos": [
+          {
+            "countryCode": "US",
+            "revenue": "1.56",
+            "impressions": 48,
+            "rpm": "32.50",
+            "funnelClicks": 14,
+            "clicks": 0
+          },
+          {
+            "countryCode": "ZA",
+            "revenue": "0.00",
+            "impressions": 1,
+            "rpm": "0.00",
+            "funnelClicks": 0,
+            "clicks": 0
+          }
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,84 @@
+{
+  "funnelId": "42OJergxiNN9",
+  "funnelName": "Dramaticreel-v03",
+  "day": "2026-11-13",
+  "query": {
+    "day": "2026-11-13",
+    "startTime": "2026-11-13 00:00:00",
+    "endTime": "2026-11-13 23:59:59"
+  },
+  "data": {
+    "categoryList": [
+      {
+        "categoryId": "42OGq2hcRZ5n",
+        "categoryName": "Dramaticreel-v03",
+        "categoryType": "offer"
+      }
+    ],
+    "statsList": [
+      {
+        "id": "42OHvOp90euR",
+        "name": "Dramaticreel-v03-A7-Us-18986-quantify-energy.com(copy)(copy)",
+        "categoryId": "42OGq2hcRZ5n",
+        "visits": 0,
+        "views": 0,
+        "conversion": 0,
+        "category": "Dramaticreel-v03",
+        "offerSource": "afs-common",
+        "revenue": "0",
+        "funnelImpressions": 0,
+        "funnelClicks": 0,
+        "clicks": 0,
+        "funnelRpm": "0",
+        "rpc": "0",
+        "funnelCtr": "0",
+        "cvr1": "0",
+        "cvr2": "0",
+        "url": "https://quantify-energy.com/detail/808805345631?ref=PrEP+vs+PEP+Cost&channel=18986&hit={hit}",
+        "countryInfos": []
+      },
+      {
+        "id": "42OHR2elpPLO",
+        "name": "Dramaticreel-v03-A1-Us-13515-beauty-center-nearby.com",
+        "categoryId": "42OGq2hcRZ5n",
+        "visits": 0,
+        "views": 0,
+        "conversion": 0,
+        "category": "Dramaticreel-v03",
+        "offerSource": "afs-common",
+        "revenue": "0",
+        "funnelImpressions": 0,
+        "funnelClicks": 0,
+        "clicks": 0,
+        "funnelRpm": "0",
+        "rpc": "0",
+        "funnelCtr": "0",
+        "cvr1": "0",
+        "cvr2": "0",
+        "url": "https://beauty-center-nearby.com/detail/129791808896?ref=PrEP+vs+PEP+Cost&channel=13515&hit={hit}",
+        "countryInfos": []
+      },
+      {
+        "id": "42OH3kzkubby",
+        "name": "Dramaticreel-v03-A7-default-18986",
+        "categoryId": "42OGq2hcRZ5n",
+        "visits": 0,
+        "views": 0,
+        "conversion": 0,
+        "category": "Dramaticreel-v03",
+        "offerSource": "afs-common",
+        "revenue": "0",
+        "funnelImpressions": 0,
+        "funnelClicks": 0,
+        "clicks": 0,
+        "funnelRpm": "0",
+        "rpc": "0",
+        "funnelCtr": "0",
+        "cvr1": "0",
+        "cvr2": "0",
+        "url": "https://quantify-energy.com/detail/519735212341?channel=18986&hit={hit}",
+        "countryInfos": []
+      }
+    ]
+  }
+}

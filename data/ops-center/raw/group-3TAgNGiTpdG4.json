@@ -1,0 +1,65 @@
+{
+  "code": 200,
+  "data": {
+    "groupId": "3TAgNGiTpdG4",
+    "groupName": "Jiu-0912-IT",
+    "routing": "",
+    "geo": "IT",
+    "yesterdayRpm": 1.4,
+    "yesterdayRev": 0.24,
+    "yesterdayRpmTrend": -58.82,
+    "yesterdayRevTrend": -57.89,
+    "offerList": [
+      {
+        "offerId": "3lMAsjRLpiDb",
+        "offerName": "Jiu-reel-0912-A12-IT-1898762721",
+        "categoryName": "种植牙",
+        "weight": 1,
+        "channelId": "1898762721",
+        "countryCode": null,
+        "afsSource": null,
+        "todayRpm": 0,
+        "todayRev": 0
+      },
+      {
+        "offerId": "3TAfLN7nHics",
+        "offerName": "A1-mentalsupporthub-it-6172506158",
+        "categoryName": "太阳能储能",
+        "weight": 1,
+        "channelId": "6172506158",
+        "countryCode": null,
+        "afsSource": null,
+        "todayRpm": 0,
+        "todayRev": 0
+      },
+      {
+        "offerId": "3XD7Inzbze9L",
+        "offerName": "A4-IT-7474002238",
+        "categoryName": "汽车贷款",
+        "weight": 1,
+        "channelId": "7474002238",
+        "countryCode": null,
+        "afsSource": null,
+        "todayRpm": 4.3,
+        "todayRev": 0.4
+      },
+      {
+        "offerId": "3XGkJR5gPMyP",
+        "offerName": "A7-IT-7868532178",
+        "categoryName": "分期购买手机",
+        "weight": 1,
+        "channelId": "7868532178",
+        "countryCode": null,
+        "afsSource": null,
+        "todayRpm": 0,
+        "todayRev": 0
+      }
+    ],
+    "funnelId": "3PZNC9XTyfXp",
+    "funnelName": "Jiu-reel-0912",
+    "partnerName": "shortmax",
+    "urlName": "Jiu-reel-0912",
+    "urlId": 68,
+    "platform": "FF"
+  }
+}

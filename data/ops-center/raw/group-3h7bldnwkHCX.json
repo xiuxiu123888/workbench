@@ -1,0 +1,32 @@
+{
+  "code": 200,
+  "data": {
+    "groupId": "3h7bldnwkHCX",
+    "groupName": "JZ-18-US",
+    "routing": "",
+    "geo": "US",
+    "yesterdayRpm": 0,
+    "yesterdayRev": 0,
+    "yesterdayRpmTrend": 0,
+    "yesterdayRevTrend": 0,
+    "offerList": [
+      {
+        "offerId": "3h73zWvDVVgr",
+        "offerName": "JZ-18-A12-US-2165711172",
+        "categoryName": "肝脏健康",
+        "weight": 0.5,
+        "channelId": "2165711172",
+        "countryCode": null,
+        "afsSource": null,
+        "todayRpm": 0,
+        "todayRev": 0
+      }
+    ],
+    "funnelId": "3h7auqpMJMVz",
+    "funnelName": "JZ-18",
+    "partnerName": "shortmax",
+    "urlName": "JZ-18",
+    "urlId": 107,
+    "platform": "FF"
+  }
+}

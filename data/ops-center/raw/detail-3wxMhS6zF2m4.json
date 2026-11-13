@@ -1,0 +1,22 @@
+{
+  "code": 200,
+  "data": {
+    "funnelId": "3wxMhS6zF2m4",
+    "funnelName": "storyreel-v03",
+    "partnerName": "storyreel",
+    "urlName": "storyreel-v03",
+    "urlId": 129,
+    "offerGroupList": [
+      {
+        "groupId": "3wxMeXc11HFv",
+        "groupName": "storyreel-v03-default",
+        "geo": null
+      },
+      {
+        "groupId": "3wxMWa1wVy10",
+        "groupName": "storyreel-v03-us",
+        "geo": "US"
+      }
+    ]
+  }
+}

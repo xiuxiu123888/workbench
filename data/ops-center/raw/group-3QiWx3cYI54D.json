@@ -1,0 +1,65 @@
+{
+  "code": 200,
+  "data": {
+    "groupId": "3QiWx3cYI54D",
+    "groupName": "CD-Reel-A75-JP",
+    "routing": "",
+    "geo": "JP",
+    "yesterdayRpm": 0,
+    "yesterdayRev": 0,
+    "yesterdayRpmTrend": 0,
+    "yesterdayRevTrend": 0,
+    "offerList": [
+      {
+        "offerId": "3lpdddKaHwAL",
+        "offerName": "cd-reader-A75-A12-JP-1109787320",
+        "categoryName": "殡葬",
+        "weight": 0.25,
+        "channelId": "1109787320",
+        "countryCode": null,
+        "afsSource": null,
+        "todayRpm": 0,
+        "todayRev": 0
+      },
+      {
+        "offerId": "3lppqhtQmIAS",
+        "offerName": "cd-reader-A75-A14-JP-8073632069",
+        "categoryName": "宠物保险",
+        "weight": 0.25,
+        "channelId": "8073632069",
+        "countryCode": null,
+        "afsSource": null,
+        "todayRpm": 0,
+        "todayRev": 0
+      },
+      {
+        "offerId": "3QiTGMttXITY",
+        "offerName": "A4-joyfulgaminghub9.com-jp-8026393663",
+        "categoryName": "牙齿种植",
+        "weight": 0.25,
+        "channelId": "8026393663",
+        "countryCode": null,
+        "afsSource": null,
+        "todayRpm": 0,
+        "todayRev": 0
+      },
+      {
+        "offerId": "3QiUIJMxQ1tZ",
+        "offerName": "A4-joyfulgaminghub9.com-jp-8002532881",
+        "categoryName": "牙齿种植",
+        "weight": 0.25,
+        "channelId": "8002532881",
+        "countryCode": null,
+        "afsSource": null,
+        "todayRpm": 0,
+        "todayRev": 0
+      }
+    ],
+    "funnelId": "3Qi2AaBNTLG6",
+    "funnelName": "cd-reader-A75",
+    "partnerName": "changdu",
+    "urlName": "moboreader",
+    "urlId": 76,
+    "platform": "FF"
+  }
+}

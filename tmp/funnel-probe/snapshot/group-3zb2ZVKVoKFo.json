@@ -1,0 +1,43 @@
+{
+  "code": 200,
+  "data": {
+    "groupId": "3zb2ZVKVoKFo",
+    "groupName": "moboreels-v03-us",
+    "routing": "rotator",
+    "geo": "US",
+    "yesterdayRpm": 73.2,
+    "yesterdayRev": 164.35,
+    "yesterdayRpmTrend": -31.27,
+    "yesterdayRevTrend": -23.96,
+    "offerList": [
+      {
+        "offerId": "3zb1drsZvtna",
+        "offerName": "moboreels-v03-A12-us-2506279147-intodeepdive.com",
+        "categoryName": "HIV",
+        "weight": 0.02,
+        "channelId": "2506279147",
+        "countryCode": "US",
+        "afsSource": "12",
+        "todayRpm": 8.3,
+        "todayRev": 0.69
+      },
+      {
+        "offerId": "3zb1ibulZhr3",
+        "offerName": "moboreels-v03-A4-us-1747103610-zestfularcade.com",
+        "categoryName": "HIV",
+        "weight": 1,
+        "channelId": "1747103610",
+        "countryCode": "US",
+        "afsSource": "4",
+        "todayRpm": 56.7,
+        "todayRev": 97.01
+      }
+    ],
+    "funnelId": "3zb3PGEznP52",
+    "funnelName": "moboreels-v03",
+    "partnerName": null,
+    "urlName": null,
+    "urlId": null,
+    "platform": "MIS"
+  }
+}

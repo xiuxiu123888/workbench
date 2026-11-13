@@ -1,0 +1,54 @@
+{
+  "code": 200,
+  "data": {
+    "groupId": "3aXCZKEFTA56",
+    "groupName": "JZ09-IT",
+    "routing": "",
+    "geo": "IT",
+    "yesterdayRpm": 0.2,
+    "yesterdayRev": 0.05,
+    "yesterdayRpmTrend": -83.33,
+    "yesterdayRevTrend": -86.84,
+    "offerList": [
+      {
+        "offerId": "3aX28WUZeYhm",
+        "offerName": "JZ09-A4-it-8488653000",
+        "categoryName": "BNPL",
+        "weight": 1,
+        "channelId": "8488653000",
+        "countryCode": null,
+        "afsSource": null,
+        "todayRpm": 0,
+        "todayRev": 0
+      },
+      {
+        "offerId": "3aX8rS1E18cQ",
+        "offerName": "JZ09-A7-it-1751917633",
+        "categoryName": "BNPL",
+        "weight": 1,
+        "channelId": "1751917633",
+        "countryCode": null,
+        "afsSource": null,
+        "todayRpm": 0,
+        "todayRev": 0
+      },
+      {
+        "offerId": "3bjoGahviOvo",
+        "offerName": "JZ09-A12-IT-9827539423",
+        "categoryName": "BNPL",
+        "weight": 1,
+        "channelId": "9827539423",
+        "countryCode": null,
+        "afsSource": null,
+        "todayRpm": 0,
+        "todayRev": 0
+      }
+    ],
+    "funnelId": "3aXEOxFRbofy",
+    "funnelName": "jz-09",
+    "partnerName": "shortmax",
+    "urlName": "JZ-09",
+    "urlId": 91,
+    "platform": "FF"
+  }
+}

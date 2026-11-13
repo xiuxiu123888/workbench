@@ -1,0 +1,32 @@
+{
+  "code": 200,
+  "data": {
+    "groupId": "3uQ0DFjHCroh",
+    "groupName": "Bestnovel-v01-us",
+    "routing": "rotator",
+    "geo": "US",
+    "yesterdayRpm": 0,
+    "yesterdayRev": 0,
+    "yesterdayRpmTrend": 0,
+    "yesterdayRevTrend": 0,
+    "offerList": [
+      {
+        "offerId": "3uPvsLAE6XGW",
+        "offerName": "Bestnovel-v01-A5-us-7196379644",
+        "categoryName": "丁丙诺啡市场",
+        "weight": 1,
+        "channelId": "7196379644",
+        "countryCode": "US",
+        "afsSource": "5",
+        "todayRpm": 0,
+        "todayRev": 0
+      }
+    ],
+    "funnelId": "3uQ0fde3baao",
+    "funnelName": "Bestnovel-V01",
+    "partnerName": "changdu",
+    "urlName": "moboreader",
+    "urlId": 146,
+    "platform": "MIS"
+  }
+}

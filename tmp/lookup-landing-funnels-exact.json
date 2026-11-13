@@ -1,0 +1,166 @@
+[
+  {
+    "ref": "clorox everclean",
+    "articleId": "221412270182",
+    "channel": "12152",
+    "host": "algo-cash.com",
+    "primaryFunnel": {
+      "funnelName": "Blinkdrama-v04",
+      "funnelId": "3uDZt8ImMHUl",
+      "offerId": "3uDYkbUyIjd4",
+      "offerName": "Blinkdrama-v04-A7-Us-12152-algo-cash.com",
+      "groupName": "Blinkdrama-v04-us",
+      "seed": "clorox everclean"
+    },
+    "exactDrafts": [
+      {
+        "funnelName": "Blinkdrama-v04",
+        "funnelId": "3uDZt8ImMHUl",
+        "offerId": "3uDYkbUyIjd4",
+        "offerName": "Blinkdrama-v04-A7-Us-12152-algo-cash.com",
+        "seed": "clorox everclean",
+        "status": "ready"
+      }
+    ],
+    "exactReplace": [],
+    "channelOffersInGroups": []
+  },
+  {
+    "ref": "cars with 0 apr",
+    "articleId": "260559976094",
+    "channel": "2092927125",
+    "host": "degreesuccesstips.com",
+    "primaryFunnel": {
+      "funnelName": "Blinkdrama-v04",
+      "funnelId": "3uDZt8ImMHUl",
+      "offerId": "3yQhAOrPBABm",
+      "offerName": "Blinkdrama-v04-A12-us-2092927125-degreesuccesstips.com",
+      "groupName": "Blinkdrama-v04-us",
+      "seed": "cars with 0 apr"
+    },
+    "exactDrafts": [
+      {
+        "funnelName": "Blinkdrama-v04",
+        "funnelId": "3uDZt8ImMHUl",
+        "offerId": "3yQhAOrPBABm",
+        "offerName": "Blinkdrama-v04-A12-us-2092927125-degreesuccesstips.com",
+        "seed": "cars with 0 apr",
+        "status": "ready"
+      }
+    ],
+    "exactReplace": [],
+    "channelOffersInGroups": []
+  },
+  {
+    "ref": "cars with 0 finance",
+    "articleId": "126389073303",
+    "channel": "8412824288",
+    "host": "funfillgames.com",
+    "primaryFunnel": {
+      "funnelName": "Blinkdrama-v02",
+      "funnelId": "3sFDuJeEbeay",
+      "offerId": "3wsEYJJ6fFdm",
+      "offerName": "Blinkdrama-v02-A5-us-8412824288-funfillgames.com",
+      "groupName": "Blinkdrama-v02-us",
+      "seed": "cars with 0 finance"
+    },
+    "exactDrafts": [
+      {
+        "funnelName": "Blinkdrama-v02",
+        "funnelId": "3sFDuJeEbeay",
+        "offerId": "3wsEYJJ6fFdm",
+        "offerName": "Blinkdrama-v02-A5-us-8412824288-funfillgames.com",
+        "seed": "cars with 0 finance",
+        "status": "ready"
+      }
+    ],
+    "exactReplace": [
+      {
+        "funnelName": "Blinkdrama-v02",
+        "funnelId": "3sFDuJeEbeay",
+        "offerId": "3wsEYJJ6fFdm",
+        "offerName": "Blinkdrama-v02-A5-us-8412824288-funfillgames.com",
+        "ref": "cars with 0 finance"
+      }
+    ],
+    "channelOffersInGroups": []
+  },
+  {
+    "ref": "cars for sale 0% finance",
+    "articleId": "520034953200",
+    "channel": "7227122706",
+    "host": "mpbus.com",
+    "primaryFunnel": {
+      "funnelName": "Blinkdrama-v03",
+      "funnelId": "3uDZjmliiexb",
+      "offerId": "3wsFvDuIbLEn",
+      "offerName": "Blinkdrama-v03-A15-us-7227122706-mpbus.com",
+      "groupName": "Blinkdrama-v03-us",
+      "seed": "cars for sale 0% finance"
+    },
+    "exactDrafts": [
+      {
+        "funnelName": "Blinkdrama-v03",
+        "funnelId": "3uDZjmliiexb",
+        "offerId": "3wsFvDuIbLEn",
+        "offerName": "Blinkdrama-v03-A15-us-7227122706-mpbus.com",
+        "seed": "cars for sale 0% finance",
+        "status": "ready"
+      }
+    ],
+    "exactReplace": [],
+    "channelOffersInGroups": []
+  },
+  {
+    "ref": "cars with 0 finance",
+    "articleId": "843927117121",
+    "channel": "5602828114",
+    "host": "whirlwindarcade.com",
+    "primaryFunnel": {
+      "funnelName": "Blinkdrama-v03",
+      "funnelId": "3uDZjmliiexb",
+      "offerId": "3wsEk5dFQ5NI",
+      "offerName": "Blinkdrama-v03-A5-us-5602828114-whirlwindarcade.com",
+      "groupName": "Blinkdrama-v03-us",
+      "seed": "cars with 0 finance"
+    },
+    "exactDrafts": [
+      {
+        "funnelName": "Blinkdrama-v03",
+        "funnelId": "3uDZjmliiexb",
+        "offerId": "3wsEk5dFQ5NI",
+        "offerName": "Blinkdrama-v03-A5-us-5602828114-whirlwindarcade.com",
+        "seed": "cars with 0 finance",
+        "status": "ready"
+      }
+    ],
+    "exactReplace": [],
+    "channelOffersInGroups": []
+  },
+  {
+    "ref": "hyundai 0 financing",
+    "articleId": "203008532777",
+    "channel": "13434",
+    "host": "beauty-center-nearby.com",
+    "primaryFunnel": {
+      "funnelName": "Blinkdrama-v03",
+      "funnelId": "3uDZjmliiexb",
+      "offerId": "3ywNzCCRQOoa",
+      "offerName": "Blinkdrama-v03-A1-Us-new-13434-beauty-center-nearby.com",
+      "groupName": "Blinkdrama-v03-us",
+      "seed": "hyundai 0 financing"
+    },
+    "exactDrafts": [
+      {
+        "funnelName": "Blinkdrama-v03",
+        "funnelId": "3uDZjmliiexb",
+        "offerId": "3ywNzCCRQOoa",
+        "offerName": "Blinkdrama-v03-A1-Us-new-13434-beauty-center-nearby.com",
+        "seed": "hyundai 0 financing",
+        "status": "ready"
+      }
+    ],
+    "exactReplace": [],
+    "channelOffersInGroups": []
+  }
+]

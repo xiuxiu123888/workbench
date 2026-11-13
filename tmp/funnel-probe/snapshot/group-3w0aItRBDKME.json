@@ -1,0 +1,54 @@
+{
+  "code": 200,
+  "data": {
+    "groupId": "3w0aItRBDKME",
+    "groupName": "vibeshort-v02-default",
+    "routing": "rotator",
+    "geo": null,
+    "yesterdayRpm": 0,
+    "yesterdayRev": 0,
+    "yesterdayRpmTrend": 0,
+    "yesterdayRevTrend": 0,
+    "offerList": [
+      {
+        "offerId": "3w0RgW52pQZR",
+        "offerName": "vibeshort-v02-A12-default-7892822796",
+        "categoryName": "移民律师",
+        "weight": 1,
+        "channelId": "7892822796",
+        "countryCode": null,
+        "afsSource": "12",
+        "todayRpm": 0,
+        "todayRev": 0
+      },
+      {
+        "offerId": "3w0P1jiNawSR",
+        "offerName": "vibeshort-v02-A4-default-1287194105",
+        "categoryName": "个人贷款",
+        "weight": 1,
+        "channelId": "1287194105",
+        "countryCode": null,
+        "afsSource": "4",
+        "todayRpm": 0,
+        "todayRev": 0
+      },
+      {
+        "offerId": "3w0PCD8H5kx3",
+        "offerName": "vibeshort-v02-A7-default-11444",
+        "categoryName": "个人贷款",
+        "weight": 1,
+        "channelId": "11444",
+        "countryCode": null,
+        "afsSource": "7",
+        "todayRpm": 0,
+        "todayRev": 0
+      }
+    ],
+    "funnelId": "3w0aPitAgGtJ",
+    "funnelName": "Vibeshort-v02",
+    "partnerName": "vibeshort",
+    "urlName": "vibeshort-v02",
+    "urlId": 120,
+    "platform": "MIS"
+  }
+}

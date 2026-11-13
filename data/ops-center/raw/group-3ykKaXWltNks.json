@@ -1,0 +1,219 @@
+{
+  "code": 200,
+  "data": {
+    "groupId": "3ykKaXWltNks",
+    "groupName": "storyreel-v02-us",
+    "routing": "rotator",
+    "geo": "US",
+    "yesterdayRpm": 24.2,
+    "yesterdayRev": 69.7,
+    "yesterdayRpmTrend": -58.2,
+    "yesterdayRevTrend": -59.94,
+    "offerList": [
+      {
+        "offerId": "3ykJDDY2brS0",
+        "offerName": "storyreel-v02-A15-us-4041023911-lstmai.com",
+        "categoryName": "注射除皱",
+        "weight": 0.05,
+        "channelId": "4041023911",
+        "countryCode": "US",
+        "afsSource": "15",
+        "todayRpm": 0,
+        "todayRev": 0
+      },
+      {
+        "offerId": "3ykJ7i14QKku",
+        "offerName": "storyreel-v02-A15-us-3709841686-mpbus.com",
+        "categoryName": "面部提拉",
+        "weight": 0.03,
+        "channelId": "3709841686",
+        "countryCode": "US",
+        "afsSource": "15",
+        "todayRpm": 3.8,
+        "todayRev": 1.92
+      },
+      {
+        "offerId": "3ykJ3RIutLI0",
+        "offerName": "storyreel-v02-A15-us-7192498804-51jiejue.com",
+        "categoryName": "面部提拉",
+        "weight": 0.05,
+        "channelId": "7192498804",
+        "countryCode": "US",
+        "afsSource": "15",
+        "todayRpm": 0,
+        "todayRev": 0
+      },
+      {
+        "offerId": "3ykIqeR2cmpa",
+        "offerName": "storyreel-v02-A12-us-9397476152-protectlifeplan.com",
+        "categoryName": "注射除皱",
+        "weight": 0.05,
+        "channelId": "9397476152",
+        "countryCode": "US",
+        "afsSource": "12",
+        "todayRpm": 0,
+        "todayRev": 0
+      },
+      {
+        "offerId": "3ykIQAjmCHhX",
+        "offerName": "storyreel-v02-A7-us-18365-aifinteches.com",
+        "categoryName": "宠物产品",
+        "weight": 0.05,
+        "channelId": "18365",
+        "countryCode": "US",
+        "afsSource": "7",
+        "todayRpm": 0,
+        "todayRev": 0
+      },
+      {
+        "offerId": "3ykIMqgs98it",
+        "offerName": "storyreel-v02-A5-us-1343034420-easyfungalaxy.com",
+        "categoryName": "心理健康 / 成瘾",
+        "weight": 0.05,
+        "channelId": "1343034420",
+        "countryCode": "US",
+        "afsSource": "5",
+        "todayRpm": 0,
+        "todayRev": 0
+      },
+      {
+        "offerId": "3ykILJ5V7fl3",
+        "offerName": "storyreel-v02-A5-us-9029952751-joyfullplayland.com",
+        "categoryName": "心理健康 / 成瘾",
+        "weight": 0.05,
+        "channelId": "9029952751",
+        "countryCode": "US",
+        "afsSource": "5",
+        "todayRpm": 0,
+        "todayRev": 0
+      },
+      {
+        "offerId": "3ykIHsPoUgts",
+        "offerName": "storyreel-v02-A4-us-9072500577-minigamemix.com",
+        "categoryName": "心理健康 / 成瘾",
+        "weight": 0.05,
+        "channelId": "9072500577",
+        "countryCode": "US",
+        "afsSource": "4",
+        "todayRpm": 0,
+        "todayRev": 0
+      },
+      {
+        "offerId": "3ykIG0tYsVEE",
+        "offerName": "storyreel-v02-A4-us-9362696453-laidbackgam.com",
+        "categoryName": "消费电子",
+        "weight": 0.05,
+        "channelId": "9362696453",
+        "countryCode": "US",
+        "afsSource": "4",
+        "todayRpm": 0,
+        "todayRev": 0
+      },
+      {
+        "offerId": "3ykFvVjL9UMX",
+        "offerName": "storyreel-v02-A1-us-14946-insurance-consulting-nearby.com",
+        "categoryName": "汽车金融",
+        "weight": 0.05,
+        "channelId": "14946",
+        "countryCode": "US",
+        "afsSource": "1",
+        "todayRpm": 0,
+        "todayRev": 0
+      },
+      {
+        "offerId": "3yk5Wkp66m7g",
+        "offerName": "storyreel-v02-A7-us-12134-bank-flux.com",
+        "categoryName": "汽车金融",
+        "weight": 0.05,
+        "channelId": "12134",
+        "countryCode": "US",
+        "afsSource": "7",
+        "todayRpm": 0,
+        "todayRev": 0
+      },
+      {
+        "offerId": "3yk5RmYvWFLa",
+        "offerName": "storyreel-v02-A1-us-15482-insurance-consulting-nearby.com",
+        "categoryName": "汽车金融",
+        "weight": 0.05,
+        "channelId": "15482",
+        "countryCode": "US",
+        "afsSource": "1",
+        "todayRpm": 0,
+        "todayRev": 0
+      },
+      {
+        "offerId": "3yk5MjyFzgJ7",
+        "offerName": "storyreel-v02-A7-us-11308-quantify-energy.com",
+        "categoryName": "消费电子",
+        "weight": 0.05,
+        "channelId": "11308",
+        "countryCode": "US",
+        "afsSource": "7",
+        "todayRpm": 0,
+        "todayRev": 0
+      },
+      {
+        "offerId": "3yk5Ho8kcfY8",
+        "offerName": "storyreel-v02-A1-us-16509-homeguarddeals.com",
+        "categoryName": "注射除皱",
+        "weight": 0.05,
+        "channelId": "16509",
+        "countryCode": "US",
+        "afsSource": "1",
+        "todayRpm": 0,
+        "todayRev": 0
+      },
+      {
+        "offerId": "3yk5Ch6CmdRa",
+        "offerName": "storyreel-v02-A5-us-2994227363-playfulbreak.com",
+        "categoryName": "宠物产品",
+        "weight": 0.08,
+        "channelId": "2994227363",
+        "countryCode": "US",
+        "afsSource": "5",
+        "todayRpm": 13,
+        "todayRev": 8.49
+      },
+      {
+        "offerId": "3yk4daYIi9mk",
+        "offerName": "storyreel-v02-A12-us-9128576243-aivestorhq.com",
+        "categoryName": "宠物产品",
+        "weight": 0.45,
+        "channelId": "9128576243",
+        "countryCode": "US",
+        "afsSource": "12",
+        "todayRpm": 22.4,
+        "todayRev": 14.35
+      },
+      {
+        "offerId": "3yk4VrB8HRdZ",
+        "offerName": "storyreel-v02-A4-us-8236490346-joyfulgaminghub9.com",
+        "categoryName": "汽车金融",
+        "weight": 0.8,
+        "channelId": "8236490346",
+        "countryCode": "US",
+        "afsSource": "4",
+        "todayRpm": 37.7,
+        "todayRev": 22.61
+      },
+      {
+        "offerId": "43qQj0AnGLha",
+        "offerName": "storyreel-v02-A17-us-6918520302-seekmoon.ai",
+        "categoryName": null,
+        "weight": 0.22,
+        "channelId": "6918520302",
+        "countryCode": "US",
+        "afsSource": "17",
+        "todayRpm": 0,
+        "todayRev": 0
+      }
+    ],
+    "funnelId": "3ykKt2fZxicx",
+    "funnelName": "storyreel-v02",
+    "partnerName": "storyreel",
+    "urlName": "storyreel-v02",
+    "urlId": 126,
+    "platform": "MIS"
+  }
+}

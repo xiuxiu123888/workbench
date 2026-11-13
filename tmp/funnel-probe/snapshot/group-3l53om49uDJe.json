@@ -1,0 +1,54 @@
+{
+  "code": 200,
+  "data": {
+    "groupId": "3l53om49uDJe",
+    "groupName": "JZ-14-JP",
+    "routing": "",
+    "geo": "JP",
+    "yesterdayRpm": 0,
+    "yesterdayRev": 0,
+    "yesterdayRpmTrend": 0,
+    "yesterdayRevTrend": 0,
+    "offerList": [
+      {
+        "offerId": "3l4vk2nMGVOW",
+        "offerName": "JZ-14-A14-JP-8153523117",
+        "categoryName": "牙科分期",
+        "weight": 0.34,
+        "channelId": "8153523117",
+        "countryCode": null,
+        "afsSource": null,
+        "todayRpm": 0,
+        "todayRev": 0
+      },
+      {
+        "offerId": "3lMEEzFvLyX1",
+        "offerName": "JZ-14-A4-JP-4500445149",
+        "categoryName": "殡葬",
+        "weight": 0.33,
+        "channelId": "4500445149",
+        "countryCode": null,
+        "afsSource": null,
+        "todayRpm": 0,
+        "todayRev": 0
+      },
+      {
+        "offerId": "3lpc6uAFhmiV",
+        "offerName": "JZ-14-A12-JP-5798851698",
+        "categoryName": "殡葬",
+        "weight": 0.33,
+        "channelId": "5798851698",
+        "countryCode": null,
+        "afsSource": null,
+        "todayRpm": 0,
+        "todayRev": 0
+      }
+    ],
+    "funnelId": "3cQDo7oKoOL2",
+    "funnelName": "JZ-14",
+    "partnerName": "shortmax",
+    "urlName": "JZ-14",
+    "urlId": 96,
+    "platform": "FF"
+  }
+}

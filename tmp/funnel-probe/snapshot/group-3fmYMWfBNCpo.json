@@ -1,0 +1,32 @@
+{
+  "code": 200,
+  "data": {
+    "groupId": "3fmYMWfBNCpo",
+    "groupName": "BlockPage",
+    "routing": "rotator",
+    "geo": null,
+    "yesterdayRpm": 0,
+    "yesterdayRev": 0,
+    "yesterdayRpmTrend": 0,
+    "yesterdayRevTrend": 0,
+    "offerList": [
+      {
+        "offerId": "3fmXQFeW0wej",
+        "offerName": "BlockPage",
+        "categoryName": null,
+        "weight": 1,
+        "channelId": null,
+        "countryCode": null,
+        "afsSource": null,
+        "todayRpm": 0,
+        "todayRev": 0
+      }
+    ],
+    "funnelId": "3aXEOxFRbofy",
+    "funnelName": "jz-09",
+    "partnerName": "shortmax",
+    "urlName": "JZ-09",
+    "urlId": 91,
+    "platform": "FF"
+  }
+}

@@ -1,0 +1,48 @@
+# 白名单 · 合作商前缀组内：sign vs 非 sign 相同 offer
+生成: 2026-11-12T11:47:45.954Z
+合作商组 7 · 可对比（同时有 sign/非sign）3 · 有重叠 0 · 重叠 offer 合计 0
+
+## blinkdrama
+漏斗: Blinkdrama-sign-v01, Blinkdrama-v01, Blinkdrama-v02, Blinkdrama-v03, Blinkdrama-v04
+sign: Blinkdrama-sign-v01
+非sign: Blinkdrama-v01, Blinkdrama-v02, Blinkdrama-v03, Blinkdrama-v04
+sign侧offer 17 · 非sign侧offer 78 · 重叠 0
+结果: 无相同 offer
+
+## cd-reader
+漏斗: cd-reader-pb-v01, cd-reader-banner-v01
+sign: —
+非sign: cd-reader-pb-v01, cd-reader-banner-v01
+结果: 跳过（组内无 sign 漏斗）
+
+## moboreels
+漏斗: moboreels-v01, moboreels-v02, moboreels-v03, moboreels-v04
+sign: —
+非sign: moboreels-v01, moboreels-v02, moboreels-v03, moboreels-v04
+结果: 跳过（组内无 sign 漏斗）
+
+## reader
+漏斗: reader-v01, reader-v02
+sign: —
+非sign: reader-v01, reader-v02
+结果: 跳过（组内无 sign 漏斗）
+
+## shortmax
+漏斗: ShortMax-v03, ShortMax-v04, ShortMax-v05, ShortMax-v06, ShortMax-v11
+sign: —
+非sign: ShortMax-v03, ShortMax-v04, ShortMax-v05, ShortMax-v06, ShortMax-v11
+结果: 跳过（组内无 sign 漏斗）
+
+## storyreel
+漏斗: storyreel-v01, storyreel-v02, storyreel-v03, storyreel-v04, storyreel-v05, storyreel-sign-v01
+sign: storyreel-sign-v01
+非sign: storyreel-v01, storyreel-v02, storyreel-v03, storyreel-v04, storyreel-v05
+sign侧offer 19 · 非sign侧offer 102 · 重叠 0
+结果: 无相同 offer
+
+## vibeshort
+漏斗: Vibeshort-V01, Vibeshort-v02, Vibeshort-V03, Vibeshort-V04, Vibeshort-V05, Vibeshort-sign-v01
+sign: Vibeshort-sign-v01
+非sign: Vibeshort-V01, Vibeshort-v02, Vibeshort-V03, Vibeshort-V04, Vibeshort-V05
+sign侧offer 6 · 非sign侧offer 92 · 重叠 0
+结果: 无相同 offer

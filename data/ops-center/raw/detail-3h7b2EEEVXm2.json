@@ -1,0 +1,37 @@
+{
+  "code": 200,
+  "data": {
+    "funnelId": "3h7b2EEEVXm2",
+    "funnelName": "cd-reader-A76",
+    "partnerName": null,
+    "urlName": null,
+    "urlId": null,
+    "offerGroupList": [
+      {
+        "groupId": "3h7bMeWwH4FG",
+        "groupName": "cd-reader-A76-US",
+        "geo": "US"
+      },
+      {
+        "groupId": "3h7bU7Yi9npp",
+        "groupName": "cd-reader-A76-JP",
+        "geo": "JP"
+      },
+      {
+        "groupId": "3h7bYEIDMJCT",
+        "groupName": "cd-reader-A76-IT",
+        "geo": "IT"
+      },
+      {
+        "groupId": "3h7bc2jv9TCA",
+        "groupName": "cd-reader-A76-BR",
+        "geo": "BR"
+      },
+      {
+        "groupId": "3h7bgIWyjlsX",
+        "groupName": "cd-reader-A76-default",
+        "geo": "CD"
+      }
+    ]
+  }
+}

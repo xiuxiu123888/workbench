@@ -1,0 +1,43 @@
+{
+  "code": 200,
+  "data": {
+    "groupId": "3h7bU7Yi9npp",
+    "groupName": "cd-reader-A76-JP",
+    "routing": "rotator",
+    "geo": "JP",
+    "yesterdayRpm": 0,
+    "yesterdayRev": 0,
+    "yesterdayRpmTrend": 0,
+    "yesterdayRevTrend": 0,
+    "offerList": [
+      {
+        "offerId": "3h73zWvufkij",
+        "offerName": "cd-reader-A76-A12-JP-7644399993",
+        "categoryName": "住房抗灾投资",
+        "weight": 1,
+        "channelId": "7644399993",
+        "countryCode": null,
+        "afsSource": null,
+        "todayRpm": 0,
+        "todayRev": 0
+      },
+      {
+        "offerId": "3h74oUCxUGms",
+        "offerName": "cd-reader-A76-A14-JP-5936631302",
+        "categoryName": "AI变现",
+        "weight": 1,
+        "channelId": "5936631302",
+        "countryCode": null,
+        "afsSource": null,
+        "todayRpm": 0,
+        "todayRev": 0
+      }
+    ],
+    "funnelId": "3h7b2EEEVXm2",
+    "funnelName": "cd-reader-A76",
+    "partnerName": null,
+    "urlName": null,
+    "urlId": null,
+    "platform": "FF"
+  }
+}

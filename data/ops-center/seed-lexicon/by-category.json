@@ -1,0 +1,35 @@
+{
+  "updatedAt": "2026-11-13T07:54:00.000Z",
+  "categories": [
+    {
+      "categoryKey": "面部提拉",
+      "categoryId": 5162,
+      "seeds": [
+        {
+          "keyword": "Cosmetic Products",
+          "intentKeyword": "Cosmetic Products",
+          "ref": "Cosmetic Products",
+          "regionId": "US"
+        },
+        {
+          "keyword": "Cosmetics and Beauty Products",
+          "intentKeyword": "Cosmetics and Beauty Products",
+          "ref": "Cosmetics and Beauty Products",
+          "regionId": "US"
+        },
+        {
+          "keyword": "Cosmetics Products",
+          "intentKeyword": "Cosmetics Products",
+          "ref": "Cosmetics Products",
+          "regionId": "US"
+        },
+        {
+          "keyword": "Best Beauty Products for Mature Skin",
+          "intentKeyword": "Best Beauty Products for Mature Skin",
+          "ref": "Best Beauty Products for Mature Skin",
+          "regionId": "US"
+        }
+      ]
+    }
+  ]
+}

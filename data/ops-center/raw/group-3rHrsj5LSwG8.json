@@ -1,0 +1,54 @@
+{
+  "code": 200,
+  "data": {
+    "groupId": "3rHrsj5LSwG8",
+    "groupName": "vibeshort-v04-default",
+    "routing": "rotator",
+    "geo": null,
+    "yesterdayRpm": 0,
+    "yesterdayRev": 0,
+    "yesterdayRpmTrend": 0,
+    "yesterdayRevTrend": 0,
+    "offerList": [
+      {
+        "offerId": "3rHpr2nDZB47",
+        "offerName": "vibeshort-v04-A12-default-8578384355",
+        "categoryName": "牙科",
+        "weight": 1,
+        "channelId": "8578384355",
+        "countryCode": null,
+        "afsSource": "12",
+        "todayRpm": 0,
+        "todayRev": 0
+      },
+      {
+        "offerId": "3rHpCprKX16Y",
+        "offerName": "vibeshort-v04-A7-default-11746",
+        "categoryName": "医疗·泌尿外科",
+        "weight": 1,
+        "channelId": "11746",
+        "countryCode": null,
+        "afsSource": "7",
+        "todayRpm": 0,
+        "todayRev": 0
+      },
+      {
+        "offerId": "3rHp3ljqapYv",
+        "offerName": "vibeshort-v04-A4-default-9196005107",
+        "categoryName": "注射除皱",
+        "weight": 1,
+        "channelId": "9196005107",
+        "countryCode": null,
+        "afsSource": "4",
+        "todayRpm": 0,
+        "todayRev": 0
+      }
+    ],
+    "funnelId": "3rHsTlCL2Fcg",
+    "funnelName": "Vibeshort-V04",
+    "partnerName": "vibeshort",
+    "urlName": "vibeshort-v04",
+    "urlId": 137,
+    "platform": "MIS"
+  }
+}

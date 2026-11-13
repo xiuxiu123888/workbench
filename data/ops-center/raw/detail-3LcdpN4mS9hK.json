@@ -1,0 +1,62 @@
+{
+  "code": 200,
+  "data": {
+    "funnelId": "3LcdpN4mS9hK",
+    "funnelName": "cd-reel-A5-50",
+    "partnerName": "changdu",
+    "urlName": "moboreels",
+    "urlId": 50,
+    "offerGroupList": [
+      {
+        "groupId": "3Lcdha95zgmT",
+        "groupName": "cd-afs-0801",
+        "geo": "CD"
+      },
+      {
+        "groupId": "3XKm5l4UO47R",
+        "groupName": "cd-A50-default",
+        "geo": "CD"
+      },
+      {
+        "groupId": "3UYxmnRBarCJ",
+        "groupName": "cd-A50-us",
+        "geo": "US"
+      },
+      {
+        "groupId": "3XKmEZ6hPgCU",
+        "groupName": "cd-A50-jp",
+        "geo": "JP"
+      },
+      {
+        "groupId": "3XKmL5f4JCsS",
+        "groupName": "cd-A50-br",
+        "geo": "BR"
+      },
+      {
+        "groupId": "3Ymf7lRFdnGv",
+        "groupName": "cd-A50-de",
+        "geo": "DE"
+      },
+      {
+        "groupId": "3YmfCrC5CGOV",
+        "groupName": "cd-A50-gb",
+        "geo": "GB"
+      },
+      {
+        "groupId": "3cJcHUkA1y3f",
+        "groupName": "cd-A50-mx",
+        "geo": "MX"
+      },
+      {
+        "groupId": "3cJcTN0TPfSd",
+        "groupName": "cd-A50-it",
+        "geo": "IT"
+      },
+      {
+        "groupId": "3nMhxsspzvPe",
+        "groupName": "cd-A50-fr",
+        "geo": "FR"
+      }
+    ]
+  }
+}

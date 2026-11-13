@@ -1,0 +1,76 @@
+{
+  "code": 200,
+  "data": {
+    "groupId": "3aXEpNAf7UpA",
+    "groupName": "JZ09-default",
+    "routing": "",
+    "geo": "DEFAULT",
+    "yesterdayRpm": 0,
+    "yesterdayRev": 0,
+    "yesterdayRpmTrend": 0,
+    "yesterdayRevTrend": 0,
+    "offerList": [
+      {
+        "offerId": "3aWvExg2Kawd",
+        "offerName": "JZ09-A4-us-8488653000",
+        "categoryName": "特殊疾病药品",
+        "weight": 1,
+        "channelId": "8488653000",
+        "countryCode": null,
+        "afsSource": null,
+        "todayRpm": 0,
+        "todayRev": 0
+      },
+      {
+        "offerId": "3aX6mEDMfNZo",
+        "offerName": "JZ09-A7-us-1751917633",
+        "categoryName": "健康保险",
+        "weight": 1,
+        "channelId": "1751917633",
+        "countryCode": null,
+        "afsSource": null,
+        "todayRpm": 0,
+        "todayRev": 0
+      },
+      {
+        "offerId": "3lMAsjHRZlwA",
+        "offerName": "jz-09-A12-US-9827539423",
+        "categoryName": "临床研究",
+        "weight": 1,
+        "channelId": "9827539423",
+        "countryCode": null,
+        "afsSource": null,
+        "todayRpm": 0,
+        "todayRev": 0
+      },
+      {
+        "offerId": "3wSBtlDGPUQr",
+        "offerName": "JZ09-A15-default-7917387848",
+        "categoryName": "医疗健康",
+        "weight": 1,
+        "channelId": "7917387848",
+        "countryCode": null,
+        "afsSource": null,
+        "todayRpm": 0,
+        "todayRev": 0
+      },
+      {
+        "offerId": "3wSBnBnOHDeg",
+        "offerName": "JZ09-A5-default-9646014907",
+        "categoryName": "疾病治疗",
+        "weight": 1,
+        "channelId": "9646014907",
+        "countryCode": null,
+        "afsSource": null,
+        "todayRpm": 0,
+        "todayRev": 0
+      }
+    ],
+    "funnelId": "3aXEOxFRbofy",
+    "funnelName": "jz-09",
+    "partnerName": "shortmax",
+    "urlName": "JZ-09",
+    "urlId": 91,
+    "platform": "FF"
+  }
+}

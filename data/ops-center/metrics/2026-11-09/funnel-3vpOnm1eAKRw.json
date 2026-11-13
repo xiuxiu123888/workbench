@@ -1,0 +1,63 @@
+{
+  "funnelId": "3vpOnm1eAKRw",
+  "funnelName": "web-v01",
+  "day": "2026-11-09",
+  "query": {
+    "day": "2026-11-09",
+    "startTime": "2026-11-09 00:00:00",
+    "endTime": "2026-11-09 23:59:59"
+  },
+  "data": {
+    "categoryList": [
+      {
+        "categoryId": "3vpGrntLupYA",
+        "categoryName": "web-v01",
+        "categoryType": "offer"
+      }
+    ],
+    "statsList": [
+      {
+        "id": "3vpHVeP9NEjq",
+        "name": "web-v01-A12-8084394483",
+        "categoryId": "3vpGrntLupYA",
+        "visits": 0,
+        "views": 0,
+        "conversion": 0,
+        "category": "web-v01",
+        "offerSource": "afs-common",
+        "revenue": "0",
+        "funnelImpressions": 0,
+        "funnelClicks": 0,
+        "clicks": 0,
+        "funnelRpm": "0",
+        "rpc": "0",
+        "funnelCtr": "0",
+        "cvr1": "0",
+        "cvr2": "0",
+        "url": "https://intodeepdive.com/detail/318132937723?ref=Top+5+Involute+Gear+Cutter+Brands+for+US+Machinists+in+2026&channel=8084394483&hit={hit}",
+        "countryInfos": []
+      },
+      {
+        "id": "3vpH8ajxGntg",
+        "name": "web-v01-A5-9909491361",
+        "categoryId": "3vpGrntLupYA",
+        "visits": 0,
+        "views": 0,
+        "conversion": 0,
+        "category": "web-v01",
+        "offerSource": "afs-common",
+        "revenue": "0",
+        "funnelImpressions": 0,
+        "funnelClicks": 0,
+        "clicks": 0,
+        "funnelRpm": "0",
+        "rpc": "0",
+        "funnelCtr": "0",
+        "cvr1": "0",
+        "cvr2": "0",
+        "url": "https://easyfungalaxy.com/detail/129506647705?ref=Buprenorphine+Market+2026&channel=9909491361&hit={hit}",
+        "countryInfos": []
+      }
+    ]
+  }
+}

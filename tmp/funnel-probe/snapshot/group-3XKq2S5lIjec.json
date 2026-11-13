@@ -1,0 +1,65 @@
+{
+  "code": 200,
+  "data": {
+    "groupId": "3XKq2S5lIjec",
+    "groupName": "cd-reel-A61-us",
+    "routing": "rotator",
+    "geo": "US",
+    "yesterdayRpm": 18.8,
+    "yesterdayRev": 91.75,
+    "yesterdayRpmTrend": -2.08,
+    "yesterdayRevTrend": -8.42,
+    "offerList": [
+      {
+        "offerId": "3bwtwQDNWtNX",
+        "offerName": "cd-reel-A61-A12-us-4301742392",
+        "categoryName": "临床研究",
+        "weight": 0.08,
+        "channelId": "4301742392",
+        "countryCode": null,
+        "afsSource": null,
+        "todayRpm": 10.6,
+        "todayRev": 2.68
+      },
+      {
+        "offerId": "3lWUUxKsn67t",
+        "offerName": "cd-reel-A61-A4-US-2811958953",
+        "categoryName": "临床研究",
+        "weight": 0.62,
+        "channelId": "2811958953",
+        "countryCode": null,
+        "afsSource": null,
+        "todayRpm": 20.9,
+        "todayRev": 29.01
+      },
+      {
+        "offerId": "3XKoOKtc0ZaR",
+        "offerName": "cd-reel-A61-A1-us-7303350887",
+        "categoryName": "事故律师",
+        "weight": 0.61,
+        "channelId": "7303350887",
+        "countryCode": null,
+        "afsSource": null,
+        "todayRpm": 19.4,
+        "todayRev": 24.94
+      },
+      {
+        "offerId": "3XKp6ZlrO7LN",
+        "offerName": "cd-reel-A61-A7-us-10924",
+        "categoryName": "事故律师",
+        "weight": 0.11,
+        "channelId": "10924",
+        "countryCode": null,
+        "afsSource": null,
+        "todayRpm": 13,
+        "todayRev": 9.21
+      }
+    ],
+    "funnelId": "3O4uJVikic4W",
+    "funnelName": "cd-reel-A4-61",
+    "partnerName": "changdu",
+    "urlName": "moboreels",
+    "urlId": 61,
+    "platform": "FF"
+  }
+}

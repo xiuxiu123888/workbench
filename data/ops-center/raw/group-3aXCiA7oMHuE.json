@@ -1,0 +1,43 @@
+{
+  "code": 200,
+  "data": {
+    "groupId": "3aXCiA7oMHuE",
+    "groupName": "JZ10-US",
+    "routing": "",
+    "geo": "US",
+    "yesterdayRpm": 0,
+    "yesterdayRev": 0,
+    "yesterdayRpmTrend": 0,
+    "yesterdayRevTrend": 0,
+    "offerList": [
+      {
+        "offerId": "3aWwWR1IKMlN",
+        "offerName": "JZ10-A4-us-9610162982",
+        "categoryName": "肝脏健康",
+        "weight": 0.6,
+        "channelId": "9610162982",
+        "countryCode": null,
+        "afsSource": null,
+        "todayRpm": 0,
+        "todayRev": 0
+      },
+      {
+        "offerId": "3bZ9Z2537tKs",
+        "offerName": "JZ10-A12-US-5525525852",
+        "categoryName": "肝脏健康",
+        "weight": 0.4,
+        "channelId": "5525525852",
+        "countryCode": null,
+        "afsSource": null,
+        "todayRpm": 0,
+        "todayRev": 0
+      }
+    ],
+    "funnelId": "3aXER1jGKCjP",
+    "funnelName": "jz-10",
+    "partnerName": "shortmax",
+    "urlName": "JZ-10",
+    "urlId": 92,
+    "platform": "FF"
+  }
+}

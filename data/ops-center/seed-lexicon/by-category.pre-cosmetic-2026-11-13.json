@@ -1,0 +1,359 @@
+{
+  "updatedAt": "2026-11-13T07:16:00.000Z",
+  "categories": [
+    {
+      "categoryKey": "SUV",
+      "categoryId": 5338,
+      "seeds": [
+        {
+          "keyword": "best phev lease",
+          "intentKeyword": "best phev lease",
+          "ref": "best phev lease",
+          "regionId": "US"
+        },
+        {
+          "keyword": "best suv incentives right now",
+          "intentKeyword": "best suv incentives right now",
+          "ref": "best suv incentives right now",
+          "regionId": "US"
+        },
+        {
+          "keyword": "suv that hold their value",
+          "intentKeyword": "suv that hold their value",
+          "ref": "suv that hold their value",
+          "regionId": "US"
+        },
+        {
+          "keyword": "best suv models right now",
+          "intentKeyword": "best suv models right now",
+          "ref": "best suv models right now",
+          "regionId": "US"
+        },
+        {
+          "keyword": "best suv to buy right now",
+          "intentKeyword": "best suv to buy right now",
+          "ref": "best suv to buy right now",
+          "regionId": "US"
+        },
+        {
+          "keyword": "best suv leases right now",
+          "intentKeyword": "best suv leases right now",
+          "ref": "best suv leases right now",
+          "regionId": "US"
+        },
+        {
+          "keyword": "jeep wagoneers",
+          "intentKeyword": "jeep wagoneers",
+          "ref": "jeep wagoneers",
+          "regionId": "US"
+        },
+        {
+          "keyword": "best jeep model",
+          "intentKeyword": "best jeep model",
+          "ref": "best jeep model",
+          "regionId": "US"
+        },
+        {
+          "keyword": "new jeep suv",
+          "intentKeyword": "new jeep suv",
+          "ref": "new jeep suv",
+          "regionId": "US"
+        },
+        {
+          "keyword": "new jeep wagoneer",
+          "intentKeyword": "new jeep wagoneer",
+          "ref": "new jeep wagoneer",
+          "regionId": "US"
+        }
+      ]
+    },
+    {
+      "categoryKey": "消费电子",
+      "categoryId": 5876,
+      "seeds": [
+        {
+          "keyword": "gadgets for wellness",
+          "intentKeyword": "gadgets for wellness",
+          "ref": "gadgets for wellness",
+          "regionId": "US"
+        },
+        {
+          "keyword": "innovative gadgets",
+          "intentKeyword": "innovative gadgets",
+          "ref": "innovative gadgets",
+          "regionId": "US"
+        },
+        {
+          "keyword": "best new gadgets to buy",
+          "intentKeyword": "best new gadgets to buy",
+          "ref": "best new gadgets to buy",
+          "regionId": "US"
+        },
+        {
+          "keyword": "buy gadgets online",
+          "intentKeyword": "buy gadgets online",
+          "ref": "buy gadgets online",
+          "regionId": "US"
+        }
+      ]
+    },
+    {
+      "categoryKey": "宠物产品",
+      "categoryId": 5884,
+      "seeds": [
+        {
+          "keyword": "clorox everclean",
+          "intentKeyword": "clorox everclean",
+          "ref": "clorox everclean",
+          "regionId": "US"
+        },
+        {
+          "keyword": "best cat litter to keep smell down",
+          "intentKeyword": "best cat litter to keep smell down",
+          "ref": "best cat litter to keep smell down",
+          "regionId": "US"
+        },
+        {
+          "keyword": "best cat litter reddit",
+          "intentKeyword": "best cat litter reddit",
+          "ref": "best cat litter reddit",
+          "regionId": "US"
+        },
+        {
+          "keyword": "best non smelling cat litter",
+          "intentKeyword": "best non smelling cat litter",
+          "ref": "best non smelling cat litter",
+          "regionId": "US"
+        }
+      ]
+    },
+    {
+      "categoryKey": "注射除皱",
+      "categoryId": 5591,
+      "seeds": [
+        {
+          "keyword": "wowcher botox",
+          "intentKeyword": "wowcher botox",
+          "ref": "wowcher botox",
+          "regionId": "GB"
+        },
+        {
+          "keyword": "botox dysport and xeomin injectable near me",
+          "intentKeyword": "botox dysport and xeomin injectable near me",
+          "ref": "botox dysport and xeomin injectable near me",
+          "regionId": "US"
+        },
+        {
+          "keyword": "botox vs dysport units",
+          "intentKeyword": "botox vs dysport units",
+          "ref": "botox vs dysport units",
+          "regionId": "US"
+        },
+        {
+          "keyword": "botox vs dysport for brow lift",
+          "intentKeyword": "botox vs dysport for brow lift",
+          "ref": "botox vs dysport for brow lift",
+          "regionId": "US"
+        },
+        {
+          "keyword": "replacement for botox",
+          "intentKeyword": "replacement for botox",
+          "ref": "replacement for botox",
+          "regionId": "US"
+        },
+        {
+          "keyword": "fillers near me",
+          "intentKeyword": "fillers near me",
+          "ref": "fillers near me",
+          "regionId": "US"
+        }
+      ]
+    },
+    {
+      "categoryKey": "面部提拉",
+      "categoryId": 5162,
+      "seeds": [
+        {
+          "keyword": "voluma face lift",
+          "intentKeyword": "voluma face lift",
+          "ref": "voluma face lift",
+          "regionId": "US"
+        },
+        {
+          "keyword": "new skincare treatments",
+          "intentKeyword": "new skincare treatments",
+          "ref": "new skincare treatments",
+          "regionId": "US"
+        },
+        {
+          "keyword": "best wedding skincare products",
+          "intentKeyword": "best wedding skincare products",
+          "ref": "best wedding skincare products",
+          "regionId": "US"
+        },
+        {
+          "keyword": "jeuveau botox head to head",
+          "intentKeyword": "jeuveau botox head to head",
+          "ref": "jeuveau botox head to head",
+          "regionId": "US"
+        },
+        {
+          "keyword": "best non surgical facelift",
+          "intentKeyword": "best non surgical facelift",
+          "ref": "best non surgical facelift",
+          "regionId": "US"
+        },
+        {
+          "keyword": "fraxel vs botox",
+          "intentKeyword": "fraxel vs botox",
+          "ref": "fraxel vs botox",
+          "regionId": "US"
+        },
+        {
+          "keyword": "Cosmetic Products",
+          "intentKeyword": "Cosmetic Products",
+          "ref": "Cosmetic Products",
+          "regionId": "US"
+        },
+        {
+          "keyword": "Cosmetics and Beauty Products",
+          "intentKeyword": "Cosmetics and Beauty Products",
+          "ref": "Cosmetics and Beauty Products",
+          "regionId": "US"
+        },
+        {
+          "keyword": "Cosmetics Products",
+          "intentKeyword": "Cosmetics Products",
+          "ref": "Cosmetics Products",
+          "regionId": "US"
+        },
+        {
+          "keyword": "Best Beauty Products for Mature Skin",
+          "intentKeyword": "Best Beauty Products for Mature Skin",
+          "ref": "Best Beauty Products for Mature Skin",
+          "regionId": "US"
+        }
+      ]
+    },
+    {
+      "categoryKey": "肿瘤 / 生物制剂",
+      "categoryId": 6308,
+      "seeds": [
+        {
+          "keyword": "new ways to treat cancer",
+          "intentKeyword": "new ways to treat cancer",
+          "ref": "new ways to treat cancer",
+          "regionId": "US"
+        },
+        {
+          "keyword": "latest trends and advancements in oncology",
+          "intentKeyword": "latest trends and advancements in oncology",
+          "ref": "latest trends and advancements in oncology",
+          "regionId": "US"
+        },
+        {
+          "keyword": "treatments modalities of cancer",
+          "intentKeyword": "treatments modalities of cancer",
+          "ref": "treatments modalities of cancer",
+          "regionId": "US"
+        },
+        {
+          "keyword": "new cancer drugs",
+          "intentKeyword": "new cancer drugs",
+          "ref": "new cancer drugs",
+          "regionId": "US"
+        }
+      ]
+    },
+    {
+      "categoryKey": "新能源汽车",
+      "categoryId": 5246,
+      "seeds": [
+        {
+          "keyword": "new hummers",
+          "intentKeyword": "new hummers",
+          "ref": "new hummers",
+          "regionId": "US"
+        },
+        {
+          "keyword": "gm hybrid vehicles",
+          "intentKeyword": "gm hybrid vehicles",
+          "ref": "gm hybrid vehicles",
+          "regionId": "US"
+        },
+        {
+          "keyword": "Chevrolet hybrid vehicles",
+          "intentKeyword": "Chevrolet hybrid vehicles",
+          "ref": "Chevrolet hybrid vehicles",
+          "regionId": "US"
+        },
+        {
+          "keyword": "gm hybrid suv",
+          "intentKeyword": "gm hybrid suv",
+          "ref": "gm hybrid suv",
+          "regionId": "US"
+        }
+      ]
+    },
+    {
+      "categoryKey": "汽车金融",
+      "categoryId": 5868,
+      "seeds": [
+        {
+          "keyword": "hyundai financing deals",
+          "intentKeyword": "hyundai financing deals",
+          "ref": "hyundai financing deals",
+          "regionId": "US"
+        },
+        {
+          "keyword": "cars for sale with financing",
+          "intentKeyword": "cars for sale with financing",
+          "ref": "cars for sale with financing",
+          "regionId": "US"
+        },
+        {
+          "keyword": "no interest car finance offers",
+          "intentKeyword": "no interest car finance offers",
+          "ref": "no interest car finance offers",
+          "regionId": "US"
+        },
+        {
+          "keyword": "lowest apr car financing",
+          "intentKeyword": "lowest apr car financing",
+          "ref": "lowest apr car financing",
+          "regionId": "US"
+        }
+      ]
+    },
+    {
+      "categoryKey": "心理健康 / 成瘾",
+      "categoryId": 6314,
+      "seeds": [
+        {
+          "keyword": "long acting buprenorphine",
+          "intentKeyword": "long acting buprenorphine",
+          "ref": "long acting buprenorphine",
+          "regionId": "US"
+        },
+        {
+          "keyword": "Buprenorphine everything you need to know",
+          "intentKeyword": "Buprenorphine everything you need to know",
+          "ref": "Buprenorphine everything you need to know",
+          "regionId": "US"
+        },
+        {
+          "keyword": "brixadi market trends",
+          "intentKeyword": "brixadi market trends",
+          "ref": "brixadi market trends",
+          "regionId": "US"
+        },
+        {
+          "keyword": "buprenorphine induction protocol",
+          "intentKeyword": "buprenorphine induction protocol",
+          "ref": "buprenorphine induction protocol",
+          "regionId": "US"
+        }
+      ]
+    }
+  ]
+}

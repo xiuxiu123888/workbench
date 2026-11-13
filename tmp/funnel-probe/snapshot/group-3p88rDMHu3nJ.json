@@ -1,0 +1,65 @@
+{
+  "code": 200,
+  "data": {
+    "groupId": "3p88rDMHu3nJ",
+    "groupName": "vibeshort-sign-us",
+    "routing": "rotator",
+    "geo": "US",
+    "yesterdayRpm": 0,
+    "yesterdayRev": 0,
+    "yesterdayRpmTrend": 0,
+    "yesterdayRevTrend": 0,
+    "offerList": [
+      {
+        "offerId": "3p88kWqiFPk8",
+        "offerName": "vibeshort-sign-v01-A4-us-9473195525",
+        "categoryName": "临床研究",
+        "weight": 0.9,
+        "channelId": "473195525",
+        "countryCode": "US",
+        "afsSource": "4",
+        "todayRpm": 0,
+        "todayRev": 0
+      },
+      {
+        "offerId": "3p88b0tir5uE",
+        "offerName": "vibeshort-sign-v01-A7-us-11481",
+        "categoryName": "常见健康",
+        "weight": 0.03,
+        "channelId": "11481",
+        "countryCode": "US",
+        "afsSource": "7",
+        "todayRpm": 0,
+        "todayRev": 0
+      },
+      {
+        "offerId": "3p88Q5nI9TBl",
+        "offerName": "vibeshort-sign-v01-A12-us-6426391280",
+        "categoryName": "肝脏健康",
+        "weight": 0.03,
+        "channelId": "6426391280",
+        "countryCode": "US",
+        "afsSource": "12",
+        "todayRpm": 0,
+        "todayRev": 0
+      },
+      {
+        "offerId": "3p88GYiIh0Nx",
+        "offerName": "vibeshort-sign-v01-A14-us-5689219290",
+        "categoryName": "临床研究",
+        "weight": 0.03,
+        "channelId": "5689219290",
+        "countryCode": "US",
+        "afsSource": "14",
+        "todayRpm": 0,
+        "todayRev": 0
+      }
+    ],
+    "funnelId": "3p89AEQQqtiQ",
+    "funnelName": "Vibeshort-sign-v01",
+    "partnerName": null,
+    "urlName": null,
+    "urlId": null,
+    "platform": "MIS"
+  }
+}

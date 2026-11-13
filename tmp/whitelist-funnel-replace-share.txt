@@ -1,0 +1,146 @@
+【白名单漏斗换文建议】指标日 2026-11-12
+待换漏斗 18 · 弱 offer 40（高优 40）
+
+1. reader-v01 · 弱offer 6 · 访问 20623 · 收入 $40.77
+   当前品：诊断 / 急诊、肿瘤 / 生物制剂、医疗·皮肤、自身免疫、医疗·偏头痛、医疗·泌尿外科
+   建议品：肿瘤 / 生物制剂、GLP-1 / 糖尿病、诊断 / 急诊
+   · 肿瘤 / 生物制剂 推荐词：Opdivo Cost Without Insurance / Tagrisso Cost Without Insurance / Revlimid Cost Without Insurance
+   · GLP-1 / 糖尿病 推荐词：Tirzepatide Cost Without Insurance / Semaglutide Cost Without Insurance / Saxenda Cost Without Insurance
+   · 诊断 / 急诊 推荐词：PET Scan Cost Without Insurance / Sleep Study Cost Without Insurance / Bone Density Scan Cost
+   原因：有访问(19334)但转化=0
+
+2. moboreels-v01 · 弱offer 4 · 访问 23359 · 收入 $47.46
+   当前品：骨科 / 关节、医疗·偏头痛、肿瘤 / 生物制剂、自身免疫
+   建议品：GLP-1 / 糖尿病、肿瘤 / 生物制剂、诊断 / 急诊
+   · GLP-1 / 糖尿病 推荐词：Tirzepatide Cost Without Insurance / Semaglutide Cost Without Insurance / Saxenda Cost Without Insurance
+   · 肿瘤 / 生物制剂 推荐词：Opdivo Cost Without Insurance / Tagrisso Cost Without Insurance / Revlimid Cost Without Insurance
+   · 诊断 / 急诊 推荐词：PET Scan Cost Without Insurance / Sleep Study Cost Without Insurance / Bone Density Scan Cost
+   原因：Funnel RPM 0.23 低于同国家中位 1.44 的 40%
+
+3. reader-v02 · 弱offer 4 · 访问 11021 · 收入 $0.4
+   当前品：骨科 / 关节、医疗·皮肤、心血管 / 抗凝
+   建议品：肿瘤 / 生物制剂、GLP-1 / 糖尿病、诊断 / 急诊
+   · 肿瘤 / 生物制剂 推荐词：Opdivo Cost Without Insurance / Tagrisso Cost Without Insurance / Revlimid Cost Without Insurance
+   · GLP-1 / 糖尿病 推荐词：Tirzepatide Cost Without Insurance / Semaglutide Cost Without Insurance / Saxenda Cost Without Insurance
+   · 诊断 / 急诊 推荐词：PET Scan Cost Without Insurance / Sleep Study Cost Without Insurance / Bone Density Scan Cost
+   原因：有访问(2782)但转化=0
+
+4. storyreel-v05 · 弱offer 4 · 访问 1242 · 收入 $0.49
+   当前品：心血管 / 抗凝、医疗·皮肤、呼吸与睡眠
+   建议品：眼科 / 视力、牙科、医疗·偏头痛
+   · 眼科 / 视力 推荐词：Eylea Cost Without Insurance / Wet AMD Treatment Cost / Glaucoma Surgery Cost
+   · 牙科 推荐词：All-on-4 Dental Implants Cost / Dental Bone Graft Cost / Same Day Crown Cost
+   · 医疗·偏头痛 推荐词：Emgality Cost Without Insurance / Aimovig Cost Without Insurance / Ubrelvy Cost Without Insurance
+   原因：有访问(331)但转化=0
+
+5. moboreels-v02 · 弱offer 3 · 访问 55687 · 收入 $6.67
+   当前品：诊断 / 急诊、心理健康 / 成瘾、医疗·偏头痛
+   建议品：眼科 / 视力、牙科、医疗·偏头痛
+   · 眼科 / 视力 推荐词：Eylea Cost Without Insurance / Wet AMD Treatment Cost / Glaucoma Surgery Cost
+   · 牙科 推荐词：All-on-4 Dental Implants Cost / Dental Bone Graft Cost / Same Day Crown Cost
+   · 医疗·偏头痛 推荐词：Emgality Cost Without Insurance / Aimovig Cost Without Insurance / Ubrelvy Cost Without Insurance
+   原因：收入 $0.67 低于同国家中位 $5.37 的 40%
+
+6. moboreels-v04 · 弱offer 3 · 访问 11364 · 收入 $2.68
+   当前品：心理健康 / 成瘾、呼吸与睡眠
+   建议品：眼科 / 视力、牙科、医疗·偏头痛
+   · 眼科 / 视力 推荐词：Eylea Cost Without Insurance / Wet AMD Treatment Cost / Glaucoma Surgery Cost
+   · 牙科 推荐词：All-on-4 Dental Implants Cost / Dental Bone Graft Cost / Same Day Crown Cost
+   · 医疗·偏头痛 推荐词：Emgality Cost Without Insurance / Aimovig Cost Without Insurance / Ubrelvy Cost Without Insurance
+   原因：收入 $0.78 低于同国家中位 $5.37 的 40%
+
+7. Blinkdrama-v04 · 弱offer 2 · 访问 4529 · 收入 $12.54
+   当前品：心理健康 / 成瘾、医疗·偏头痛
+   建议品：眼科 / 视力、肿瘤 / 生物制剂、牙科
+   · 眼科 / 视力 推荐词：Eylea Cost Without Insurance / Wet AMD Treatment Cost / Glaucoma Surgery Cost
+   · 肿瘤 / 生物制剂 推荐词：Opdivo Cost Without Insurance / Tagrisso Cost Without Insurance / Revlimid Cost Without Insurance
+   · 牙科 推荐词：All-on-4 Dental Implants Cost / Dental Bone Graft Cost / Same Day Crown Cost
+   原因：有访问(4358)但转化=0
+
+8. storyreel-v04 · 弱offer 2 · 访问 1290 · 收入 $0.61
+   当前品：心血管 / 抗凝、自身免疫
+   建议品：眼科 / 视力、牙科、医疗·偏头痛
+   · 眼科 / 视力 推荐词：Eylea Cost Without Insurance / Wet AMD Treatment Cost / Glaucoma Surgery Cost
+   · 牙科 推荐词：All-on-4 Dental Implants Cost / Dental Bone Graft Cost / Same Day Crown Cost
+   · 医疗·偏头痛 推荐词：Emgality Cost Without Insurance / Aimovig Cost Without Insurance / Ubrelvy Cost Without Insurance
+   原因：收入 $0.51 低于同国家中位 $5.37 的 40%
+
+9. ShortMax-v06 · 弱offer 2 · 访问 1144 · 收入 $0.17
+   当前品：医疗·皮肤、医疗·泌尿外科
+   建议品：眼科 / 视力、牙科、医疗·偏头痛
+   · 眼科 / 视力 推荐词：Eylea Cost Without Insurance / Wet AMD Treatment Cost / Glaucoma Surgery Cost
+   · 牙科 推荐词：All-on-4 Dental Implants Cost / Dental Bone Graft Cost / Same Day Crown Cost
+   · 医疗·偏头痛 推荐词：Emgality Cost Without Insurance / Aimovig Cost Without Insurance / Ubrelvy Cost Without Insurance
+   原因：有访问(592)但转化=0
+
+10. Blinkdrama-v01 · 弱offer 2 · 访问 355 · 收入 $30.44
+   当前品：医疗·偏头痛、眼科 / 视力
+   建议品：肿瘤 / 生物制剂、GLP-1 / 糖尿病、诊断 / 急诊
+   · 肿瘤 / 生物制剂 推荐词：Opdivo Cost Without Insurance / Tagrisso Cost Without Insurance / Revlimid Cost Without Insurance
+   · GLP-1 / 糖尿病 推荐词：Tirzepatide Cost Without Insurance / Semaglutide Cost Without Insurance / Saxenda Cost Without Insurance
+   · 诊断 / 急诊 推荐词：PET Scan Cost Without Insurance / Sleep Study Cost Without Insurance / Bone Density Scan Cost
+   原因：有访问(196)但转化=0
+
+11. Blinkdrama-v03 · 弱offer 1 · 访问 3416 · 收入 $1.46
+   当前品：自身免疫
+   建议品：肿瘤 / 生物制剂、GLP-1 / 糖尿病、诊断 / 急诊
+   · 肿瘤 / 生物制剂 推荐词：Opdivo Cost Without Insurance / Tagrisso Cost Without Insurance / Revlimid Cost Without Insurance
+   · GLP-1 / 糖尿病 推荐词：Tirzepatide Cost Without Insurance / Semaglutide Cost Without Insurance / Saxenda Cost Without Insurance
+   · 诊断 / 急诊 推荐词：PET Scan Cost Without Insurance / Sleep Study Cost Without Insurance / Bone Density Scan Cost
+   原因：有访问(3416)但转化=0
+
+12. ShortMax-v04 · 弱offer 1 · 访问 2007 · 收入 $0.47
+   当前品：呼吸与睡眠
+   建议品：眼科 / 视力、牙科、医疗·偏头痛
+   · 眼科 / 视力 推荐词：Eylea Cost Without Insurance / Wet AMD Treatment Cost / Glaucoma Surgery Cost
+   · 牙科 推荐词：All-on-4 Dental Implants Cost / Dental Bone Graft Cost / Same Day Crown Cost
+   · 医疗·偏头痛 推荐词：Emgality Cost Without Insurance / Aimovig Cost Without Insurance / Ubrelvy Cost Without Insurance
+   原因：收入 $0.47 低于同国家中位 $5.37 的 40%
+
+13. Vibeshort-V04 · 弱offer 1 · 访问 1653 · 收入 $0.26
+   当前品：医疗·泌尿外科
+   建议品：眼科 / 视力、牙科、医疗·偏头痛
+   · 眼科 / 视力 推荐词：Eylea Cost Without Insurance / Wet AMD Treatment Cost / Glaucoma Surgery Cost
+   · 牙科 推荐词：All-on-4 Dental Implants Cost / Dental Bone Graft Cost / Same Day Crown Cost
+   · 医疗·偏头痛 推荐词：Emgality Cost Without Insurance / Aimovig Cost Without Insurance / Ubrelvy Cost Without Insurance
+   原因：收入 $0.26 低于同国家中位 $5.37 的 40%
+
+14. storyreel-v01 · 弱offer 1 · 访问 1008 · 收入 $0.73
+   当前品：医疗·皮肤
+   建议品：眼科 / 视力、牙科、医疗·偏头痛
+   · 眼科 / 视力 推荐词：Eylea Cost Without Insurance / Wet AMD Treatment Cost / Glaucoma Surgery Cost
+   · 牙科 推荐词：All-on-4 Dental Implants Cost / Dental Bone Graft Cost / Same Day Crown Cost
+   · 医疗·偏头痛 推荐词：Emgality Cost Without Insurance / Aimovig Cost Without Insurance / Ubrelvy Cost Without Insurance
+   原因：收入 $0.73 低于同国家中位 $5.37 的 40%
+
+15. ShortMax-v03 · 弱offer 1 · 访问 976 · 收入 $2.18
+   当前品：骨科 / 关节
+   建议品：肿瘤 / 生物制剂、GLP-1 / 糖尿病、诊断 / 急诊
+   · 肿瘤 / 生物制剂 推荐词：Opdivo Cost Without Insurance / Tagrisso Cost Without Insurance / Revlimid Cost Without Insurance
+   · GLP-1 / 糖尿病 推荐词：Tirzepatide Cost Without Insurance / Semaglutide Cost Without Insurance / Saxenda Cost Without Insurance
+   · 诊断 / 急诊 推荐词：PET Scan Cost Without Insurance / Sleep Study Cost Without Insurance / Bone Density Scan Cost
+   原因：有访问(976)但转化=0
+
+16. storyreel-v03 · 弱offer 1 · 访问 788 · 收入 $0.45
+   当前品：应用软件
+   建议品：眼科 / 视力、牙科、医疗·偏头痛
+   · 眼科 / 视力 推荐词：Eylea Cost Without Insurance / Wet AMD Treatment Cost / Glaucoma Surgery Cost
+   · 牙科 推荐词：All-on-4 Dental Implants Cost / Dental Bone Graft Cost / Same Day Crown Cost
+   · 医疗·偏头痛 推荐词：Emgality Cost Without Insurance / Aimovig Cost Without Insurance / Ubrelvy Cost Without Insurance
+   原因：收入 $0.45 低于同国家中位 $5.37 的 40%
+
+17. Blinkdrama-sign-v01 · 弱offer 1 · 访问 467 · 收入 $148.75
+   当前品：自身免疫
+   建议品：肿瘤 / 生物制剂、GLP-1 / 糖尿病、诊断 / 急诊
+   · 肿瘤 / 生物制剂 推荐词：Opdivo Cost Without Insurance / Tagrisso Cost Without Insurance / Revlimid Cost Without Insurance
+   · GLP-1 / 糖尿病 推荐词：Tirzepatide Cost Without Insurance / Semaglutide Cost Without Insurance / Saxenda Cost Without Insurance
+   · 诊断 / 急诊 推荐词：PET Scan Cost Without Insurance / Sleep Study Cost Without Insurance / Bone Density Scan Cost
+   原因：有访问(467)但转化=0
+
+18. ShortMax-v05 · 弱offer 1 · 访问 206 · 收入 $10.29
+   当前品：GLP-1 / 糖尿病
+   建议品：肿瘤 / 生物制剂、诊断 / 急诊、自身免疫
+   · 肿瘤 / 生物制剂 推荐词：Opdivo Cost Without Insurance / Tagrisso Cost Without Insurance / Revlimid Cost Without Insurance
+   · 诊断 / 急诊 推荐词：PET Scan Cost Without Insurance / Sleep Study Cost Without Insurance / Bone Density Scan Cost
+   · 自身免疫 推荐词：Dupixent Cost Without Insurance / Dupixent Cost Per Month / Skyrizi Cost Without Insurance
+   原因：有访问(206)但转化=0

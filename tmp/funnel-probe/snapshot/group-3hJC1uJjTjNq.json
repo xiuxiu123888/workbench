@@ -1,0 +1,32 @@
+{
+  "code": 200,
+  "data": {
+    "groupId": "3hJC1uJjTjNq",
+    "groupName": "alphahqai.com",
+    "routing": "rotator",
+    "geo": null,
+    "yesterdayRpm": 0,
+    "yesterdayRev": 0,
+    "yesterdayRpmTrend": 0,
+    "yesterdayRevTrend": 0,
+    "offerList": [
+      {
+        "offerId": "3hJBvJ8i8GMT",
+        "offerName": "alphahqai.com",
+        "categoryName": null,
+        "weight": 1,
+        "channelId": null,
+        "countryCode": null,
+        "afsSource": null,
+        "todayRpm": 0,
+        "todayRev": 0
+      }
+    ],
+    "funnelId": "3Qi2AaBNTLG6",
+    "funnelName": "cd-reader-A75",
+    "partnerName": "changdu",
+    "urlName": "moboreader",
+    "urlId": 76,
+    "platform": "FF"
+  }
+}

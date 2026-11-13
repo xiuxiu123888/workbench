@@ -1,0 +1,32 @@
+{
+  "code": 200,
+  "data": {
+    "groupId": "3h5jI2N8rJhQ",
+    "groupName": "ailuxovex.com",
+    "routing": "rotator",
+    "geo": null,
+    "yesterdayRpm": 0,
+    "yesterdayRev": 0,
+    "yesterdayRpmTrend": 0,
+    "yesterdayRevTrend": 0,
+    "offerList": [
+      {
+        "offerId": "3h5is17uRTdT",
+        "offerName": "ailuxovex.com",
+        "categoryName": null,
+        "weight": 1,
+        "channelId": null,
+        "countryCode": null,
+        "afsSource": null,
+        "todayRpm": 0,
+        "todayRev": 0
+      }
+    ],
+    "funnelId": "3Qi1ty6v4Zxt",
+    "funnelName": "cd-reader-A74",
+    "partnerName": "changdu",
+    "urlName": "moboreader",
+    "urlId": 75,
+    "platform": "FF"
+  }
+}

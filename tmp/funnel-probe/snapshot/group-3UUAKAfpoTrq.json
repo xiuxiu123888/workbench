@@ -1,0 +1,76 @@
+{
+  "code": 200,
+  "data": {
+    "groupId": "3UUAKAfpoTrq",
+    "groupName": "JZ-08-FR",
+    "routing": "",
+    "geo": "FR",
+    "yesterdayRpm": 5.9,
+    "yesterdayRev": 0.3,
+    "yesterdayRpmTrend": 321.43,
+    "yesterdayRevTrend": 200,
+    "offerList": [
+      {
+        "offerId": "3bwQ6jFDBTMo",
+        "offerName": "JZ-08-A1-fr-4689191644",
+        "categoryName": "建筑工人招聘",
+        "weight": 0.33,
+        "channelId": "4689191644",
+        "countryCode": null,
+        "afsSource": null,
+        "todayRpm": 0,
+        "todayRev": 0
+      },
+      {
+        "offerId": "3lMAsjKg4sPz",
+        "offerName": "JZ-08-A12-FR-4007063078",
+        "categoryName": "紧急贷款",
+        "weight": 0.02,
+        "channelId": "4007063078",
+        "countryCode": null,
+        "afsSource": null,
+        "todayRpm": 0,
+        "todayRev": 0
+      },
+      {
+        "offerId": "3njaqw4I13xP",
+        "offerName": "JZ-08-A1-fr-1249379745",
+        "categoryName": "紧急贷款",
+        "weight": 0.33,
+        "channelId": "4689191644",
+        "countryCode": null,
+        "afsSource": null,
+        "todayRpm": 0,
+        "todayRev": 0
+      },
+      {
+        "offerId": "3UllLVFSvTio",
+        "offerName": "JZ-08-A7-fr-8974640419",
+        "categoryName": "建筑工人招聘",
+        "weight": 0.23,
+        "channelId": "8974640419",
+        "countryCode": null,
+        "afsSource": null,
+        "todayRpm": 0,
+        "todayRev": 0
+      },
+      {
+        "offerId": "3XHEhPJRoh0u",
+        "offerName": "JZ-08-A4-FR-4612213758",
+        "categoryName": "紧急贷款",
+        "weight": 0.09,
+        "channelId": "4612213758",
+        "countryCode": null,
+        "afsSource": null,
+        "todayRpm": 2.2,
+        "todayRev": 0.02
+      }
+    ],
+    "funnelId": "3URMYo1qyRLG",
+    "funnelName": "JZ-08",
+    "partnerName": "shortmax",
+    "urlName": "JZ-08",
+    "urlId": 88,
+    "platform": "FF"
+  }
+}

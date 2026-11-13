@@ -1,0 +1,43 @@
+{
+  "code": 200,
+  "data": {
+    "groupId": "3oCFWByJz5Dg",
+    "groupName": "cd-ori-v01-us",
+    "routing": "rotator",
+    "geo": "US",
+    "yesterdayRpm": 35.9,
+    "yesterdayRev": 22.81,
+    "yesterdayRpmTrend": -1.91,
+    "yesterdayRevTrend": -26.8,
+    "offerList": [
+      {
+        "offerId": "3nQhrS3TBuG9",
+        "offerName": "cd-ori-A12-us-5441068559",
+        "categoryName": "HIV",
+        "weight": 1,
+        "channelId": "5441068559",
+        "countryCode": null,
+        "afsSource": null,
+        "todayRpm": 74.3,
+        "todayRev": 13.9
+      },
+      {
+        "offerId": "3oCFyago8w2n",
+        "offerName": "cd-ori-A4-us-8250445903",
+        "categoryName": "HIV",
+        "weight": 1,
+        "channelId": "8250445903",
+        "countryCode": null,
+        "afsSource": null,
+        "todayRpm": 38.7,
+        "todayRev": 9.47
+      }
+    ],
+    "funnelId": "3e5POoixvvOh",
+    "funnelName": "cd-ori-v01",
+    "partnerName": null,
+    "urlName": null,
+    "urlId": null,
+    "platform": "FF"
+  }
+}

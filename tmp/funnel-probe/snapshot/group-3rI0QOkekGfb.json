@@ -1,0 +1,43 @@
+{
+  "code": 200,
+  "data": {
+    "groupId": "3rI0QOkekGfb",
+    "groupName": "cd-reader-banner-v01-default",
+    "routing": "rotator",
+    "geo": "CD",
+    "yesterdayRpm": 0,
+    "yesterdayRev": 0,
+    "yesterdayRpmTrend": 0,
+    "yesterdayRevTrend": 0,
+    "offerList": [
+      {
+        "offerId": "3rHzxc88pwCs",
+        "offerName": "cd-reader-banner-v01-A12-Us-8275192094",
+        "categoryName": "临床研究",
+        "weight": 1,
+        "channelId": "8275192094",
+        "countryCode": "CD",
+        "afsSource": "12",
+        "todayRpm": 0,
+        "todayRev": 0
+      },
+      {
+        "offerId": "3szxnTr06HKg",
+        "offerName": "cd-reader-banner-v01-A4-Us-9114102876",
+        "categoryName": "渐开线齿轮刀具品牌",
+        "weight": 1,
+        "channelId": "9114102876",
+        "countryCode": "CD",
+        "afsSource": "4",
+        "todayRpm": 0,
+        "todayRev": 0
+      }
+    ],
+    "funnelId": "3rI0WAnYN9fC",
+    "funnelName": "cd-reader-banner-v01",
+    "partnerName": "changdu",
+    "urlName": "moboreader",
+    "urlId": 139,
+    "platform": "MIS"
+  }
+}

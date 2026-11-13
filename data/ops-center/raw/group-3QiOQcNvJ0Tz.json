@@ -1,0 +1,54 @@
+{
+  "code": 200,
+  "data": {
+    "groupId": "3QiOQcNvJ0Tz",
+    "groupName": "CD-Reel-A73-US",
+    "routing": "rotator",
+    "geo": "US",
+    "yesterdayRpm": 0,
+    "yesterdayRev": 0,
+    "yesterdayRpmTrend": 0,
+    "yesterdayRevTrend": 0,
+    "offerList": [
+      {
+        "offerId": "3i2aPrxmmoGZ",
+        "offerName": "cd-reader-A73-A12-US-5527570793",
+        "categoryName": "临床研究",
+        "weight": 0,
+        "channelId": "5527570793",
+        "countryCode": null,
+        "afsSource": null,
+        "todayRpm": 0,
+        "todayRev": 0
+      },
+      {
+        "offerId": "3XcekLYWmFvl",
+        "offerName": "A73-A4-Us-8217965358",
+        "categoryName": "律师服务",
+        "weight": 0.52,
+        "channelId": "8217965358",
+        "countryCode": null,
+        "afsSource": null,
+        "todayRpm": 0,
+        "todayRev": 0
+      },
+      {
+        "offerId": "3Xcf7SEhVIGg",
+        "offerName": "A73-A7-us-10934",
+        "categoryName": "健康保险",
+        "weight": 1,
+        "channelId": "10934",
+        "countryCode": null,
+        "afsSource": null,
+        "todayRpm": 0,
+        "todayRev": 0
+      }
+    ],
+    "funnelId": "3Qi1gJ9jSk2n",
+    "funnelName": "cd-reader-A73",
+    "partnerName": "changdu",
+    "urlName": "moboreader",
+    "urlId": 74,
+    "platform": "FF"
+  }
+}

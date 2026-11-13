@@ -1,0 +1,22 @@
+{
+  "code": 200,
+  "data": {
+    "funnelId": "3oIS6Y7J2ySb",
+    "funnelName": "cd-lock-v01",
+    "partnerName": "changdu",
+    "urlName": "moboreels",
+    "urlId": 127,
+    "offerGroupList": [
+      {
+        "groupId": "3oIRzRXIlSsM",
+        "groupName": "cd-lock-v01-default",
+        "geo": "CD"
+      },
+      {
+        "groupId": "3oIRwzLlwzJe",
+        "groupName": "cd-lock-v01-us",
+        "geo": "US"
+      }
+    ]
+  }
+}

@@ -1,0 +1,461 @@
+{
+  "updatedAt": "2026-11-12T06:38:57.058Z",
+  "categories": [
+    {
+      "categoryKey": "医疗·自身免疫",
+      "categoryId": 6454,
+      "seeds": [
+        {
+          "keyword": "Dupixent Cost Without Insurance",
+          "intentKeyword": "Dupixent Cost Without Insurance",
+          "ref": "Dupixent Cost Without Insurance",
+          "regionId": "US"
+        },
+        {
+          "keyword": "Dupixent Cost Per Month",
+          "intentKeyword": "Dupixent Cost Per Month",
+          "ref": "Dupixent Cost Per Month",
+          "regionId": "US"
+        },
+        {
+          "keyword": "Skyrizi Cost Without Insurance",
+          "intentKeyword": "Skyrizi Cost Without Insurance",
+          "ref": "Skyrizi Cost Without Insurance",
+          "regionId": "US"
+        },
+        {
+          "keyword": "Rinvoq Cost Without Insurance",
+          "intentKeyword": "Rinvoq Cost Without Insurance",
+          "ref": "Rinvoq Cost Without Insurance",
+          "regionId": "US"
+        },
+        {
+          "keyword": "Enbrel Cost Without Insurance",
+          "intentKeyword": "Enbrel Cost Without Insurance",
+          "ref": "Enbrel Cost Without Insurance",
+          "regionId": "US"
+        },
+        {
+          "keyword": "Stelara Cost Without Insurance",
+          "intentKeyword": "Stelara Cost Without Insurance",
+          "ref": "Stelara Cost Without Insurance",
+          "regionId": "US"
+        },
+        {
+          "keyword": "Cosentyx Cost Without Insurance",
+          "intentKeyword": "Cosentyx Cost Without Insurance",
+          "ref": "Cosentyx Cost Without Insurance",
+          "regionId": "US"
+        },
+        {
+          "keyword": "Xeljanz Cost Without Insurance",
+          "intentKeyword": "Xeljanz Cost Without Insurance",
+          "ref": "Xeljanz Cost Without Insurance",
+          "regionId": "US"
+        }
+      ]
+    },
+    {
+      "categoryKey": "医疗·偏头痛",
+      "categoryId": 6451,
+      "seeds": [
+        {
+          "keyword": "Emgality Cost Without Insurance",
+          "intentKeyword": "Emgality Cost Without Insurance",
+          "ref": "Emgality Cost Without Insurance",
+          "regionId": "US"
+        },
+        {
+          "keyword": "Aimovig Cost Without Insurance",
+          "intentKeyword": "Aimovig Cost Without Insurance",
+          "ref": "Aimovig Cost Without Insurance",
+          "regionId": "US"
+        },
+        {
+          "keyword": "Ubrelvy Cost Without Insurance",
+          "intentKeyword": "Ubrelvy Cost Without Insurance",
+          "ref": "Ubrelvy Cost Without Insurance",
+          "regionId": "US"
+        },
+        {
+          "keyword": "Nurtec Cost Without Insurance",
+          "intentKeyword": "Nurtec Cost Without Insurance",
+          "ref": "Nurtec Cost Without Insurance",
+          "regionId": "US"
+        },
+        {
+          "keyword": "Ajovy Cost Without Insurance",
+          "intentKeyword": "Ajovy Cost Without Insurance",
+          "ref": "Ajovy Cost Without Insurance",
+          "regionId": "US"
+        },
+        {
+          "keyword": "Botox for Migraine Cost",
+          "intentKeyword": "Botox for Migraine Cost",
+          "ref": "Botox for Migraine Cost",
+          "regionId": "US"
+        }
+      ]
+    },
+    {
+      "categoryKey": "医疗·呼吸与睡眠",
+      "categoryId": 6452,
+      "seeds": [
+        {
+          "keyword": "Trelegy Cost Without Insurance",
+          "intentKeyword": "Trelegy Cost Without Insurance",
+          "ref": "Trelegy Cost Without Insurance",
+          "regionId": "US"
+        },
+        {
+          "keyword": "Symbicort Cost Without Insurance",
+          "intentKeyword": "Symbicort Cost Without Insurance",
+          "ref": "Symbicort Cost Without Insurance",
+          "regionId": "US"
+        },
+        {
+          "keyword": "Breo Ellipta Cost Without Insurance",
+          "intentKeyword": "Breo Ellipta Cost Without Insurance",
+          "ref": "Breo Ellipta Cost Without Insurance",
+          "regionId": "US"
+        },
+        {
+          "keyword": "Spiriva Cost Without Insurance",
+          "intentKeyword": "Spiriva Cost Without Insurance",
+          "ref": "Spiriva Cost Without Insurance",
+          "regionId": "US"
+        },
+        {
+          "keyword": "CPAP Machine Cost",
+          "intentKeyword": "CPAP Machine Cost",
+          "ref": "CPAP Machine Cost",
+          "regionId": "US"
+        },
+        {
+          "keyword": "Sleep Apnea Treatment Cost",
+          "intentKeyword": "Sleep Apnea Treatment Cost",
+          "ref": "Sleep Apnea Treatment Cost",
+          "regionId": "US"
+        }
+      ]
+    },
+    {
+      "categoryKey": "GLP-1 / 糖尿病",
+      "categoryId": 6305,
+      "seeds": [
+        {
+          "keyword": "Tirzepatide Cost Without Insurance",
+          "intentKeyword": "Tirzepatide Cost Without Insurance",
+          "ref": "Tirzepatide Cost Without Insurance",
+          "regionId": "US"
+        },
+        {
+          "keyword": "Semaglutide Cost Without Insurance",
+          "intentKeyword": "Semaglutide Cost Without Insurance",
+          "ref": "Semaglutide Cost Without Insurance",
+          "regionId": "US"
+        },
+        {
+          "keyword": "Saxenda Cost Without Insurance",
+          "intentKeyword": "Saxenda Cost Without Insurance",
+          "ref": "Saxenda Cost Without Insurance",
+          "regionId": "US"
+        },
+        {
+          "keyword": "Trulicity Cost Without Insurance",
+          "intentKeyword": "Trulicity Cost Without Insurance",
+          "ref": "Trulicity Cost Without Insurance",
+          "regionId": "US"
+        },
+        {
+          "keyword": "Contrave Cost Without Insurance",
+          "intentKeyword": "Contrave Cost Without Insurance",
+          "ref": "Contrave Cost Without Insurance",
+          "regionId": "US"
+        },
+        {
+          "keyword": "Wegovy vs Zepbound Cost",
+          "intentKeyword": "Wegovy vs Zepbound Cost",
+          "ref": "Wegovy vs Zepbound Cost",
+          "regionId": "US"
+        }
+      ]
+    },
+    {
+      "categoryKey": "心理健康 / 成瘾",
+      "categoryId": 6314,
+      "seeds": [
+        {
+          "keyword": "Vyvanse Cost Without Insurance",
+          "intentKeyword": "Vyvanse Cost Without Insurance",
+          "ref": "Vyvanse Cost Without Insurance",
+          "regionId": "US"
+        },
+        {
+          "keyword": "Concerta Cost Without Insurance",
+          "intentKeyword": "Concerta Cost Without Insurance",
+          "ref": "Concerta Cost Without Insurance",
+          "regionId": "US"
+        },
+        {
+          "keyword": "TMS Therapy Cost",
+          "intentKeyword": "TMS Therapy Cost",
+          "ref": "TMS Therapy Cost",
+          "regionId": "US"
+        },
+        {
+          "keyword": "Spravato Cost Without Insurance",
+          "intentKeyword": "Spravato Cost Without Insurance",
+          "ref": "Spravato Cost Without Insurance",
+          "regionId": "US"
+        }
+      ]
+    },
+    {
+      "categoryKey": "医疗·皮肤",
+      "categoryId": 6453,
+      "seeds": [
+        {
+          "keyword": "Accutane Cost Without Insurance",
+          "intentKeyword": "Accutane Cost Without Insurance",
+          "ref": "Accutane Cost Without Insurance",
+          "regionId": "US"
+        },
+        {
+          "keyword": "Isotretinoin Cost Without Insurance",
+          "intentKeyword": "Isotretinoin Cost Without Insurance",
+          "ref": "Isotretinoin Cost Without Insurance",
+          "regionId": "US"
+        },
+        {
+          "keyword": "Eczema Treatment Cost",
+          "intentKeyword": "Eczema Treatment Cost",
+          "ref": "Eczema Treatment Cost",
+          "regionId": "US"
+        },
+        {
+          "keyword": "Psoriasis Treatment Cost",
+          "intentKeyword": "Psoriasis Treatment Cost",
+          "ref": "Psoriasis Treatment Cost",
+          "regionId": "US"
+        },
+        {
+          "keyword": "Hidradenitis Suppurativa Treatment Cost",
+          "intentKeyword": "Hidradenitis Suppurativa Treatment Cost",
+          "ref": "Hidradenitis Suppurativa Treatment Cost",
+          "regionId": "US"
+        }
+      ]
+    },
+    {
+      "categoryKey": "肿瘤 / 生物制剂",
+      "categoryId": 6308,
+      "seeds": [
+        {
+          "keyword": "Opdivo Cost Without Insurance",
+          "intentKeyword": "Opdivo Cost Without Insurance",
+          "ref": "Opdivo Cost Without Insurance",
+          "regionId": "US"
+        },
+        {
+          "keyword": "Tagrisso Cost Without Insurance",
+          "intentKeyword": "Tagrisso Cost Without Insurance",
+          "ref": "Tagrisso Cost Without Insurance",
+          "regionId": "US"
+        },
+        {
+          "keyword": "Revlimid Cost Without Insurance",
+          "intentKeyword": "Revlimid Cost Without Insurance",
+          "ref": "Revlimid Cost Without Insurance",
+          "regionId": "US"
+        },
+        {
+          "keyword": "Verzenio Cost Without Insurance",
+          "intentKeyword": "Verzenio Cost Without Insurance",
+          "ref": "Verzenio Cost Without Insurance",
+          "regionId": "US"
+        },
+        {
+          "keyword": "Xtandi Cost Without Insurance",
+          "intentKeyword": "Xtandi Cost Without Insurance",
+          "ref": "Xtandi Cost Without Insurance",
+          "regionId": "US"
+        }
+      ]
+    },
+    {
+      "categoryKey": "骨科 / 关节",
+      "categoryId": 6310,
+      "seeds": [
+        {
+          "keyword": "Epidural Steroid Injection Cost",
+          "intentKeyword": "Epidural Steroid Injection Cost",
+          "ref": "Epidural Steroid Injection Cost",
+          "regionId": "US"
+        },
+        {
+          "keyword": "Cortisone Shot Cost",
+          "intentKeyword": "Cortisone Shot Cost",
+          "ref": "Cortisone Shot Cost",
+          "regionId": "US"
+        },
+        {
+          "keyword": "PRP Injection Cost",
+          "intentKeyword": "PRP Injection Cost",
+          "ref": "PRP Injection Cost",
+          "regionId": "US"
+        },
+        {
+          "keyword": "Spinal Cord Stimulator Cost",
+          "intentKeyword": "Spinal Cord Stimulator Cost",
+          "ref": "Spinal Cord Stimulator Cost",
+          "regionId": "US"
+        },
+        {
+          "keyword": "Nerve Block Cost",
+          "intentKeyword": "Nerve Block Cost",
+          "ref": "Nerve Block Cost",
+          "regionId": "US"
+        }
+      ]
+    },
+    {
+      "categoryKey": "心血管 / 抗凝",
+      "categoryId": 6307,
+      "seeds": [
+        {
+          "keyword": "Cardiac Ablation Cost",
+          "intentKeyword": "Cardiac Ablation Cost",
+          "ref": "Cardiac Ablation Cost",
+          "regionId": "US"
+        },
+        {
+          "keyword": "Pacemaker Surgery Cost",
+          "intentKeyword": "Pacemaker Surgery Cost",
+          "ref": "Pacemaker Surgery Cost",
+          "regionId": "US"
+        },
+        {
+          "keyword": "Repatha Cost Without Insurance",
+          "intentKeyword": "Repatha Cost Without Insurance",
+          "ref": "Repatha Cost Without Insurance",
+          "regionId": "US"
+        },
+        {
+          "keyword": "Entresto Cost Without Insurance",
+          "intentKeyword": "Entresto Cost Without Insurance",
+          "ref": "Entresto Cost Without Insurance",
+          "regionId": "US"
+        }
+      ]
+    },
+    {
+      "categoryKey": "医疗·肾脏与泌尿",
+      "categoryId": 6333,
+      "seeds": [
+        {
+          "keyword": "Dialysis Cost Without Insurance",
+          "intentKeyword": "Dialysis Cost Without Insurance",
+          "ref": "Dialysis Cost Without Insurance",
+          "regionId": "US"
+        },
+        {
+          "keyword": "Kidney Transplant Cost",
+          "intentKeyword": "Kidney Transplant Cost",
+          "ref": "Kidney Transplant Cost",
+          "regionId": "US"
+        },
+        {
+          "keyword": "Prostate Surgery Cost",
+          "intentKeyword": "Prostate Surgery Cost",
+          "ref": "Prostate Surgery Cost",
+          "regionId": "US"
+        },
+        {
+          "keyword": "Testosterone Replacement Therapy Cost",
+          "intentKeyword": "Testosterone Replacement Therapy Cost",
+          "ref": "Testosterone Replacement Therapy Cost",
+          "regionId": "US"
+        }
+      ]
+    },
+    {
+      "categoryKey": "眼科 / 视力",
+      "categoryId": 6311,
+      "seeds": [
+        {
+          "keyword": "Eylea Cost Without Insurance",
+          "intentKeyword": "Eylea Cost Without Insurance",
+          "ref": "Eylea Cost Without Insurance",
+          "regionId": "US"
+        },
+        {
+          "keyword": "Wet AMD Treatment Cost",
+          "intentKeyword": "Wet AMD Treatment Cost",
+          "ref": "Wet AMD Treatment Cost",
+          "regionId": "US"
+        },
+        {
+          "keyword": "Glaucoma Surgery Cost",
+          "intentKeyword": "Glaucoma Surgery Cost",
+          "ref": "Glaucoma Surgery Cost",
+          "regionId": "US"
+        }
+      ]
+    },
+    {
+      "categoryKey": "诊断 / 急诊",
+      "categoryId": 6316,
+      "seeds": [
+        {
+          "keyword": "PET Scan Cost Without Insurance",
+          "intentKeyword": "PET Scan Cost Without Insurance",
+          "ref": "PET Scan Cost Without Insurance",
+          "regionId": "US"
+        },
+        {
+          "keyword": "Sleep Study Cost Without Insurance",
+          "intentKeyword": "Sleep Study Cost Without Insurance",
+          "ref": "Sleep Study Cost Without Insurance",
+          "regionId": "US"
+        },
+        {
+          "keyword": "Bone Density Scan Cost",
+          "intentKeyword": "Bone Density Scan Cost",
+          "ref": "Bone Density Scan Cost",
+          "regionId": "US"
+        },
+        {
+          "keyword": "Echocardiogram Cost",
+          "intentKeyword": "Echocardiogram Cost",
+          "ref": "Echocardiogram Cost",
+          "regionId": "US"
+        }
+      ]
+    },
+    {
+      "categoryKey": "牙科",
+      "categoryId": 5342,
+      "seeds": [
+        {
+          "keyword": "All-on-4 Dental Implants Cost",
+          "intentKeyword": "All-on-4 Dental Implants Cost",
+          "ref": "All-on-4 Dental Implants Cost",
+          "regionId": "US"
+        },
+        {
+          "keyword": "Dental Bone Graft Cost",
+          "intentKeyword": "Dental Bone Graft Cost",
+          "ref": "Dental Bone Graft Cost",
+          "regionId": "US"
+        },
+        {
+          "keyword": "Same Day Crown Cost",
+          "intentKeyword": "Same Day Crown Cost",
+          "ref": "Same Day Crown Cost",
+          "regionId": "US"
+        }
+      ]
+    }
+  ]
+}

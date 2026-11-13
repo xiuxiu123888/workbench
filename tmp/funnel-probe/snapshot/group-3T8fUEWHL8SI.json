@@ -1,0 +1,65 @@
+{
+  "code": 200,
+  "data": {
+    "groupId": "3T8fUEWHL8SI",
+    "groupName": "JZ-07-FR",
+    "routing": "",
+    "geo": "FR",
+    "yesterdayRpm": 0.2,
+    "yesterdayRev": 0.08,
+    "yesterdayRpmTrend": -66.67,
+    "yesterdayRevTrend": -61.9,
+    "offerList": [
+      {
+        "offerId": "3bwIkMjuG3Zh",
+        "offerName": "JZ-07-A1-fr-2550963527",
+        "categoryName": "房屋贷款",
+        "weight": 0.35,
+        "channelId": "2550963527",
+        "countryCode": null,
+        "afsSource": null,
+        "todayRpm": 0,
+        "todayRev": 0
+      },
+      {
+        "offerId": "3lMAsjMptZAh",
+        "offerName": "JZ-07-A12-FR-8514457756",
+        "categoryName": "离婚律师",
+        "weight": 0.28,
+        "channelId": "8514457756",
+        "countryCode": null,
+        "afsSource": null,
+        "todayRpm": 0.9,
+        "todayRev": 0.21
+      },
+      {
+        "offerId": "3XHAsCp4d6ou",
+        "offerName": "JZ-07-A4-Fr-3221603862",
+        "categoryName": "离婚律师",
+        "weight": 0.24,
+        "channelId": "3221603862",
+        "countryCode": null,
+        "afsSource": null,
+        "todayRpm": 0,
+        "todayRev": 0
+      },
+      {
+        "offerId": "3XHCDu2LSACy",
+        "offerName": "JZ-07-A7-fr-9761308166",
+        "categoryName": "建筑工人招聘",
+        "weight": 0.13,
+        "channelId": "9761308166",
+        "countryCode": null,
+        "afsSource": null,
+        "todayRpm": 0,
+        "todayRev": 0
+      }
+    ],
+    "funnelId": "3SqmT5M7rv4d",
+    "funnelName": "JZ-07",
+    "partnerName": "shortmax",
+    "urlName": "JZ-07",
+    "urlId": 87,
+    "platform": "FF"
+  }
+}

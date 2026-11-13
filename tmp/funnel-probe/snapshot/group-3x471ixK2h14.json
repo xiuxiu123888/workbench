@@ -1,0 +1,76 @@
+{
+  "code": 200,
+  "data": {
+    "groupId": "3x471ixK2h14",
+    "groupName": "shortmax-v05-default",
+    "routing": "rotator",
+    "geo": null,
+    "yesterdayRpm": 0,
+    "yesterdayRev": 0,
+    "yesterdayRpmTrend": 0,
+    "yesterdayRevTrend": 0,
+    "offerList": [
+      {
+        "offerId": "3x40hYImswXs",
+        "offerName": "JZ-05-A12-default-5044812577",
+        "categoryName": "牙齿种植",
+        "weight": 1,
+        "channelId": "5044812577",
+        "countryCode": null,
+        "afsSource": "12",
+        "todayRpm": 0,
+        "todayRev": 0
+      },
+      {
+        "offerId": "3x4169u9W9YD",
+        "offerName": "JZ-05-A15-default-9741605402",
+        "categoryName": "医疗健康",
+        "weight": 1,
+        "channelId": "9741605402",
+        "countryCode": null,
+        "afsSource": "15",
+        "todayRpm": 0,
+        "todayRev": 0
+      },
+      {
+        "offerId": "3x411VeeqG9t",
+        "offerName": "JZ-05-A5-default-9921347079",
+        "categoryName": "疾病治疗",
+        "weight": 1,
+        "channelId": "9921347079",
+        "countryCode": null,
+        "afsSource": "5",
+        "todayRpm": 0,
+        "todayRev": 0
+      },
+      {
+        "offerId": "3x40x7OqiwSx",
+        "offerName": "JZ-05-A7-default-7893692728",
+        "categoryName": "手机分期",
+        "weight": 1,
+        "channelId": "7893692728",
+        "countryCode": null,
+        "afsSource": "7",
+        "todayRpm": 0,
+        "todayRev": 0
+      },
+      {
+        "offerId": "3x40pSt4mOht",
+        "offerName": "JZ-05-A4-default-7105008550",
+        "categoryName": "手机分期",
+        "weight": 1,
+        "channelId": "7105008550",
+        "countryCode": null,
+        "afsSource": "4",
+        "todayRpm": 0,
+        "todayRev": 0
+      }
+    ],
+    "funnelId": "3x47BxwjQBMo",
+    "funnelName": "ShortMax-v05",
+    "partnerName": "shortmax",
+    "urlName": null,
+    "urlId": null,
+    "platform": "MIS"
+  }
+}

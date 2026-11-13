@@ -1,0 +1,28 @@
+{
+  "name": "operation-workbench",
+  "private": true,
+  "version": "0.1.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vue-tsc --noEmit && vite build",
+    "test": "vitest run",
+    "push:feishu": "tsx scripts/push-daily-feishu.ts",
+    "ops:hourly": "tsx scripts/capture-hourly-ops.ts"
+  },
+  "dependencies": {
+    "axios": "^1.7.9",
+    "element-plus": "^2.9.4",
+    "vue": "^3.5.13",
+    "vue-router": "^4.6.4"
+  },
+  "devDependencies": {
+    "@types/node": "^26.6.5",
+    "@vitejs/plugin-vue": "^5.2.1",
+    "tsx": "^4.23.15",
+    "typescript": "~5.7.3",
+    "vite": "^6.0.11",
+    "vitest": "^2.1.8",
+    "vue-tsc": "^2.2.0"
+  }
+}

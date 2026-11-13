@@ -1,0 +1,22 @@
+{
+  "code": 200,
+  "data": {
+    "funnelId": "3v8e8WW7dTcB",
+    "funnelName": "Novelix-V02",
+    "partnerName": null,
+    "urlName": null,
+    "urlId": null,
+    "offerGroupList": [
+      {
+        "groupId": "3v8dMOcZuTIS",
+        "groupName": "Novelix-V02-default",
+        "geo": null
+      },
+      {
+        "groupId": "3v8dHsSEDpYC",
+        "groupName": "Novelix-V02-US",
+        "geo": "US"
+      }
+    ]
+  }
+}

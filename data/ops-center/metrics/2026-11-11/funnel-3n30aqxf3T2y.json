@@ -1,0 +1,14 @@
+{
+  "funnelId": "3n30aqxf3T2y",
+  "funnelName": "jz-signin-v02",
+  "day": "2026-11-11",
+  "query": {
+    "day": "2026-11-11",
+    "startTime": "2026-11-11 00:00:00",
+    "endTime": "2026-11-11 23:59:59"
+  },
+  "data": {
+    "categoryList": [],
+    "statsList": []
+  }
+}

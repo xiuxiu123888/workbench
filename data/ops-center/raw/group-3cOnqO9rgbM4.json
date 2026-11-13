@@ -1,0 +1,54 @@
+{
+  "code": 200,
+  "data": {
+    "groupId": "3cOnqO9rgbM4",
+    "groupName": "jz13-br",
+    "routing": "",
+    "geo": "BR",
+    "yesterdayRpm": 0,
+    "yesterdayRev": 0,
+    "yesterdayRpmTrend": 0,
+    "yesterdayRevTrend": 0,
+    "offerList": [
+      {
+        "offerId": "3cOnfyrxIcup",
+        "offerName": "JZ13-A12-Br-9541018797",
+        "categoryName": "数码分期",
+        "weight": 0.34,
+        "channelId": "9541018797",
+        "countryCode": null,
+        "afsSource": null,
+        "todayRpm": 0,
+        "todayRev": 0
+      },
+      {
+        "offerId": "3cOnTvkqWtAZ",
+        "offerName": "JZ13-A4-Br-6935898186",
+        "categoryName": "移民律师",
+        "weight": 0.33,
+        "channelId": "6935898186",
+        "countryCode": null,
+        "afsSource": null,
+        "todayRpm": 0,
+        "todayRev": 0
+      },
+      {
+        "offerId": "3fzg7Q4AAdIk",
+        "offerName": "JZ13-A7-Br-2625520414",
+        "categoryName": "家装分期购买",
+        "weight": 0.33,
+        "channelId": "2625520414",
+        "countryCode": null,
+        "afsSource": null,
+        "todayRpm": 0,
+        "todayRev": 0
+      }
+    ],
+    "funnelId": "3cOnuvi6z7Vg",
+    "funnelName": "JZ-13",
+    "partnerName": "shortmax",
+    "urlName": "JZ-13",
+    "urlId": 95,
+    "platform": "FF"
+  }
+}

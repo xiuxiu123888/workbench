@@ -1,0 +1,175 @@
+{
+  "code": 200,
+  "data": {
+    "groupId": "3sFDDyfVb4YH",
+    "groupName": "Blinkdrama-v02-us",
+    "routing": "rotator",
+    "geo": "US",
+    "yesterdayRpm": 71.2,
+    "yesterdayRev": 1649.59,
+    "yesterdayRpmTrend": -11.88,
+    "yesterdayRevTrend": -5.22,
+    "offerList": [
+      {
+        "offerId": "3sFCvYmcWean",
+        "offerName": "Blinkdrama-v02-A7-Us-11850-algo-cash.com",
+        "categoryName": "其他",
+        "weight": 0.02,
+        "channelId": "11850",
+        "countryCode": "US",
+        "afsSource": "7",
+        "todayRpm": 24.9,
+        "todayRev": 5.9
+      },
+      {
+        "offerId": "3sFCjUj5Q5vz",
+        "offerName": "Blinkdrama-v02-A4-Us-8895922786-zestfularcade.com",
+        "categoryName": "丁丙诺啡市场",
+        "weight": 0.2,
+        "channelId": "8895922786",
+        "countryCode": "US",
+        "afsSource": "4",
+        "todayRpm": 73.4,
+        "todayRev": 189.08
+      },
+      {
+        "offerId": "3v8SmNJ9A0YF",
+        "offerName": "Blinkdrama-v02-A1-Us-15585-insurance-consulting-nearby.com",
+        "categoryName": "丁丙诺啡市场",
+        "weight": 0.35,
+        "channelId": "15585",
+        "countryCode": "US",
+        "afsSource": "1",
+        "todayRpm": 128.7,
+        "todayRev": 411.1
+      },
+      {
+        "offerId": "3wsFjIN71Mkz",
+        "offerName": "Blinkdrama-v02-A15-us-3619050185-mpbus.com",
+        "categoryName": "其他",
+        "weight": 0.01,
+        "channelId": "3619050185",
+        "countryCode": "US",
+        "afsSource": "15",
+        "todayRpm": 20.9,
+        "todayRev": 5.65
+      },
+      {
+        "offerId": "3wsEYJJ6fFdm",
+        "offerName": "Blinkdrama-v02-A5-us-8412824288-funfillgames.com",
+        "categoryName": "其他",
+        "weight": 0.01,
+        "channelId": "8412824288",
+        "countryCode": "US",
+        "afsSource": "5",
+        "todayRpm": 19.9,
+        "todayRev": 3.88
+      },
+      {
+        "offerId": "3yQgx4dSR98u",
+        "offerName": "Blinkdrama-v02-A12-us-7191142882-degreesuccesstips.com",
+        "categoryName": "临床研究",
+        "weight": 0.01,
+        "channelId": "7191142882",
+        "countryCode": "US",
+        "afsSource": "12",
+        "todayRpm": 19.2,
+        "todayRev": 4.81
+      },
+      {
+        "offerId": "3ywLwZdJd3h4",
+        "offerName": "Blinkdrama-v02-A1-Us-13431-homeguarddeals.com",
+        "categoryName": "丁丙诺啡市场",
+        "weight": 0.34,
+        "channelId": "13431",
+        "countryCode": "US",
+        "afsSource": "1",
+        "todayRpm": 131.6,
+        "todayRev": 374.66
+      },
+      {
+        "offerId": "3ywM1sGdjCvr",
+        "offerName": "Blinkdrama-v02-A1-Us-13432-nearby-dental-implants.com",
+        "categoryName": "丁丙诺啡市场",
+        "weight": 0.01,
+        "channelId": "13432",
+        "countryCode": "US",
+        "afsSource": "1",
+        "todayRpm": 16.8,
+        "todayRev": 2.39
+      },
+      {
+        "offerId": "3ywMAVoLRZCZ",
+        "offerName": "Blinkdrama-v02-A4-Us-1502816526-jubilantsphere.com",
+        "categoryName": "丁丙诺啡市场",
+        "weight": 0.22,
+        "channelId": "1502816526",
+        "countryCode": "US",
+        "afsSource": "4",
+        "todayRpm": 83.2,
+        "todayRev": 254.41
+      },
+      {
+        "offerId": "3ywMItQ8waKO",
+        "offerName": "Blinkdrama-v02-A5-us-1845597308-whirlwindarcade.com",
+        "categoryName": "丁丙诺啡市场",
+        "weight": 0.03,
+        "channelId": "1845597308",
+        "countryCode": "US",
+        "afsSource": "5",
+        "todayRpm": 48.6,
+        "todayRev": 59.16
+      },
+      {
+        "offerId": "3ywMQmmIkFAy",
+        "offerName": "Blinkdrama-v02-A7-Us-18650-www.newamc.com",
+        "categoryName": "丁丙诺啡市场",
+        "weight": 0.24,
+        "channelId": "18650",
+        "countryCode": "US",
+        "afsSource": "7",
+        "todayRpm": 89.1,
+        "todayRev": 261.74
+      },
+      {
+        "offerId": "3ywMVBbPrQVd",
+        "offerName": "Blinkdrama-v02-A7-Us-18651-xveluxai.com",
+        "categoryName": "健康保险",
+        "weight": 0.02,
+        "channelId": "18651",
+        "countryCode": "US",
+        "afsSource": "7",
+        "todayRpm": 25.9,
+        "todayRev": 6.75
+      },
+      {
+        "offerId": "3ywMb9GM5fp0",
+        "offerName": "Blinkdrama-v02-A12-us-3826752218-protectlifeplan.com ",
+        "categoryName": "丁丙诺啡市场",
+        "weight": 0.03,
+        "channelId": "3826752218",
+        "countryCode": "US",
+        "afsSource": "12",
+        "todayRpm": 47,
+        "todayRev": 43.39
+      },
+      {
+        "offerId": "3ywMgU6iMlyL",
+        "offerName": "Blinkdrama-v02-A15-us-5357965274-lstmai.com",
+        "categoryName": "其他",
+        "weight": 0.02,
+        "channelId": "5357965274",
+        "countryCode": "US",
+        "afsSource": "15",
+        "todayRpm": 25.4,
+        "todayRev": 5.1
+      }
+    ],
+    "funnelId": "3sFDuJeEbeay",
+    "funnelName": "Blinkdrama-v02",
+    "partnerName": "Blinkdrama",
+    "urlName": "Blinkdrama-v02",
+    "urlId": 141,
+    "platform": "MIS"
+  }
+}

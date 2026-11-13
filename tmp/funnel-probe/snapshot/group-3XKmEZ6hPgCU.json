@@ -1,0 +1,76 @@
+{
+  "code": 200,
+  "data": {
+    "groupId": "3XKmEZ6hPgCU",
+    "groupName": "cd-A50-jp",
+    "routing": "",
+    "geo": "JP",
+    "yesterdayRpm": 0.3,
+    "yesterdayRev": 0.66,
+    "yesterdayRpmTrend": -70,
+    "yesterdayRevTrend": -68.72,
+    "offerList": [
+      {
+        "offerId": "3lplh97wmh9X",
+        "offerName": "cd-reel-50-A14-JP-7826736975",
+        "categoryName": "牙齿植入",
+        "weight": 0.02,
+        "channelId": "7826736975",
+        "countryCode": null,
+        "afsSource": null,
+        "todayRpm": 0,
+        "todayRev": 0
+      },
+      {
+        "offerId": "3lWWRRGzYdrd",
+        "offerName": "cd-reel-50-A12-JP-3731730900",
+        "categoryName": "殡葬",
+        "weight": 1,
+        "channelId": "3731730900",
+        "countryCode": null,
+        "afsSource": null,
+        "todayRpm": 0.5,
+        "todayRev": 0.19
+      },
+      {
+        "offerId": "3olvQhPTB8Fk",
+        "offerName": "yahu-v01",
+        "categoryName": null,
+        "weight": 0.02,
+        "channelId": null,
+        "countryCode": null,
+        "afsSource": null,
+        "todayRpm": 0,
+        "todayRev": 0
+      },
+      {
+        "offerId": "3XKk9h9BJ0KK",
+        "offerName": "CD-50-A4-jp-8671712417",
+        "categoryName": "私募信贷",
+        "weight": 0,
+        "channelId": "8671712417",
+        "countryCode": null,
+        "afsSource": null,
+        "todayRpm": 0.2,
+        "todayRev": 0.09
+      },
+      {
+        "offerId": "3XKlHu3jDGts",
+        "offerName": "Cd-A50-A7-jp-9653496952",
+        "categoryName": "私募信贷",
+        "weight": 0,
+        "channelId": "9653496952",
+        "countryCode": null,
+        "afsSource": null,
+        "todayRpm": 0,
+        "todayRev": 0
+      }
+    ],
+    "funnelId": "3LcdpN4mS9hK",
+    "funnelName": "cd-reel-A5-50",
+    "partnerName": "changdu",
+    "urlName": "moboreels",
+    "urlId": 50,
+    "platform": "FF"
+  }
+}

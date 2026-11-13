@@ -1,0 +1,1639 @@
+{
+  "title": "白名单漏斗换文分析",
+  "primaryDay": "2026-11-12",
+  "generatedAt": "2026-11-12T09:41:38.115Z",
+  "summary": {
+    "pendingFunnels": 18,
+    "weakOffers": 40,
+    "highSeverity": 40
+  },
+  "funnels": [
+    {
+      "funnelId": "3zawx1d3eHDg",
+      "funnelName": "reader-v01",
+      "weakOfferCount": 6,
+      "highSeverityCount": 6,
+      "visits": 20623,
+      "revenue": 40.77,
+      "currentCategories": [
+        "诊断 / 急诊",
+        "肿瘤 / 生物制剂",
+        "医疗·皮肤",
+        "自身免疫",
+        "医疗·偏头痛",
+        "医疗·泌尿外科"
+      ],
+      "sampleReasons": [
+        "有访问(19334)但转化=0",
+        "收入 $0.48 低于同国家中位 $5.37 的 40%",
+        "漏斗 CTR 6.56 低于同国家中位 32.34 的 50%"
+      ],
+      "suggest": [
+        {
+          "categoryName": "肿瘤 / 生物制剂",
+          "lexiconKey": "肿瘤 / 生物制剂",
+          "keywords": [
+            "Opdivo Cost Without Insurance",
+            "Tagrisso Cost Without Insurance",
+            "Revlimid Cost Without Insurance",
+            "Verzenio Cost Without Insurance",
+            "Xtandi Cost Without Insurance"
+          ]
+        },
+        {
+          "categoryName": "GLP-1 / 糖尿病",
+          "lexiconKey": "GLP-1 / 糖尿病",
+          "keywords": [
+            "Tirzepatide Cost Without Insurance",
+            "Semaglutide Cost Without Insurance",
+            "Saxenda Cost Without Insurance",
+            "Trulicity Cost Without Insurance",
+            "Contrave Cost Without Insurance"
+          ]
+        },
+        {
+          "categoryName": "诊断 / 急诊",
+          "lexiconKey": "诊断 / 急诊",
+          "keywords": [
+            "PET Scan Cost Without Insurance",
+            "Sleep Study Cost Without Insurance",
+            "Bone Density Scan Cost",
+            "Echocardiogram Cost"
+          ]
+        }
+      ],
+      "weakOffers": [
+        {
+          "offerName": "reader-v01-A15-9325866530-default",
+          "offerId": "402qJWBBxRg1",
+          "geo": null,
+          "currentCategory": "诊断 / 急诊",
+          "severity": "high",
+          "visits": 19334,
+          "revenue": 0.48,
+          "reasons": [
+            "有访问(19334)但转化=0",
+            "收入 $0.48 低于同国家中位 $5.37 的 40%"
+          ],
+          "suggestCategories": [
+            "眼科 / 视力",
+            "牙科",
+            "医疗·偏头痛"
+          ]
+        },
+        {
+          "offerName": "reader-v01-A4-us-7723809864-zestfularcade.com",
+          "offerId": "3zauhaQtjnmN",
+          "geo": "US",
+          "currentCategory": "肿瘤 / 生物制剂",
+          "severity": "high",
+          "visits": 473,
+          "revenue": 19.75,
+          "reasons": [
+            "有访问(473)但转化=0",
+            "漏斗 CTR 11.45 低于同国家中位 30.29 的 50%"
+          ],
+          "suggestCategories": [
+            "GLP-1 / 糖尿病",
+            "诊断 / 急诊",
+            "自身免疫"
+          ]
+        },
+        {
+          "offerName": "reader-v01-A12-us-5132442487-degreesuccesstips.com",
+          "offerId": "3zauMtMZADGQ",
+          "geo": "US",
+          "currentCategory": "医疗·皮肤",
+          "severity": "high",
+          "visits": 305,
+          "revenue": 9.52,
+          "reasons": [
+            "有访问(305)但转化=0",
+            "Funnel RPM 0.65 低于同国家中位 2.01 的 40%"
+          ],
+          "suggestCategories": [
+            "肿瘤 / 生物制剂",
+            "GLP-1 / 糖尿病",
+            "诊断 / 急诊"
+          ]
+        },
+        {
+          "offerName": "reader-v01-A5-us-1739390750-easyfungalaxy.com",
+          "offerId": "402osICYQATy",
+          "geo": "US",
+          "currentCategory": "自身免疫",
+          "severity": "high",
+          "visits": 241,
+          "revenue": 0.62,
+          "reasons": [
+            "有访问(241)但转化=0",
+            "漏斗 CTR 4.08 低于同国家中位 30.29 的 50%"
+          ],
+          "suggestCategories": [
+            "肿瘤 / 生物制剂",
+            "GLP-1 / 糖尿病",
+            "诊断 / 急诊"
+          ]
+        },
+        {
+          "offerName": "reader-v01-A15-us-9325866530-51jiejue.com",
+          "offerId": "402pdf7yxaqY",
+          "geo": "US",
+          "currentCategory": "医疗·偏头痛",
+          "severity": "high",
+          "visits": 139,
+          "revenue": 0.48,
+          "reasons": [
+            "有访问(139)但转化=0",
+            "漏斗 CTR 6.56 低于同国家中位 30.29 的 50%"
+          ],
+          "suggestCategories": [
+            "肿瘤 / 生物制剂",
+            "GLP-1 / 糖尿病",
+            "诊断 / 急诊"
+          ]
+        },
+        {
+          "offerName": "reader-v01-A5-us-1930962446-whirlwindarcade.com",
+          "offerId": "3zauUYPQam8T",
+          "geo": "US",
+          "currentCategory": "医疗·泌尿外科",
+          "severity": "high",
+          "visits": 131,
+          "revenue": 9.92,
+          "reasons": [
+            "有访问(131)但转化=0",
+            "Funnel RPM 0.68 低于同国家中位 2.01 的 40%"
+          ],
+          "suggestCategories": [
+            "肿瘤 / 生物制剂",
+            "GLP-1 / 糖尿病",
+            "诊断 / 急诊"
+          ]
+        }
+      ]
+    },
+    {
+      "funnelId": "3zb0bcaeqhVS",
+      "funnelName": "moboreels-v01",
+      "weakOfferCount": 4,
+      "highSeverityCount": 4,
+      "visits": 23359,
+      "revenue": 47.46,
+      "currentCategories": [
+        "骨科 / 关节",
+        "医疗·偏头痛",
+        "肿瘤 / 生物制剂",
+        "自身免疫"
+      ],
+      "sampleReasons": [
+        "Funnel RPM 0.23 低于同国家中位 1.44 的 40%",
+        "漏斗 CTR 15.97 低于同国家中位 32.34 的 50%",
+        "有访问(211)但转化=0"
+      ],
+      "suggest": [
+        {
+          "categoryName": "GLP-1 / 糖尿病",
+          "lexiconKey": "GLP-1 / 糖尿病",
+          "keywords": [
+            "Tirzepatide Cost Without Insurance",
+            "Semaglutide Cost Without Insurance",
+            "Saxenda Cost Without Insurance",
+            "Trulicity Cost Without Insurance",
+            "Contrave Cost Without Insurance"
+          ]
+        },
+        {
+          "categoryName": "肿瘤 / 生物制剂",
+          "lexiconKey": "肿瘤 / 生物制剂",
+          "keywords": [
+            "Opdivo Cost Without Insurance",
+            "Tagrisso Cost Without Insurance",
+            "Revlimid Cost Without Insurance",
+            "Verzenio Cost Without Insurance",
+            "Xtandi Cost Without Insurance"
+          ]
+        },
+        {
+          "categoryName": "诊断 / 急诊",
+          "lexiconKey": "诊断 / 急诊",
+          "keywords": [
+            "PET Scan Cost Without Insurance",
+            "Sleep Study Cost Without Insurance",
+            "Bone Density Scan Cost",
+            "Echocardiogram Cost"
+          ]
+        }
+      ],
+      "weakOffers": [
+        {
+          "offerName": "moboreels-v01-A15-6671046943-default",
+          "offerId": "402HrJ1TwFPp",
+          "geo": null,
+          "currentCategory": "骨科 / 关节",
+          "severity": "high",
+          "visits": 22803,
+          "revenue": 5.22,
+          "reasons": [
+            "Funnel RPM 0.23 低于同国家中位 1.44 的 40%",
+            "漏斗 CTR 15.97 低于同国家中位 32.34 的 50%"
+          ],
+          "suggestCategories": [
+            "眼科 / 视力",
+            "牙科",
+            "医疗·偏头痛"
+          ]
+        },
+        {
+          "offerName": "moboreels-v01-A4-US-2811958953-zestfularcade.com",
+          "offerId": "3zazDPPc8BIz",
+          "geo": "US",
+          "currentCategory": "医疗·偏头痛",
+          "severity": "high",
+          "visits": 211,
+          "revenue": 39.38,
+          "reasons": [
+            "有访问(211)但转化=0",
+            "漏斗 CTR 13.72 低于同国家中位 30.29 的 50%"
+          ],
+          "suggestCategories": [
+            "肿瘤 / 生物制剂",
+            "GLP-1 / 糖尿病",
+            "诊断 / 急诊"
+          ]
+        },
+        {
+          "offerName": "moboreels-v01-A1-us-13411-insurance-consulting-nearby.com",
+          "offerId": "402E7vycE8Tj",
+          "geo": "US",
+          "currentCategory": "肿瘤 / 生物制剂",
+          "severity": "high",
+          "visits": 192,
+          "revenue": 1.42,
+          "reasons": [
+            "有访问(192)但转化=0",
+            "漏斗 CTR 7.28 低于同国家中位 30.29 的 50%"
+          ],
+          "suggestCategories": [
+            "GLP-1 / 糖尿病",
+            "诊断 / 急诊",
+            "自身免疫"
+          ]
+        },
+        {
+          "offerName": "moboreels-v01-A1-us-7303350887-homeguarddeals.com",
+          "offerId": "3zazJ1CDhdhh",
+          "geo": "US",
+          "currentCategory": "自身免疫",
+          "severity": "high",
+          "visits": 153,
+          "revenue": 1.44,
+          "reasons": [
+            "有访问(153)但转化=0",
+            "漏斗 CTR 5.39 低于同国家中位 30.29 的 50%"
+          ],
+          "suggestCategories": [
+            "肿瘤 / 生物制剂",
+            "GLP-1 / 糖尿病",
+            "诊断 / 急诊"
+          ]
+        }
+      ]
+    },
+    {
+      "funnelId": "3zaxNqwFxfnB",
+      "funnelName": "reader-v02",
+      "weakOfferCount": 4,
+      "highSeverityCount": 4,
+      "visits": 11021,
+      "revenue": 0.4,
+      "currentCategories": [
+        "骨科 / 关节",
+        "医疗·皮肤",
+        "心血管 / 抗凝"
+      ],
+      "sampleReasons": [
+        "有访问(2782)但转化=0",
+        "收入 $0.00 低于同国家中位 $0.77 的 40%",
+        "Funnel RPM 0.00 低于同国家中位 2.01 的 40%"
+      ],
+      "suggest": [
+        {
+          "categoryName": "肿瘤 / 生物制剂",
+          "lexiconKey": "肿瘤 / 生物制剂",
+          "keywords": [
+            "Opdivo Cost Without Insurance",
+            "Tagrisso Cost Without Insurance",
+            "Revlimid Cost Without Insurance",
+            "Verzenio Cost Without Insurance",
+            "Xtandi Cost Without Insurance"
+          ]
+        },
+        {
+          "categoryName": "GLP-1 / 糖尿病",
+          "lexiconKey": "GLP-1 / 糖尿病",
+          "keywords": [
+            "Tirzepatide Cost Without Insurance",
+            "Semaglutide Cost Without Insurance",
+            "Saxenda Cost Without Insurance",
+            "Trulicity Cost Without Insurance",
+            "Contrave Cost Without Insurance"
+          ]
+        },
+        {
+          "categoryName": "诊断 / 急诊",
+          "lexiconKey": "诊断 / 急诊",
+          "keywords": [
+            "PET Scan Cost Without Insurance",
+            "Sleep Study Cost Without Insurance",
+            "Bone Density Scan Cost",
+            "Echocardiogram Cost"
+          ]
+        }
+      ],
+      "weakOffers": [
+        {
+          "offerName": "reader-v02-A15-2952029875-default",
+          "offerId": "402qPUGYtKZJ",
+          "geo": "US",
+          "currentCategory": "骨科 / 关节",
+          "severity": "high",
+          "visits": 2782,
+          "revenue": 0,
+          "reasons": [
+            "有访问(2782)但转化=0",
+            "收入 $0.00 低于同国家中位 $0.77 的 40%"
+          ],
+          "suggestCategories": [
+            "肿瘤 / 生物制剂",
+            "GLP-1 / 糖尿病",
+            "诊断 / 急诊"
+          ]
+        },
+        {
+          "offerName": "reader-v02-A12-default-2402337368",
+          "offerId": "3zauw9hx9IkJ",
+          "geo": "US",
+          "currentCategory": "骨科 / 关节",
+          "severity": "high",
+          "visits": 2767,
+          "revenue": 0.22,
+          "reasons": [
+            "收入 $0.22 低于同国家中位 $0.77 的 40%",
+            "Funnel RPM 0.10 低于同国家中位 2.01 的 40%"
+          ],
+          "suggestCategories": [
+            "肿瘤 / 生物制剂",
+            "GLP-1 / 糖尿病",
+            "诊断 / 急诊"
+          ]
+        },
+        {
+          "offerName": "reader-v02-A7-default-7609117695",
+          "offerId": "3zav83AM5ews",
+          "geo": "US",
+          "currentCategory": "医疗·皮肤",
+          "severity": "high",
+          "visits": 2742,
+          "revenue": 0.18,
+          "reasons": [
+            "收入 $0.18 低于同国家中位 $0.77 的 40%",
+            "Funnel RPM 0.08 低于同国家中位 2.01 的 40%"
+          ],
+          "suggestCategories": [
+            "肿瘤 / 生物制剂",
+            "GLP-1 / 糖尿病",
+            "诊断 / 急诊"
+          ]
+        },
+        {
+          "offerName": "reader-v02-A4-default-4300370257",
+          "offerId": "3zav1TiK98kg",
+          "geo": "US",
+          "currentCategory": "心血管 / 抗凝",
+          "severity": "high",
+          "visits": 2730,
+          "revenue": 0,
+          "reasons": [
+            "有访问(2730)但转化=0",
+            "收入 $0.00 低于同国家中位 $0.77 的 40%"
+          ],
+          "suggestCategories": [
+            "肿瘤 / 生物制剂",
+            "GLP-1 / 糖尿病",
+            "诊断 / 急诊"
+          ]
+        }
+      ]
+    },
+    {
+      "funnelId": "3wxU24LWkWif",
+      "funnelName": "storyreel-v05",
+      "weakOfferCount": 4,
+      "highSeverityCount": 4,
+      "visits": 1242,
+      "revenue": 0.49,
+      "currentCategories": [
+        "心血管 / 抗凝",
+        "医疗·皮肤",
+        "呼吸与睡眠"
+      ],
+      "sampleReasons": [
+        "有访问(331)但转化=0",
+        "收入 $0.29 低于同国家中位 $5.37 的 40%",
+        "有访问(308)但转化=0"
+      ],
+      "suggest": [
+        {
+          "categoryName": "眼科 / 视力",
+          "lexiconKey": "眼科 / 视力",
+          "keywords": [
+            "Eylea Cost Without Insurance",
+            "Wet AMD Treatment Cost",
+            "Glaucoma Surgery Cost"
+          ]
+        },
+        {
+          "categoryName": "牙科",
+          "lexiconKey": "牙科",
+          "keywords": [
+            "All-on-4 Dental Implants Cost",
+            "Dental Bone Graft Cost",
+            "Same Day Crown Cost"
+          ]
+        },
+        {
+          "categoryName": "医疗·偏头痛",
+          "lexiconKey": "医疗·偏头痛",
+          "keywords": [
+            "Emgality Cost Without Insurance",
+            "Aimovig Cost Without Insurance",
+            "Ubrelvy Cost Without Insurance",
+            "Nurtec Cost Without Insurance",
+            "Ajovy Cost Without Insurance"
+          ]
+        }
+      ],
+      "weakOffers": [
+        {
+          "offerName": "storyreel-v05-A7-default-11504",
+          "offerId": "3wxRDYXCMaBj",
+          "geo": null,
+          "currentCategory": "心血管 / 抗凝",
+          "severity": "high",
+          "visits": 331,
+          "revenue": 0.29,
+          "reasons": [
+            "有访问(331)但转化=0",
+            "收入 $0.29 低于同国家中位 $5.37 的 40%"
+          ],
+          "suggestCategories": [
+            "眼科 / 视力",
+            "牙科",
+            "医疗·偏头痛"
+          ]
+        },
+        {
+          "offerName": "storyreel-v05-A15-default-3504535236",
+          "offerId": "3wxRTZI6Km37",
+          "geo": null,
+          "currentCategory": "医疗·皮肤",
+          "severity": "high",
+          "visits": 308,
+          "revenue": 0.08,
+          "reasons": [
+            "有访问(308)但转化=0",
+            "收入 $0.08 低于同国家中位 $5.37 的 40%"
+          ],
+          "suggestCategories": [
+            "眼科 / 视力",
+            "牙科",
+            "医疗·偏头痛"
+          ]
+        },
+        {
+          "offerName": "storyreel-v05-A12-default-8007066269",
+          "offerId": "3wxRJ72Q7sNu",
+          "geo": null,
+          "currentCategory": "呼吸与睡眠",
+          "severity": "high",
+          "visits": 302,
+          "revenue": 0.08,
+          "reasons": [
+            "有访问(302)但转化=0",
+            "收入 $0.08 低于同国家中位 $5.37 的 40%"
+          ],
+          "suggestCategories": [
+            "眼科 / 视力",
+            "牙科",
+            "医疗·偏头痛"
+          ]
+        },
+        {
+          "offerName": "storyreel-v05-A4-default-9516430386",
+          "offerId": "3wxR0AQMscBf",
+          "geo": null,
+          "currentCategory": "心血管 / 抗凝",
+          "severity": "high",
+          "visits": 301,
+          "revenue": 0.04,
+          "reasons": [
+            "收入 $0.04 低于同国家中位 $5.37 的 40%",
+            "Funnel RPM 0.10 低于同国家中位 1.44 的 40%"
+          ],
+          "suggestCategories": [
+            "眼科 / 视力",
+            "牙科",
+            "医疗·偏头痛"
+          ]
+        }
+      ]
+    },
+    {
+      "funnelId": "3zb2pKLqQr7e",
+      "funnelName": "moboreels-v02",
+      "weakOfferCount": 3,
+      "highSeverityCount": 3,
+      "visits": 55687,
+      "revenue": 6.67,
+      "currentCategories": [
+        "诊断 / 急诊",
+        "心理健康 / 成瘾",
+        "医疗·偏头痛"
+      ],
+      "sampleReasons": [
+        "收入 $0.67 低于同国家中位 $5.37 的 40%",
+        "Funnel RPM 0.04 低于同国家中位 1.44 的 40%",
+        "漏斗 CTR 15.36 低于同国家中位 32.34 的 50%"
+      ],
+      "suggest": [
+        {
+          "categoryName": "眼科 / 视力",
+          "lexiconKey": "眼科 / 视力",
+          "keywords": [
+            "Eylea Cost Without Insurance",
+            "Wet AMD Treatment Cost",
+            "Glaucoma Surgery Cost"
+          ]
+        },
+        {
+          "categoryName": "牙科",
+          "lexiconKey": "牙科",
+          "keywords": [
+            "All-on-4 Dental Implants Cost",
+            "Dental Bone Graft Cost",
+            "Same Day Crown Cost"
+          ]
+        },
+        {
+          "categoryName": "医疗·偏头痛",
+          "lexiconKey": "医疗·偏头痛",
+          "keywords": [
+            "Emgality Cost Without Insurance",
+            "Aimovig Cost Without Insurance",
+            "Ubrelvy Cost Without Insurance",
+            "Nurtec Cost Without Insurance",
+            "Ajovy Cost Without Insurance"
+          ]
+        }
+      ],
+      "weakOffers": [
+        {
+          "offerName": "moboreels-v02-A15-default-8746545947",
+          "offerId": "402LNtAdJE3e",
+          "geo": null,
+          "currentCategory": "诊断 / 急诊",
+          "severity": "high",
+          "visits": 18579,
+          "revenue": 0.67,
+          "reasons": [
+            "收入 $0.67 低于同国家中位 $5.37 的 40%",
+            "Funnel RPM 0.04 低于同国家中位 1.44 的 40%"
+          ],
+          "suggestCategories": [
+            "眼科 / 视力",
+            "牙科",
+            "医疗·偏头痛"
+          ]
+        },
+        {
+          "offerName": "moboreels-v02-A12-default-3731730900",
+          "offerId": "3zazlAyBvvaN",
+          "geo": null,
+          "currentCategory": "心理健康 / 成瘾",
+          "severity": "high",
+          "visits": 18563,
+          "revenue": 5.94,
+          "reasons": [
+            "Funnel RPM 0.32 低于同国家中位 1.44 的 40%",
+            "漏斗 CTR 15.99 低于同国家中位 32.34 的 50%"
+          ],
+          "suggestCategories": [
+            "眼科 / 视力",
+            "牙科",
+            "医疗·偏头痛"
+          ]
+        },
+        {
+          "offerName": "moboreels-v02-A4-default-8671712417",
+          "offerId": "3zazvURRj6TD",
+          "geo": null,
+          "currentCategory": "医疗·偏头痛",
+          "severity": "high",
+          "visits": 18545,
+          "revenue": 0.06,
+          "reasons": [
+            "收入 $0.06 低于同国家中位 $5.37 的 40%",
+            "Funnel RPM 0.05 低于同国家中位 1.44 的 40%"
+          ],
+          "suggestCategories": [
+            "眼科 / 视力",
+            "牙科",
+            "医疗·皮肤"
+          ]
+        }
+      ]
+    },
+    {
+      "funnelId": "3zb3S8BZbPfp",
+      "funnelName": "moboreels-v04",
+      "weakOfferCount": 3,
+      "highSeverityCount": 3,
+      "visits": 11364,
+      "revenue": 2.68,
+      "currentCategories": [
+        "心理健康 / 成瘾",
+        "呼吸与睡眠"
+      ],
+      "sampleReasons": [
+        "收入 $0.78 低于同国家中位 $5.37 的 40%",
+        "Funnel RPM 0.18 低于同国家中位 1.44 的 40%",
+        "漏斗 CTR 13.86 低于同国家中位 32.34 的 50%"
+      ],
+      "suggest": [
+        {
+          "categoryName": "眼科 / 视力",
+          "lexiconKey": "眼科 / 视力",
+          "keywords": [
+            "Eylea Cost Without Insurance",
+            "Wet AMD Treatment Cost",
+            "Glaucoma Surgery Cost"
+          ]
+        },
+        {
+          "categoryName": "牙科",
+          "lexiconKey": "牙科",
+          "keywords": [
+            "All-on-4 Dental Implants Cost",
+            "Dental Bone Graft Cost",
+            "Same Day Crown Cost"
+          ]
+        },
+        {
+          "categoryName": "医疗·偏头痛",
+          "lexiconKey": "医疗·偏头痛",
+          "keywords": [
+            "Emgality Cost Without Insurance",
+            "Aimovig Cost Without Insurance",
+            "Ubrelvy Cost Without Insurance",
+            "Nurtec Cost Without Insurance",
+            "Ajovy Cost Without Insurance"
+          ]
+        }
+      ],
+      "weakOffers": [
+        {
+          "offerName": "moboreels-v04-A7-default-10930",
+          "offerId": "3zb2MFJ17cnO",
+          "geo": null,
+          "currentCategory": "心理健康 / 成瘾",
+          "severity": "high",
+          "visits": 3940,
+          "revenue": 0.78,
+          "reasons": [
+            "收入 $0.78 低于同国家中位 $5.37 的 40%",
+            "Funnel RPM 0.18 低于同国家中位 1.44 的 40%"
+          ],
+          "suggestCategories": [
+            "眼科 / 视力",
+            "牙科",
+            "医疗·偏头痛"
+          ]
+        },
+        {
+          "offerName": "moboreels-v04-A12-default-9598677745",
+          "offerId": "3zb2RxclzOAi",
+          "geo": null,
+          "currentCategory": "呼吸与睡眠",
+          "severity": "high",
+          "visits": 3793,
+          "revenue": 0.8,
+          "reasons": [
+            "收入 $0.80 低于同国家中位 $5.37 的 40%",
+            "Funnel RPM 0.20 低于同国家中位 1.44 的 40%"
+          ],
+          "suggestCategories": [
+            "眼科 / 视力",
+            "牙科",
+            "医疗·偏头痛"
+          ]
+        },
+        {
+          "offerName": "moboreels-v04-A4-default-8836912457",
+          "offerId": "3zb2OzWzfG2Z",
+          "geo": null,
+          "currentCategory": "呼吸与睡眠",
+          "severity": "high",
+          "visits": 3631,
+          "revenue": 1.1,
+          "reasons": [
+            "收入 $1.10 低于同国家中位 $5.37 的 40%",
+            "Funnel RPM 0.28 低于同国家中位 1.44 的 40%"
+          ],
+          "suggestCategories": [
+            "眼科 / 视力",
+            "牙科",
+            "医疗·偏头痛"
+          ]
+        }
+      ]
+    },
+    {
+      "funnelId": "3uDZt8ImMHUl",
+      "funnelName": "Blinkdrama-v04",
+      "weakOfferCount": 2,
+      "highSeverityCount": 2,
+      "visits": 4529,
+      "revenue": 12.54,
+      "currentCategories": [
+        "心理健康 / 成瘾",
+        "医疗·偏头痛"
+      ],
+      "sampleReasons": [
+        "有访问(4358)但转化=0",
+        "收入 $0.14 低于同国家中位 $5.37 的 40%",
+        "有访问(171)但转化=0"
+      ],
+      "suggest": [
+        {
+          "categoryName": "眼科 / 视力",
+          "lexiconKey": "眼科 / 视力",
+          "keywords": [
+            "Eylea Cost Without Insurance",
+            "Wet AMD Treatment Cost",
+            "Glaucoma Surgery Cost"
+          ]
+        },
+        {
+          "categoryName": "肿瘤 / 生物制剂",
+          "lexiconKey": "肿瘤 / 生物制剂",
+          "keywords": [
+            "Opdivo Cost Without Insurance",
+            "Tagrisso Cost Without Insurance",
+            "Revlimid Cost Without Insurance",
+            "Verzenio Cost Without Insurance",
+            "Xtandi Cost Without Insurance"
+          ]
+        },
+        {
+          "categoryName": "牙科",
+          "lexiconKey": "牙科",
+          "keywords": [
+            "All-on-4 Dental Implants Cost",
+            "Dental Bone Graft Cost",
+            "Same Day Crown Cost"
+          ]
+        }
+      ],
+      "weakOffers": [
+        {
+          "offerName": "Blinkdrama-v04-A15-default-4932131851",
+          "offerId": "3wsF8g4iRZWO",
+          "geo": null,
+          "currentCategory": "心理健康 / 成瘾",
+          "severity": "high",
+          "visits": 4358,
+          "revenue": 0.14,
+          "reasons": [
+            "有访问(4358)但转化=0",
+            "收入 $0.14 低于同国家中位 $5.37 的 40%"
+          ],
+          "suggestCategories": [
+            "眼科 / 视力",
+            "牙科",
+            "医疗·偏头痛"
+          ]
+        },
+        {
+          "offerName": "Blinkdrama-v04-A12-us-2092927125-degreesuccesstips.com",
+          "offerId": "3yQhAOrPBABm",
+          "geo": "US",
+          "currentCategory": "医疗·偏头痛",
+          "severity": "high",
+          "visits": 171,
+          "revenue": 12.4,
+          "reasons": [
+            "有访问(171)但转化=0"
+          ],
+          "suggestCategories": [
+            "肿瘤 / 生物制剂",
+            "GLP-1 / 糖尿病",
+            "诊断 / 急诊"
+          ]
+        }
+      ]
+    },
+    {
+      "funnelId": "3wxQUAbsGb0e",
+      "funnelName": "storyreel-v04",
+      "weakOfferCount": 2,
+      "highSeverityCount": 2,
+      "visits": 1290,
+      "revenue": 0.61,
+      "currentCategories": [
+        "心血管 / 抗凝",
+        "自身免疫"
+      ],
+      "sampleReasons": [
+        "收入 $0.51 低于同国家中位 $5.37 的 40%",
+        "Funnel RPM 0.56 低于同国家中位 1.44 的 40%",
+        "收入 $0.10 低于同国家中位 $5.37 的 40%"
+      ],
+      "suggest": [
+        {
+          "categoryName": "眼科 / 视力",
+          "lexiconKey": "眼科 / 视力",
+          "keywords": [
+            "Eylea Cost Without Insurance",
+            "Wet AMD Treatment Cost",
+            "Glaucoma Surgery Cost"
+          ]
+        },
+        {
+          "categoryName": "牙科",
+          "lexiconKey": "牙科",
+          "keywords": [
+            "All-on-4 Dental Implants Cost",
+            "Dental Bone Graft Cost",
+            "Same Day Crown Cost"
+          ]
+        },
+        {
+          "categoryName": "医疗·偏头痛",
+          "lexiconKey": "医疗·偏头痛",
+          "keywords": [
+            "Emgality Cost Without Insurance",
+            "Aimovig Cost Without Insurance",
+            "Ubrelvy Cost Without Insurance",
+            "Nurtec Cost Without Insurance",
+            "Ajovy Cost Without Insurance"
+          ]
+        }
+      ],
+      "weakOffers": [
+        {
+          "offerName": "storyreel-v04-A12-default-7547901266",
+          "offerId": "3wxNnEgnV6l0",
+          "geo": null,
+          "currentCategory": "心血管 / 抗凝",
+          "severity": "high",
+          "visits": 674,
+          "revenue": 0.51,
+          "reasons": [
+            "收入 $0.51 低于同国家中位 $5.37 的 40%",
+            "Funnel RPM 0.56 低于同国家中位 1.44 的 40%"
+          ],
+          "suggestCategories": [
+            "眼科 / 视力",
+            "牙科",
+            "医疗·偏头痛"
+          ]
+        },
+        {
+          "offerName": "storyreel-v04-A15-default-6939282168",
+          "offerId": "3wxNsLajkcY8",
+          "geo": null,
+          "currentCategory": "自身免疫",
+          "severity": "high",
+          "visits": 616,
+          "revenue": 0.1,
+          "reasons": [
+            "收入 $0.10 低于同国家中位 $5.37 的 40%",
+            "Funnel RPM 0.13 低于同国家中位 1.44 的 40%"
+          ],
+          "suggestCategories": [
+            "眼科 / 视力",
+            "牙科",
+            "医疗·偏头痛"
+          ]
+        }
+      ]
+    },
+    {
+      "funnelId": "3ws8SMf82B2C",
+      "funnelName": "ShortMax-v06",
+      "weakOfferCount": 2,
+      "highSeverityCount": 2,
+      "visits": 1144,
+      "revenue": 0.17,
+      "currentCategories": [
+        "医疗·皮肤",
+        "医疗·泌尿外科"
+      ],
+      "sampleReasons": [
+        "有访问(592)但转化=0",
+        "收入 $0.06 低于同国家中位 $5.37 的 40%",
+        "Funnel RPM 0.08 低于同国家中位 1.44 的 40%"
+      ],
+      "suggest": [
+        {
+          "categoryName": "眼科 / 视力",
+          "lexiconKey": "眼科 / 视力",
+          "keywords": [
+            "Eylea Cost Without Insurance",
+            "Wet AMD Treatment Cost",
+            "Glaucoma Surgery Cost"
+          ]
+        },
+        {
+          "categoryName": "牙科",
+          "lexiconKey": "牙科",
+          "keywords": [
+            "All-on-4 Dental Implants Cost",
+            "Dental Bone Graft Cost",
+            "Same Day Crown Cost"
+          ]
+        },
+        {
+          "categoryName": "医疗·偏头痛",
+          "lexiconKey": "医疗·偏头痛",
+          "keywords": [
+            "Emgality Cost Without Insurance",
+            "Aimovig Cost Without Insurance",
+            "Ubrelvy Cost Without Insurance",
+            "Nurtec Cost Without Insurance",
+            "Ajovy Cost Without Insurance"
+          ]
+        }
+      ],
+      "weakOffers": [
+        {
+          "offerName": "shortmax-v06-A15-default-2054687076",
+          "offerId": "3ws6tRAB8KRH",
+          "geo": null,
+          "currentCategory": "医疗·皮肤",
+          "severity": "high",
+          "visits": 592,
+          "revenue": 0.06,
+          "reasons": [
+            "有访问(592)但转化=0",
+            "收入 $0.06 低于同国家中位 $5.37 的 40%"
+          ],
+          "suggestCategories": [
+            "眼科 / 视力",
+            "牙科",
+            "医疗·偏头痛"
+          ]
+        },
+        {
+          "offerName": "shortmax-v06-A5-default-5231879751",
+          "offerId": "3ws5zZD5gVV4",
+          "geo": null,
+          "currentCategory": "医疗·泌尿外科",
+          "severity": "high",
+          "visits": 552,
+          "revenue": 0.11,
+          "reasons": [
+            "收入 $0.11 低于同国家中位 $5.37 的 40%",
+            "Funnel RPM 0.15 低于同国家中位 1.44 的 40%"
+          ],
+          "suggestCategories": [
+            "眼科 / 视力",
+            "牙科",
+            "医疗·偏头痛"
+          ]
+        }
+      ]
+    },
+    {
+      "funnelId": "3sFDWWqvNxR9",
+      "funnelName": "Blinkdrama-v01",
+      "weakOfferCount": 2,
+      "highSeverityCount": 2,
+      "visits": 355,
+      "revenue": 30.44,
+      "currentCategories": [
+        "医疗·偏头痛",
+        "眼科 / 视力"
+      ],
+      "sampleReasons": [
+        "有访问(196)但转化=0",
+        "有访问(159)但转化=0"
+      ],
+      "suggest": [
+        {
+          "categoryName": "肿瘤 / 生物制剂",
+          "lexiconKey": "肿瘤 / 生物制剂",
+          "keywords": [
+            "Opdivo Cost Without Insurance",
+            "Tagrisso Cost Without Insurance",
+            "Revlimid Cost Without Insurance",
+            "Verzenio Cost Without Insurance",
+            "Xtandi Cost Without Insurance"
+          ]
+        },
+        {
+          "categoryName": "GLP-1 / 糖尿病",
+          "lexiconKey": "GLP-1 / 糖尿病",
+          "keywords": [
+            "Tirzepatide Cost Without Insurance",
+            "Semaglutide Cost Without Insurance",
+            "Saxenda Cost Without Insurance",
+            "Trulicity Cost Without Insurance",
+            "Contrave Cost Without Insurance"
+          ]
+        },
+        {
+          "categoryName": "诊断 / 急诊",
+          "lexiconKey": "诊断 / 急诊",
+          "keywords": [
+            "PET Scan Cost Without Insurance",
+            "Sleep Study Cost Without Insurance",
+            "Bone Density Scan Cost",
+            "Echocardiogram Cost"
+          ]
+        }
+      ],
+      "weakOffers": [
+        {
+          "offerName": "Blinkdrama-v01-A1-Us-13247-homeguarddeals.com",
+          "offerId": "3ykOB11qNeRV",
+          "geo": "US",
+          "currentCategory": "医疗·偏头痛",
+          "severity": "high",
+          "visits": 196,
+          "revenue": 15.11,
+          "reasons": [
+            "有访问(196)但转化=0"
+          ],
+          "suggestCategories": [
+            "肿瘤 / 生物制剂",
+            "GLP-1 / 糖尿病",
+            "诊断 / 急诊"
+          ]
+        },
+        {
+          "offerName": "Blinkdrama-v01-A4-Us-8002532881-joyfulgaminghub9.com",
+          "offerId": "3ykOHLIDuHL8",
+          "geo": "US",
+          "currentCategory": "眼科 / 视力",
+          "severity": "high",
+          "visits": 159,
+          "revenue": 15.33,
+          "reasons": [
+            "有访问(159)但转化=0"
+          ],
+          "suggestCategories": [
+            "肿瘤 / 生物制剂",
+            "GLP-1 / 糖尿病",
+            "诊断 / 急诊"
+          ]
+        }
+      ]
+    },
+    {
+      "funnelId": "3uDZjmliiexb",
+      "funnelName": "Blinkdrama-v03",
+      "weakOfferCount": 1,
+      "highSeverityCount": 1,
+      "visits": 3416,
+      "revenue": 1.46,
+      "currentCategories": [
+        "自身免疫"
+      ],
+      "sampleReasons": [
+        "有访问(3416)但转化=0"
+      ],
+      "suggest": [
+        {
+          "categoryName": "肿瘤 / 生物制剂",
+          "lexiconKey": "肿瘤 / 生物制剂",
+          "keywords": [
+            "Opdivo Cost Without Insurance",
+            "Tagrisso Cost Without Insurance",
+            "Revlimid Cost Without Insurance",
+            "Verzenio Cost Without Insurance",
+            "Xtandi Cost Without Insurance"
+          ]
+        },
+        {
+          "categoryName": "GLP-1 / 糖尿病",
+          "lexiconKey": "GLP-1 / 糖尿病",
+          "keywords": [
+            "Tirzepatide Cost Without Insurance",
+            "Semaglutide Cost Without Insurance",
+            "Saxenda Cost Without Insurance",
+            "Trulicity Cost Without Insurance",
+            "Contrave Cost Without Insurance"
+          ]
+        },
+        {
+          "categoryName": "诊断 / 急诊",
+          "lexiconKey": "诊断 / 急诊",
+          "keywords": [
+            "PET Scan Cost Without Insurance",
+            "Sleep Study Cost Without Insurance",
+            "Bone Density Scan Cost",
+            "Echocardiogram Cost"
+          ]
+        }
+      ],
+      "weakOffers": [
+        {
+          "offerName": "Blinkdrama-v03-A12-default-2175454077",
+          "offerId": "3wsD8NtAYVFs",
+          "geo": "US",
+          "currentCategory": "自身免疫",
+          "severity": "high",
+          "visits": 3416,
+          "revenue": 1.46,
+          "reasons": [
+            "有访问(3416)但转化=0"
+          ],
+          "suggestCategories": [
+            "肿瘤 / 生物制剂",
+            "GLP-1 / 糖尿病",
+            "诊断 / 急诊"
+          ]
+        }
+      ]
+    },
+    {
+      "funnelId": "3z7d1Vmn8Fku",
+      "funnelName": "ShortMax-v04",
+      "weakOfferCount": 1,
+      "highSeverityCount": 1,
+      "visits": 2007,
+      "revenue": 0.47,
+      "currentCategories": [
+        "呼吸与睡眠"
+      ],
+      "sampleReasons": [
+        "收入 $0.47 低于同国家中位 $5.37 的 40%",
+        "Funnel RPM 0.17 低于同国家中位 1.44 的 40%"
+      ],
+      "suggest": [
+        {
+          "categoryName": "眼科 / 视力",
+          "lexiconKey": "眼科 / 视力",
+          "keywords": [
+            "Eylea Cost Without Insurance",
+            "Wet AMD Treatment Cost",
+            "Glaucoma Surgery Cost"
+          ]
+        },
+        {
+          "categoryName": "牙科",
+          "lexiconKey": "牙科",
+          "keywords": [
+            "All-on-4 Dental Implants Cost",
+            "Dental Bone Graft Cost",
+            "Same Day Crown Cost"
+          ]
+        },
+        {
+          "categoryName": "医疗·偏头痛",
+          "lexiconKey": "医疗·偏头痛",
+          "keywords": [
+            "Emgality Cost Without Insurance",
+            "Aimovig Cost Without Insurance",
+            "Ubrelvy Cost Without Insurance",
+            "Nurtec Cost Without Insurance",
+            "Ajovy Cost Without Insurance"
+          ]
+        }
+      ],
+      "weakOffers": [
+        {
+          "offerName": "Shortmax-V04-A7-default-7868532178-www.newamc.com",
+          "offerId": "3z7alDgOVgnv",
+          "geo": null,
+          "currentCategory": "呼吸与睡眠",
+          "severity": "high",
+          "visits": 2007,
+          "revenue": 0.47,
+          "reasons": [
+            "收入 $0.47 低于同国家中位 $5.37 的 40%",
+            "Funnel RPM 0.17 低于同国家中位 1.44 的 40%"
+          ],
+          "suggestCategories": [
+            "眼科 / 视力",
+            "牙科",
+            "医疗·偏头痛"
+          ]
+        }
+      ]
+    },
+    {
+      "funnelId": "3rHsTlCL2Fcg",
+      "funnelName": "Vibeshort-V04",
+      "weakOfferCount": 1,
+      "highSeverityCount": 1,
+      "visits": 1653,
+      "revenue": 0.26,
+      "currentCategories": [
+        "医疗·泌尿外科"
+      ],
+      "sampleReasons": [
+        "收入 $0.26 低于同国家中位 $5.37 的 40%",
+        "Funnel RPM 0.12 低于同国家中位 1.44 的 40%"
+      ],
+      "suggest": [
+        {
+          "categoryName": "眼科 / 视力",
+          "lexiconKey": "眼科 / 视力",
+          "keywords": [
+            "Eylea Cost Without Insurance",
+            "Wet AMD Treatment Cost",
+            "Glaucoma Surgery Cost"
+          ]
+        },
+        {
+          "categoryName": "牙科",
+          "lexiconKey": "牙科",
+          "keywords": [
+            "All-on-4 Dental Implants Cost",
+            "Dental Bone Graft Cost",
+            "Same Day Crown Cost"
+          ]
+        },
+        {
+          "categoryName": "医疗·偏头痛",
+          "lexiconKey": "医疗·偏头痛",
+          "keywords": [
+            "Emgality Cost Without Insurance",
+            "Aimovig Cost Without Insurance",
+            "Ubrelvy Cost Without Insurance",
+            "Nurtec Cost Without Insurance",
+            "Ajovy Cost Without Insurance"
+          ]
+        }
+      ],
+      "weakOffers": [
+        {
+          "offerName": "vibeshort-v04-A7-default-11746",
+          "offerId": "3rHpCprKX16Y",
+          "geo": null,
+          "currentCategory": "医疗·泌尿外科",
+          "severity": "high",
+          "visits": 1653,
+          "revenue": 0.26,
+          "reasons": [
+            "收入 $0.26 低于同国家中位 $5.37 的 40%",
+            "Funnel RPM 0.12 低于同国家中位 1.44 的 40%"
+          ],
+          "suggestCategories": [
+            "眼科 / 视力",
+            "牙科",
+            "医疗·偏头痛"
+          ]
+        }
+      ]
+    },
+    {
+      "funnelId": "3wxF131slLhR",
+      "funnelName": "storyreel-v01",
+      "weakOfferCount": 1,
+      "highSeverityCount": 1,
+      "visits": 1008,
+      "revenue": 0.73,
+      "currentCategories": [
+        "医疗·皮肤"
+      ],
+      "sampleReasons": [
+        "收入 $0.73 低于同国家中位 $5.37 的 40%",
+        "Funnel RPM 0.52 低于同国家中位 1.44 的 40%"
+      ],
+      "suggest": [
+        {
+          "categoryName": "眼科 / 视力",
+          "lexiconKey": "眼科 / 视力",
+          "keywords": [
+            "Eylea Cost Without Insurance",
+            "Wet AMD Treatment Cost",
+            "Glaucoma Surgery Cost"
+          ]
+        },
+        {
+          "categoryName": "牙科",
+          "lexiconKey": "牙科",
+          "keywords": [
+            "All-on-4 Dental Implants Cost",
+            "Dental Bone Graft Cost",
+            "Same Day Crown Cost"
+          ]
+        },
+        {
+          "categoryName": "医疗·偏头痛",
+          "lexiconKey": "医疗·偏头痛",
+          "keywords": [
+            "Emgality Cost Without Insurance",
+            "Aimovig Cost Without Insurance",
+            "Ubrelvy Cost Without Insurance",
+            "Nurtec Cost Without Insurance",
+            "Ajovy Cost Without Insurance"
+          ]
+        }
+      ],
+      "weakOffers": [
+        {
+          "offerName": "storyreel-v01-A5-default-9486100633",
+          "offerId": "3wxCVyuPxTwX",
+          "geo": null,
+          "currentCategory": "医疗·皮肤",
+          "severity": "high",
+          "visits": 1008,
+          "revenue": 0.73,
+          "reasons": [
+            "收入 $0.73 低于同国家中位 $5.37 的 40%",
+            "Funnel RPM 0.52 低于同国家中位 1.44 的 40%"
+          ],
+          "suggestCategories": [
+            "眼科 / 视力",
+            "牙科",
+            "医疗·偏头痛"
+          ]
+        }
+      ]
+    },
+    {
+      "funnelId": "3z7nZk7WDoBd",
+      "funnelName": "ShortMax-v03",
+      "weakOfferCount": 1,
+      "highSeverityCount": 1,
+      "visits": 976,
+      "revenue": 2.18,
+      "currentCategories": [
+        "骨科 / 关节"
+      ],
+      "sampleReasons": [
+        "有访问(976)但转化=0",
+        "Funnel RPM 0.57 低于同国家中位 2.01 的 40%"
+      ],
+      "suggest": [
+        {
+          "categoryName": "肿瘤 / 生物制剂",
+          "lexiconKey": "肿瘤 / 生物制剂",
+          "keywords": [
+            "Opdivo Cost Without Insurance",
+            "Tagrisso Cost Without Insurance",
+            "Revlimid Cost Without Insurance",
+            "Verzenio Cost Without Insurance",
+            "Xtandi Cost Without Insurance"
+          ]
+        },
+        {
+          "categoryName": "GLP-1 / 糖尿病",
+          "lexiconKey": "GLP-1 / 糖尿病",
+          "keywords": [
+            "Tirzepatide Cost Without Insurance",
+            "Semaglutide Cost Without Insurance",
+            "Saxenda Cost Without Insurance",
+            "Trulicity Cost Without Insurance",
+            "Contrave Cost Without Insurance"
+          ]
+        },
+        {
+          "categoryName": "诊断 / 急诊",
+          "lexiconKey": "诊断 / 急诊",
+          "keywords": [
+            "PET Scan Cost Without Insurance",
+            "Sleep Study Cost Without Insurance",
+            "Bone Density Scan Cost",
+            "Echocardiogram Cost"
+          ]
+        }
+      ],
+      "weakOffers": [
+        {
+          "offerName": "Shortmax-V03-A15-default-7917387848-mpbus.com",
+          "offerId": "3z7k14Kx9LVK",
+          "geo": "US",
+          "currentCategory": "骨科 / 关节",
+          "severity": "high",
+          "visits": 976,
+          "revenue": 2.18,
+          "reasons": [
+            "有访问(976)但转化=0",
+            "Funnel RPM 0.57 低于同国家中位 2.01 的 40%"
+          ],
+          "suggestCategories": [
+            "肿瘤 / 生物制剂",
+            "GLP-1 / 糖尿病",
+            "诊断 / 急诊"
+          ]
+        }
+      ]
+    },
+    {
+      "funnelId": "3wxMhS6zF2m4",
+      "funnelName": "storyreel-v03",
+      "weakOfferCount": 1,
+      "highSeverityCount": 1,
+      "visits": 788,
+      "revenue": 0.45,
+      "currentCategories": [
+        "应用软件"
+      ],
+      "sampleReasons": [
+        "收入 $0.45 低于同国家中位 $5.37 的 40%",
+        "Funnel RPM 0.47 低于同国家中位 1.44 的 40%"
+      ],
+      "suggest": [
+        {
+          "categoryName": "眼科 / 视力",
+          "lexiconKey": "眼科 / 视力",
+          "keywords": [
+            "Eylea Cost Without Insurance",
+            "Wet AMD Treatment Cost",
+            "Glaucoma Surgery Cost"
+          ]
+        },
+        {
+          "categoryName": "牙科",
+          "lexiconKey": "牙科",
+          "keywords": [
+            "All-on-4 Dental Implants Cost",
+            "Dental Bone Graft Cost",
+            "Same Day Crown Cost"
+          ]
+        },
+        {
+          "categoryName": "医疗·偏头痛",
+          "lexiconKey": "医疗·偏头痛",
+          "keywords": [
+            "Emgality Cost Without Insurance",
+            "Aimovig Cost Without Insurance",
+            "Ubrelvy Cost Without Insurance",
+            "Nurtec Cost Without Insurance",
+            "Ajovy Cost Without Insurance"
+          ]
+        }
+      ],
+      "weakOffers": [
+        {
+          "offerName": "storyreel-v03-A12-default-5380902928",
+          "offerId": "3wxL3hwL2LaG",
+          "geo": null,
+          "currentCategory": "应用软件",
+          "severity": "high",
+          "visits": 788,
+          "revenue": 0.45,
+          "reasons": [
+            "收入 $0.45 低于同国家中位 $5.37 的 40%",
+            "Funnel RPM 0.47 低于同国家中位 1.44 的 40%"
+          ],
+          "suggestCategories": [
+            "眼科 / 视力",
+            "牙科",
+            "医疗·偏头痛"
+          ]
+        }
+      ]
+    },
+    {
+      "funnelId": "3uUfpSpZ3e2U",
+      "funnelName": "Blinkdrama-sign-v01",
+      "weakOfferCount": 1,
+      "highSeverityCount": 1,
+      "visits": 467,
+      "revenue": 148.75,
+      "currentCategories": [
+        "自身免疫"
+      ],
+      "sampleReasons": [
+        "有访问(467)但转化=0"
+      ],
+      "suggest": [
+        {
+          "categoryName": "肿瘤 / 生物制剂",
+          "lexiconKey": "肿瘤 / 生物制剂",
+          "keywords": [
+            "Opdivo Cost Without Insurance",
+            "Tagrisso Cost Without Insurance",
+            "Revlimid Cost Without Insurance",
+            "Verzenio Cost Without Insurance",
+            "Xtandi Cost Without Insurance"
+          ]
+        },
+        {
+          "categoryName": "GLP-1 / 糖尿病",
+          "lexiconKey": "GLP-1 / 糖尿病",
+          "keywords": [
+            "Tirzepatide Cost Without Insurance",
+            "Semaglutide Cost Without Insurance",
+            "Saxenda Cost Without Insurance",
+            "Trulicity Cost Without Insurance",
+            "Contrave Cost Without Insurance"
+          ]
+        },
+        {
+          "categoryName": "诊断 / 急诊",
+          "lexiconKey": "诊断 / 急诊",
+          "keywords": [
+            "PET Scan Cost Without Insurance",
+            "Sleep Study Cost Without Insurance",
+            "Bone Density Scan Cost",
+            "Echocardiogram Cost"
+          ]
+        }
+      ],
+      "weakOffers": [
+        {
+          "offerName": "Blinkdrama-sign-v01-A4-Us-1628696221-zestfularcade.com",
+          "offerId": "3uUeo9IhbaYj",
+          "geo": "US",
+          "currentCategory": "自身免疫",
+          "severity": "high",
+          "visits": 467,
+          "revenue": 148.75,
+          "reasons": [
+            "有访问(467)但转化=0"
+          ],
+          "suggestCategories": [
+            "肿瘤 / 生物制剂",
+            "GLP-1 / 糖尿病",
+            "诊断 / 急诊"
+          ]
+        }
+      ]
+    },
+    {
+      "funnelId": "3x47BxwjQBMo",
+      "funnelName": "ShortMax-v05",
+      "weakOfferCount": 1,
+      "highSeverityCount": 1,
+      "visits": 206,
+      "revenue": 10.29,
+      "currentCategories": [
+        "GLP-1 / 糖尿病"
+      ],
+      "sampleReasons": [
+        "有访问(206)但转化=0"
+      ],
+      "suggest": [
+        {
+          "categoryName": "肿瘤 / 生物制剂",
+          "lexiconKey": "肿瘤 / 生物制剂",
+          "keywords": [
+            "Opdivo Cost Without Insurance",
+            "Tagrisso Cost Without Insurance",
+            "Revlimid Cost Without Insurance",
+            "Verzenio Cost Without Insurance",
+            "Xtandi Cost Without Insurance"
+          ]
+        },
+        {
+          "categoryName": "诊断 / 急诊",
+          "lexiconKey": "诊断 / 急诊",
+          "keywords": [
+            "PET Scan Cost Without Insurance",
+            "Sleep Study Cost Without Insurance",
+            "Bone Density Scan Cost",
+            "Echocardiogram Cost"
+          ]
+        },
+        {
+          "categoryName": "自身免疫",
+          "lexiconKey": "医疗·自身免疫",
+          "keywords": [
+            "Dupixent Cost Without Insurance",
+            "Dupixent Cost Per Month",
+            "Skyrizi Cost Without Insurance",
+            "Rinvoq Cost Without Insurance",
+            "Enbrel Cost Without Insurance"
+          ]
+        }
+      ],
+      "weakOffers": [
+        {
+          "offerName": "JZ-05-A1-us-16503-insurance-consulting-nearby.com",
+          "offerId": "3x3WHv45ayCj",
+          "geo": "US",
+          "currentCategory": "GLP-1 / 糖尿病",
+          "severity": "high",
+          "visits": 206,
+          "revenue": 10.29,
+          "reasons": [
+            "有访问(206)但转化=0"
+          ],
+          "suggestCategories": [
+            "肿瘤 / 生物制剂",
+            "诊断 / 急诊",
+            "自身免疫"
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,76 @@
+{
+  "code": 200,
+  "data": {
+    "groupId": "3zb1132T5hJ7",
+    "groupName": "moboreels-v02-default",
+    "routing": "rotator",
+    "geo": "US",
+    "yesterdayRpm": 5.5,
+    "yesterdayRev": 12.65,
+    "yesterdayRpmTrend": 243.75,
+    "yesterdayRevTrend": 748.99,
+    "offerList": [
+      {
+        "offerId": "3zazvURRj6TD",
+        "offerName": "moboreels-v02-A4-default-8671712417",
+        "categoryName": "医疗·偏头痛",
+        "weight": 1,
+        "channelId": "8671712417",
+        "countryCode": null,
+        "afsSource": "4",
+        "todayRpm": 5.4,
+        "todayRev": 0.75
+      },
+      {
+        "offerId": "3zazqy3l27Ar",
+        "offerName": "moboreels-v02-A7-default-9653496952",
+        "categoryName": "心理健康 / 成瘾",
+        "weight": 1,
+        "channelId": "9653496952",
+        "countryCode": null,
+        "afsSource": "7",
+        "todayRpm": 10.9,
+        "todayRev": 6.1
+      },
+      {
+        "offerId": "3zazlAyBvvaN",
+        "offerName": "moboreels-v02-A12-default-3731730900",
+        "categoryName": "心理健康 / 成瘾",
+        "weight": 1,
+        "channelId": "3731730900",
+        "countryCode": null,
+        "afsSource": "12",
+        "todayRpm": 0,
+        "todayRev": 0
+      },
+      {
+        "offerId": "402LNtAdJE3e",
+        "offerName": "moboreels-v02-A15-default-8746545947",
+        "categoryName": "诊断 / 急诊",
+        "weight": 1,
+        "channelId": "8746545947",
+        "countryCode": null,
+        "afsSource": "15",
+        "todayRpm": 0.7,
+        "todayRev": 0.32
+      },
+      {
+        "offerId": "43qO2m9YUmCL",
+        "offerName": "moboreels-v02-A17-us-5769090169-seekmoon.ai",
+        "categoryName": null,
+        "weight": 1,
+        "channelId": "5769090169",
+        "countryCode": "US",
+        "afsSource": "17",
+        "todayRpm": 0,
+        "todayRev": 0
+      }
+    ],
+    "funnelId": "3zb2pKLqQr7e",
+    "funnelName": "moboreels-v02",
+    "partnerName": "changdu",
+    "urlName": "moboreels",
+    "urlId": 50,
+    "platform": "MIS"
+  }
+}

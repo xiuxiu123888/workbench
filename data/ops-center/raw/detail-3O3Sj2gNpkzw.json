@@ -1,0 +1,47 @@
+{
+  "code": 200,
+  "data": {
+    "funnelId": "3O3Sj2gNpkzw",
+    "funnelName": "cd-reader-A4-60",
+    "partnerName": "changdu",
+    "urlName": "moboreader",
+    "urlId": 60,
+    "offerGroupList": [
+      {
+        "groupId": "3WWjuuDg0OLo",
+        "groupName": "hard-news",
+        "geo": null
+      },
+      {
+        "groupId": "3XcIJjeaUYOT",
+        "groupName": "CD-Reader-A60-Us",
+        "geo": "US"
+      },
+      {
+        "groupId": "3XcIMLHvTZU9",
+        "groupName": "CD-Reader-A60-default",
+        "geo": "CD"
+      },
+      {
+        "groupId": "3XcIU4pyE9IB",
+        "groupName": "CD-Reader-A60-jp",
+        "geo": "JP"
+      },
+      {
+        "groupId": "3XcIbmYdMhX4",
+        "groupName": "CD-Reader-A60-br",
+        "geo": "BR"
+      },
+      {
+        "groupId": "3fmag1ouuXqJ",
+        "groupName": "BlockPage",
+        "geo": null
+      },
+      {
+        "groupId": "3njArvFYuY9n",
+        "groupName": "adsense-send",
+        "geo": null
+      }
+    ]
+  }
+}

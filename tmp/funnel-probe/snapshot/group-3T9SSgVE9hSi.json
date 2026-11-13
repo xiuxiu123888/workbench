@@ -1,0 +1,54 @@
+{
+  "code": 200,
+  "data": {
+    "groupId": "3T9SSgVE9hSi",
+    "groupName": "JZ-06-KR",
+    "routing": "",
+    "geo": "KR",
+    "yesterdayRpm": 0,
+    "yesterdayRev": 0,
+    "yesterdayRpmTrend": 0,
+    "yesterdayRevTrend": 0,
+    "offerList": [
+      {
+        "offerId": "3lMAsjNWb5lU",
+        "offerName": "JZ-06-A12-KR-6838607522",
+        "categoryName": "种牙",
+        "weight": 1,
+        "channelId": "6838607522",
+        "countryCode": null,
+        "afsSource": null,
+        "todayRpm": 0,
+        "todayRev": 0
+      },
+      {
+        "offerId": "3XGvww2ot0pg",
+        "offerName": "JZ-06-A4-KR-9259456650",
+        "categoryName": "系统软件",
+        "weight": 1,
+        "channelId": "9259456650",
+        "countryCode": null,
+        "afsSource": null,
+        "todayRpm": 0,
+        "todayRev": 0
+      },
+      {
+        "offerId": "3XGwcWtFylbO",
+        "offerName": "JZ-06-A7-KR-3115809079",
+        "categoryName": "小额贷款",
+        "weight": 1,
+        "channelId": "3115809079",
+        "countryCode": null,
+        "afsSource": null,
+        "todayRpm": 0,
+        "todayRev": 0
+      }
+    ],
+    "funnelId": "3SmbEZti3YSr",
+    "funnelName": "JZ-06",
+    "partnerName": "shortmax",
+    "urlName": "JZ-06",
+    "urlId": 86,
+    "platform": "FF"
+  }
+}

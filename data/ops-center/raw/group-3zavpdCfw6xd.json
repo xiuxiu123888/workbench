@@ -1,0 +1,87 @@
+{
+  "code": 200,
+  "data": {
+    "groupId": "3zavpdCfw6xd",
+    "groupName": "reader-v01-default",
+    "routing": "rotator",
+    "geo": "US",
+    "yesterdayRpm": 4.3,
+    "yesterdayRev": 35.59,
+    "yesterdayRpmTrend": -6.52,
+    "yesterdayRevTrend": 64.84,
+    "offerList": [
+      {
+        "offerId": "3zau8RmL62F6",
+        "offerName": "reader-v01-A4-default-7723809864",
+        "categoryName": "牙科",
+        "weight": 1,
+        "channelId": "7723809864",
+        "countryCode": null,
+        "afsSource": "4",
+        "todayRpm": 2.2,
+        "todayRev": 1.06
+      },
+      {
+        "offerId": "3zau1jwSK9N4",
+        "offerName": "reader-v01-A7-default-9508193152",
+        "categoryName": "医疗·皮肤",
+        "weight": 1,
+        "channelId": "9508193152",
+        "countryCode": null,
+        "afsSource": "7",
+        "todayRpm": 4,
+        "todayRev": 7.57
+      },
+      {
+        "offerId": "3zatuizFOLYi",
+        "offerName": "reader-v01-A12-default-5132442487",
+        "categoryName": "肿瘤 / 生物制剂",
+        "weight": 1,
+        "channelId": "5132442487",
+        "countryCode": null,
+        "afsSource": "12",
+        "todayRpm": 9.2,
+        "todayRev": 25.8
+      },
+      {
+        "offerId": "402qhISngEHL",
+        "offerName": "reader-v01-A5-us-1930962446-default",
+        "categoryName": "心理健康 / 成瘾",
+        "weight": 1,
+        "channelId": "1930962446",
+        "countryCode": null,
+        "afsSource": "5",
+        "todayRpm": 3.2,
+        "todayRev": 2.51
+      },
+      {
+        "offerId": "402qJWBBxRg1",
+        "offerName": "reader-v01-A15-9325866530-default",
+        "categoryName": "诊断 / 急诊",
+        "weight": 1,
+        "channelId": "9325866530",
+        "countryCode": null,
+        "afsSource": "15",
+        "todayRpm": 0,
+        "todayRev": 0
+      },
+      {
+        "offerId": "43qKCLmBcYoS",
+        "offerName": "reader-v01-A17-us-8315362458-seekmoon.ai",
+        "categoryName": null,
+        "weight": 1,
+        "channelId": "8315362458",
+        "countryCode": "US",
+        "afsSource": "17",
+        "todayRpm": 0,
+        "todayRev": 0
+      }
+    ],
+    "funnelId": "3zawx1d3eHDg",
+    "funnelName": "reader-v01",
+    "partnerName": null,
+    "urlName": null,
+    "urlId": null,
+    "platform": "MIS"
+  }
+}

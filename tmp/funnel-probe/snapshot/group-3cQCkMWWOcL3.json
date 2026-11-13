@@ -1,0 +1,32 @@
+{
+  "code": 200,
+  "data": {
+    "groupId": "3cQCkMWWOcL3",
+    "groupName": "jz14-default",
+    "routing": "",
+    "geo": "DEFAULT",
+    "yesterdayRpm": 0,
+    "yesterdayRev": 0,
+    "yesterdayRpmTrend": 0,
+    "yesterdayRevTrend": 0,
+    "offerList": [
+      {
+        "offerId": "3lpc6u9oTc0R",
+        "offerName": "JZ-14-A12-US-5798851698",
+        "categoryName": "种牙",
+        "weight": 0.33,
+        "channelId": "5798851698",
+        "countryCode": null,
+        "afsSource": null,
+        "todayRpm": 0,
+        "todayRev": 0
+      }
+    ],
+    "funnelId": "3cQDo7oKoOL2",
+    "funnelName": "JZ-14",
+    "partnerName": "shortmax",
+    "urlName": "JZ-14",
+    "urlId": 96,
+    "platform": "FF"
+  }
+}

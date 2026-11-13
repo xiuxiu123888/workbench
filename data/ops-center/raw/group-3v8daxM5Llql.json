@@ -1,0 +1,43 @@
+{
+  "code": 200,
+  "data": {
+    "groupId": "3v8daxM5Llql",
+    "groupName": "Novelix-V03-default",
+    "routing": "rotator",
+    "geo": null,
+    "yesterdayRpm": 0,
+    "yesterdayRev": 0,
+    "yesterdayRpmTrend": 0,
+    "yesterdayRevTrend": 0,
+    "offerList": [
+      {
+        "offerId": "3v8bWYMZgmZB",
+        "offerName": "Novelix-V03-A4-default-1575342444",
+        "categoryName": "个人贷款",
+        "weight": 1,
+        "channelId": "1575342444",
+        "countryCode": null,
+        "afsSource": "4",
+        "todayRpm": 0,
+        "todayRev": 0
+      },
+      {
+        "offerId": "3v8bjJKMFxOe",
+        "offerName": "Novelix-V03-A7-default-12439",
+        "categoryName": "个人贷款",
+        "weight": 1,
+        "channelId": "12439",
+        "countryCode": null,
+        "afsSource": "7",
+        "todayRpm": 0,
+        "todayRev": 0
+      }
+    ],
+    "funnelId": "3v8eGzq3brlh",
+    "funnelName": "Novelix-V03",
+    "partnerName": null,
+    "urlName": null,
+    "urlId": null,
+    "platform": "MIS"
+  }
+}

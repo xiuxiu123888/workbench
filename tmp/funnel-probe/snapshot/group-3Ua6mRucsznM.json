@@ -1,0 +1,65 @@
+{
+  "code": 200,
+  "data": {
+    "groupId": "3Ua6mRucsznM",
+    "groupName": "cd-reel-0825-fan-62-br",
+    "routing": "",
+    "geo": "BR",
+    "yesterdayRpm": 0.1,
+    "yesterdayRev": 0.27,
+    "yesterdayRpmTrend": -66.67,
+    "yesterdayRevTrend": -61.43,
+    "offerList": [
+      {
+        "offerId": "3i2aPrzZpeqO",
+        "offerName": "cd-reel-A6fan-62-A12-BR-2506279147",
+        "categoryName": "健康保险",
+        "weight": 0.02,
+        "channelId": "2506279147",
+        "countryCode": null,
+        "afsSource": null,
+        "todayRpm": 0.3,
+        "todayRev": 0.01
+      },
+      {
+        "offerId": "3lplh9ayCyBq",
+        "offerName": "cd-reel-A6fan-62-A14-BR-5006693019",
+        "categoryName": "健康保险",
+        "weight": 0.02,
+        "channelId": "5006693019",
+        "countryCode": null,
+        "afsSource": null,
+        "todayRpm": 0,
+        "todayRev": 0
+      },
+      {
+        "offerId": "3XKtEnDGK2Sd",
+        "offerName": "Cd-reel-0825-fan-62-A4-br-1747103610",
+        "categoryName": "冰箱分期",
+        "weight": 0.02,
+        "channelId": "1747103610",
+        "countryCode": null,
+        "afsSource": null,
+        "todayRpm": 0,
+        "todayRev": 0
+      },
+      {
+        "offerId": "3XKv5AZ8jEN3",
+        "offerName": "Cd-reel-0825-fan-62-A7-br-10926",
+        "categoryName": "冰箱分期",
+        "weight": 1,
+        "channelId": "10926",
+        "countryCode": null,
+        "afsSource": null,
+        "todayRpm": 0.1,
+        "todayRev": 0.16
+      }
+    ],
+    "funnelId": "3O9Vr9Ar6pNC",
+    "funnelName": "cd-reel-A6fan-62",
+    "partnerName": "changdu",
+    "urlName": "moboreels",
+    "urlId": 62,
+    "platform": "FF"
+  }
+}

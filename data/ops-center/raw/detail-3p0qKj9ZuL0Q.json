@@ -1,0 +1,27 @@
+{
+  "code": 200,
+  "data": {
+    "funnelId": "3p0qKj9ZuL0Q",
+    "funnelName": "ff-reel-v02",
+    "partnerName": null,
+    "urlName": null,
+    "urlId": null,
+    "offerGroupList": [
+      {
+        "groupId": "3p0pmj5CEmMp",
+        "groupName": "ff-reel-v02-default",
+        "geo": null
+      },
+      {
+        "groupId": "3p0pdvDAgW3j",
+        "groupName": "ff-reel-v02-us",
+        "geo": "US"
+      },
+      {
+        "groupId": "3p1VTJe8iCl6",
+        "groupName": "ff-reel-v02-br",
+        "geo": "BR"
+      }
+    ]
+  }
+}

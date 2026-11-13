@@ -1,0 +1,32 @@
+{
+  "code": 200,
+  "data": {
+    "groupId": "3fmag1ouuXqJ",
+    "groupName": "BlockPage",
+    "routing": "rotator",
+    "geo": null,
+    "yesterdayRpm": 0,
+    "yesterdayRev": 0,
+    "yesterdayRpmTrend": 0,
+    "yesterdayRevTrend": 0,
+    "offerList": [
+      {
+        "offerId": "3fmXQFeW0wej",
+        "offerName": "BlockPage",
+        "categoryName": null,
+        "weight": 1,
+        "channelId": null,
+        "countryCode": null,
+        "afsSource": null,
+        "todayRpm": 0,
+        "todayRev": 0
+      }
+    ],
+    "funnelId": "3O3Sj2gNpkzw",
+    "funnelName": "cd-reader-A4-60",
+    "partnerName": "changdu",
+    "urlName": "moboreader",
+    "urlId": 60,
+    "platform": "FF"
+  }
+}

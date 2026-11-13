@@ -1,0 +1,104 @@
+{
+  "title": "批量漏斗产文",
+  "startedAt": "2026-11-11T13:25:28.882Z",
+  "names": [
+    "reader-v01",
+    "ShortMax-v11",
+    "moboreels-v03",
+    "Vibeshort-V04",
+    "storyreel-v01",
+    "Vibeshort-V03",
+    "moboreels-v02",
+    "storyreel-v04",
+    "ShortMax-v06",
+    "storyreel-v03",
+    "cd-reader-pb-v01",
+    "storyreel-v05",
+    "reader-v02"
+  ],
+  "funnels": [
+    {
+      "funnelId": "3zawx1d3eHDg",
+      "funnelName": "reader-v01"
+    },
+    {
+      "funnelId": "3x4Biffp1su8",
+      "funnelName": "ShortMax-v11"
+    },
+    {
+      "funnelId": "3zb3PGEznP52",
+      "funnelName": "moboreels-v03"
+    },
+    {
+      "funnelId": "3rHsTlCL2Fcg",
+      "funnelName": "Vibeshort-V04"
+    },
+    {
+      "funnelId": "3wxF131slLhR",
+      "funnelName": "storyreel-v01"
+    },
+    {
+      "funnelId": "3w2ShcbnMk5i",
+      "funnelName": "Vibeshort-V03"
+    },
+    {
+      "funnelId": "3zb2pKLqQr7e",
+      "funnelName": "moboreels-v02"
+    },
+    {
+      "funnelId": "3wxQUAbsGb0e",
+      "funnelName": "storyreel-v04"
+    },
+    {
+      "funnelId": "3ws8SMf82B2C",
+      "funnelName": "ShortMax-v06"
+    },
+    {
+      "funnelId": "3wxMhS6zF2m4",
+      "funnelName": "storyreel-v03"
+    },
+    {
+      "funnelId": "3uIzmqzFx5yx",
+      "funnelName": "cd-reader-pb-v01"
+    },
+    {
+      "funnelId": "3wxU24LWkWif",
+      "funnelName": "storyreel-v05"
+    },
+    {
+      "funnelId": "3zaxNqwFxfnB",
+      "funnelName": "reader-v02"
+    }
+  ],
+  "results": [
+    {
+      "funnelId": "3zawx1d3eHDg",
+      "funnelName": "reader-v01",
+      "startedAt": "2026-11-11T13:25:28.885Z",
+      "finishedAt": "2026-11-11T13:41:34.429Z",
+      "exitCode": 0,
+      "error": null,
+      "summary": {
+        "total": 19,
+        "success": 19,
+        "failed": 0
+      },
+      "runPath": "tmp/funnel-3zawx1d3eHDg-generate-run.json"
+    },
+    {
+      "funnelId": "3x4Biffp1su8",
+      "funnelName": "ShortMax-v11",
+      "startedAt": "2026-11-11T13:41:34.432Z",
+      "finishedAt": "2026-11-11T14:00:59.245Z",
+      "exitCode": 0,
+      "error": null,
+      "summary": {
+        "total": 14,
+        "success": 13,
+        "failed": 1
+      },
+      "runPath": "tmp/funnel-3x4Biffp1su8-generate-run.json"
+    }
+  ],
+  "updatedAt": "2026-11-11T14:00:59.245Z"
+}

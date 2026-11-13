@@ -1,0 +1,109 @@
+{
+  "code": 200,
+  "data": {
+    "groupId": "3Lcdha95zgmT",
+    "groupName": "cd-afs-0801",
+    "routing": "",
+    "geo": "CD",
+    "yesterdayRpm": 0,
+    "yesterdayRev": 0,
+    "yesterdayRpmTrend": 0,
+    "yesterdayRevTrend": 0,
+    "offerList": [
+      {
+        "offerId": "3KsNOOuelpAs",
+        "offerName": "A4-jubilantsphere-4254859568",
+        "categoryName": "牙齿种植",
+        "weight": 1,
+        "channelId": "4254859568",
+        "countryCode": null,
+        "afsSource": null,
+        "todayRpm": 0,
+        "todayRev": 0
+      },
+      {
+        "offerId": "3KsNXLOm1GYu",
+        "offerName": "A4-jubilantsphere-4338620049",
+        "categoryName": "牙齿种植",
+        "weight": 1,
+        "channelId": "4338620049",
+        "countryCode": null,
+        "afsSource": null,
+        "todayRpm": 0,
+        "todayRev": 0
+      },
+      {
+        "offerId": "3KsTkin2sl7J",
+        "offerName": "A4-zestfularcade-8197974006",
+        "categoryName": "激光美容",
+        "weight": 1,
+        "channelId": "8197974006",
+        "countryCode": null,
+        "afsSource": null,
+        "todayRpm": 0,
+        "todayRev": 0
+      },
+      {
+        "offerId": "3KsTVcQlUIA7",
+        "offerName": "A4-jubilantsphere-5132826962",
+        "categoryName": "家庭装修",
+        "weight": 1,
+        "channelId": "5132826962",
+        "countryCode": null,
+        "afsSource": null,
+        "todayRpm": 0,
+        "todayRev": 0
+      },
+      {
+        "offerId": "3LpHaXvt7N86",
+        "offerName": "afs1-channel-6048855836",
+        "categoryName": null,
+        "weight": 1,
+        "channelId": "6048855836",
+        "countryCode": null,
+        "afsSource": null,
+        "todayRpm": 0,
+        "todayRev": 0
+      },
+      {
+        "offerId": "3LpHnMrl7j5v",
+        "offerName": "afs1-channel-7965530591",
+        "categoryName": null,
+        "weight": 1,
+        "channelId": "7965530591",
+        "countryCode": null,
+        "afsSource": null,
+        "todayRpm": 0,
+        "todayRev": 0
+      },
+      {
+        "offerId": "3LpHxHVdTQR7",
+        "offerName": "afs1-channel-6172506158",
+        "categoryName": null,
+        "weight": 1,
+        "channelId": "6172506158",
+        "countryCode": null,
+        "afsSource": null,
+        "todayRpm": 0,
+        "todayRev": 0
+      },
+      {
+        "offerId": "3LpI73EjL46H",
+        "offerName": "afs1-channel-4100445389",
+        "categoryName": null,
+        "weight": 1,
+        "channelId": "4100445389",
+        "countryCode": null,
+        "afsSource": null,
+        "todayRpm": 0,
+        "todayRev": 0
+      }
+    ],
+    "funnelId": "3LcdpN4mS9hK",
+    "funnelName": "cd-reel-A5-50",
+    "partnerName": "changdu",
+    "urlName": "moboreels",
+    "urlId": 50,
+    "platform": "FF"
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "code": 200,
+  "data": {
+    "groupId": "3cNJxrDnWPIK",
+    "groupName": "JZ10-sa",
+    "routing": "",
+    "geo": "SA",
+    "yesterdayRpm": 0,
+    "yesterdayRev": 0,
+    "yesterdayRpmTrend": 0,
+    "yesterdayRevTrend": 0,
+    "offerList": [
+      {
+        "offerId": "3cNFNVj0KE1l",
+        "offerName": "JZ10-A7-sa-1940266699",
+        "categoryName": "汽车贷款",
+        "weight": 0,
+        "channelId": "1940266699",
+        "countryCode": null,
+        "afsSource": null,
+        "todayRpm": 0,
+        "todayRev": 0
+      },
+      {
+        "offerId": "3cNFUNgEbm55",
+        "offerName": "JZ10-A4-sa-4357836304",
+        "categoryName": "汽车贷款",
+        "weight": 0.26,
+        "channelId": "4357836304",
+        "countryCode": null,
+        "afsSource": null,
+        "todayRpm": 0,
+        "todayRev": 0
+      },
+      {
+        "offerId": "3lMAsjGxZspg",
+        "offerName": "jz-10-A12-SA-5525525852",
+        "categoryName": "汽车保险",
+        "weight": 0.74,
+        "channelId": "5525525852",
+        "countryCode": null,
+        "afsSource": null,
+        "todayRpm": 0.9,
+        "todayRev": 0.02
+      }
+    ],
+    "funnelId": "3aXER1jGKCjP",
+    "funnelName": "jz-10",
+    "partnerName": "shortmax",
+    "urlName": "JZ-10",
+    "urlId": 92,
+    "platform": "FF"
+  }
+}

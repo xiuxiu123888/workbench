@@ -1,0 +1,65 @@
+{
+  "code": 200,
+  "data": {
+    "groupId": "3bkLZB1HugSf",
+    "groupName": "JZ07-BR",
+    "routing": "",
+    "geo": "BR",
+    "yesterdayRpm": 0.4,
+    "yesterdayRev": 0.15,
+    "yesterdayRpmTrend": 100,
+    "yesterdayRevTrend": 87.5,
+    "offerList": [
+      {
+        "offerId": "3lMAsjLt45Mj",
+        "offerName": "JZ-07-A12-BR-8514457756",
+        "categoryName": "汽车保险",
+        "weight": 0.19,
+        "channelId": "8514457756",
+        "countryCode": null,
+        "afsSource": null,
+        "todayRpm": 0.3,
+        "todayRev": 0.06
+      },
+      {
+        "offerId": "3rfj1u04FsHI",
+        "offerName": "JZ-07-A1-br-2550963527",
+        "categoryName": "手机分期",
+        "weight": 0.4,
+        "channelId": "2550963527",
+        "countryCode": null,
+        "afsSource": null,
+        "todayRpm": 0,
+        "todayRev": 0
+      },
+      {
+        "offerId": "3WeALivk7P91",
+        "offerName": "JZ-07-A4-br-3221603862",
+        "categoryName": "汽车保险",
+        "weight": 0.09,
+        "channelId": "3221603862",
+        "countryCode": null,
+        "afsSource": null,
+        "todayRpm": 0,
+        "todayRev": 0
+      },
+      {
+        "offerId": "3XHCJqKTDc93",
+        "offerName": "JZ-07-A7-br-9761308166",
+        "categoryName": "汽车保险",
+        "weight": 0.32,
+        "channelId": "9761308166",
+        "countryCode": null,
+        "afsSource": null,
+        "todayRpm": 0,
+        "todayRev": 0
+      }
+    ],
+    "funnelId": "3SqmT5M7rv4d",
+    "funnelName": "JZ-07",
+    "partnerName": "shortmax",
+    "urlName": "JZ-07",
+    "urlId": 87,
+    "platform": "FF"
+  }
+}

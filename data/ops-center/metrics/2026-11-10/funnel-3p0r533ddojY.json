@@ -1,0 +1,825 @@
+{
+  "funnelId": "3p0r533ddojY",
+  "funnelName": "ff-reel-v03",
+  "day": "2026-11-10",
+  "query": {
+    "day": "2026-11-10",
+    "startTime": "2026-11-10 00:00:00",
+    "endTime": "2026-11-10 23:59:59"
+  },
+  "data": {
+    "categoryList": [
+      {
+        "categoryId": "3p0oW6i1hsZP",
+        "categoryName": "Flare-V03",
+        "categoryType": "offer"
+      }
+    ],
+    "statsList": [
+      {
+        "id": "3p6p9WZkpkea",
+        "name": "flare-v03-A12-us-4212444181",
+        "categoryId": "3p0oW6i1hsZP",
+        "visits": 0,
+        "views": 0,
+        "conversion": 0,
+        "category": "Flare-V03",
+        "offerSource": "flare-hit",
+        "revenue": "7.00",
+        "funnelImpressions": 352,
+        "funnelClicks": 137,
+        "clicks": 42,
+        "funnelRpm": "19.89",
+        "rpc": "0.167",
+        "funnelCtr": "38.92045454545455",
+        "cvr1": "30.656934306569344",
+        "cvr2": "11.931818181818182",
+        "url": "https://protectlifeplan.com/detail/662147821723?ref=Cart%C3%A3o%20de%20Cr%C3%A9dito%20para%20Negativado%20Aprovado%20na%20Hora:%20Comparativo%202026&channel=4212444181&hit={hit}&rType=2&partner=Flare",
+        "countryInfos": [
+          {
+            "countryCode": "US",
+            "revenue": "7.00",
+            "impressions": 342,
+            "rpm": "20.47",
+            "funnelClicks": 134,
+            "clicks": 42
+          },
+          {
+            "countryCode": "AR",
+            "revenue": "0.00",
+            "impressions": 1,
+            "rpm": "0.00",
+            "funnelClicks": 0,
+            "clicks": 0
+          },
+          {
+            "countryCode": "CO",
+            "revenue": "0.00",
+            "impressions": 1,
+            "rpm": "0.00",
+            "funnelClicks": 0,
+            "clicks": 0
+          },
+          {
+            "countryCode": "GB",
+            "revenue": "0.00",
+            "impressions": 1,
+            "rpm": "0.00",
+            "funnelClicks": 0,
+            "clicks": 0
+          },
+          {
+            "countryCode": "MX",
+            "revenue": "0.00",
+            "impressions": 7,
+            "rpm": "0.00",
+            "funnelClicks": 3,
+            "clicks": 0
+          }
+        ]
+      },
+      {
+        "id": "3p1b8Aa1AMbO",
+        "name": "flare-v03-A12-default-4212444181",
+        "categoryId": "3p0oW6i1hsZP",
+        "visits": 0,
+        "views": 0,
+        "conversion": 0,
+        "category": "Flare-V03",
+        "offerSource": "flare-hit",
+        "revenue": "7.00",
+        "funnelImpressions": 352,
+        "funnelClicks": 137,
+        "clicks": 42,
+        "funnelRpm": "19.89",
+        "rpc": "0.167",
+        "funnelCtr": "38.92045454545455",
+        "cvr1": "30.656934306569344",
+        "cvr2": "11.931818181818182",
+        "url": "https://protectlifeplan.com/detail/698976626521?ref=Emergency%20Loans%20in%202026&channel=4212444181&hit={hit}&rType=2&partner=Flare",
+        "countryInfos": [
+          {
+            "countryCode": "US",
+            "revenue": "7.00",
+            "impressions": 342,
+            "rpm": "20.47",
+            "funnelClicks": 134,
+            "clicks": 42
+          },
+          {
+            "countryCode": "AR",
+            "revenue": "0.00",
+            "impressions": 1,
+            "rpm": "0.00",
+            "funnelClicks": 0,
+            "clicks": 0
+          },
+          {
+            "countryCode": "CO",
+            "revenue": "0.00",
+            "impressions": 1,
+            "rpm": "0.00",
+            "funnelClicks": 0,
+            "clicks": 0
+          },
+          {
+            "countryCode": "GB",
+            "revenue": "0.00",
+            "impressions": 1,
+            "rpm": "0.00",
+            "funnelClicks": 0,
+            "clicks": 0
+          },
+          {
+            "countryCode": "MX",
+            "revenue": "0.00",
+            "impressions": 7,
+            "rpm": "0.00",
+            "funnelClicks": 3,
+            "clicks": 0
+          }
+        ]
+      },
+      {
+        "id": "3p1V2HHiFZBZ",
+        "name": "flare-v03-A12-br-4212444181",
+        "categoryId": "3p0oW6i1hsZP",
+        "visits": 0,
+        "views": 0,
+        "conversion": 0,
+        "category": "Flare-V03",
+        "offerSource": "flare-hit",
+        "revenue": "7.00",
+        "funnelImpressions": 352,
+        "funnelClicks": 137,
+        "clicks": 42,
+        "funnelRpm": "19.89",
+        "rpc": "0.167",
+        "funnelCtr": "38.92045454545455",
+        "cvr1": "30.656934306569344",
+        "cvr2": "11.931818181818182",
+        "url": "https://protectlifeplan.com/detail/662147821723?ref=Cart%C3%A3o%20de%20Cr%C3%A9dito%20para%20Negativado%20Aprovado%20na%20Hora:%20Comparativo%202026&channel=4212444181&hit={hit}&rType=2&partner=Flare",
+        "countryInfos": [
+          {
+            "countryCode": "US",
+            "revenue": "7.00",
+            "impressions": 342,
+            "rpm": "20.47",
+            "funnelClicks": 134,
+            "clicks": 42
+          },
+          {
+            "countryCode": "AR",
+            "revenue": "0.00",
+            "impressions": 1,
+            "rpm": "0.00",
+            "funnelClicks": 0,
+            "clicks": 0
+          },
+          {
+            "countryCode": "CO",
+            "revenue": "0.00",
+            "impressions": 1,
+            "rpm": "0.00",
+            "funnelClicks": 0,
+            "clicks": 0
+          },
+          {
+            "countryCode": "GB",
+            "revenue": "0.00",
+            "impressions": 1,
+            "rpm": "0.00",
+            "funnelClicks": 0,
+            "clicks": 0
+          },
+          {
+            "countryCode": "MX",
+            "revenue": "0.00",
+            "impressions": 7,
+            "rpm": "0.00",
+            "funnelClicks": 3,
+            "clicks": 0
+          }
+        ]
+      },
+      {
+        "id": "3p1Tt5Mn7qby",
+        "name": "flare-v03-A4-br-3747055389",
+        "categoryId": "3p0oW6i1hsZP",
+        "visits": 0,
+        "views": 0,
+        "conversion": 0,
+        "category": "Flare-V03",
+        "offerSource": "flare-hit",
+        "revenue": "31.57",
+        "funnelImpressions": 554,
+        "funnelClicks": 215,
+        "clicks": 112,
+        "funnelRpm": "56.99",
+        "rpc": "0.282",
+        "funnelCtr": "38.808664259927795",
+        "cvr1": "52.093023255813954",
+        "cvr2": "20.216606498194945",
+        "url": "https://fluxpaid.com/detail/329095452933?ref=Cart%C3%A3o%20de%20Cr%C3%A9dito%20para%20Negativado%20Aprovado%20na%20Hora:%20Comparativo%202026&channel=3747055389&hit={hit}&rType=2&partner=Flare",
+        "countryInfos": [
+          {
+            "countryCode": "US",
+            "revenue": "31.57",
+            "impressions": 516,
+            "rpm": "61.18",
+            "funnelClicks": 196,
+            "clicks": 112
+          },
+          {
+            "countryCode": "AE",
+            "revenue": "0.00",
+            "impressions": 3,
+            "rpm": "0.00",
+            "funnelClicks": 0,
+            "clicks": 0
+          },
+          {
+            "countryCode": "BR",
+            "revenue": "0.00",
+            "impressions": 10,
+            "rpm": "0.00",
+            "funnelClicks": 5,
+            "clicks": 0
+          },
+          {
+            "countryCode": "CA",
+            "revenue": "0.00",
+            "impressions": 1,
+            "rpm": "0.00",
+            "funnelClicks": 1,
+            "clicks": 0
+          },
+          {
+            "countryCode": "CD",
+            "revenue": "0.00",
+            "impressions": 0,
+            "rpm": "0",
+            "funnelClicks": 1,
+            "clicks": 0
+          },
+          {
+            "countryCode": "CH",
+            "revenue": "0.00",
+            "impressions": 1,
+            "rpm": "0.00",
+            "funnelClicks": 0,
+            "clicks": 0
+          },
+          {
+            "countryCode": "CO",
+            "revenue": "0.00",
+            "impressions": 1,
+            "rpm": "0.00",
+            "funnelClicks": 0,
+            "clicks": 0
+          },
+          {
+            "countryCode": "CV",
+            "revenue": "0.00",
+            "impressions": 3,
+            "rpm": "0.00",
+            "funnelClicks": 2,
+            "clicks": 0
+          },
+          {
+            "countryCode": "DE",
+            "revenue": "0.00",
+            "impressions": 3,
+            "rpm": "0.00",
+            "funnelClicks": 0,
+            "clicks": 0
+          },
+          {
+            "countryCode": "FR",
+            "revenue": "0.00",
+            "impressions": 2,
+            "rpm": "0.00",
+            "funnelClicks": 1,
+            "clicks": 0
+          },
+          {
+            "countryCode": "GB",
+            "revenue": "0.00",
+            "impressions": 4,
+            "rpm": "0.00",
+            "funnelClicks": 1,
+            "clicks": 0
+          },
+          {
+            "countryCode": "IL",
+            "revenue": "0.00",
+            "impressions": 1,
+            "rpm": "0.00",
+            "funnelClicks": 1,
+            "clicks": 0
+          },
+          {
+            "countryCode": "JP",
+            "revenue": "0.00",
+            "impressions": 2,
+            "rpm": "0.00",
+            "funnelClicks": 2,
+            "clicks": 0
+          },
+          {
+            "countryCode": "KR",
+            "revenue": "0.00",
+            "impressions": 1,
+            "rpm": "0.00",
+            "funnelClicks": 0,
+            "clicks": 0
+          },
+          {
+            "countryCode": "MM",
+            "revenue": "0.00",
+            "impressions": 1,
+            "rpm": "0.00",
+            "funnelClicks": 0,
+            "clicks": 0
+          },
+          {
+            "countryCode": "MX",
+            "revenue": "0.00",
+            "impressions": 1,
+            "rpm": "0.00",
+            "funnelClicks": 0,
+            "clicks": 0
+          },
+          {
+            "countryCode": "MY",
+            "revenue": "0.00",
+            "impressions": 0,
+            "rpm": "0",
+            "funnelClicks": 3,
+            "clicks": 0
+          },
+          {
+            "countryCode": "NG",
+            "revenue": "0.00",
+            "impressions": 0,
+            "rpm": "0",
+            "funnelClicks": 1,
+            "clicks": 0
+          },
+          {
+            "countryCode": "NL",
+            "revenue": "0.00",
+            "impressions": 1,
+            "rpm": "0.00",
+            "funnelClicks": 1,
+            "clicks": 0
+          },
+          {
+            "countryCode": "PH",
+            "revenue": "0.00",
+            "impressions": 1,
+            "rpm": "0.00",
+            "funnelClicks": 0,
+            "clicks": 0
+          },
+          {
+            "countryCode": "PL",
+            "revenue": "0.00",
+            "impressions": 1,
+            "rpm": "0.00",
+            "funnelClicks": 0,
+            "clicks": 0
+          },
+          {
+            "countryCode": "RU",
+            "revenue": "0.00",
+            "impressions": 0,
+            "rpm": "0",
+            "funnelClicks": 0,
+            "clicks": 0
+          },
+          {
+            "countryCode": "UA",
+            "revenue": "0.00",
+            "impressions": 1,
+            "rpm": "0.00",
+            "funnelClicks": 0,
+            "clicks": 0
+          }
+        ]
+      },
+      {
+        "id": "3p0oymeybos2",
+        "name": "flare-v03-A4-default-3747055389",
+        "categoryId": "3p0oW6i1hsZP",
+        "visits": 0,
+        "views": 0,
+        "conversion": 0,
+        "category": "Flare-V03",
+        "offerSource": "afs-common",
+        "revenue": "31.57",
+        "funnelImpressions": 554,
+        "funnelClicks": 215,
+        "clicks": 112,
+        "funnelRpm": "56.99",
+        "rpc": "0.282",
+        "funnelCtr": "38.808664259927795",
+        "cvr1": "52.093023255813954",
+        "cvr2": "20.216606498194945",
+        "url": "https://joyfulgaminghub9.com/detail/491294484924?channel=3747055389&hit={hit}",
+        "countryInfos": [
+          {
+            "countryCode": "US",
+            "revenue": "31.57",
+            "impressions": 516,
+            "rpm": "61.18",
+            "funnelClicks": 196,
+            "clicks": 112
+          },
+          {
+            "countryCode": "AE",
+            "revenue": "0.00",
+            "impressions": 3,
+            "rpm": "0.00",
+            "funnelClicks": 0,
+            "clicks": 0
+          },
+          {
+            "countryCode": "BR",
+            "revenue": "0.00",
+            "impressions": 10,
+            "rpm": "0.00",
+            "funnelClicks": 5,
+            "clicks": 0
+          },
+          {
+            "countryCode": "CA",
+            "revenue": "0.00",
+            "impressions": 1,
+            "rpm": "0.00",
+            "funnelClicks": 1,
+            "clicks": 0
+          },
+          {
+            "countryCode": "CD",
+            "revenue": "0.00",
+            "impressions": 0,
+            "rpm": "0",
+            "funnelClicks": 1,
+            "clicks": 0
+          },
+          {
+            "countryCode": "CH",
+            "revenue": "0.00",
+            "impressions": 1,
+            "rpm": "0.00",
+            "funnelClicks": 0,
+            "clicks": 0
+          },
+          {
+            "countryCode": "CO",
+            "revenue": "0.00",
+            "impressions": 1,
+            "rpm": "0.00",
+            "funnelClicks": 0,
+            "clicks": 0
+          },
+          {
+            "countryCode": "CV",
+            "revenue": "0.00",
+            "impressions": 3,
+            "rpm": "0.00",
+            "funnelClicks": 2,
+            "clicks": 0
+          },
+          {
+            "countryCode": "DE",
+            "revenue": "0.00",
+            "impressions": 3,
+            "rpm": "0.00",
+            "funnelClicks": 0,
+            "clicks": 0
+          },
+          {
+            "countryCode": "FR",
+            "revenue": "0.00",
+            "impressions": 2,
+            "rpm": "0.00",
+            "funnelClicks": 1,
+            "clicks": 0
+          },
+          {
+            "countryCode": "GB",
+            "revenue": "0.00",
+            "impressions": 4,
+            "rpm": "0.00",
+            "funnelClicks": 1,
+            "clicks": 0
+          },
+          {
+            "countryCode": "IL",
+            "revenue": "0.00",
+            "impressions": 1,
+            "rpm": "0.00",
+            "funnelClicks": 1,
+            "clicks": 0
+          },
+          {
+            "countryCode": "JP",
+            "revenue": "0.00",
+            "impressions": 2,
+            "rpm": "0.00",
+            "funnelClicks": 2,
+            "clicks": 0
+          },
+          {
+            "countryCode": "KR",
+            "revenue": "0.00",
+            "impressions": 1,
+            "rpm": "0.00",
+            "funnelClicks": 0,
+            "clicks": 0
+          },
+          {
+            "countryCode": "MM",
+            "revenue": "0.00",
+            "impressions": 1,
+            "rpm": "0.00",
+            "funnelClicks": 0,
+            "clicks": 0
+          },
+          {
+            "countryCode": "MX",
+            "revenue": "0.00",
+            "impressions": 1,
+            "rpm": "0.00",
+            "funnelClicks": 0,
+            "clicks": 0
+          },
+          {
+            "countryCode": "MY",
+            "revenue": "0.00",
+            "impressions": 0,
+            "rpm": "0",
+            "funnelClicks": 3,
+            "clicks": 0
+          },
+          {
+            "countryCode": "NG",
+            "revenue": "0.00",
+            "impressions": 0,
+            "rpm": "0",
+            "funnelClicks": 1,
+            "clicks": 0
+          },
+          {
+            "countryCode": "NL",
+            "revenue": "0.00",
+            "impressions": 1,
+            "rpm": "0.00",
+            "funnelClicks": 1,
+            "clicks": 0
+          },
+          {
+            "countryCode": "PH",
+            "revenue": "0.00",
+            "impressions": 1,
+            "rpm": "0.00",
+            "funnelClicks": 0,
+            "clicks": 0
+          },
+          {
+            "countryCode": "PL",
+            "revenue": "0.00",
+            "impressions": 1,
+            "rpm": "0.00",
+            "funnelClicks": 0,
+            "clicks": 0
+          },
+          {
+            "countryCode": "RU",
+            "revenue": "0.00",
+            "impressions": 0,
+            "rpm": "0",
+            "funnelClicks": 0,
+            "clicks": 0
+          },
+          {
+            "countryCode": "UA",
+            "revenue": "0.00",
+            "impressions": 1,
+            "rpm": "0.00",
+            "funnelClicks": 0,
+            "clicks": 0
+          }
+        ]
+      },
+      {
+        "id": "3p0oXuZB0rtp",
+        "name": "flare-v03-A4-us-3747055389",
+        "categoryId": "3p0oW6i1hsZP",
+        "visits": 0,
+        "views": 0,
+        "conversion": 0,
+        "category": "Flare-V03",
+        "offerSource": "flare-hit",
+        "revenue": "31.57",
+        "funnelImpressions": 554,
+        "funnelClicks": 215,
+        "clicks": 112,
+        "funnelRpm": "56.99",
+        "rpc": "0.282",
+        "funnelCtr": "38.808664259927795",
+        "cvr1": "52.093023255813954",
+        "cvr2": "20.216606498194945",
+        "url": "https://zestfularcade.com/detail/138338230325?channel=3747055389&ref=PrEP%20Cost%20Guide%202026&hit={hit}&rType=2&partner=Flare",
+        "countryInfos": [
+          {
+            "countryCode": "US",
+            "revenue": "31.57",
+            "impressions": 516,
+            "rpm": "61.18",
+            "funnelClicks": 196,
+            "clicks": 112
+          },
+          {
+            "countryCode": "AE",
+            "revenue": "0.00",
+            "impressions": 3,
+            "rpm": "0.00",
+            "funnelClicks": 0,
+            "clicks": 0
+          },
+          {
+            "countryCode": "BR",
+            "revenue": "0.00",
+            "impressions": 10,
+            "rpm": "0.00",
+            "funnelClicks": 5,
+            "clicks": 0
+          },
+          {
+            "countryCode": "CA",
+            "revenue": "0.00",
+            "impressions": 1,
+            "rpm": "0.00",
+            "funnelClicks": 1,
+            "clicks": 0
+          },
+          {
+            "countryCode": "CD",
+            "revenue": "0.00",
+            "impressions": 0,
+            "rpm": "0",
+            "funnelClicks": 1,
+            "clicks": 0
+          },
+          {
+            "countryCode": "CH",
+            "revenue": "0.00",
+            "impressions": 1,
+            "rpm": "0.00",
+            "funnelClicks": 0,
+            "clicks": 0
+          },
+          {
+            "countryCode": "CO",
+            "revenue": "0.00",
+            "impressions": 1,
+            "rpm": "0.00",
+            "funnelClicks": 0,
+            "clicks": 0
+          },
+          {
+            "countryCode": "CV",
+            "revenue": "0.00",
+            "impressions": 3,
+            "rpm": "0.00",
+            "funnelClicks": 2,
+            "clicks": 0
+          },
+          {
+            "countryCode": "DE",
+            "revenue": "0.00",
+            "impressions": 3,
+            "rpm": "0.00",
+            "funnelClicks": 0,
+            "clicks": 0
+          },
+          {
+            "countryCode": "FR",
+            "revenue": "0.00",
+            "impressions": 2,
+            "rpm": "0.00",
+            "funnelClicks": 1,
+            "clicks": 0
+          },
+          {
+            "countryCode": "GB",
+            "revenue": "0.00",
+            "impressions": 4,
+            "rpm": "0.00",
+            "funnelClicks": 1,
+            "clicks": 0
+          },
+          {
+            "countryCode": "IL",
+            "revenue": "0.00",
+            "impressions": 1,
+            "rpm": "0.00",
+            "funnelClicks": 1,
+            "clicks": 0
+          },
+          {
+            "countryCode": "JP",
+            "revenue": "0.00",
+            "impressions": 2,
+            "rpm": "0.00",
+            "funnelClicks": 2,
+            "clicks": 0
+          },
+          {
+            "countryCode": "KR",
+            "revenue": "0.00",
+            "impressions": 1,
+            "rpm": "0.00",
+            "funnelClicks": 0,
+            "clicks": 0
+          },
+          {
+            "countryCode": "MM",
+            "revenue": "0.00",
+            "impressions": 1,
+            "rpm": "0.00",
+            "funnelClicks": 0,
+            "clicks": 0
+          },
+          {
+            "countryCode": "MX",
+            "revenue": "0.00",
+            "impressions": 1,
+            "rpm": "0.00",
+            "funnelClicks": 0,
+            "clicks": 0
+          },
+          {
+            "countryCode": "MY",
+            "revenue": "0.00",
+            "impressions": 0,
+            "rpm": "0",
+            "funnelClicks": 3,
+            "clicks": 0
+          },
+          {
+            "countryCode": "NG",
+            "revenue": "0.00",
+            "impressions": 0,
+            "rpm": "0",
+            "funnelClicks": 1,
+            "clicks": 0
+          },
+          {
+            "countryCode": "NL",
+            "revenue": "0.00",
+            "impressions": 1,
+            "rpm": "0.00",
+            "funnelClicks": 1,
+            "clicks": 0
+          },
+          {
+            "countryCode": "PH",
+            "revenue": "0.00",
+            "impressions": 1,
+            "rpm": "0.00",
+            "funnelClicks": 0,
+            "clicks": 0
+          },
+          {
+            "countryCode": "PL",
+            "revenue": "0.00",
+            "impressions": 1,
+            "rpm": "0.00",
+            "funnelClicks": 0,
+            "clicks": 0
+          },
+          {
+            "countryCode": "RU",
+            "revenue": "0.00",
+            "impressions": 0,
+            "rpm": "0",
+            "funnelClicks": 0,
+            "clicks": 0
+          },
+          {
+            "countryCode": "UA",
+            "revenue": "0.00",
+            "impressions": 1,
+            "rpm": "0.00",
+            "funnelClicks": 0,
+            "clicks": 0
+          }
+        ]
+      }
+    ]
+  }
+}

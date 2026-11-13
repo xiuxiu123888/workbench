@@ -1,0 +1,76 @@
+{
+  "code": 200,
+  "data": {
+    "groupId": "3zawDpprkMda",
+    "groupName": "reader-v02-default",
+    "routing": "rotator",
+    "geo": "US",
+    "yesterdayRpm": 0.4,
+    "yesterdayRev": 0.31,
+    "yesterdayRpmTrend": -84,
+    "yesterdayRevTrend": -70.48,
+    "offerList": [
+      {
+        "offerId": "3zav83AM5ews",
+        "offerName": "reader-v02-A7-default-7609117695",
+        "categoryName": "医疗·皮肤",
+        "weight": 1,
+        "channelId": "7609117695",
+        "countryCode": null,
+        "afsSource": "7",
+        "todayRpm": 0,
+        "todayRev": 0
+      },
+      {
+        "offerId": "3zauw9hx9IkJ",
+        "offerName": "reader-v02-A12-default-2402337368",
+        "categoryName": "骨科 / 关节",
+        "weight": 1,
+        "channelId": "2402337368",
+        "countryCode": null,
+        "afsSource": "12",
+        "todayRpm": 3.8,
+        "todayRev": 0.9
+      },
+      {
+        "offerId": "3zav1TiK98kg",
+        "offerName": "reader-v02-A4-default-4300370257",
+        "categoryName": "心血管 / 抗凝",
+        "weight": 1,
+        "channelId": "4300370257",
+        "countryCode": "US",
+        "afsSource": "4",
+        "todayRpm": 0,
+        "todayRev": 0
+      },
+      {
+        "offerId": "402qPUGYtKZJ",
+        "offerName": "reader-v02-A15-2952029875-default",
+        "categoryName": "骨科 / 关节",
+        "weight": 1,
+        "channelId": "2952029875",
+        "countryCode": null,
+        "afsSource": "15",
+        "todayRpm": 3.1,
+        "todayRev": 0.4
+      },
+      {
+        "offerId": "43qKNRT7L7OO",
+        "offerName": "reader-v02-A17-us-5637228228-seekmoon.ai",
+        "categoryName": null,
+        "weight": 1,
+        "channelId": "5637228228",
+        "countryCode": "US",
+        "afsSource": "17",
+        "todayRpm": 0,
+        "todayRev": 0
+      }
+    ],
+    "funnelId": "3zaxNqwFxfnB",
+    "funnelName": "reader-v02",
+    "partnerName": null,
+    "urlName": null,
+    "urlId": null,
+    "platform": "MIS"
+  }
+}

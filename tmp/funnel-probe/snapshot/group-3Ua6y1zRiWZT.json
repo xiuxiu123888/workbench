@@ -1,0 +1,65 @@
+{
+  "code": 200,
+  "data": {
+    "groupId": "3Ua6y1zRiWZT",
+    "groupName": "cd-reel-0825-fan-62-jp",
+    "routing": "",
+    "geo": "JP",
+    "yesterdayRpm": 0.4,
+    "yesterdayRev": 0.36,
+    "yesterdayRpmTrend": -50,
+    "yesterdayRevTrend": -57.14,
+    "offerList": [
+      {
+        "offerId": "3i2aPrzGjOPK",
+        "offerName": "cd-reel-A6fan-62-A12-JP-2506279147",
+        "categoryName": "殡葬",
+        "weight": 0.02,
+        "channelId": "2506279147",
+        "countryCode": null,
+        "afsSource": null,
+        "todayRpm": 0,
+        "todayRev": 0
+      },
+      {
+        "offerId": "3lplh9a41Vh0",
+        "offerName": "cd-reel-A6fan-62-A14-JP-5006693019",
+        "categoryName": "牙齿植入",
+        "weight": 0.02,
+        "channelId": "5006693019",
+        "countryCode": null,
+        "afsSource": null,
+        "todayRpm": 0,
+        "todayRev": 0
+      },
+      {
+        "offerId": "3XKt9wHw49ue",
+        "offerName": "Cd-reel-0825-fan-62-A4-jp-1747103610",
+        "categoryName": "私募信贷",
+        "weight": 0.02,
+        "channelId": "1747103610",
+        "countryCode": null,
+        "afsSource": null,
+        "todayRpm": 0,
+        "todayRev": 0
+      },
+      {
+        "offerId": "3XKuxaTasQ7u",
+        "offerName": "Cd-reel-0825-fan-62-A7-jp-10926",
+        "categoryName": "私募信贷",
+        "weight": 1,
+        "channelId": "10926",
+        "countryCode": null,
+        "afsSource": null,
+        "todayRpm": 0.2,
+        "todayRev": 0.1
+      }
+    ],
+    "funnelId": "3O9Vr9Ar6pNC",
+    "funnelName": "cd-reel-A6fan-62",
+    "partnerName": "changdu",
+    "urlName": "moboreels",
+    "urlId": 62,
+    "platform": "FF"
+  }
+}

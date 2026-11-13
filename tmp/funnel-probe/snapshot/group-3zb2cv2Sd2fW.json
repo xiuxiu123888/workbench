@@ -1,0 +1,43 @@
+{
+  "code": 200,
+  "data": {
+    "groupId": "3zb2cv2Sd2fW",
+    "groupName": "moboreels-v03-default",
+    "routing": "rotator",
+    "geo": null,
+    "yesterdayRpm": 0,
+    "yesterdayRev": 0,
+    "yesterdayRpmTrend": 0,
+    "yesterdayRevTrend": 0,
+    "offerList": [
+      {
+        "offerId": "3zb1W9LGvPyZ",
+        "offerName": "moboreels-v03-A7-default-10926",
+        "categoryName": "理疗诊所",
+        "weight": 1,
+        "channelId": "10926",
+        "countryCode": null,
+        "afsSource": "7",
+        "todayRpm": 0,
+        "todayRev": 0
+      },
+      {
+        "offerId": "3zb1PLgN7r1k",
+        "offerName": "moboreels-v03-A12-default-2506279147",
+        "categoryName": "紧急贷款",
+        "weight": 1,
+        "channelId": "2506279147",
+        "countryCode": null,
+        "afsSource": "12",
+        "todayRpm": 0,
+        "todayRev": 0
+      }
+    ],
+    "funnelId": "3zb3PGEznP52",
+    "funnelName": "moboreels-v03",
+    "partnerName": null,
+    "urlName": null,
+    "urlId": null,
+    "platform": "MIS"
+  }
+}

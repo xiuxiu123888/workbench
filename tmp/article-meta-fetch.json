@@ -1,0 +1,513 @@
+{
+  "fetchedAt": "2026-11-11T09:34:42.214Z",
+  "triedBases": [
+    {
+      "base": "https://adesmobi.com/admin/back",
+      "categoryStatus": 200,
+      "siteProbe": 200
+    }
+  ],
+  "categoriesUrl": "https://adesmobi.com/admin/back/article/allCategoryNew",
+  "sitesUrl": "https://adesmobi.com/admin/back/site/getAll",
+  "categoryCount": 1360,
+  "siteCount": 156,
+  "categoryMatches": [
+    {
+      "domainCategory": "GLP-1 / 糖尿病",
+      "categoryId": 6305,
+      "matchedName": "GLP-1 / 糖尿病",
+      "matchedAlias": "GLP-1 / Diabetes",
+      "parentId": 5843,
+      "score": 100,
+      "candidates": [
+        {
+          "id": 6305,
+          "name": "GLP-1 / 糖尿病",
+          "alias": "GLP-1 / Diabetes",
+          "parentId": 5843,
+          "score": 100
+        }
+      ]
+    },
+    {
+      "domainCategory": "医疗·偏头痛",
+      "categoryId": 5027,
+      "matchedName": "医疗健康",
+      "matchedAlias": "Medical & Healthcare",
+      "parentId": 5002,
+      "score": 55,
+      "candidates": [
+        {
+          "id": 5027,
+          "name": "医疗健康",
+          "alias": "Medical & Healthcare",
+          "parentId": 5002,
+          "score": 55
+        },
+        {
+          "id": 5114,
+          "name": "私人医疗保险比较",
+          "alias": "Private Krankenversicherungsvergleich",
+          "parentId": 5872,
+          "score": 55
+        },
+        {
+          "id": 5208,
+          "name": "AI与医疗",
+          "alias": "AI and healthcare",
+          "parentId": 5207,
+          "score": 55
+        },
+        {
+          "id": 5231,
+          "name": "远程医疗",
+          "alias": "Telemedicine",
+          "parentId": 5027,
+          "score": 55
+        },
+        {
+          "id": 5233,
+          "name": "医疗咨询",
+          "alias": "Medical consultation",
+          "parentId": 5231,
+          "score": 55
+        }
+      ]
+    },
+    {
+      "domainCategory": "医疗·呼吸与睡眠",
+      "categoryId": 5027,
+      "matchedName": "医疗健康",
+      "matchedAlias": "Medical & Healthcare",
+      "parentId": 5002,
+      "score": 55,
+      "candidates": [
+        {
+          "id": 5027,
+          "name": "医疗健康",
+          "alias": "Medical & Healthcare",
+          "parentId": 5002,
+          "score": 55
+        },
+        {
+          "id": 5114,
+          "name": "私人医疗保险比较",
+          "alias": "Private Krankenversicherungsvergleich",
+          "parentId": 5872,
+          "score": 55
+        },
+        {
+          "id": 5208,
+          "name": "AI与医疗",
+          "alias": "AI and healthcare",
+          "parentId": 5207,
+          "score": 55
+        },
+        {
+          "id": 5231,
+          "name": "远程医疗",
+          "alias": "Telemedicine",
+          "parentId": 5027,
+          "score": 55
+        },
+        {
+          "id": 5233,
+          "name": "医疗咨询",
+          "alias": "Medical consultation",
+          "parentId": 5231,
+          "score": 55
+        }
+      ]
+    },
+    {
+      "domainCategory": "医疗·皮肤",
+      "categoryId": 5027,
+      "matchedName": "医疗健康",
+      "matchedAlias": "Medical & Healthcare",
+      "parentId": 5002,
+      "score": 55,
+      "candidates": [
+        {
+          "id": 5027,
+          "name": "医疗健康",
+          "alias": "Medical & Healthcare",
+          "parentId": 5002,
+          "score": 55
+        },
+        {
+          "id": 5063,
+          "name": "皮肤管理与护理",
+          "alias": "Skin Management",
+          "parentId": 5003,
+          "score": 55
+        },
+        {
+          "id": 5114,
+          "name": "私人医疗保险比较",
+          "alias": "Private Krankenversicherungsvergleich",
+          "parentId": 5872,
+          "score": 55
+        },
+        {
+          "id": 5166,
+          "name": "激光皮肤治疗",
+          "alias": "Laser Skin Rejuvenation Treatment",
+          "parentId": 5027,
+          "score": 55
+        },
+        {
+          "id": 5208,
+          "name": "AI与医疗",
+          "alias": "AI and healthcare",
+          "parentId": 5207,
+          "score": 55
+        }
+      ]
+    },
+    {
+      "domainCategory": "医疗·肾脏与泌尿",
+      "categoryId": 5027,
+      "matchedName": "医疗健康",
+      "matchedAlias": "Medical & Healthcare",
+      "parentId": 5002,
+      "score": 55,
+      "candidates": [
+        {
+          "id": 5027,
+          "name": "医疗健康",
+          "alias": "Medical & Healthcare",
+          "parentId": 5002,
+          "score": 55
+        },
+        {
+          "id": 5114,
+          "name": "私人医疗保险比较",
+          "alias": "Private Krankenversicherungsvergleich",
+          "parentId": 5872,
+          "score": 55
+        },
+        {
+          "id": 5208,
+          "name": "AI与医疗",
+          "alias": "AI and healthcare",
+          "parentId": 5207,
+          "score": 55
+        },
+        {
+          "id": 5231,
+          "name": "远程医疗",
+          "alias": "Telemedicine",
+          "parentId": 5027,
+          "score": 55
+        },
+        {
+          "id": 5233,
+          "name": "医疗咨询",
+          "alias": "Medical consultation",
+          "parentId": 5231,
+          "score": 55
+        }
+      ]
+    },
+    {
+      "domainCategory": "医疗·自身免疫",
+      "categoryId": 5027,
+      "matchedName": "医疗健康",
+      "matchedAlias": "Medical & Healthcare",
+      "parentId": 5002,
+      "score": 55,
+      "candidates": [
+        {
+          "id": 5027,
+          "name": "医疗健康",
+          "alias": "Medical & Healthcare",
+          "parentId": 5002,
+          "score": 55
+        },
+        {
+          "id": 5114,
+          "name": "私人医疗保险比较",
+          "alias": "Private Krankenversicherungsvergleich",
+          "parentId": 5872,
+          "score": 55
+        },
+        {
+          "id": 5208,
+          "name": "AI与医疗",
+          "alias": "AI and healthcare",
+          "parentId": 5207,
+          "score": 55
+        },
+        {
+          "id": 5231,
+          "name": "远程医疗",
+          "alias": "Telemedicine",
+          "parentId": 5027,
+          "score": 55
+        },
+        {
+          "id": 5233,
+          "name": "医疗咨询",
+          "alias": "Medical consultation",
+          "parentId": 5231,
+          "score": 55
+        }
+      ]
+    },
+    {
+      "domainCategory": "心理健康 / 成瘾",
+      "categoryId": 6314,
+      "matchedName": "心理健康 / 成瘾",
+      "matchedAlias": "Mental health / Addiction",
+      "parentId": 5843,
+      "score": 100,
+      "candidates": [
+        {
+          "id": 6314,
+          "name": "心理健康 / 成瘾",
+          "alias": "Mental health / Addiction",
+          "parentId": 5843,
+          "score": 100
+        },
+        {
+          "id": 5002,
+          "name": "健康",
+          "alias": "Health",
+          "parentId": null,
+          "score": 80
+        },
+        {
+          "id": 5026,
+          "name": "心理健康",
+          "alias": "Mental Health",
+          "parentId": 5002,
+          "score": 80
+        }
+      ]
+    },
+    {
+      "domainCategory": "心血管 / 抗凝",
+      "categoryId": 6307,
+      "matchedName": "心血管 / 抗凝",
+      "matchedAlias": "Cardiovascular / Anticoagulation",
+      "parentId": 5843,
+      "score": 100,
+      "candidates": [
+        {
+          "id": 6307,
+          "name": "心血管 / 抗凝",
+          "alias": "Cardiovascular / Anticoagulation",
+          "parentId": 5843,
+          "score": 100
+        }
+      ]
+    },
+    {
+      "domainCategory": "牙科",
+      "categoryId": 5342,
+      "matchedName": "牙科",
+      "matchedAlias": "Dental",
+      "parentId": 5002,
+      "score": 100,
+      "candidates": [
+        {
+          "id": 5342,
+          "name": "牙科",
+          "alias": "Dental",
+          "parentId": 5002,
+          "score": 100
+        },
+        {
+          "id": 5163,
+          "name": "牙科保险",
+          "alias": "Dental insurance for seniors",
+          "parentId": 5342,
+          "score": 80
+        },
+        {
+          "id": 5387,
+          "name": "牙科分期",
+          "alias": "Dentistry",
+          "parentId": 5905,
+          "score": 80
+        },
+        {
+          "id": 6434,
+          "name": "牙科常见问题",
+          "alias": "Dental Conditions",
+          "parentId": 6432,
+          "score": 80
+        },
+        {
+          "id": 6435,
+          "name": "牙科治疗项目",
+          "alias": "Dental Procedures",
+          "parentId": 6432,
+          "score": 80
+        }
+      ]
+    },
+    {
+      "domainCategory": "眼科 / 视力",
+      "categoryId": 6311,
+      "matchedName": "眼科 / 视力",
+      "matchedAlias": "Ophthalmology / Vision",
+      "parentId": 5843,
+      "score": 100,
+      "candidates": [
+        {
+          "id": 6311,
+          "name": "眼科 / 视力",
+          "alias": "Ophthalmology / Vision",
+          "parentId": 5843,
+          "score": 100
+        },
+        {
+          "id": 5230,
+          "name": "眼科",
+          "alias": "ophthalmology",
+          "parentId": 5002,
+          "score": 80
+        },
+        {
+          "id": 5428,
+          "name": "激光眼科手术",
+          "alias": "Laser eye surgery",
+          "parentId": 5230,
+          "score": 55
+        },
+        {
+          "id": 5596,
+          "name": "视力矫正",
+          "alias": "Vision Correction",
+          "parentId": 5230,
+          "score": 55
+        }
+      ]
+    },
+    {
+      "domainCategory": "肿瘤 / 生物制剂",
+      "categoryId": 6308,
+      "matchedName": "肿瘤 / 生物制剂",
+      "matchedAlias": "Tumor / Biologics",
+      "parentId": 5843,
+      "score": 100,
+      "candidates": [
+        {
+          "id": 6308,
+          "name": "肿瘤 / 生物制剂",
+          "alias": "Tumor / Biologics",
+          "parentId": 5843,
+          "score": 100
+        },
+        {
+          "id": 5675,
+          "name": "肿瘤专科药",
+          "alias": "Oncology drugs",
+          "parentId": 5674,
+          "score": 55
+        },
+        {
+          "id": 6019,
+          "name": "肿瘤定位",
+          "alias": "Tumor localization",
+          "parentId": 6014,
+          "score": 55
+        }
+      ]
+    },
+    {
+      "domainCategory": "诊断 / 急诊",
+      "categoryId": 6316,
+      "matchedName": "诊断 / 急诊",
+      "matchedAlias": "Diagnosis / Emergency",
+      "parentId": 5843,
+      "score": 100,
+      "candidates": [
+        {
+          "id": 6316,
+          "name": "诊断 / 急诊",
+          "alias": "Diagnosis / Emergency",
+          "parentId": 5843,
+          "score": 100
+        },
+        {
+          "id": 5283,
+          "name": "辅助诊断",
+          "alias": "Auxiliary diagnosis",
+          "parentId": 5250,
+          "score": 55
+        },
+        {
+          "id": 6016,
+          "name": "辅助诊断",
+          "alias": "Auxiliary diagnosis",
+          "parentId": 6014,
+          "score": 55
+        }
+      ]
+    },
+    {
+      "domainCategory": "骨科 / 关节",
+      "categoryId": 6310,
+      "matchedName": "骨科 / 关节",
+      "matchedAlias": "Orthopedics / Joint Surgery",
+      "parentId": 5843,
+      "score": 100,
+      "candidates": [
+        {
+          "id": 6310,
+          "name": "骨科 / 关节",
+          "alias": "Orthopedics / Joint Surgery",
+          "parentId": 5843,
+          "score": 100
+        },
+        {
+          "id": 5753,
+          "name": "关节炎",
+          "alias": "Arthritis",
+          "parentId": 5023,
+          "score": 55
+        }
+      ]
+    }
+  ],
+  "unmatchedCategories": [],
+  "siteSample": [
+    {
+      "id": 1,
+      "siteName": "news-early.uk",
+      "siteUrl": "news-early.uk",
+      "accountId": 1,
+      "isPass": true
+    },
+    {
+      "id": 2,
+      "siteName": "feelwellus.com",
+      "siteUrl": "feelwellus.com",
+      "accountId": 7,
+      "isPass": true
+    },
+    {
+      "id": 3,
+      "siteName": "ohwellmind.com",
+      "siteUrl": "ohwellmind.com",
+      "accountId": 1,
+      "isPass": true
+    },
+    {
+      "id": 4,
+      "siteName": "all",
+      "siteUrl": "all",
+      "accountId": -1,
+      "isPass": false
+    },
+    {
+      "id": 5,
+      "siteName": "jubilantsphere.com",
+      "siteUrl": "jubilantsphere.com",
+      "accountId": 2,
+      "isPass": true
+    }
+  ]
+}

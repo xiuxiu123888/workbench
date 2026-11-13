@@ -1,0 +1,1094 @@
+{
+  "news-early.uk": {
+    "siteId": 1,
+    "accountId": 1,
+    "siteName": "news-early.uk",
+    "siteUrl": "news-early.uk",
+    "isPass": true
+  },
+  "feelwellus.com": {
+    "siteId": 2,
+    "accountId": 7,
+    "siteName": "feelwellus.com",
+    "siteUrl": "feelwellus.com",
+    "isPass": true
+  },
+  "ohwellmind.com": {
+    "siteId": 3,
+    "accountId": 1,
+    "siteName": "ohwellmind.com",
+    "siteUrl": "ohwellmind.com",
+    "isPass": true
+  },
+  "all": {
+    "siteId": 4,
+    "accountId": -1,
+    "siteName": "all",
+    "siteUrl": "all",
+    "isPass": false
+  },
+  "jubilantsphere.com": {
+    "siteId": 5,
+    "accountId": 2,
+    "siteName": "jubilantsphere.com",
+    "siteUrl": "jubilantsphere.com",
+    "isPass": true
+  },
+  "zestfularcade.com": {
+    "siteId": 6,
+    "accountId": 2,
+    "siteName": "zestfularcade.com",
+    "siteUrl": "zestfularcade.com",
+    "isPass": true
+  },
+  "aiseparation.com": {
+    "siteId": 7,
+    "accountId": 1,
+    "siteName": "aiseparation.com",
+    "siteUrl": "aiseparation.com",
+    "isPass": true
+  },
+  "ai-third.com": {
+    "siteId": 8,
+    "accountId": 6,
+    "siteName": "ai-third.com",
+    "siteUrl": "ai-third.com",
+    "isPass": false
+  },
+  "bestretry.com": {
+    "siteId": 9,
+    "accountId": 1,
+    "siteName": "bestretry.com",
+    "siteUrl": "bestretry.com",
+    "isPass": true
+  },
+  "search-finance.com": {
+    "siteId": 10,
+    "accountId": -1,
+    "siteName": "search-finance.com",
+    "siteUrl": "search-finance.com",
+    "isPass": false
+  },
+  "fixzsons.com": {
+    "siteId": 11,
+    "accountId": -1,
+    "siteName": "fixzsons.com",
+    "siteUrl": "fixzsons.com",
+    "isPass": true
+  },
+  "fixface23.com": {
+    "siteId": 12,
+    "accountId": -1,
+    "siteName": "fixface23.com",
+    "siteUrl": "fixface23.com",
+    "isPass": true
+  },
+  "easyfungalaxy.com": {
+    "siteId": 13,
+    "accountId": 3,
+    "siteName": "easyfungalaxy.com",
+    "siteUrl": "easyfungalaxy.com",
+    "isPass": true
+  },
+  "whirlwindarcade.com": {
+    "siteId": 14,
+    "accountId": 3,
+    "siteName": "whirlwindarcade.com",
+    "siteUrl": "whirlwindarcade.com",
+    "isPass": true
+  },
+  "joyfulgaminghub9.com": {
+    "siteId": 15,
+    "accountId": 2,
+    "siteName": "joyfulgaminghub9.com",
+    "siteUrl": "joyfulgaminghub9.com",
+    "isPass": true
+  },
+  "funfillgames.com": {
+    "siteId": 16,
+    "accountId": 3,
+    "siteName": "funfillgames.com",
+    "siteUrl": "funfillgames.com",
+    "isPass": true
+  },
+  "joyfullplayland.com": {
+    "siteId": 17,
+    "accountId": 3,
+    "siteName": "joyfullplayland.com",
+    "siteUrl": "joyfullplayland.com",
+    "isPass": true
+  },
+  "playfulviibes.com": {
+    "siteId": 18,
+    "accountId": 2,
+    "siteName": "playfulviibes.com",
+    "siteUrl": "playfulviibes.com",
+    "isPass": true
+  },
+  "minigamemix.com": {
+    "siteId": 19,
+    "accountId": 2,
+    "siteName": "minigamemix.com",
+    "siteUrl": "minigamemix.com",
+    "isPass": true
+  },
+  "laidbackgam.com": {
+    "siteId": 20,
+    "accountId": 2,
+    "siteName": "laidbackgam.com",
+    "siteUrl": "laidbackgam.com",
+    "isPass": true
+  },
+  "playfulbreak.com": {
+    "siteId": 21,
+    "accountId": 3,
+    "siteName": "playfulbreak.com",
+    "siteUrl": "playfulbreak.com",
+    "isPass": true
+  },
+  "bestgo-pixel.com": {
+    "siteId": 22,
+    "accountId": -1,
+    "siteName": "bestgo-pixel.com",
+    "siteUrl": "bestgo-pixel.com",
+    "isPass": false
+  },
+  "hardercomparison.com": {
+    "siteId": 23,
+    "accountId": -1,
+    "siteName": "hardercomparison.com",
+    "siteUrl": "hardercomparison.com",
+    "isPass": true
+  },
+  "newamc.com": {
+    "siteId": 24,
+    "accountId": 4,
+    "siteName": "www.newamc.com",
+    "siteUrl": "www.newamc.com",
+    "isPass": true
+  },
+  "fluxpaid.com": {
+    "siteId": 25,
+    "accountId": 2,
+    "siteName": "fluxpaid.com",
+    "siteUrl": "fluxpaid.com",
+    "isPass": true
+  },
+  "nest-fin.com": {
+    "siteId": 26,
+    "accountId": 3,
+    "siteName": "nest-fin.com",
+    "siteUrl": "nest-fin.com",
+    "isPass": false
+  },
+  "vault-chains.com": {
+    "siteId": 27,
+    "accountId": 3,
+    "siteName": "vault-chains.com",
+    "siteUrl": "vault-chains.com",
+    "isPass": false
+  },
+  "synccaps.com": {
+    "siteId": 28,
+    "accountId": -1,
+    "siteName": "synccaps.com",
+    "siteUrl": "synccaps.com",
+    "isPass": true
+  },
+  "quantify-energy.com": {
+    "siteId": 29,
+    "accountId": 4,
+    "siteName": "quantify-energy.com",
+    "siteUrl": "quantify-energy.com",
+    "isPass": true
+  },
+  "orionbankai.com": {
+    "siteId": 30,
+    "accountId": 3,
+    "siteName": "orionbankai.com",
+    "siteUrl": "orionbankai.com",
+    "isPass": false
+  },
+  "fluxholding.com": {
+    "siteId": 31,
+    "accountId": 1,
+    "siteName": "fluxholding.com",
+    "siteUrl": "fluxholding.com",
+    "isPass": true
+  },
+  "axisqual.com": {
+    "siteId": 32,
+    "accountId": 1,
+    "siteName": "axisqual.com",
+    "siteUrl": "axisqual.com",
+    "isPass": true
+  },
+  "finevtech.com": {
+    "siteId": 33,
+    "accountId": 7,
+    "siteName": "finevtech.com",
+    "siteUrl": "finevtech.com",
+    "isPass": true
+  },
+  "counselsai.com": {
+    "siteId": 34,
+    "accountId": 7,
+    "siteName": "counselsai.com",
+    "siteUrl": "counselsai.com",
+    "isPass": true
+  },
+  "zenithpaying.com": {
+    "siteId": 35,
+    "accountId": 1,
+    "siteName": "zenithpaying.com",
+    "siteUrl": "zenithpaying.com",
+    "isPass": true
+  },
+  "axiateches.com": {
+    "siteId": 36,
+    "accountId": 1,
+    "siteName": "axiateches.com",
+    "siteUrl": "axiateches.com",
+    "isPass": true
+  },
+  "bolt-fin.com": {
+    "siteId": 37,
+    "accountId": 1,
+    "siteName": "bolt-fin.com",
+    "siteUrl": "bolt-fin.com",
+    "isPass": true
+  },
+  "monetizeaihelp.com": {
+    "siteId": 38,
+    "accountId": 1,
+    "siteName": "monetizeaihelp.com",
+    "siteUrl": "monetizeaihelp.com",
+    "isPass": true
+  },
+  "bank-flux.com": {
+    "siteId": 39,
+    "accountId": 4,
+    "siteName": "bank-flux.com",
+    "siteUrl": "bank-flux.com",
+    "isPass": true
+  },
+  "peerlends.com": {
+    "siteId": 40,
+    "accountId": 1,
+    "siteName": "peerlends.com",
+    "siteUrl": "peerlends.com",
+    "isPass": true
+  },
+  "aifinteches.com": {
+    "siteId": 41,
+    "accountId": 4,
+    "siteName": "aifinteches.com",
+    "siteUrl": "aifinteches.com",
+    "isPass": true
+  },
+  "algo-cash.com": {
+    "siteId": 42,
+    "accountId": 4,
+    "siteName": "algo-cash.com",
+    "siteUrl": "algo-cash.com",
+    "isPass": true
+  },
+  "freeps-airedit.com": {
+    "siteId": 43,
+    "accountId": -1,
+    "siteName": "freeps-airedit.com",
+    "siteUrl": "freeps-airedit.com",
+    "isPass": true
+  },
+  "getkirona.com": {
+    "siteId": 44,
+    "accountId": 1,
+    "siteName": "getkirona.com",
+    "siteUrl": "getkirona.com",
+    "isPass": true
+  },
+  "trycurastream.com": {
+    "siteId": 45,
+    "accountId": 1,
+    "siteName": "trycurastream.com",
+    "siteUrl": "trycurastream.com",
+    "isPass": true
+  },
+  "usenovalytic.com": {
+    "siteId": 46,
+    "accountId": 1,
+    "siteName": "usenovalytic.com",
+    "siteUrl": "usenovalytic.com",
+    "isPass": true
+  },
+  "zenifinhq.com": {
+    "siteId": 47,
+    "accountId": 1,
+    "siteName": "zenifinhq.com",
+    "siteUrl": "zenifinhq.com",
+    "isPass": true
+  },
+  "axiolabshq.com": {
+    "siteId": 48,
+    "accountId": 1,
+    "siteName": "axiolabshq.com",
+    "siteUrl": "axiolabshq.com",
+    "isPass": true
+  },
+  "vectrahirehq.com": {
+    "siteId": 49,
+    "accountId": 1,
+    "siteName": "vectrahirehq.com",
+    "siteUrl": "vectrahirehq.com",
+    "isPass": true
+  },
+  "nomeraly.com": {
+    "siteId": 50,
+    "accountId": 1,
+    "siteName": "nomeraly.com",
+    "siteUrl": "nomeraly.com",
+    "isPass": true
+  },
+  "axyntly.com": {
+    "siteId": 51,
+    "accountId": 1,
+    "siteName": "axyntly.com",
+    "siteUrl": "axyntly.com",
+    "isPass": true
+  },
+  "axionahq.com": {
+    "siteId": 52,
+    "accountId": 1,
+    "siteName": "axionahq.com",
+    "siteUrl": "axionahq.com",
+    "isPass": true
+  },
+  "vitafluxly.com": {
+    "siteId": 53,
+    "accountId": 1,
+    "siteName": "vitafluxly.com",
+    "siteUrl": "vitafluxly.com",
+    "isPass": true
+  },
+  "zencapitally.com": {
+    "siteId": 54,
+    "accountId": 7,
+    "siteName": "zencapitally.com",
+    "siteUrl": "zencapitally.com",
+    "isPass": true
+  },
+  "homestaffly.com": {
+    "siteId": 55,
+    "accountId": 7,
+    "siteName": "homestaffly.com",
+    "siteUrl": "homestaffly.com",
+    "isPass": true
+  },
+  "homerecruithq.com": {
+    "siteId": 56,
+    "accountId": 7,
+    "siteName": "homerecruithq.com",
+    "siteUrl": "homerecruithq.com",
+    "isPass": true
+  },
+  "quicklyloanshq.com": {
+    "siteId": 57,
+    "accountId": 7,
+    "siteName": "quicklyloanshq.com",
+    "siteUrl": "quicklyloanshq.com",
+    "isPass": true
+  },
+  "nexulyspay.com": {
+    "siteId": 58,
+    "accountId": 7,
+    "siteName": "nexulyspay.com",
+    "siteUrl": "nexulyspay.com",
+    "isPass": false
+  },
+  "leasepadhq.com": {
+    "siteId": 59,
+    "accountId": 7,
+    "siteName": "leasepadhq.com",
+    "siteUrl": "leasepadhq.com",
+    "isPass": false
+  },
+  "pixel-jet.com": {
+    "siteId": 60,
+    "accountId": -1,
+    "siteName": "pixel-jet.com",
+    "siteUrl": "pixel-jet.com",
+    "isPass": false
+  },
+  "ai-formaflow.com": {
+    "siteId": 61,
+    "accountId": -1,
+    "siteName": "ai-formaflow.com",
+    "siteUrl": "ai-formaflow.com",
+    "isPass": false
+  },
+  "intodeepdive.com": {
+    "siteId": 62,
+    "accountId": 11,
+    "siteName": "intodeepdive.com",
+    "siteUrl": "intodeepdive.com",
+    "isPass": true
+  },
+  "protectlifeplan.com": {
+    "siteId": 63,
+    "accountId": 11,
+    "siteName": "protectlifeplan.com",
+    "siteUrl": "protectlifeplan.com",
+    "isPass": true
+  },
+  "degreesuccesstips.com": {
+    "siteId": 64,
+    "accountId": 11,
+    "siteName": "degreesuccesstips.com",
+    "siteUrl": "degreesuccesstips.com",
+    "isPass": true
+  },
+  "aivestorhq.com": {
+    "siteId": 65,
+    "accountId": 11,
+    "siteName": "aivestorhq.com",
+    "siteUrl": "aivestorhq.com",
+    "isPass": true
+  },
+  "neurofintt.com": {
+    "siteId": 66,
+    "accountId": 11,
+    "siteName": "neurofintt.com",
+    "siteUrl": "neurofintt.com",
+    "isPass": false
+  },
+  "captrixhq.com": {
+    "siteId": 67,
+    "accountId": 11,
+    "siteName": "captrixhq.com",
+    "siteUrl": "captrixhq.com",
+    "isPass": false
+  },
+  "datonexhc.com": {
+    "siteId": 68,
+    "accountId": 11,
+    "siteName": "datonexhc.com",
+    "siteUrl": "datonexhc.com",
+    "isPass": false
+  },
+  "techvestohq.com": {
+    "siteId": 69,
+    "accountId": 11,
+    "siteName": "techvestohq.com",
+    "siteUrl": "techvestohq.com",
+    "isPass": false
+  },
+  "skyimageme.com": {
+    "siteId": 70,
+    "accountId": 12,
+    "siteName": "skyimageme.com",
+    "siteUrl": "skyimageme.com",
+    "isPass": true
+  },
+  "ocprda.com": {
+    "siteId": 74,
+    "accountId": 12,
+    "siteName": "ocprda.com",
+    "siteUrl": "ocprda.com",
+    "isPass": true
+  },
+  "hahapingtone.com": {
+    "siteId": 75,
+    "accountId": 12,
+    "siteName": "hahapingtone.com",
+    "siteUrl": "hahapingtone.com",
+    "isPass": true
+  },
+  "agogoai.com": {
+    "siteId": 78,
+    "accountId": 12,
+    "siteName": "agogoai.com",
+    "siteUrl": "agogoai.com",
+    "isPass": true
+  },
+  "smileclinicguide.com": {
+    "siteId": 82,
+    "accountId": 13,
+    "siteName": "smileclinicguide.com",
+    "siteUrl": "smileclinicguide.com",
+    "isPass": true
+  },
+  "getburnzy.com": {
+    "siteId": 83,
+    "accountId": 14,
+    "siteName": "getburnzy.com",
+    "siteUrl": "getburnzy.com",
+    "isPass": true
+  },
+  "expandedword.com": {
+    "siteId": 84,
+    "accountId": 15,
+    "siteName": "expandedword.com",
+    "siteUrl": "expandedword.com",
+    "isPass": true
+  },
+  "mscjgns.com": {
+    "siteId": 85,
+    "accountId": 15,
+    "siteName": "mscjgns.com",
+    "siteUrl": "mscjgns.com",
+    "isPass": true
+  },
+  "domainforai.com": {
+    "siteId": 86,
+    "accountId": 12,
+    "siteName": "domainforai.com",
+    "siteUrl": "domainforai.com",
+    "isPass": true
+  },
+  "curoaime.com": {
+    "siteId": 87,
+    "accountId": 12,
+    "siteName": "curoaime.com",
+    "siteUrl": "curoaime.com",
+    "isPass": true
+  },
+  "aitaskstack.com": {
+    "siteId": 88,
+    "accountId": 7,
+    "siteName": "aitaskstack.com",
+    "siteUrl": "aitaskstack.com",
+    "isPass": true
+  },
+  "aiusecasehubtab.com": {
+    "siteId": 89,
+    "accountId": 7,
+    "siteName": "aiusecasehubtab.com",
+    "siteUrl": "aiusecasehubtab.com",
+    "isPass": true
+  },
+  "aiautomationlabtop.com": {
+    "siteId": 90,
+    "accountId": 7,
+    "siteName": "aiautomationlabtop.com",
+    "siteUrl": "aiautomationlabtop.com",
+    "isPass": true
+  },
+  "cccooperate.com": {
+    "siteId": 91,
+    "accountId": 13,
+    "siteName": "cccooperate.com",
+    "siteUrl": "cccooperate.com",
+    "isPass": false
+  },
+  "nearby-dental-implants.com": {
+    "siteId": 92,
+    "accountId": 13,
+    "siteName": "nearby-dental-implants.com",
+    "siteUrl": "nearby-dental-implants.com",
+    "isPass": true
+  },
+  "insurance-consulting-nearby.com": {
+    "siteId": 93,
+    "accountId": 13,
+    "siteName": "insurance-consulting-nearby.com",
+    "siteUrl": "insurance-consulting-nearby.com",
+    "isPass": true
+  },
+  "homeguarddeals.com": {
+    "siteId": 94,
+    "accountId": 13,
+    "siteName": "homeguarddeals.com",
+    "siteUrl": "homeguarddeals.com",
+    "isPass": true
+  },
+  "beauty-center-nearby.com": {
+    "siteId": 95,
+    "accountId": 13,
+    "siteName": "beauty-center-nearby.com",
+    "siteUrl": "beauty-center-nearby.com",
+    "isPass": true
+  },
+  "hidogai.com": {
+    "siteId": 97,
+    "accountId": 12,
+    "siteName": "hidogai.com",
+    "siteUrl": "hidogai.com",
+    "isPass": true
+  },
+  "ailuxovex.com": {
+    "siteId": 98,
+    "accountId": 1,
+    "siteName": "ailuxovex.com",
+    "siteUrl": "ailuxovex.com",
+    "isPass": true
+  },
+  "alphahqai.com": {
+    "siteId": 99,
+    "accountId": 1,
+    "siteName": "alphahqai.com",
+    "siteUrl": "alphahqai.com",
+    "isPass": true
+  },
+  "aiclawtool.com": {
+    "siteId": 100,
+    "accountId": -1,
+    "siteName": "aiclawtool.com",
+    "siteUrl": "aiclawtool.com",
+    "isPass": false
+  },
+  "widejd.com": {
+    "siteId": 101,
+    "accountId": 14,
+    "siteName": "widejd.com",
+    "siteUrl": "widejd.com",
+    "isPass": false
+  },
+  "fitaxon.com": {
+    "siteId": 102,
+    "accountId": 14,
+    "siteName": "fitaxon.com",
+    "siteUrl": "fitaxon.com",
+    "isPass": false
+  },
+  "aistarflowgo.com": {
+    "siteId": 103,
+    "accountId": 1,
+    "siteName": "aistarflowgo.com",
+    "siteUrl": "aistarflowgo.com",
+    "isPass": true
+  },
+  "aivtubermaker.com": {
+    "siteId": 104,
+    "accountId": 1,
+    "siteName": "aivtubermaker.com",
+    "siteUrl": "aivtubermaker.com",
+    "isPass": true
+  },
+  "kronwall.com": {
+    "siteId": 105,
+    "accountId": 15,
+    "siteName": "kronwall.com",
+    "siteUrl": "kronwall.com",
+    "isPass": true
+  },
+  "szqzm.com": {
+    "siteId": 106,
+    "accountId": 15,
+    "siteName": "szqzm.com",
+    "siteUrl": "szqzm.com",
+    "isPass": true
+  },
+  "biansai6.com": {
+    "siteId": 107,
+    "accountId": 15,
+    "siteName": "biansai6.com",
+    "siteUrl": "biansai6.com",
+    "isPass": true
+  },
+  "mgdy7.com": {
+    "siteId": 108,
+    "accountId": 15,
+    "siteName": "mgdy7.com",
+    "siteUrl": "mgdy7.com",
+    "isPass": true
+  },
+  "personalityhq.org": {
+    "siteId": 109,
+    "accountId": -1,
+    "siteName": "personalityhq.org",
+    "siteUrl": "personalityhq.org",
+    "isPass": false
+  },
+  "aisoulsanimal.com": {
+    "siteId": 110,
+    "accountId": 7,
+    "siteName": "aisoulsanimal.com",
+    "siteUrl": "aisoulsanimal.com",
+    "isPass": true
+  },
+  "aidailyzodiac.com": {
+    "siteId": 111,
+    "accountId": 7,
+    "siteName": "aidailyzodiac.com",
+    "siteUrl": "aidailyzodiac.com",
+    "isPass": true
+  },
+  "aicareerflow.com": {
+    "siteId": 112,
+    "accountId": 7,
+    "siteName": "aicareerflow.com",
+    "siteUrl": "aicareerflow.com",
+    "isPass": true
+  },
+  "interviewaimax.com": {
+    "siteId": 113,
+    "accountId": 7,
+    "siteName": "interviewaimax.com",
+    "siteUrl": "interviewaimax.com",
+    "isPass": true
+  },
+  "gooeco.com": {
+    "siteId": 114,
+    "accountId": 14,
+    "siteName": "gooeco.com",
+    "siteUrl": "gooeco.com",
+    "isPass": true
+  },
+  "turboaix.com": {
+    "siteId": 115,
+    "accountId": 4,
+    "siteName": "turboaix.com",
+    "siteUrl": "turboaix.com",
+    "isPass": true
+  },
+  "craftaio.com": {
+    "siteId": 116,
+    "accountId": 4,
+    "siteName": "craftaio.com",
+    "siteUrl": "craftaio.com",
+    "isPass": true
+  },
+  "xveluxai.com": {
+    "siteId": 117,
+    "accountId": 4,
+    "siteName": "xveluxai.com",
+    "siteUrl": "xveluxai.com",
+    "isPass": true
+  },
+  "aivorarx.com": {
+    "siteId": 118,
+    "accountId": 4,
+    "siteName": "aivorarx.com",
+    "siteUrl": "aivorarx.com",
+    "isPass": false
+  },
+  "tvlemon.com": {
+    "siteId": 119,
+    "accountId": 14,
+    "siteName": "tvlemon.com",
+    "siteUrl": "tvlemon.com",
+    "isPass": true
+  },
+  "finexuse.com": {
+    "siteId": 120,
+    "accountId": 14,
+    "siteName": "finexuse.com",
+    "siteUrl": "finexuse.com",
+    "isPass": true
+  },
+  "aivrora.com": {
+    "siteId": 121,
+    "accountId": 14,
+    "siteName": "aivrora.com",
+    "siteUrl": "aivrora.com",
+    "isPass": true
+  },
+  "mydataforai.com": {
+    "siteId": 122,
+    "accountId": 7,
+    "siteName": "mydataforai.com",
+    "siteUrl": "mydataforai.com",
+    "isPass": true
+  },
+  "aitogogo.com": {
+    "siteId": 123,
+    "accountId": 7,
+    "siteName": "aitogogo.com",
+    "siteUrl": "aitogogo.com",
+    "isPass": true
+  },
+  "jqkts.com": {
+    "siteId": 124,
+    "accountId": 16,
+    "siteName": "jqkts.com",
+    "siteUrl": "jqkts.com",
+    "isPass": false
+  },
+  "txhwgame.com": {
+    "siteId": 125,
+    "accountId": 12,
+    "siteName": "txhwgame.com",
+    "siteUrl": "txhwgame.com",
+    "isPass": true
+  },
+  "astroleusai.com": {
+    "siteId": 126,
+    "accountId": 6,
+    "siteName": "astroleusai.com",
+    "siteUrl": "astroleusai.com",
+    "isPass": false
+  },
+  "lstmai.com": {
+    "siteId": 127,
+    "accountId": 17,
+    "siteName": "lstmai.com",
+    "siteUrl": "lstmai.com",
+    "isPass": true
+  },
+  "51jiejue.com": {
+    "siteId": 128,
+    "accountId": 17,
+    "siteName": "51jiejue.com",
+    "siteUrl": "51jiejue.com",
+    "isPass": true
+  },
+  "mpbus.com": {
+    "siteId": 129,
+    "accountId": 17,
+    "siteName": "mpbus.com",
+    "siteUrl": "mpbus.com",
+    "isPass": true
+  },
+  "storygameai.com": {
+    "siteId": 130,
+    "accountId": 18,
+    "siteName": "storygameai.com",
+    "siteUrl": "storygameai.com",
+    "isPass": false
+  },
+  "hiforumai.com": {
+    "siteId": 131,
+    "accountId": 7,
+    "siteName": "hiforumai.com",
+    "siteUrl": "hiforumai.com",
+    "isPass": false
+  },
+  "dailyaiwo.com": {
+    "siteId": 132,
+    "accountId": 7,
+    "siteName": "dailyaiwo.com",
+    "siteUrl": "dailyaiwo.com",
+    "isPass": false
+  },
+  "aihubbus.com": {
+    "siteId": 133,
+    "accountId": 7,
+    "siteName": "aihubbus.com",
+    "siteUrl": "aihubbus.com",
+    "isPass": false
+  },
+  "styleflairai.com": {
+    "siteId": 134,
+    "accountId": 7,
+    "siteName": "styleflairai.com",
+    "siteUrl": "styleflairai.com",
+    "isPass": false
+  },
+  "stdphotoai.com": {
+    "siteId": 135,
+    "accountId": 7,
+    "siteName": "stdphotoai.com",
+    "siteUrl": "stdphotoai.com",
+    "isPass": false
+  },
+  "sticklyai.com": {
+    "siteId": 136,
+    "accountId": 7,
+    "siteName": "sticklyai.com",
+    "siteUrl": "sticklyai.com",
+    "isPass": false
+  },
+  "it.skyimageme.com": {
+    "siteId": 137,
+    "accountId": -1,
+    "siteName": "it.skyimageme.com",
+    "siteUrl": "it.skyimageme.com",
+    "isPass": false
+  },
+  "writetohub.com": {
+    "siteId": 138,
+    "accountId": 1,
+    "siteName": "writetohub.com",
+    "siteUrl": "writetohub.com",
+    "isPass": true
+  },
+  "passportpicai.com": {
+    "siteId": 139,
+    "accountId": 19,
+    "siteName": "passportpicai.com",
+    "siteUrl": "passportpicai.com",
+    "isPass": false
+  },
+  "animegenieai.com": {
+    "siteId": 140,
+    "accountId": 20,
+    "siteName": "animegenieai.com",
+    "siteUrl": "animegenieai.com",
+    "isPass": false
+  },
+  "posterflowai.com": {
+    "siteId": 141,
+    "accountId": 21,
+    "siteName": "posterflowai.com",
+    "siteUrl": "posterflowai.com",
+    "isPass": false
+  },
+  "walloragenai.com": {
+    "siteId": 142,
+    "accountId": 22,
+    "siteName": "walloragenai.com",
+    "siteUrl": "walloragenai.com",
+    "isPass": false
+  },
+  "zodiacpulses.com": {
+    "siteId": 143,
+    "accountId": 1,
+    "siteName": "zodiacpulses.com",
+    "siteUrl": "zodiacpulses.com",
+    "isPass": true
+  },
+  "huevii.com": {
+    "siteId": 144,
+    "accountId": 1,
+    "siteName": "huevii.com",
+    "siteUrl": "huevii.com",
+    "isPass": true
+  },
+  "taleweaveai.com": {
+    "siteId": 145,
+    "accountId": 1,
+    "siteName": "taleweaveai.com",
+    "siteUrl": "taleweaveai.com",
+    "isPass": false
+  },
+  "personalitym.com": {
+    "siteId": 146,
+    "accountId": 1,
+    "siteName": "personalitym.com",
+    "siteUrl": "personalitym.com",
+    "isPass": false
+  },
+  "rateledger.com": {
+    "siteId": 147,
+    "accountId": 1,
+    "siteName": "rateledger.com",
+    "siteUrl": "rateledger.com",
+    "isPass": false
+  },
+  "dentalcaredaily.com": {
+    "siteId": 148,
+    "accountId": 1,
+    "siteName": "dentalcaredaily.com",
+    "siteUrl": "dentalcaredaily.com",
+    "isPass": false
+  },
+  "getcleanjob.com": {
+    "siteId": 149,
+    "accountId": 1,
+    "siteName": "getcleanjob.com",
+    "siteUrl": "getcleanjob.com",
+    "isPass": false
+  },
+  "lasterment.com": {
+    "siteId": 150,
+    "accountId": 1,
+    "siteName": "lasterment.com",
+    "siteUrl": "lasterment.com",
+    "isPass": false
+  },
+  "getelectricjobs.com": {
+    "siteId": 152,
+    "accountId": 1,
+    "siteName": "getelectricjobs.com",
+    "siteUrl": "getelectricjobs.com",
+    "isPass": false
+  },
+  "getgardenjobs.com": {
+    "siteId": 153,
+    "accountId": 1,
+    "siteName": "getgardenjobs.com",
+    "siteUrl": "getgardenjobs.com",
+    "isPass": false
+  },
+  "fitmoodstudio.com": {
+    "siteId": 154,
+    "accountId": 24,
+    "siteName": "fitmoodstudio.com",
+    "siteUrl": "fitmoodstudio.com",
+    "isPass": false
+  },
+  "astroviaai.com": {
+    "siteId": 155,
+    "accountId": 25,
+    "siteName": "astroviaai.com",
+    "siteUrl": "astroviaai.com",
+    "isPass": false
+  },
+  "phraseframeai.com": {
+    "siteId": 156,
+    "accountId": 26,
+    "siteName": "phraseframeai.com",
+    "siteUrl": "phraseframeai.com",
+    "isPass": false
+  },
+  "roomrestack.com": {
+    "siteId": 157,
+    "accountId": 27,
+    "siteName": "roomrestack.com",
+    "siteUrl": "roomrestack.com",
+    "isPass": false
+  },
+  "daytripboard.com": {
+    "siteId": 158,
+    "accountId": 28,
+    "siteName": "daytripboard.com",
+    "siteUrl": "daytripboard.com",
+    "isPass": false
+  },
+  "rentroomcheck.com": {
+    "siteId": 159,
+    "accountId": 29,
+    "siteName": "rentroomcheck.com",
+    "siteUrl": "rentroomcheck.com",
+    "isPass": false
+  },
+  "promos724.com": {
+    "siteId": 160,
+    "accountId": 31,
+    "siteName": "promos724.com",
+    "siteUrl": "promos724.com",
+    "isPass": true
+  },
+  "dentalcareexplained.com": {
+    "siteId": 161,
+    "accountId": 13,
+    "siteName": "dentalcareexplained.com",
+    "siteUrl": "dentalcareexplained.com",
+    "isPass": false
+  },
+  "cleaningjobsguide.com": {
+    "siteId": 162,
+    "accountId": 13,
+    "siteName": "cleaningjobsguide.com",
+    "siteUrl": "cleaningjobsguide.com",
+    "isPass": false
+  },
+  "laserskinnearme.com": {
+    "siteId": 163,
+    "accountId": 13,
+    "siteName": "laserskinnearme.com",
+    "siteUrl": "laserskinnearme.com",
+    "isPass": false
+  },
+  "electricjobguide.com": {
+    "siteId": 164,
+    "accountId": 13,
+    "siteName": "electricjobguide.com",
+    "siteUrl": "electricjobguide.com",
+    "isPass": false
+  },
+  "seekmoon.ai": {
+    "siteId": 165,
+    "accountId": 32,
+    "siteName": "seekmoon.ai",
+    "siteUrl": "seekmoon.ai",
+    "isPass": true
+  },
+  "vehila.com": {
+    "siteId": 166,
+    "accountId": 33,
+    "siteName": "vehila.com",
+    "siteUrl": "vehila.com",
+    "isPass": true
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "code": 200,
+  "data": {
+    "funnelId": "3p0reOSIpMGA",
+    "funnelName": "ff-reel-v05",
+    "partnerName": null,
+    "urlName": null,
+    "urlId": null,
+    "offerGroupList": [
+      {
+        "groupId": "3p0qF0OQnfQm",
+        "groupName": "ff-reel-v05-default",
+        "geo": null
+      },
+      {
+        "groupId": "3p0qJBBXbBdI",
+        "groupName": "ff-reel-v05-us",
+        "geo": "US"
+      },
+      {
+        "groupId": "3p1VlP4GiwSm",
+        "groupName": "ff-reel-v05-br",
+        "geo": "BR"
+      }
+    ],
+    "platform": "MIS",
+    "status": "active",
+    "autoWeightEnabled": null,
+    "autoWeightRuleType": null
+  }
+}

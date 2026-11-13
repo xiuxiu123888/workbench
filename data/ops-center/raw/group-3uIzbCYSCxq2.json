@@ -1,0 +1,54 @@
+{
+  "code": 200,
+  "data": {
+    "groupId": "3uIzbCYSCxq2",
+    "groupName": "cd-reader-pb-v01-us",
+    "routing": "rotator",
+    "geo": "US",
+    "yesterdayRpm": 0,
+    "yesterdayRev": 0,
+    "yesterdayRpmTrend": 0,
+    "yesterdayRevTrend": 0,
+    "offerList": [
+      {
+        "offerId": "3uIzIeJTGnmj",
+        "offerName": "cd-reader-pb-v01-A7-Us-12133",
+        "categoryName": "消费电子",
+        "weight": 1,
+        "channelId": "12133",
+        "countryCode": "US",
+        "afsSource": "7",
+        "todayRpm": 0,
+        "todayRev": 0
+      },
+      {
+        "offerId": "3uIz45okPGMU",
+        "offerName": "cd-reader-pb-v01-A4-Us-1975194475",
+        "categoryName": "面部提拉",
+        "weight": 1,
+        "channelId": "1975194475",
+        "countryCode": "CD",
+        "afsSource": "4",
+        "todayRpm": 0,
+        "todayRev": 0
+      },
+      {
+        "offerId": "43qKWsZjIeWH",
+        "offerName": "cd-reader-pb-v01-A17-us-9426786653-seekmoon.ai",
+        "categoryName": null,
+        "weight": 1,
+        "channelId": "9426786653",
+        "countryCode": "US",
+        "afsSource": "17",
+        "todayRpm": 0,
+        "todayRev": 0
+      }
+    ],
+    "funnelId": "3uIzmqzFx5yx",
+    "funnelName": "cd-reader-pb-v01",
+    "partnerName": "changdu",
+    "urlName": "moboreader",
+    "urlId": 144,
+    "platform": "MIS"
+  }
+}

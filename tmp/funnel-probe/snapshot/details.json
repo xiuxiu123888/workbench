@@ -1,0 +1,2378 @@
+[
+  {
+    "funnelId": "42OJahu8SFPj",
+    "funnelName": "Dramaticreel-v02",
+    "partnerName": null,
+    "urlName": null,
+    "urlId": null,
+    "offerGroupList": [
+      {
+        "groupId": "42OIhaXx4Be7",
+        "groupName": "Dramaticreel-v02-default",
+        "geo": null
+      },
+      {
+        "groupId": "42OIeWm1Vaat",
+        "groupName": "Dramaticreel-v02-us",
+        "geo": "US"
+      }
+    ],
+    "platform": "MIS",
+    "status": "active",
+    "autoWeightEnabled": null,
+    "autoWeightRuleType": null
+  },
+  {
+    "funnelId": "42OJergxiNN9",
+    "funnelName": "Dramaticreel-v03",
+    "partnerName": null,
+    "urlName": null,
+    "urlId": null,
+    "offerGroupList": [
+      {
+        "groupId": "42OIxW0HpkL5",
+        "groupName": "Dramaticreel-v03-default",
+        "geo": null
+      },
+      {
+        "groupId": "42OItvQhSeae",
+        "groupName": "Dramaticreel-v03-us",
+        "geo": "US"
+      }
+    ],
+    "platform": "MIS",
+    "status": "active",
+    "autoWeightEnabled": null,
+    "autoWeightRuleType": null
+  },
+  {
+    "funnelId": "42OJBs5tgQkk",
+    "funnelName": "Dramaticreel-v01",
+    "partnerName": null,
+    "urlName": null,
+    "urlId": null,
+    "offerGroupList": [
+      {
+        "groupId": "42OIZPGsRj4V",
+        "groupName": "Dramaticreel-v01-default",
+        "geo": null
+      },
+      {
+        "groupId": "42OIUkcZmfOX",
+        "groupName": "Dramaticreel-v01-us",
+        "geo": "US"
+      }
+    ],
+    "platform": "MIS",
+    "status": "active",
+    "autoWeightEnabled": null,
+    "autoWeightRuleType": null
+  },
+  {
+    "funnelId": "3zb0bcaeqhVS",
+    "funnelName": "moboreels-v01",
+    "partnerName": null,
+    "urlName": null,
+    "urlId": null,
+    "offerGroupList": [
+      {
+        "groupId": "3zb0wsFpgmB0",
+        "groupName": "moboreels-v01-default",
+        "geo": null
+      },
+      {
+        "groupId": "3zb0sMumah1B",
+        "groupName": "moboreels-v01-us",
+        "geo": "US"
+      }
+    ],
+    "platform": "MIS",
+    "status": "active",
+    "autoWeightEnabled": 1,
+    "autoWeightRuleType": "TODAY_RPM"
+  },
+  {
+    "funnelId": "3zb2pKLqQr7e",
+    "funnelName": "moboreels-v02",
+    "partnerName": "changdu",
+    "urlName": "moboreels",
+    "urlId": 50,
+    "offerGroupList": [
+      {
+        "groupId": "3zb1132T5hJ7",
+        "groupName": "moboreels-v02-default",
+        "geo": null
+      },
+      {
+        "groupId": "3zb15NZTKTtA",
+        "groupName": "moboreels-v02-us",
+        "geo": "US"
+      }
+    ],
+    "platform": "MIS",
+    "status": "active",
+    "autoWeightEnabled": 1,
+    "autoWeightRuleType": "TODAY_RPM"
+  },
+  {
+    "funnelId": "3zaxNqwFxfnB",
+    "funnelName": "reader-v02",
+    "partnerName": null,
+    "urlName": null,
+    "urlId": null,
+    "offerGroupList": [
+      {
+        "groupId": "3zawDpprkMda",
+        "groupName": "reader-v02-default",
+        "geo": "US"
+      },
+      {
+        "groupId": "3zawJefnU1rD",
+        "groupName": "reader-v02-us",
+        "geo": "US"
+      }
+    ],
+    "platform": "MIS",
+    "status": "active",
+    "autoWeightEnabled": 1,
+    "autoWeightRuleType": "TODAY_RPM"
+  },
+  {
+    "funnelId": "3zawx1d3eHDg",
+    "funnelName": "reader-v01",
+    "partnerName": null,
+    "urlName": null,
+    "urlId": null,
+    "offerGroupList": [
+      {
+        "groupId": "3zavpdCfw6xd",
+        "groupName": "reader-v01-default",
+        "geo": null
+      },
+      {
+        "groupId": "3zavu5rnmvHq",
+        "groupName": "reader-v01-us",
+        "geo": "US"
+      }
+    ],
+    "platform": "MIS",
+    "status": "active",
+    "autoWeightEnabled": 1,
+    "autoWeightRuleType": "TODAY_RPM"
+  },
+  {
+    "funnelId": "3zb3S8BZbPfp",
+    "funnelName": "moboreels-v04",
+    "partnerName": null,
+    "urlName": null,
+    "urlId": null,
+    "offerGroupList": [
+      {
+        "groupId": "3zb2m5GkIItD",
+        "groupName": "moboreels-v04-default",
+        "geo": null
+      }
+    ],
+    "platform": "MIS",
+    "status": "active",
+    "autoWeightEnabled": 1,
+    "autoWeightRuleType": "TODAY_RPM"
+  },
+  {
+    "funnelId": "3zb3PGEznP52",
+    "funnelName": "moboreels-v03",
+    "partnerName": null,
+    "urlName": null,
+    "urlId": null,
+    "offerGroupList": [
+      {
+        "groupId": "3zb2cv2Sd2fW",
+        "groupName": "moboreels-v03-default",
+        "geo": null
+      },
+      {
+        "groupId": "3zb2ZVKVoKFo",
+        "groupName": "moboreels-v03-us",
+        "geo": "US"
+      }
+    ],
+    "platform": "MIS",
+    "status": "active",
+    "autoWeightEnabled": 1,
+    "autoWeightRuleType": "TODAY_RPM"
+  },
+  {
+    "funnelId": "3z7d1Vmn8Fku",
+    "funnelName": "ShortMax-v04",
+    "partnerName": null,
+    "urlName": null,
+    "urlId": null,
+    "offerGroupList": [
+      {
+        "groupId": "3z7cqxRQpfcL",
+        "groupName": "shortmax-v04-default",
+        "geo": null
+      },
+      {
+        "groupId": "3z7cydgOCSmO",
+        "groupName": "shortmax-v04-us",
+        "geo": "US"
+      }
+    ],
+    "platform": "MIS",
+    "status": "active",
+    "autoWeightEnabled": 1,
+    "autoWeightRuleType": "TODAY_RPM"
+  },
+  {
+    "funnelId": "3z7nZk7WDoBd",
+    "funnelName": "ShortMax-v03",
+    "partnerName": null,
+    "urlName": null,
+    "urlId": null,
+    "offerGroupList": [
+      {
+        "groupId": "3z7nS6Wp51VH",
+        "groupName": "shortmax-v03-default",
+        "geo": "US"
+      },
+      {
+        "groupId": "3z7nY7z3NsUi",
+        "groupName": "shortmax-v03-us",
+        "geo": "US"
+      }
+    ],
+    "platform": "MIS",
+    "status": "active",
+    "autoWeightEnabled": 1,
+    "autoWeightRuleType": "TODAY_RPM"
+  },
+  {
+    "funnelId": "3yuiJUqm4utg",
+    "funnelName": "adsense-v001",
+    "partnerName": null,
+    "urlName": null,
+    "urlId": null,
+    "offerGroupList": [
+      {
+        "groupId": "3yuihVyD34mq",
+        "groupName": "adsense",
+        "geo": "TG"
+      }
+    ],
+    "platform": "MIS",
+    "status": "active",
+    "autoWeightEnabled": null,
+    "autoWeightRuleType": null
+  },
+  {
+    "funnelId": "3yj8jf5lC9CG",
+    "funnelName": "Vibeshort-V01",
+    "partnerName": "vibeshort",
+    "urlName": "vibeshort-v01",
+    "urlId": 119,
+    "offerGroupList": [
+      {
+        "groupId": "3yivLOps3tB3",
+        "groupName": "vibeshort-v01-default",
+        "geo": null
+      },
+      {
+        "groupId": "3yiuUX2EUy9j",
+        "groupName": "vibeshort-v01-us",
+        "geo": "US"
+      }
+    ],
+    "platform": "MIS",
+    "status": "active",
+    "autoWeightEnabled": 1,
+    "autoWeightRuleType": "TODAY_RPM"
+  },
+  {
+    "funnelId": "3ykKt2fZxicx",
+    "funnelName": "storyreel-v02",
+    "partnerName": "storyreel",
+    "urlName": "storyreel-v02",
+    "urlId": 126,
+    "offerGroupList": [
+      {
+        "groupId": "3ykKqLA0ZN91",
+        "groupName": "storyreel-v02-default",
+        "geo": null
+      },
+      {
+        "groupId": "3ykKaXWltNks",
+        "groupName": "storyreel-v02-us",
+        "geo": "US"
+      }
+    ],
+    "platform": "MIS",
+    "status": "active",
+    "autoWeightEnabled": 1,
+    "autoWeightRuleType": "TODAY_RPM"
+  },
+  {
+    "funnelId": "3xmn72FXdrbv",
+    "funnelName": "Yahu-v02",
+    "partnerName": null,
+    "urlName": null,
+    "urlId": null,
+    "offerGroupList": [
+      {
+        "groupId": "3xmnIdk9uwIm",
+        "groupName": "yahu-default",
+        "geo": null
+      },
+      {
+        "groupId": "3vcQOeAzPlvy",
+        "groupName": "yahu",
+        "geo": null
+      }
+    ],
+    "platform": "MIS",
+    "status": "active",
+    "autoWeightEnabled": null,
+    "autoWeightRuleType": null
+  },
+  {
+    "funnelId": "3x47BxwjQBMo",
+    "funnelName": "ShortMax-v05",
+    "partnerName": "shortmax",
+    "urlName": null,
+    "urlId": null,
+    "offerGroupList": [
+      {
+        "groupId": "3x471ixK2h14",
+        "groupName": "shortmax-v05-default",
+        "geo": null
+      },
+      {
+        "groupId": "3x46sbUFq6hL",
+        "groupName": "ShortMax-v05-us",
+        "geo": "US"
+      }
+    ],
+    "platform": "MIS",
+    "status": "active",
+    "autoWeightEnabled": 1,
+    "autoWeightRuleType": "TODAY_RPM"
+  },
+  {
+    "funnelId": "3x4Biffp1su8",
+    "funnelName": "ShortMax-v11",
+    "partnerName": "shortmax",
+    "urlName": null,
+    "urlId": null,
+    "offerGroupList": [
+      {
+        "groupId": "3x4BYAL3vdtz",
+        "groupName": "shortmax-v11-default",
+        "geo": null
+      },
+      {
+        "groupId": "3x49ayZLAjiG",
+        "groupName": "shortmax-v11-us",
+        "geo": "US"
+      }
+    ],
+    "platform": "MIS",
+    "status": "active",
+    "autoWeightEnabled": 1,
+    "autoWeightRuleType": "TODAY_RPM"
+  },
+  {
+    "funnelId": "3wxQUAbsGb0e",
+    "funnelName": "storyreel-v04",
+    "partnerName": "storyreel",
+    "urlName": "storyreel-v04",
+    "urlId": 130,
+    "offerGroupList": [
+      {
+        "groupId": "3wxPGjqQjruH",
+        "groupName": "storyreel-v04-default",
+        "geo": null
+      },
+      {
+        "groupId": "3wxPhz9PclMe",
+        "groupName": "storyreel-v04-us",
+        "geo": "US"
+      }
+    ],
+    "platform": "MIS",
+    "status": "active",
+    "autoWeightEnabled": 1,
+    "autoWeightRuleType": "TODAY_RPM"
+  },
+  {
+    "funnelId": "3wxU24LWkWif",
+    "funnelName": "storyreel-v05",
+    "partnerName": "storyreel",
+    "urlName": "storyreel-v05",
+    "urlId": 131,
+    "offerGroupList": [
+      {
+        "groupId": "3wxUJll76KCn",
+        "groupName": "storyreel-v05-default",
+        "geo": null
+      },
+      {
+        "groupId": "3wxTaJ9wWm7E",
+        "groupName": "storyreel-v05-us",
+        "geo": "US"
+      }
+    ],
+    "platform": "MIS",
+    "status": "active",
+    "autoWeightEnabled": 1,
+    "autoWeightRuleType": "TODAY_RPM"
+  },
+  {
+    "funnelId": "3wxF131slLhR",
+    "funnelName": "storyreel-v01",
+    "partnerName": "storyreel",
+    "urlName": "storyreel-v01",
+    "urlId": 125,
+    "offerGroupList": [
+      {
+        "groupId": "3wxEiKUvhjk0",
+        "groupName": "storyreel-v01-default",
+        "geo": null
+      },
+      {
+        "groupId": "3wxED9cgx8wM",
+        "groupName": "storyreel-v01-us",
+        "geo": "US"
+      }
+    ],
+    "platform": "MIS",
+    "status": "active",
+    "autoWeightEnabled": 1,
+    "autoWeightRuleType": "TODAY_RPM"
+  },
+  {
+    "funnelId": "3wxMhS6zF2m4",
+    "funnelName": "storyreel-v03",
+    "partnerName": "storyreel",
+    "urlName": "storyreel-v03",
+    "urlId": 129,
+    "offerGroupList": [
+      {
+        "groupId": "3wxMeXc11HFv",
+        "groupName": "storyreel-v03-default",
+        "geo": null
+      },
+      {
+        "groupId": "3wxMWa1wVy10",
+        "groupName": "storyreel-v03-us",
+        "geo": "US"
+      }
+    ],
+    "platform": "MIS",
+    "status": "active",
+    "autoWeightEnabled": 1,
+    "autoWeightRuleType": "TODAY_RPM"
+  },
+  {
+    "funnelId": "3ws8SMf82B2C",
+    "funnelName": "ShortMax-v06",
+    "partnerName": "shortmax",
+    "urlName": null,
+    "urlId": null,
+    "offerGroupList": [
+      {
+        "groupId": "3ws7NJgQdTfw",
+        "groupName": "shortmax-v06-default",
+        "geo": null
+      },
+      {
+        "groupId": "3ws7Gz610QJG",
+        "groupName": "shortmax-v06-us",
+        "geo": "US"
+      }
+    ],
+    "platform": "MIS",
+    "status": "active",
+    "autoWeightEnabled": 1,
+    "autoWeightRuleType": "TODAY_RPM"
+  },
+  {
+    "funnelId": "3w2ShcbnMk5i",
+    "funnelName": "Vibeshort-V03",
+    "partnerName": "vibeshort",
+    "urlName": "vibeshort-v03",
+    "urlId": 123,
+    "offerGroupList": [
+      {
+        "groupId": "3w2Rw6Vrj5kH",
+        "groupName": "vibeshort-v03-default",
+        "geo": "US"
+      },
+      {
+        "groupId": "3w2S87Ukx4fB",
+        "groupName": "vibeshort-v03-us",
+        "geo": "US"
+      }
+    ],
+    "platform": "MIS",
+    "status": "active",
+    "autoWeightEnabled": 1,
+    "autoWeightRuleType": "TODAY_RPM"
+  },
+  {
+    "funnelId": "3w0aPitAgGtJ",
+    "funnelName": "Vibeshort-v02",
+    "partnerName": "vibeshort",
+    "urlName": "vibeshort-v02",
+    "urlId": 120,
+    "offerGroupList": [
+      {
+        "groupId": "3w0aItRBDKME",
+        "groupName": "vibeshort-v02-default",
+        "geo": null
+      },
+      {
+        "groupId": "3w0ZpXrmJTjL",
+        "groupName": "vibeshort-v02-us",
+        "geo": "US"
+      }
+    ],
+    "platform": "MIS",
+    "status": "active",
+    "autoWeightEnabled": 1,
+    "autoWeightRuleType": "TODAY_RPM"
+  },
+  {
+    "funnelId": "3vpOnm1eAKRw",
+    "funnelName": "web-v01",
+    "partnerName": "changdu",
+    "urlName": "moboreaderweb",
+    "urlId": 147,
+    "offerGroupList": [
+      {
+        "groupId": "3vpOYjlFAE1g",
+        "groupName": "web-v01",
+        "geo": null
+      }
+    ],
+    "platform": "MIS",
+    "status": "active",
+    "autoWeightEnabled": null,
+    "autoWeightRuleType": null
+  },
+  {
+    "funnelId": "3rI0WAnYN9fC",
+    "funnelName": "cd-reader-banner-v01",
+    "partnerName": "changdu",
+    "urlName": "moboreader",
+    "urlId": 139,
+    "offerGroupList": [
+      {
+        "groupId": "3rI0QOkekGfb",
+        "groupName": "cd-reader-banner-v01-default",
+        "geo": "CD"
+      },
+      {
+        "groupId": "3rI0K6JkfrzG",
+        "groupName": "cd-reader-banner-v01-us",
+        "geo": "US"
+      }
+    ],
+    "platform": "MIS",
+    "status": "active",
+    "autoWeightEnabled": null,
+    "autoWeightRuleType": null
+  },
+  {
+    "funnelId": "3p0rRj7GzSgd",
+    "funnelName": "ff-reel-v04",
+    "partnerName": null,
+    "urlName": null,
+    "urlId": null,
+    "offerGroupList": [
+      {
+        "groupId": "3p0qBB069XOE",
+        "groupName": "ff-reel-v04-default",
+        "geo": null
+      },
+      {
+        "groupId": "3p0q81y0YBfZ",
+        "groupName": "ff-reel-v04-us",
+        "geo": "US"
+      },
+      {
+        "groupId": "3p1Vg0MtOYhA",
+        "groupName": "ff-reel-v04-br",
+        "geo": "BR"
+      }
+    ],
+    "platform": "MIS",
+    "status": "active",
+    "autoWeightEnabled": null,
+    "autoWeightRuleType": null
+  },
+  {
+    "funnelId": "3uDZjmliiexb",
+    "funnelName": "Blinkdrama-v03",
+    "partnerName": "Blinkdrama",
+    "urlName": "Blinkdrama-v03",
+    "urlId": 142,
+    "offerGroupList": [
+      {
+        "groupId": "3uDYzidrayvZ",
+        "groupName": "Blinkdrama-v03-default",
+        "geo": "US"
+      },
+      {
+        "groupId": "3uDYuFliS9Sl",
+        "groupName": "Blinkdrama-v03-us",
+        "geo": "US"
+      }
+    ],
+    "platform": "MIS",
+    "status": "active",
+    "autoWeightEnabled": 1,
+    "autoWeightRuleType": "TODAY_RPM"
+  },
+  {
+    "funnelId": "3p0reOSIpMGA",
+    "funnelName": "ff-reel-v05",
+    "partnerName": null,
+    "urlName": null,
+    "urlId": null,
+    "offerGroupList": [
+      {
+        "groupId": "3p0qF0OQnfQm",
+        "groupName": "ff-reel-v05-default",
+        "geo": null
+      },
+      {
+        "groupId": "3p0qJBBXbBdI",
+        "groupName": "ff-reel-v05-us",
+        "geo": "US"
+      },
+      {
+        "groupId": "3p1VlP4GiwSm",
+        "groupName": "ff-reel-v05-br",
+        "geo": "BR"
+      }
+    ],
+    "platform": "MIS",
+    "status": "active",
+    "autoWeightEnabled": null,
+    "autoWeightRuleType": null
+  },
+  {
+    "funnelId": "3vcQSId1clrr",
+    "funnelName": "Yahu-v01",
+    "partnerName": null,
+    "urlName": null,
+    "urlId": null,
+    "offerGroupList": [
+      {
+        "groupId": "3vcQZxRsX1Ng",
+        "groupName": "yahu-default",
+        "geo": null
+      },
+      {
+        "groupId": "3vcQOeAzPlvy",
+        "groupName": "yahu",
+        "geo": null
+      }
+    ],
+    "platform": "MIS",
+    "status": "active",
+    "autoWeightEnabled": null,
+    "autoWeightRuleType": null
+  },
+  {
+    "funnelId": "3v8e8WW7dTcB",
+    "funnelName": "Novelix-V02",
+    "partnerName": null,
+    "urlName": null,
+    "urlId": null,
+    "offerGroupList": [
+      {
+        "groupId": "3v8dMOcZuTIS",
+        "groupName": "Novelix-V02-default",
+        "geo": null
+      },
+      {
+        "groupId": "3v8dHsSEDpYC",
+        "groupName": "Novelix-V02-US",
+        "geo": "US"
+      }
+    ],
+    "platform": "MIS",
+    "status": "active",
+    "autoWeightEnabled": null,
+    "autoWeightRuleType": null
+  },
+  {
+    "funnelId": "3p0qKj9ZuL0Q",
+    "funnelName": "ff-reel-v02",
+    "partnerName": null,
+    "urlName": null,
+    "urlId": null,
+    "offerGroupList": [
+      {
+        "groupId": "3p0pmj5CEmMp",
+        "groupName": "ff-reel-v02-default",
+        "geo": null
+      },
+      {
+        "groupId": "3p0pdvDAgW3j",
+        "groupName": "ff-reel-v02-us",
+        "geo": "US"
+      },
+      {
+        "groupId": "3p1VTJe8iCl6",
+        "groupName": "ff-reel-v02-br",
+        "geo": "BR"
+      }
+    ],
+    "platform": "MIS",
+    "status": "active",
+    "autoWeightEnabled": null,
+    "autoWeightRuleType": null
+  },
+  {
+    "funnelId": "3uUfpSpZ3e2U",
+    "funnelName": "Blinkdrama-sign-v01",
+    "partnerName": "Blinkdrama",
+    "urlName": "Blinkdrama-sign-v01",
+    "urlId": 145,
+    "offerGroupList": [
+      {
+        "groupId": "3uUfWT9s5zAL",
+        "groupName": "Blinkdrama-sign-v01-default",
+        "geo": "US"
+      },
+      {
+        "groupId": "3uUfhkI1FZgv",
+        "groupName": "Blinkdrama-sign-v01-us",
+        "geo": "US"
+      }
+    ],
+    "platform": "MIS",
+    "status": "active",
+    "autoWeightEnabled": 1,
+    "autoWeightRuleType": "TODAY_RPM"
+  },
+  {
+    "funnelId": "3p89AEQQqtiQ",
+    "funnelName": "Vibeshort-sign-v01",
+    "partnerName": null,
+    "urlName": null,
+    "urlId": null,
+    "offerGroupList": [
+      {
+        "groupId": "3p88wMiZPd6n",
+        "groupName": "vibeshort-sign-default",
+        "geo": null
+      },
+      {
+        "groupId": "3p88rDMHu3nJ",
+        "groupName": "vibeshort-sign-us",
+        "geo": "US"
+      }
+    ],
+    "platform": "MIS",
+    "status": "active",
+    "autoWeightEnabled": null,
+    "autoWeightRuleType": null
+  },
+  {
+    "funnelId": "3p0lGXZCpmW0",
+    "funnelName": "ff-reel-v01",
+    "partnerName": null,
+    "urlName": null,
+    "urlId": null,
+    "offerGroupList": [
+      {
+        "groupId": "3p0kbO7jFwos",
+        "groupName": "ff-reel-v01-default",
+        "geo": null
+      },
+      {
+        "groupId": "3p0kY1C6tuvo",
+        "groupName": "ff-reel-v01-us",
+        "geo": "US"
+      },
+      {
+        "groupId": "3p1VNM5cSrsG",
+        "groupName": "ff-reel-v01-br",
+        "geo": "BR"
+      }
+    ],
+    "platform": "MIS",
+    "status": "active",
+    "autoWeightEnabled": null,
+    "autoWeightRuleType": null
+  },
+  {
+    "funnelId": "3p0r533ddojY",
+    "funnelName": "ff-reel-v03",
+    "partnerName": null,
+    "urlName": null,
+    "urlId": null,
+    "offerGroupList": [
+      {
+        "groupId": "3p0pyQqnvE3E",
+        "groupName": "ff-reel-v03-default",
+        "geo": null
+      },
+      {
+        "groupId": "3p0ps2lBrKrc",
+        "groupName": "ff-reel-v03-us",
+        "geo": "US"
+      },
+      {
+        "groupId": "3p1VZRG602UD",
+        "groupName": "ff-reel-v03-br",
+        "geo": "BR"
+      }
+    ],
+    "platform": "MIS",
+    "status": "active",
+    "autoWeightEnabled": null,
+    "autoWeightRuleType": null
+  },
+  {
+    "funnelId": "3v8eGzq3brlh",
+    "funnelName": "Novelix-V03",
+    "partnerName": null,
+    "urlName": null,
+    "urlId": null,
+    "offerGroupList": [
+      {
+        "groupId": "3v8daxM5Llql",
+        "groupName": "Novelix-V03-default",
+        "geo": null
+      },
+      {
+        "groupId": "3v8dWNyCK4qi",
+        "groupName": "Novelix-V03-US",
+        "geo": "US"
+      }
+    ],
+    "platform": "MIS",
+    "status": "active",
+    "autoWeightEnabled": null,
+    "autoWeightRuleType": null
+  },
+  {
+    "funnelId": "3v8c4XlVpGsX",
+    "funnelName": "Novelix-V01",
+    "partnerName": null,
+    "urlName": null,
+    "urlId": null,
+    "offerGroupList": [
+      {
+        "groupId": "3v8dCWBBcxFu",
+        "groupName": "Novelix-V01-default",
+        "geo": null
+      },
+      {
+        "groupId": "3v8cLGULumBg",
+        "groupName": "Novelix-V01-US",
+        "geo": "US"
+      }
+    ],
+    "platform": "MIS",
+    "status": "active",
+    "autoWeightEnabled": null,
+    "autoWeightRuleType": null
+  },
+  {
+    "funnelId": "3sFDWWqvNxR9",
+    "funnelName": "Blinkdrama-v01",
+    "partnerName": "Blinkdrama",
+    "urlName": "Blinkdrama-v01",
+    "urlId": 140,
+    "offerGroupList": [
+      {
+        "groupId": "3sFCawuJlJcU",
+        "groupName": "Blinkdrama-v01-default",
+        "geo": null
+      },
+      {
+        "groupId": "3sFCVTgYYRkx",
+        "groupName": "Blinkdrama-v01-us",
+        "geo": "US"
+      }
+    ],
+    "platform": "MIS",
+    "status": "active",
+    "autoWeightEnabled": 1,
+    "autoWeightRuleType": "TODAY_RPM"
+  },
+  {
+    "funnelId": "3uDZt8ImMHUl",
+    "funnelName": "Blinkdrama-v04",
+    "partnerName": "Blinkdrama",
+    "urlName": "Blinkdrama-v04",
+    "urlId": 143,
+    "offerGroupList": [
+      {
+        "groupId": "3uDZX9RuQzHs",
+        "groupName": "Blinkdrama-v04-default",
+        "geo": null
+      },
+      {
+        "groupId": "3uDZSGOM9tOL",
+        "groupName": "Blinkdrama-v04-us",
+        "geo": "US"
+      }
+    ],
+    "platform": "MIS",
+    "status": "active",
+    "autoWeightEnabled": 1,
+    "autoWeightRuleType": "TODAY_RPM"
+  },
+  {
+    "funnelId": "3uIzmqzFx5yx",
+    "funnelName": "cd-reader-pb-v01",
+    "partnerName": "changdu",
+    "urlName": "moboreader",
+    "urlId": 144,
+    "offerGroupList": [
+      {
+        "groupId": "3uIzbCYSCxq2",
+        "groupName": "cd-reader-pb-v01-us",
+        "geo": "US"
+      },
+      {
+        "groupId": "3rI0K6JkfrzG",
+        "groupName": "cd-reader-banner-v01-us",
+        "geo": "US"
+      }
+    ],
+    "platform": "MIS",
+    "status": "active",
+    "autoWeightEnabled": null,
+    "autoWeightRuleType": null
+  },
+  {
+    "funnelId": "3rHtNAYBcTyF",
+    "funnelName": "Vibeshort-V05",
+    "partnerName": "vibeshort",
+    "urlName": "vibeshort-V05",
+    "urlId": 138,
+    "offerGroupList": [
+      {
+        "groupId": "3rHs9nW4RCZN",
+        "groupName": "vibeshort-v05-default",
+        "geo": null
+      },
+      {
+        "groupId": "3rHs35dC0FiO",
+        "groupName": "vibeshort-v05-us",
+        "geo": "US"
+      }
+    ],
+    "platform": "MIS",
+    "status": "active",
+    "autoWeightEnabled": 1,
+    "autoWeightRuleType": "TODAY_RPM"
+  },
+  {
+    "funnelId": "3rHsTlCL2Fcg",
+    "funnelName": "Vibeshort-V04",
+    "partnerName": "vibeshort",
+    "urlName": "vibeshort-v04",
+    "urlId": 137,
+    "offerGroupList": [
+      {
+        "groupId": "3rHrsj5LSwG8",
+        "groupName": "vibeshort-v04-default",
+        "geo": null
+      },
+      {
+        "groupId": "3rHrZvVTaaWX",
+        "groupName": "vibeshort-v04-us",
+        "geo": "US"
+      }
+    ],
+    "platform": "MIS",
+    "status": "active",
+    "autoWeightEnabled": 1,
+    "autoWeightRuleType": "TODAY_RPM"
+  },
+  {
+    "funnelId": "3sFDuJeEbeay",
+    "funnelName": "Blinkdrama-v02",
+    "partnerName": "Blinkdrama",
+    "urlName": "Blinkdrama-v02",
+    "urlId": 141,
+    "offerGroupList": [
+      {
+        "groupId": "3sFDJ9shdCRS",
+        "groupName": "Blinkdrama-v02-default",
+        "geo": null
+      },
+      {
+        "groupId": "3sFDDyfVb4YH",
+        "groupName": "Blinkdrama-v02-us",
+        "geo": "US"
+      }
+    ],
+    "platform": "MIS",
+    "status": "active",
+    "autoWeightEnabled": 1,
+    "autoWeightRuleType": "TODAY_RPM"
+  },
+  {
+    "funnelId": "3uQ0fde3baao",
+    "funnelName": "Bestnovel-V01",
+    "partnerName": "changdu",
+    "urlName": "moboreader",
+    "urlId": 146,
+    "offerGroupList": [
+      {
+        "groupId": "3uQ0DFjHCroh",
+        "groupName": "Bestnovel-v01-us",
+        "geo": "US"
+      }
+    ],
+    "platform": "MIS",
+    "status": "active",
+    "autoWeightEnabled": null,
+    "autoWeightRuleType": null
+  },
+  {
+    "funnelId": "3p82yVFf1xF9",
+    "funnelName": "storyreel-sign-v01",
+    "partnerName": "storyreel",
+    "urlName": "storyreel-sign-v01",
+    "urlId": 148,
+    "offerGroupList": [
+      {
+        "groupId": "3p82DGDC33eE",
+        "groupName": "storyreel-sign-default",
+        "geo": null
+      },
+      {
+        "groupId": "3p82RzuAnIax",
+        "groupName": "storyreel-sign-us",
+        "geo": "US"
+      }
+    ],
+    "platform": "MIS",
+    "status": "active",
+    "autoWeightEnabled": 1,
+    "autoWeightRuleType": "TODAY_RPM"
+  },
+  {
+    "funnelId": "3oIS6Y7J2ySb",
+    "funnelName": "cd-lock-v01",
+    "partnerName": "changdu",
+    "urlName": "moboreels",
+    "urlId": 127,
+    "offerGroupList": [
+      {
+        "groupId": "3oIRzRXIlSsM",
+        "groupName": "cd-lock-v01-default",
+        "geo": "CD"
+      },
+      {
+        "groupId": "3oIRwzLlwzJe",
+        "groupName": "cd-lock-v01-us",
+        "geo": "US"
+      }
+    ],
+    "platform": "FF",
+    "status": "active",
+    "autoWeightEnabled": null,
+    "autoWeightRuleType": null
+  },
+  {
+    "funnelId": "3oIS9CuG2tEq",
+    "funnelName": "cd-task-v01",
+    "partnerName": "changdu",
+    "urlName": "moboreels",
+    "urlId": 128,
+    "offerGroupList": [
+      {
+        "groupId": "3oIRoDikU78X",
+        "groupName": "cd-task-v01-default",
+        "geo": "CD"
+      },
+      {
+        "groupId": "3oIRkig9CjY1",
+        "groupName": "cd-task-v01-us",
+        "geo": "US"
+      }
+    ],
+    "platform": "FF",
+    "status": "active",
+    "autoWeightEnabled": null,
+    "autoWeightRuleType": null
+  },
+  {
+    "funnelId": "3n2yw0I2LZD4",
+    "funnelName": "jz-signin-v01",
+    "partnerName": "shortmax",
+    "urlName": "jz-signin-v01",
+    "urlId": 121,
+    "offerGroupList": [
+      {
+        "groupId": "3n2z2OlRrXL0",
+        "groupName": "jz-signin-v01-A1-de",
+        "geo": "DE"
+      },
+      {
+        "groupId": "3n2z2OlfcuKU",
+        "groupName": "jz-signin-v01-A12-default",
+        "geo": "DEFAULT"
+      }
+    ],
+    "platform": "FF",
+    "status": "active",
+    "autoWeightEnabled": null,
+    "autoWeightRuleType": null
+  },
+  {
+    "funnelId": "3n30aqxf3T2y",
+    "funnelName": "jz-signin-v02",
+    "partnerName": "shortmax",
+    "urlName": "jz-signin-v02",
+    "urlId": 122,
+    "offerGroupList": [
+      {
+        "groupId": "3n30gI3AgvXV",
+        "groupName": "jz-signin-v02-A12-default",
+        "geo": "DEFAULT"
+      },
+      {
+        "groupId": "3n30gI378aIN",
+        "groupName": "jz-signin-v02-A1-fr",
+        "geo": "FR"
+      }
+    ],
+    "platform": "FF",
+    "status": "active",
+    "autoWeightEnabled": null,
+    "autoWeightRuleType": null
+  },
+  {
+    "funnelId": "3h7b2EEEVXm2",
+    "funnelName": "cd-reader-A76",
+    "partnerName": null,
+    "urlName": null,
+    "urlId": null,
+    "offerGroupList": [
+      {
+        "groupId": "3h7bMeWwH4FG",
+        "groupName": "cd-reader-A76-US",
+        "geo": "US"
+      },
+      {
+        "groupId": "3h7bU7Yi9npp",
+        "groupName": "cd-reader-A76-JP",
+        "geo": "JP"
+      },
+      {
+        "groupId": "3h7bYEIDMJCT",
+        "groupName": "cd-reader-A76-IT",
+        "geo": "IT"
+      },
+      {
+        "groupId": "3h7bc2jv9TCA",
+        "groupName": "cd-reader-A76-BR",
+        "geo": "BR"
+      },
+      {
+        "groupId": "3h7bgIWyjlsX",
+        "groupName": "cd-reader-A76-default",
+        "geo": "CD"
+      }
+    ],
+    "platform": "FF",
+    "status": "active",
+    "autoWeightEnabled": null,
+    "autoWeightRuleType": null
+  },
+  {
+    "funnelId": "3h7auqpMJMVz",
+    "funnelName": "JZ-18",
+    "partnerName": "shortmax",
+    "urlName": "JZ-18",
+    "urlId": 107,
+    "offerGroupList": [
+      {
+        "groupId": "3h7bldnwkHCX",
+        "groupName": "JZ-18-US",
+        "geo": "US"
+      },
+      {
+        "groupId": "3h7brphmADaT",
+        "groupName": "JZ-18-JP",
+        "geo": "JP"
+      },
+      {
+        "groupId": "3h7bvGyqCkxF",
+        "groupName": "JZ-18-IT",
+        "geo": "IT"
+      },
+      {
+        "groupId": "3h7bzJAYgURA",
+        "groupName": "JZ-18-BR",
+        "geo": "BR"
+      },
+      {
+        "groupId": "3h7c3cbn929Z",
+        "groupName": "JZ-18-default",
+        "geo": "DEFAULT"
+      },
+      {
+        "groupId": "3hETpTX9bt9n",
+        "groupName": "JZ-18-SA",
+        "geo": "SA"
+      },
+      {
+        "groupId": "3mxVI25Xyk53",
+        "groupName": "JZ-18-de",
+        "geo": "DE"
+      }
+    ],
+    "platform": "FF",
+    "status": "active",
+    "autoWeightEnabled": null,
+    "autoWeightRuleType": null
+  },
+  {
+    "funnelId": "3e5POoixvvOh",
+    "funnelName": "cd-ori-v01",
+    "partnerName": null,
+    "urlName": null,
+    "urlId": null,
+    "offerGroupList": [
+      {
+        "groupId": "3oCGAZ3S1W8Q",
+        "groupName": "cd-ori-v01-default",
+        "geo": "CD"
+      },
+      {
+        "groupId": "3oCFWByJz5Dg",
+        "groupName": "cd-ori-v01-us",
+        "geo": "US"
+      }
+    ],
+    "platform": "FF",
+    "status": "active",
+    "autoWeightEnabled": null,
+    "autoWeightRuleType": null
+  },
+  {
+    "funnelId": "3cQHLR9KPkS9",
+    "funnelName": "JZ-16",
+    "partnerName": "shortmax",
+    "urlName": "JZ-16",
+    "urlId": 98,
+    "offerGroupList": [
+      {
+        "groupId": "3cQGUizUbdaM",
+        "groupName": "JZ16-Default",
+        "geo": "DEFAULT"
+      },
+      {
+        "groupId": "3cQGbfJBpyhD",
+        "groupName": "JZ16-br",
+        "geo": "BR"
+      },
+      {
+        "groupId": "3cQGf0nhH62g",
+        "groupName": "JZ16-mx",
+        "geo": "MX"
+      },
+      {
+        "groupId": "3hESq7MYPSY8",
+        "groupName": "JZ-16-SA",
+        "geo": "SA"
+      },
+      {
+        "groupId": "3l515F6ILwv0",
+        "groupName": "JZ-16-JP",
+        "geo": "JP"
+      }
+    ],
+    "platform": "FF",
+    "status": "active",
+    "autoWeightEnabled": null,
+    "autoWeightRuleType": null
+  },
+  {
+    "funnelId": "3cQH1PB9h2cm",
+    "funnelName": "JZ-17",
+    "partnerName": "shortmax",
+    "urlName": "JZ-17",
+    "urlId": 99,
+    "offerGroupList": [
+      {
+        "groupId": "3cQGk8jcKguu",
+        "groupName": "JZ17-Default",
+        "geo": "DEFAULT"
+      },
+      {
+        "groupId": "3cQGppN7Xjcj",
+        "groupName": "JZ17-br",
+        "geo": "BR"
+      },
+      {
+        "groupId": "3cQGtHxVCCh7",
+        "groupName": "JZ17-mx",
+        "geo": "MX"
+      },
+      {
+        "groupId": "3hETIAQFouG4",
+        "groupName": "JZ-17-SA",
+        "geo": "SA"
+      },
+      {
+        "groupId": "3l519qDB3DH0",
+        "groupName": "JZ-17-JP",
+        "geo": "JP"
+      }
+    ],
+    "platform": "FF",
+    "status": "active",
+    "autoWeightEnabled": null,
+    "autoWeightRuleType": null
+  },
+  {
+    "funnelId": "3cQE9BUzTVSd",
+    "funnelName": "JZ-15",
+    "partnerName": "shortmax",
+    "urlName": "JZ-15",
+    "urlId": 97,
+    "offerGroupList": [
+      {
+        "groupId": "3cQDAoGh4bes",
+        "groupName": "jz15-mx",
+        "geo": "MX"
+      },
+      {
+        "groupId": "3cQD7t548YH9",
+        "groupName": "jz15-br",
+        "geo": "BR"
+      },
+      {
+        "groupId": "3cQD2PEqVMZj",
+        "groupName": "jz15-default",
+        "geo": "DEFAULT"
+      },
+      {
+        "groupId": "3hDTrg3BI02M",
+        "groupName": "JZ-15-SA",
+        "geo": "SA"
+      },
+      {
+        "groupId": "3jCePvXg248Z",
+        "groupName": "JZ-15-us",
+        "geo": "US"
+      },
+      {
+        "groupId": "3l50zy8cBliQ",
+        "groupName": "JZ-15-JP",
+        "geo": "JP"
+      }
+    ],
+    "platform": "FF",
+    "status": "active",
+    "autoWeightEnabled": null,
+    "autoWeightRuleType": null
+  },
+  {
+    "funnelId": "3cQDo7oKoOL2",
+    "funnelName": "JZ-14",
+    "partnerName": "shortmax",
+    "urlName": "JZ-14",
+    "urlId": 96,
+    "offerGroupList": [
+      {
+        "groupId": "3cQCkMWWOcL3",
+        "groupName": "jz14-default",
+        "geo": "DEFAULT"
+      },
+      {
+        "groupId": "3cQCpsZ0S3m0",
+        "groupName": "jz14-br",
+        "geo": "BR"
+      },
+      {
+        "groupId": "3cQCtWGoDeSZ",
+        "groupName": "jz14-mx",
+        "geo": "MX"
+      },
+      {
+        "groupId": "3hESP9SM5H1y",
+        "groupName": "JZ-14-SA",
+        "geo": "SA"
+      },
+      {
+        "groupId": "3l53om49uDJe",
+        "groupName": "JZ-14-JP",
+        "geo": "JP"
+      }
+    ],
+    "platform": "FF",
+    "status": "active",
+    "autoWeightEnabled": null,
+    "autoWeightRuleType": null
+  },
+  {
+    "funnelId": "3cOoCWdspR91",
+    "funnelName": "JZ-12",
+    "partnerName": "shortmax",
+    "urlName": "JZ-12",
+    "urlId": 94,
+    "offerGroupList": [
+      {
+        "groupId": "3cOnmSwGIbi9",
+        "groupName": "JZ12-BR",
+        "geo": "BR"
+      },
+      {
+        "groupId": "3hDTYemStk9t",
+        "groupName": "JZ-12-SA",
+        "geo": "SA"
+      },
+      {
+        "groupId": "3l50kzvtsfT1",
+        "groupName": "JZ-12-JP",
+        "geo": "JP"
+      },
+      {
+        "groupId": "3mbL0NkVzH1F",
+        "groupName": "JZ12-default",
+        "geo": "DEFAULT"
+      }
+    ],
+    "platform": "FF",
+    "status": "active",
+    "autoWeightEnabled": null,
+    "autoWeightRuleType": null
+  },
+  {
+    "funnelId": "3cOnuvi6z7Vg",
+    "funnelName": "JZ-13",
+    "partnerName": "shortmax",
+    "urlName": "JZ-13",
+    "urlId": 95,
+    "offerGroupList": [
+      {
+        "groupId": "3cOnqO9rgbM4",
+        "groupName": "jz13-br",
+        "geo": "BR"
+      },
+      {
+        "groupId": "3hES8LAqzoIO",
+        "groupName": "JZ-13-SA",
+        "geo": "SA"
+      },
+      {
+        "groupId": "3l50uan3e1RF",
+        "groupName": "JZ-13-JP",
+        "geo": "JP"
+      }
+    ],
+    "platform": "FF",
+    "status": "active",
+    "autoWeightEnabled": null,
+    "autoWeightRuleType": null
+  },
+  {
+    "funnelId": "3aXER1jGKCjP",
+    "funnelName": "jz-10",
+    "partnerName": "shortmax",
+    "urlName": "JZ-10",
+    "urlId": 92,
+    "offerGroupList": [
+      {
+        "groupId": "3aXCiA7oMHuE",
+        "groupName": "JZ10-US",
+        "geo": "US"
+      },
+      {
+        "groupId": "3aXCpPMToVJa",
+        "groupName": "JZ10-BR",
+        "geo": "BR"
+      },
+      {
+        "groupId": "3aXCuds7wFka",
+        "groupName": "JZ10-FR",
+        "geo": "FR"
+      },
+      {
+        "groupId": "3aXD1SfepigG",
+        "groupName": "JZ10-IT",
+        "geo": "IT"
+      },
+      {
+        "groupId": "3aXCiA7oMHuE",
+        "groupName": "JZ10-US",
+        "geo": "US"
+      },
+      {
+        "groupId": "3bwhHA7dKnrI",
+        "groupName": "JZ10-de",
+        "geo": "DE"
+      },
+      {
+        "groupId": "3bwhlM9aMQvL",
+        "groupName": "JZ10-jp",
+        "geo": "JP"
+      },
+      {
+        "groupId": "3cNJuLbvIBLk",
+        "groupName": "JZ10-mx",
+        "geo": "MX"
+      },
+      {
+        "groupId": "3cNJxrDnWPIK",
+        "groupName": "JZ10-sa",
+        "geo": "SA"
+      },
+      {
+        "groupId": "3fmZ7gvwGlUN",
+        "groupName": "BlockPage",
+        "geo": null
+      }
+    ],
+    "platform": "FF",
+    "status": "active",
+    "autoWeightEnabled": null,
+    "autoWeightRuleType": null
+  },
+  {
+    "funnelId": "3aXEOxFRbofy",
+    "funnelName": "jz-09",
+    "partnerName": "shortmax",
+    "urlName": "JZ-09",
+    "urlId": 91,
+    "offerGroupList": [
+      {
+        "groupId": "3aXCLwfCh4wo",
+        "groupName": "JZ09-US",
+        "geo": "US"
+      },
+      {
+        "groupId": "3aXCSvCEFct7",
+        "groupName": "JZ09-FR",
+        "geo": "FR"
+      },
+      {
+        "groupId": "3aXCZKEFTA56",
+        "groupName": "JZ09-IT",
+        "geo": "IT"
+      },
+      {
+        "groupId": "3aXEpNAf7UpA",
+        "groupName": "JZ09-default",
+        "geo": "DEFAULT"
+      },
+      {
+        "groupId": "3aXC7KS72hDZ",
+        "groupName": "JZ09-BR",
+        "geo": "BR"
+      },
+      {
+        "groupId": "3bovDEX8Ww7j",
+        "groupName": "JZ09-MX",
+        "geo": "MX"
+      },
+      {
+        "groupId": "3bqXAkAbGTMC",
+        "groupName": "JZ09-De",
+        "geo": "DE"
+      },
+      {
+        "groupId": "3cB7FTsuxSve",
+        "groupName": "JZ09-sa",
+        "geo": "SA"
+      },
+      {
+        "groupId": "3cBYASwJWZZ4",
+        "groupName": "JZ09-A7-es-1751917633",
+        "geo": "ES"
+      },
+      {
+        "groupId": "3fmYMWfBNCpo",
+        "groupName": "BlockPage",
+        "geo": null
+      },
+      {
+        "groupId": "3l52VR6mYFR1",
+        "groupName": "JZ-09-JP",
+        "geo": "JP"
+      }
+    ],
+    "platform": "FF",
+    "status": "active",
+    "autoWeightEnabled": 1,
+    "autoWeightRuleType": "TODAY_RPM"
+  },
+  {
+    "funnelId": "3UlhCblNbzAu",
+    "funnelName": "cd-reader-A79",
+    "partnerName": "changdu",
+    "urlName": "moboreader",
+    "urlId": 89,
+    "offerGroupList": [
+      {
+        "groupId": "3UlhHWffPIlv",
+        "groupName": "A79-A7-Us-9265748052",
+        "geo": "US"
+      },
+      {
+        "groupId": "3UlhHWfnVLtK",
+        "groupName": "A79-A7-Us-9015202708",
+        "geo": "US"
+      }
+    ],
+    "platform": "FF",
+    "status": "active",
+    "autoWeightEnabled": null,
+    "autoWeightRuleType": null
+  },
+  {
+    "funnelId": "3URMYo1qyRLG",
+    "funnelName": "JZ-08",
+    "partnerName": "shortmax",
+    "urlName": "JZ-08",
+    "urlId": 88,
+    "offerGroupList": [
+      {
+        "groupId": "3URMfebv48g5",
+        "groupName": "JZ-08-US",
+        "geo": "US"
+      },
+      {
+        "groupId": "3URO8RI8JizX",
+        "groupName": "JZ-08-IT",
+        "geo": "IT"
+      },
+      {
+        "groupId": "3UU92N9IYaOE",
+        "groupName": "JZ-08-JP",
+        "geo": "JP"
+      },
+      {
+        "groupId": "3UUAFx2aQHE8",
+        "groupName": "JZ-08-BR",
+        "geo": "BR"
+      },
+      {
+        "groupId": "3UUAKAfpoTrq",
+        "groupName": "JZ-08-FR",
+        "geo": "FR"
+      },
+      {
+        "groupId": "3We1YQwbQnzR",
+        "groupName": "JZ-08-US-default",
+        "geo": "US"
+      },
+      {
+        "groupId": "3bwSTkdtM6kR",
+        "groupName": "JZ-08-Sa",
+        "geo": "SA"
+      },
+      {
+        "groupId": "3bwSaURHoqVz",
+        "groupName": "JZ-08-mx",
+        "geo": "MX"
+      },
+      {
+        "groupId": "3fmXqZ1sfBGL",
+        "groupName": "BlockPage",
+        "geo": null
+      },
+      {
+        "groupId": "3mxPLb4PL7NP",
+        "groupName": "JZ-08-de",
+        "geo": "DE"
+      }
+    ],
+    "platform": "FF",
+    "status": "active",
+    "autoWeightEnabled": null,
+    "autoWeightRuleType": null
+  },
+  {
+    "funnelId": "3SqmT5M7rv4d",
+    "funnelName": "JZ-07",
+    "partnerName": "shortmax",
+    "urlName": "JZ-07",
+    "urlId": 87,
+    "offerGroupList": [
+      {
+        "groupId": "3SqmOgqiRg00",
+        "groupName": "JZ-07-US",
+        "geo": "US"
+      },
+      {
+        "groupId": "3T8fUEWHL8SI",
+        "groupName": "JZ-07-FR",
+        "geo": "FR"
+      },
+      {
+        "groupId": "3T8fcVlxsJBm",
+        "groupName": "JZ-07-JP",
+        "geo": "JP"
+      },
+      {
+        "groupId": "3UXBOTNhEPhF",
+        "groupName": "JZ-07-IT",
+        "geo": "IT"
+      },
+      {
+        "groupId": "3VIYR9dEwSMr",
+        "groupName": "JZ-07-Default",
+        "geo": "DEFAULT"
+      },
+      {
+        "groupId": "3bkLZB1HugSf",
+        "groupName": "JZ07-BR",
+        "geo": "BR"
+      },
+      {
+        "groupId": "3bozV31GtuJz",
+        "groupName": "JZ07-mx",
+        "geo": "MX"
+      },
+      {
+        "groupId": "3bvduvyZfhak",
+        "groupName": "JZ-07-SA",
+        "geo": "SA"
+      },
+      {
+        "groupId": "3fmXTpNTrnaJ",
+        "groupName": "BlockPage",
+        "geo": null
+      }
+    ],
+    "platform": "FF",
+    "status": "active",
+    "autoWeightEnabled": null,
+    "autoWeightRuleType": null
+  },
+  {
+    "funnelId": "3SmbEZti3YSr",
+    "funnelName": "JZ-06",
+    "partnerName": "shortmax",
+    "urlName": "JZ-06",
+    "urlId": 86,
+    "offerGroupList": [
+      {
+        "groupId": "3T9SHEYZyXWf",
+        "groupName": "JZ-06-US",
+        "geo": "US"
+      },
+      {
+        "groupId": "3T9SMh1jWAE4",
+        "groupName": "JZ-06-JP",
+        "geo": "JP"
+      },
+      {
+        "groupId": "3T9SSgVE9hSi",
+        "groupName": "JZ-06-KR",
+        "geo": "KR"
+      },
+      {
+        "groupId": "3T9UDkhZYWfI",
+        "groupName": "JZ-06-BR",
+        "geo": "BR"
+      },
+      {
+        "groupId": "3TVzy7vIvYSj",
+        "groupName": "JZ-06-FR",
+        "geo": "FR"
+      },
+      {
+        "groupId": "3URF8W946IGD",
+        "groupName": "JZ-06-IT",
+        "geo": "IT"
+      },
+      {
+        "groupId": "3WduUMD7CwQ8",
+        "groupName": "JZ-06-US-default",
+        "geo": "US"
+      },
+      {
+        "groupId": "3bwE2lJ0SnMZ",
+        "groupName": "JZ-06-de",
+        "geo": "DE"
+      },
+      {
+        "groupId": "3cBAt6RrRx82",
+        "groupName": "JZ-06-sa",
+        "geo": "SA"
+      },
+      {
+        "groupId": "3cBAycbCyTfo",
+        "groupName": "JZ-06-mx",
+        "geo": "MX"
+      },
+      {
+        "groupId": "3fmYrqJQ9vVf",
+        "groupName": "BlockPage",
+        "geo": null
+      }
+    ],
+    "platform": "FF",
+    "status": "active",
+    "autoWeightEnabled": 1,
+    "autoWeightRuleType": "TODAY_RPM"
+  },
+  {
+    "funnelId": "3Qi2AaBNTLG6",
+    "funnelName": "cd-reader-A75",
+    "partnerName": "changdu",
+    "urlName": "moboreader",
+    "urlId": 76,
+    "offerGroupList": [
+      {
+        "groupId": "3QiWk96oJYu3",
+        "groupName": "CD-Reel-A75-BR",
+        "geo": "BR"
+      },
+      {
+        "groupId": "3QiWqWjO11tb",
+        "groupName": "CD-Reel-A75-US",
+        "geo": "US"
+      },
+      {
+        "groupId": "3QiWqWjO11tb",
+        "groupName": "CD-Reel-A75-US",
+        "geo": "US"
+      },
+      {
+        "groupId": "3QiWx3cYI54D",
+        "groupName": "CD-Reel-A75-JP",
+        "geo": "JP"
+      },
+      {
+        "groupId": "3hJC1uJjTjNq",
+        "groupName": "alphahqai.com",
+        "geo": null
+      }
+    ],
+    "platform": "FF",
+    "status": "active",
+    "autoWeightEnabled": null,
+    "autoWeightRuleType": null
+  },
+  {
+    "funnelId": "3Qi1ty6v4Zxt",
+    "funnelName": "cd-reader-A74",
+    "partnerName": "changdu",
+    "urlName": "moboreader",
+    "urlId": 75,
+    "offerGroupList": [
+      {
+        "groupId": "3QiVuvTPgLnU",
+        "groupName": "CD-Reel-A74-BR",
+        "geo": "BR"
+      },
+      {
+        "groupId": "3QiW0wfsSHdL",
+        "groupName": "CD-Reel-A74-US",
+        "geo": "US"
+      },
+      {
+        "groupId": "3QiW0wfsSHdL",
+        "groupName": "CD-Reel-A74-US",
+        "geo": "US"
+      },
+      {
+        "groupId": "3QiW7YsY6l6J",
+        "groupName": "CD-Reel-A74-JP",
+        "geo": "JP"
+      },
+      {
+        "groupId": "3WpYbiC9GtaM",
+        "groupName": "hard-news",
+        "geo": null
+      },
+      {
+        "groupId": "3h5jI2N8rJhQ",
+        "groupName": "ailuxovex.com",
+        "geo": null
+      }
+    ],
+    "platform": "FF",
+    "status": "active",
+    "autoWeightEnabled": null,
+    "autoWeightRuleType": null
+  },
+  {
+    "funnelId": "3Qi1gJ9jSk2n",
+    "funnelName": "cd-reader-A73",
+    "partnerName": "changdu",
+    "urlName": "moboreader",
+    "urlId": 74,
+    "offerGroupList": [
+      {
+        "groupId": "3QiOHMSMR1v4",
+        "groupName": "CD-Reel-A73-BR",
+        "geo": "BR"
+      },
+      {
+        "groupId": "3QiOQcNvJ0Tz",
+        "groupName": "CD-Reel-A73-US",
+        "geo": "US"
+      },
+      {
+        "groupId": "3QiOVtctKKmR",
+        "groupName": "CD-Reel-A73-JP",
+        "geo": "JP"
+      },
+      {
+        "groupId": "3QiOQcNvJ0Tz",
+        "groupName": "CD-Reel-A73-US",
+        "geo": "US"
+      },
+      {
+        "groupId": "3WWk2hF6tDMJ",
+        "groupName": "hard-news",
+        "geo": null
+      },
+      {
+        "groupId": "3fmb4nWUTYOg",
+        "groupName": "BlockPage",
+        "geo": null
+      },
+      {
+        "groupId": "3k24GxdzjZhF",
+        "groupName": "alphahqai.com",
+        "geo": null
+      }
+    ],
+    "platform": "FF",
+    "status": "active",
+    "autoWeightEnabled": null,
+    "autoWeightRuleType": null
+  },
+  {
+    "funnelId": "3Qi1UskIWV7m",
+    "funnelName": "cd-reel-A72",
+    "partnerName": "changdu",
+    "urlName": "moboreels",
+    "urlId": 73,
+    "offerGroupList": [
+      {
+        "groupId": "3QiFpEpyb8hk",
+        "groupName": "CD-Reel-A72-BR",
+        "geo": "BR"
+      },
+      {
+        "groupId": "3QiG0t9E8hZv",
+        "groupName": "CD-Reel-A72-JP",
+        "geo": "JP"
+      },
+      {
+        "groupId": "3QiFvK7VhH1h",
+        "groupName": "CD-Reel-A72-US",
+        "geo": "US"
+      },
+      {
+        "groupId": "3ndZdUt3hlO5",
+        "groupName": "CD-Reel-A72-default",
+        "geo": "CD"
+      }
+    ],
+    "platform": "FF",
+    "status": "active",
+    "autoWeightEnabled": null,
+    "autoWeightRuleType": null
+  },
+  {
+    "funnelId": "3Qi1G0Basd3l",
+    "funnelName": "cd-reel-A71",
+    "partnerName": "changdu",
+    "urlName": "moboreels",
+    "urlId": 72,
+    "offerGroupList": [
+      {
+        "groupId": "3Qi8zbnGJuBp",
+        "groupName": "CD-Reel-A71-BR",
+        "geo": "BR"
+      },
+      {
+        "groupId": "3Qi94uh6XuV3",
+        "groupName": "CD-Reel-A71-US",
+        "geo": "US"
+      },
+      {
+        "groupId": "3Qi9A8ovV3ZW",
+        "groupName": "CD-Reel-A71-JP",
+        "geo": "JP"
+      }
+    ],
+    "platform": "FF",
+    "status": "active",
+    "autoWeightEnabled": null,
+    "autoWeightRuleType": null
+  },
+  {
+    "funnelId": "3Qi0wZnVilho",
+    "funnelName": "cd-reel-A70",
+    "partnerName": "changdu",
+    "urlName": "moboreels",
+    "urlId": 71,
+    "offerGroupList": [
+      {
+        "groupId": "3Qi3ZUIqiIXW",
+        "groupName": "CD-Reel-A70-Br",
+        "geo": "BR"
+      },
+      {
+        "groupId": "3Qi3kAstDewT",
+        "groupName": "CD-Reel-A70-Us",
+        "geo": "US"
+      },
+      {
+        "groupId": "3Qi3qQkKjL2X",
+        "groupName": "CD-Reel-A70-JP",
+        "geo": "JP"
+      },
+      {
+        "groupId": "3ndYb71Fxlsv",
+        "groupName": "CD-Reel-A70-default",
+        "geo": "CD"
+      }
+    ],
+    "platform": "FF",
+    "status": "active",
+    "autoWeightEnabled": null,
+    "autoWeightRuleType": null
+  },
+  {
+    "funnelId": "3PZNC9XTyfXp",
+    "funnelName": "Jiu-reel-0912",
+    "partnerName": "shortmax",
+    "urlName": "Jiu-reel-0912",
+    "urlId": 68,
+    "offerGroupList": [
+      {
+        "groupId": "3TAgAwCMIRnG",
+        "groupName": "Jiu-0912-JP",
+        "geo": "JP"
+      },
+      {
+        "groupId": "3TAgHZ2ewcvT",
+        "groupName": "Jiu-0912-FR",
+        "geo": "FR"
+      },
+      {
+        "groupId": "3TAgNGiTpdG4",
+        "groupName": "Jiu-0912-IT",
+        "geo": "IT"
+      },
+      {
+        "groupId": "3TAg1aVvtyht",
+        "groupName": "Jiu-0912-US",
+        "geo": "US"
+      },
+      {
+        "groupId": "3We0mc0XPo2O",
+        "groupName": "Jiu-0912-Br",
+        "geo": "BR"
+      },
+      {
+        "groupId": "3We12iYC3TUO",
+        "groupName": "Jiu-0912-US-default",
+        "geo": "US"
+      },
+      {
+        "groupId": "3bvqXF2bpuPE",
+        "groupName": "Jiu-0912-MX",
+        "geo": "MX"
+      },
+      {
+        "groupId": "3c8hS9kizRMP",
+        "groupName": "Jiu-0912-sa",
+        "geo": "SA"
+      },
+      {
+        "groupId": "3fmY7cyiPFfn",
+        "groupName": "BlockPage",
+        "geo": null
+      }
+    ],
+    "platform": "FF",
+    "status": "active",
+    "autoWeightEnabled": 1,
+    "autoWeightRuleType": "TODAY_RPM"
+  },
+  {
+    "funnelId": "3O9Vr9Ar6pNC",
+    "funnelName": "cd-reel-A6fan-62",
+    "partnerName": "changdu",
+    "urlName": "moboreels",
+    "urlId": 62,
+    "offerGroupList": [
+      {
+        "groupId": "3Ua6jh4GszUv",
+        "groupName": "cd-reel-0825-fan-62-Us",
+        "geo": "US"
+      },
+      {
+        "groupId": "3Ua6mRucsznM",
+        "groupName": "cd-reel-0825-fan-62-br",
+        "geo": "BR"
+      },
+      {
+        "groupId": "3Ua6y1zRiWZT",
+        "groupName": "cd-reel-0825-fan-62-jp",
+        "geo": "JP"
+      },
+      {
+        "groupId": "3XKxeNHRbvUQ",
+        "groupName": "cd-reel-0825-fan-62-default",
+        "geo": "CD"
+      },
+      {
+        "groupId": "3nMqRddvl7lg",
+        "groupName": "cd-reel-0825-fan-62-de",
+        "geo": "DE"
+      },
+      {
+        "groupId": "3Ua6ur8oPGhN",
+        "groupName": "cd-reel-0825-fan-62-it",
+        "geo": "IT"
+      },
+      {
+        "groupId": "3Ua6owQ1I4zP",
+        "groupName": "cd-reel-0825-fan-62-fr",
+        "geo": "FR"
+      }
+    ],
+    "platform": "FF",
+    "status": "active",
+    "autoWeightEnabled": 1,
+    "autoWeightRuleType": "TODAY_RPM"
+  },
+  {
+    "funnelId": "3O4uJVikic4W",
+    "funnelName": "cd-reel-A4-61",
+    "partnerName": "changdu",
+    "urlName": "moboreels",
+    "urlId": 61,
+    "offerGroupList": [
+      {
+        "groupId": "3XKq2S5lIjec",
+        "groupName": "cd-reel-A61-us",
+        "geo": "US"
+      },
+      {
+        "groupId": "3XKqGQYDlrCH",
+        "groupName": "cd-reel-A61-jp",
+        "geo": "JP"
+      },
+      {
+        "groupId": "3XKqN5EGpmu8",
+        "groupName": "cd-reel-A61-br",
+        "geo": "BR"
+      },
+      {
+        "groupId": "3XKr4p6nJzyz",
+        "groupName": "cd-reel-A61-default",
+        "geo": "CD"
+      },
+      {
+        "groupId": "3nMveSJRRlZ2",
+        "groupName": "cd-reel-A61-it",
+        "geo": "IT"
+      },
+      {
+        "groupId": "3nMvcSG46zRn",
+        "groupName": "cd-reel-A61-de",
+        "geo": "DE"
+      }
+    ],
+    "platform": "FF",
+    "status": "active",
+    "autoWeightEnabled": 1,
+    "autoWeightRuleType": "TODAY_RPM"
+  },
+  {
+    "funnelId": "3O3Sj2gNpkzw",
+    "funnelName": "cd-reader-A4-60",
+    "partnerName": "changdu",
+    "urlName": "moboreader",
+    "urlId": 60,
+    "offerGroupList": [
+      {
+        "groupId": "3WWjuuDg0OLo",
+        "groupName": "hard-news",
+        "geo": null
+      },
+      {
+        "groupId": "3XcIJjeaUYOT",
+        "groupName": "CD-Reader-A60-Us",
+        "geo": "US"
+      },
+      {
+        "groupId": "3XcIMLHvTZU9",
+        "groupName": "CD-Reader-A60-default",
+        "geo": "CD"
+      },
+      {
+        "groupId": "3XcIU4pyE9IB",
+        "groupName": "CD-Reader-A60-jp",
+        "geo": "JP"
+      },
+      {
+        "groupId": "3XcIbmYdMhX4",
+        "groupName": "CD-Reader-A60-br",
+        "geo": "BR"
+      },
+      {
+        "groupId": "3fmag1ouuXqJ",
+        "groupName": "BlockPage",
+        "geo": null
+      },
+      {
+        "groupId": "3njArvFYuY9n",
+        "groupName": "adsense-send",
+        "geo": null
+      }
+    ],
+    "platform": "FF",
+    "status": "active",
+    "autoWeightEnabled": 1,
+    "autoWeightRuleType": "TODAY_RPM"
+  },
+  {
+    "funnelId": "3LyxpT9hzzh6",
+    "funnelName": "cd-reader-A5-51",
+    "partnerName": "changdu",
+    "urlName": "moboreader",
+    "urlId": 51,
+    "offerGroupList": [
+      {
+        "groupId": "3WWjnOSCtgJk",
+        "groupName": "hard-news",
+        "geo": null
+      },
+      {
+        "groupId": "3XcD45sqqV3C",
+        "groupName": "CD-Reader-A51-Us",
+        "geo": "US"
+      },
+      {
+        "groupId": "3XcD9PcRqn7h",
+        "groupName": "CD-Reader-A51-default",
+        "geo": "CD"
+      },
+      {
+        "groupId": "3XcDMKECDdkZ",
+        "groupName": "CD-Reader-A51-jp",
+        "geo": "JP"
+      },
+      {
+        "groupId": "3XcDY2Sa1OlW",
+        "groupName": "CD-Reader-A51-br",
+        "geo": "BR"
+      },
+      {
+        "groupId": "3fma3gXIdcQj",
+        "groupName": "BlockPage",
+        "geo": null
+      },
+      {
+        "groupId": "3k23xwVs5sSm",
+        "groupName": "ailuxovex.com",
+        "geo": null
+      },
+      {
+        "groupId": "3nN4eePgj3Vn",
+        "groupName": "CD-Reader-A51-it",
+        "geo": "IT"
+      },
+      {
+        "groupId": "3nN4clsEENkx",
+        "groupName": "CD-Reader-A51-de",
+        "geo": "DE"
+      },
+      {
+        "groupId": "3nN4anDcBy5U",
+        "groupName": "CD-Reader-A51-fr",
+        "geo": "FR"
+      },
+      {
+        "groupId": "3njArvFYuY9n",
+        "groupName": "adsense-send",
+        "geo": null
+      }
+    ],
+    "platform": "FF",
+    "status": "active",
+    "autoWeightEnabled": 1,
+    "autoWeightRuleType": "TODAY_RPM"
+  },
+  {
+    "funnelId": "3LcdpN4mS9hK",
+    "funnelName": "cd-reel-A5-50",
+    "partnerName": "changdu",
+    "urlName": "moboreels",
+    "urlId": 50,
+    "offerGroupList": [
+      {
+        "groupId": "3Lcdha95zgmT",
+        "groupName": "cd-afs-0801",
+        "geo": "CD"
+      },
+      {
+        "groupId": "3XKm5l4UO47R",
+        "groupName": "cd-A50-default",
+        "geo": "CD"
+      },
+      {
+        "groupId": "3UYxmnRBarCJ",
+        "groupName": "cd-A50-us",
+        "geo": "US"
+      },
+      {
+        "groupId": "3XKmEZ6hPgCU",
+        "groupName": "cd-A50-jp",
+        "geo": "JP"
+      },
+      {
+        "groupId": "3XKmL5f4JCsS",
+        "groupName": "cd-A50-br",
+        "geo": "BR"
+      },
+      {
+        "groupId": "3Ymf7lRFdnGv",
+        "groupName": "cd-A50-de",
+        "geo": "DE"
+      },
+      {
+        "groupId": "3YmfCrC5CGOV",
+        "groupName": "cd-A50-gb",
+        "geo": "GB"
+      },
+      {
+        "groupId": "3cJcHUkA1y3f",
+        "groupName": "cd-A50-mx",
+        "geo": "MX"
+      },
+      {
+        "groupId": "3cJcTN0TPfSd",
+        "groupName": "cd-A50-it",
+        "geo": "IT"
+      },
+      {
+        "groupId": "3nMhxsspzvPe",
+        "groupName": "cd-A50-fr",
+        "geo": "FR"
+      }
+    ],
+    "platform": "FF",
+    "status": "active",
+    "autoWeightEnabled": 1,
+    "autoWeightRuleType": "TODAY_RPM"
+  }
+]

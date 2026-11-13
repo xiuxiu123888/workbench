@@ -1,0 +1,43 @@
+{
+  "code": 200,
+  "data": {
+    "groupId": "3n2z2OlfcuKU",
+    "groupName": "jz-signin-v01-A12-default",
+    "routing": "",
+    "geo": "DEFAULT",
+    "yesterdayRpm": 0,
+    "yesterdayRev": 0,
+    "yesterdayRpmTrend": 0,
+    "yesterdayRevTrend": 0,
+    "offerList": [
+      {
+        "offerId": "3n2xFGk3N2UE",
+        "offerName": "jz-signin-v01-A12-default",
+        "categoryName": "手机分期",
+        "weight": 0.34,
+        "channelId": "2811035782",
+        "countryCode": null,
+        "afsSource": null,
+        "todayRpm": 0,
+        "todayRev": 0
+      },
+      {
+        "offerId": "3pbRZK5kRsjy",
+        "offerName": "jz-signin-v01-A4-default-9278969426",
+        "categoryName": "手机分期",
+        "weight": 0.33,
+        "channelId": "9278969426",
+        "countryCode": null,
+        "afsSource": null,
+        "todayRpm": 0,
+        "todayRev": 0
+      }
+    ],
+    "funnelId": "3n2yw0I2LZD4",
+    "funnelName": "jz-signin-v01",
+    "partnerName": "shortmax",
+    "urlName": "jz-signin-v01",
+    "urlId": 121,
+    "platform": "FF"
+  }
+}

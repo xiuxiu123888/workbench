@@ -1,0 +1,26 @@
+{
+  "code": 200,
+  "data": {
+    "funnelId": "3wxQUAbsGb0e",
+    "funnelName": "storyreel-v04",
+    "partnerName": "storyreel",
+    "urlName": "storyreel-v04",
+    "urlId": 130,
+    "offerGroupList": [
+      {
+        "groupId": "3wxPGjqQjruH",
+        "groupName": "storyreel-v04-default",
+        "geo": null
+      },
+      {
+        "groupId": "3wxPhz9PclMe",
+        "groupName": "storyreel-v04-us",
+        "geo": "US"
+      }
+    ],
+    "platform": "MIS",
+    "status": "active",
+    "autoWeightEnabled": 1,
+    "autoWeightRuleType": "TODAY_RPM"
+  }
+}

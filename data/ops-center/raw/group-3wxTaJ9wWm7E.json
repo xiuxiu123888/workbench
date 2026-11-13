@@ -1,0 +1,186 @@
+{
+  "code": 200,
+  "data": {
+    "groupId": "3wxTaJ9wWm7E",
+    "groupName": "storyreel-v05-us",
+    "routing": "rotator",
+    "geo": "US",
+    "yesterdayRpm": 35.7,
+    "yesterdayRev": 19.25,
+    "yesterdayRpmTrend": 151.41,
+    "yesterdayRevTrend": 178.18,
+    "offerList": [
+      {
+        "offerId": "3wxRyS0LKh32",
+        "offerName": "storyreel-v05-A15-us-3504535236-mpbus.com",
+        "categoryName": "注射除皱",
+        "weight": 0.03,
+        "channelId": "3504535236",
+        "countryCode": "US",
+        "afsSource": "15",
+        "todayRpm": 0,
+        "todayRev": 0
+      },
+      {
+        "offerId": "3wxRtsTqhcHQ",
+        "offerName": "storyreel-v05-A5-us-9298290578-joyfullplayland.com",
+        "categoryName": "肿瘤 / 生物制剂",
+        "weight": 0.03,
+        "channelId": "9298290578",
+        "countryCode": "US",
+        "afsSource": "5",
+        "todayRpm": 13.5,
+        "todayRev": 0.23
+      },
+      {
+        "offerId": "3wxRp1jUhn8u",
+        "offerName": "storyreel-v05-A4-us-9516430386-zestfularcade.com",
+        "categoryName": "面部提拉",
+        "weight": 0.03,
+        "channelId": "9516430386",
+        "countryCode": "US",
+        "afsSource": "4",
+        "todayRpm": 31.5,
+        "todayRev": 0.41
+      },
+      {
+        "offerId": "3wxRiqWva04u",
+        "offerName": "storyreel-v05-A1-us-16496-homeguarddeals.com",
+        "categoryName": "汽车金融",
+        "weight": 1,
+        "channelId": "16496",
+        "countryCode": "US",
+        "afsSource": "1",
+        "todayRpm": 190.8,
+        "todayRev": 9.92
+      },
+      {
+        "offerId": "3wxReRqtdRJ8",
+        "offerName": "storyreel-v05-A7-us-11504-algo-cash.com",
+        "categoryName": "宠物产品",
+        "weight": 0.03,
+        "channelId": "11504",
+        "countryCode": "US",
+        "afsSource": "7",
+        "todayRpm": 0,
+        "todayRev": 0
+      },
+      {
+        "offerId": "3wxRZQsRgl4V",
+        "offerName": "storyreel-v05-A12-us-8007066269-intodeepdive.com",
+        "categoryName": "新能源汽车",
+        "weight": 0.03,
+        "channelId": "8007066269",
+        "countryCode": "US",
+        "afsSource": "12",
+        "todayRpm": 0,
+        "todayRev": 0
+      },
+      {
+        "offerId": "3ywdYJvlu15H",
+        "offerName": "storyreel-v05-A1-us-13421-insurance-consulting-nearby.com",
+        "categoryName": "注射除皱",
+        "weight": 0.07,
+        "channelId": "13421",
+        "countryCode": "US",
+        "afsSource": "1",
+        "todayRpm": 57.1,
+        "todayRev": 11.2
+      },
+      {
+        "offerId": "3ywddisTJKN6",
+        "offerName": "storyreel-v05-A1-us-13422-nearby-dental-implants.com",
+        "categoryName": "面部提拉",
+        "weight": 0.03,
+        "channelId": "13422",
+        "countryCode": "US",
+        "afsSource": "1",
+        "todayRpm": 14,
+        "todayRev": 0.14
+      },
+      {
+        "offerId": "3ywdlDRCRWP4",
+        "offerName": "storyreel-v05-A5-us-3797775551-easyfungalaxy.com",
+        "categoryName": "面部提拉",
+        "weight": 0.03,
+        "channelId": "3797775551",
+        "countryCode": "US",
+        "afsSource": "5",
+        "todayRpm": 1,
+        "todayRev": 0.01
+      },
+      {
+        "offerId": "3wxSP4nmGNST",
+        "offerName": "storyreel-v05-A7-us-11263-turboaix.com",
+        "categoryName": "面部提拉",
+        "weight": 0.03,
+        "channelId": "11263",
+        "countryCode": "US",
+        "afsSource": "7",
+        "todayRpm": 0,
+        "todayRev": 0
+      },
+      {
+        "offerId": "3ywdwawHUp0y",
+        "offerName": "storyreel-v05-A12-us-8658335471-degreesuccesstips.com",
+        "categoryName": "汽车金融",
+        "weight": 0.03,
+        "channelId": "8658335471",
+        "countryCode": "US",
+        "afsSource": "12",
+        "todayRpm": 0,
+        "todayRev": 0
+      },
+      {
+        "offerId": "3ywe3vYIT12S",
+        "offerName": "storyreel-v05-A15-us-1798003958-lstmai.com",
+        "categoryName": "新能源汽车",
+        "weight": 0.03,
+        "channelId": "1798003958",
+        "countryCode": "US",
+        "afsSource": "15",
+        "todayRpm": 0,
+        "todayRev": 0
+      },
+      {
+        "offerId": "3ywzrR075aTj",
+        "offerName": "storyreel-v05-A7-us-18641-aifinteches.com",
+        "categoryName": "呼吸与睡眠",
+        "weight": 0.03,
+        "channelId": "18641",
+        "countryCode": "US",
+        "afsSource": "7",
+        "todayRpm": 14.7,
+        "todayRev": 0.22
+      },
+      {
+        "offerId": "3ywznue0z37N",
+        "offerName": "storyreel-v05-A7-us-18640-quantify-energy.com",
+        "categoryName": "面部提拉",
+        "weight": 0.03,
+        "channelId": "18640",
+        "countryCode": "US",
+        "afsSource": "7",
+        "todayRpm": 21.3,
+        "todayRev": 0.17
+      },
+      {
+        "offerId": "43qRJ8XcOLqy",
+        "offerName": "storyreel-v05-A17-us-9161540260-seekmoon.ai",
+        "categoryName": null,
+        "weight": 0.16,
+        "channelId": "9161540260",
+        "countryCode": "US",
+        "afsSource": "17",
+        "todayRpm": 0,
+        "todayRev": 0
+      }
+    ],
+    "funnelId": "3wxU24LWkWif",
+    "funnelName": "storyreel-v05",
+    "partnerName": "storyreel",
+    "urlName": "storyreel-v05",
+    "urlId": 131,
+    "platform": "MIS"
+  }
+}

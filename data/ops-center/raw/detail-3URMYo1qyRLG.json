@@ -1,0 +1,62 @@
+{
+  "code": 200,
+  "data": {
+    "funnelId": "3URMYo1qyRLG",
+    "funnelName": "JZ-08",
+    "partnerName": "shortmax",
+    "urlName": "JZ-08",
+    "urlId": 88,
+    "offerGroupList": [
+      {
+        "groupId": "3URMfebv48g5",
+        "groupName": "JZ-08-US",
+        "geo": "US"
+      },
+      {
+        "groupId": "3URO8RI8JizX",
+        "groupName": "JZ-08-IT",
+        "geo": "IT"
+      },
+      {
+        "groupId": "3UU92N9IYaOE",
+        "groupName": "JZ-08-JP",
+        "geo": "JP"
+      },
+      {
+        "groupId": "3UUAFx2aQHE8",
+        "groupName": "JZ-08-BR",
+        "geo": "BR"
+      },
+      {
+        "groupId": "3UUAKAfpoTrq",
+        "groupName": "JZ-08-FR",
+        "geo": "FR"
+      },
+      {
+        "groupId": "3We1YQwbQnzR",
+        "groupName": "JZ-08-US-default",
+        "geo": "US"
+      },
+      {
+        "groupId": "3bwSTkdtM6kR",
+        "groupName": "JZ-08-Sa",
+        "geo": "SA"
+      },
+      {
+        "groupId": "3bwSaURHoqVz",
+        "groupName": "JZ-08-mx",
+        "geo": "MX"
+      },
+      {
+        "groupId": "3fmXqZ1sfBGL",
+        "groupName": "BlockPage",
+        "geo": null
+      },
+      {
+        "groupId": "3mxPLb4PL7NP",
+        "groupName": "JZ-08-de",
+        "geo": "DE"
+      }
+    ]
+  }
+}

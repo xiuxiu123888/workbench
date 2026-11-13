@@ -1,0 +1,108 @@
+【Offer优化对比报告】P0无广告优先换文 · 2026-11-13
+批次 opt-p0-20261113
+优化前指标日 2026-11-13
+优化后指标日 2026-11-13
+回收时间 2026-11-13T08:27:26.375Z
+条目 24
+
+## 汇总
+已回收 24/24
+收入上升 14 · 二跳上升 1 · 仍疑似无广告 17
+
+## 明细
+- moboreels-v02-A12-US-3731730900-intodeepdive.com (moboreels-v02) [P0/planned]
+  前: ref=gm hybrid suv 词点击=1770 广告点击=0 转化=0 rev=$1.32 RPM=0.10 二跳=0.00%
+  后: ref=gm hybrid suv 词点击=2256 广告点击=0 转化=0 rev=$1.91 RPM=0.11 二跳=0.00%
+  Δ: 词点击+486 广告点击0 转化0 rev$+0.59 二跳0.00%
+- moboreels-v02-A15-us-8746545947-mpbus.com (moboreels-v02) [P0/planned]
+  前: ref=new hummers 词点击=1605 广告点击=0 转化=0 rev=$0.39 RPM=0.03 二跳=0.00%
+  后: ref=new hummers 词点击=2143 广告点击=0 转化=0 rev=$0.40 RPM=0.02 二跳=0.00%
+  Δ: 词点击+538 广告点击0 转化0 rev$+0.01 二跳0.00%
+- reader-v01-A15-us-9325866530-51jiejue.com (reader-v01) [P0/planned]
+  前: ref=Buprenorphine everything you need to know 词点击=983 广告点击=0 转化=0 rev=$1.48 RPM=0.16 二跳=0.00%
+  后: ref=Buprenorphine everything you need to know 词点击=1425 广告点击=12 转化=0 rev=$2.10 RPM=0.16 二跳=0.84%
+  Δ: 词点击+442 广告点击+12 转化0 rev$+0.62 二跳+0.84%
+- JZ11-A7-us-8883994701-algo-cash.com (ShortMax-v11) [P0/planned]
+  前: ref=innovative gadgets 词点击=440 广告点击=0 转化=0 rev=$0.41 RPM=0.34 二跳=0.00%
+  后: ref=innovative gadgets 词点击=595 广告点击=0 转化=0 rev=$0.58 RPM=0.37 二跳=0.00%
+  Δ: 词点击+155 广告点击0 转化0 rev$+0.17 二跳0.00%
+- vibeshort-v04-A4-us-9196005107-minigamemix.com (Vibeshort-V04) [P0/planned]
+  前: ref=Ubrelvy Cost Without Insurance 词点击=406 广告点击=0 转化=0 rev=$1.76 RPM=1.24 二跳=0.00%
+  后: ref=Ubrelvy Cost Without Insurance 词点击=567 广告点击=0 转化=0 rev=$2.13 RPM=1.12 二跳=0.00%
+  Δ: 词点击+161 广告点击0 转化0 rev$+0.37 二跳0.00%
+- vibeshort-v04-A12-us-8578384355-degreesuccesstips.com (Vibeshort-V04) [P0/planned]
+  前: ref=best wedding skincare products 词点击=397 广告点击=0 转化=0 rev=$1.30 RPM=0.93 二跳=0.00%
+  后: ref=best wedding skincare products 词点击=547 广告点击=0 转化=0 rev=$1.67 RPM=0.91 二跳=0.00%
+  Δ: 词点击+150 广告点击0 转化0 rev$+0.37 二跳0.00%
+- storyreel-v01-A15-us-3000037153-lstmai.com (storyreel-v01) [P0/planned]
+  前: ref=fillers near me 词点击=361 广告点击=0 转化=0 rev=$0.35 RPM=0.35 二跳=0.00%
+  后: ref=fillers near me 词点击=480 广告点击=0 转化=3 rev=$0.70 RPM=0.52 二跳=0.00%
+  Δ: 词点击+119 广告点击0 转化+3 rev$+0.35 二跳0.00%
+- storyreel-v01-A5-us-9486100633-joyfullplayland.com (storyreel-v01) [P0/planned]
+  前: ref=new hummers 词点击=361 广告点击=0 转化=0 rev=$0.16 RPM=0.15 二跳=0.00%
+  后: ref=new hummers 词点击=479 广告点击=0 转化=0 rev=$0.17 RPM=0.12 二跳=0.00%
+  Δ: 词点击+118 广告点击0 转化0 rev$+0.01 二跳0.00%
+- storyreel-v01-A7-us-8392386174-www.newamc.com (storyreel-v01) [P0/planned]
+  前: ref=best non surgical facelift 词点击=345 广告点击=0 转化=0 rev=$0.52 RPM=0.55 二跳=0.00%
+  后: ref=best non surgical facelift 词点击=431 广告点击=0 转化=3 rev=$0.94 RPM=0.76 二跳=0.00%
+  Δ: 词点击+86 广告点击0 转化+3 rev$+0.42 二跳0.00%
+- storyreel-v04-A4-us-9567324597-joyfulgaminghub9.com (storyreel-v04) [P0/planned]
+  前: ref=gadgets for wellness 词点击=250 广告点击=0 转化=0 rev=$1.31 RPM=2.07 二跳=0.00%
+  后: ref=gadgets for wellness 词点击=326 广告点击=0 转化=4 rev=$1.31 RPM=1.54 二跳=0.00%
+  Δ: 词点击+76 广告点击0 转化+4 rev$0.00 二跳0.00%
+- storyreel-v03-A7-us-11502-algo-cash.com (storyreel-v03) [P0/planned]
+  前: ref=latest trends and advancements in oncology 词点击=231 广告点击=0 转化=0 rev=$0.28 RPM=0.37 二跳=0.00%
+  后: ref=latest trends and advancements in oncology 词点击=296 广告点击=0 转化=0 rev=$0.27 RPM=0.28 二跳=0.00%
+  Δ: 词点击+65 广告点击0 转化0 rev$-0.01 二跳0.00%
+- storyreel-v03-A12-us-5380902928-degreesuccesstips.com (storyreel-v03) [P0/planned]
+  前: ref=hyundai financing deals 词点击=217 广告点击=0 转化=0 rev=$0.08 RPM=0.12 二跳=0.00%
+  后: ref=hyundai financing deals 词点击=289 广告点击=0 转化=3 rev=$0.48 RPM=0.55 二跳=0.00%
+  Δ: 词点击+72 广告点击0 转化+3 rev$+0.40 二跳0.00%
+- Shortmax-V03-A12-US-9827539423-aivestorhq.com (ShortMax-v03) [P0/planned]
+  前: ref=fillers near me 词点击=215 广告点击=0 转化=0 rev=$0.84 RPM=1.04 二跳=0.00%
+  后: ref=fillers near me 词点击=310 广告点击=0 转化=3 rev=$1.76 RPM=1.55 二跳=0.00%
+  Δ: 词点击+95 广告点击0 转化+3 rev$+0.92 二跳0.00%
+- storyreel-v03-A15-us-8314128922-51jiejue.com (storyreel-v03) [P0/skipped]
+  前: ref=long acting buprenorphine 词点击=205 广告点击=0 转化=0 rev=$0.47 RPM=0.69 二跳=0.00%
+  后: ref=long acting buprenorphine 词点击=290 广告点击=0 转化=0 rev=$0.47 RPM=0.52 二跳=0.00%
+  Δ: 词点击+85 广告点击0 转化0 rev$0.00 二跳0.00%
+- shortmax-v06-A4-Us-9259456650-zestfularcade.com (ShortMax-v06) [P0/planned]
+  前: ref=best non surgical facelift 词点击=204 广告点击=0 转化=0 rev=$1.31 RPM=2.43 二跳=0.00%
+  后: ref=best non surgical facelift 词点击=251 广告点击=0 转化=0 rev=$1.50 RPM=2.02 二跳=0.00%
+  Δ: 词点击+47 广告点击0 转化0 rev$+0.19 二跳0.00%
+- storyreel-v03-A4-us-9892530755-fluxpaid.com (storyreel-v03) [P0/planned]
+  前: ref=gadgets for wellness 词点击=200 广告点击=0 转化=0 rev=$0.39 RPM=0.59 二跳=0.00%
+  后: ref=gadgets for wellness 词点击=256 广告点击=0 转化=0 rev=$0.39 RPM=0.45 二跳=0.00%
+  Δ: 词点击+56 广告点击0 转化0 rev$0.00 二跳0.00%
+- storyreel-v03-A5-us-9392114755-joyfullplayland.com (storyreel-v03) [P0/planned]
+  前: ref=best cat litter reddit 词点击=195 广告点击=0 转化=0 rev=$0.06 RPM=0.09 二跳=0.00%
+  后: ref=best cat litter reddit 词点击=250 广告点击=0 转化=0 rev=$0.10 RPM=0.11 二跳=0.00%
+  Δ: 词点击+55 广告点击0 转化0 rev$+0.04 二跳0.00%
+- reader-v02-A7-us-7609117695-quantify-energy.com (reader-v02) [P0/planned]
+  前: ref=fraxel vs botox 词点击=160 广告点击=0 转化=0 rev=$0.11 RPM=0.07 二跳=0.00%
+  后: ref=fraxel vs botox 词点击=204 广告点击=0 转化=0 rev=$0.11 RPM=0.06 二跳=0.00%
+  Δ: 词点击+44 广告点击0 转化0 rev$0.00 二跳0.00%
+- reader-v02-A7-us-7609117695-bank-flux.com (reader-v02) [P0/planned]
+  前: ref=botox dysport and xeomin injectable near me 词点击=160 广告点击=0 转化=0 rev=$0.11 RPM=0.07 二跳=0.00%
+  后: ref=botox dysport and xeomin injectable near me 词点击=204 广告点击=0 转化=0 rev=$0.11 RPM=0.06 二跳=0.00%
+  Δ: 词点击+44 广告点击0 转化0 rev$0.00 二跳0.00%
+- shortmax-v06-A15-us-2054687076-51jiejue.com (ShortMax-v06) [P0/planned]
+  前: ref=brixadi market trends 词点击=160 广告点击=0 转化=0 rev=$0.30 RPM=0.61 二跳=0.00%
+  后: ref=brixadi market trends 词点击=204 广告点击=0 转化=0 rev=$0.30 RPM=0.42 二跳=0.00%
+  Δ: 词点击+44 广告点击0 转化0 rev$0.00 二跳0.00%
+- storyreel-v05-A7-us-11504-algo-cash.com (storyreel-v05) [P0/planned]
+  前: ref=best cat litter to keep smell down 词点击=105 广告点击=0 转化=0 rev=$0.24 RPM=0.78 二跳=0.00%
+  后: ref=best cat litter to keep smell down 词点击=122 广告点击=0 转化=0 rev=$0.24 RPM=0.60 二跳=0.00%
+  Δ: 词点击+17 广告点击0 转化0 rev$0.00 二跳0.00%
+- storyreel-v05-A15-us-3504535236-mpbus.com (storyreel-v05) [P0/planned]
+  前: ref=botox vs dysport for brow lift 词点击=86 广告点击=0 转化=0 rev=$0.08 RPM=0.30 二跳=0.00%
+  后: ref=botox vs dysport for brow lift 词点击=103 广告点击=0 转化=0 rev=$0.08 RPM=0.23 二跳=0.00%
+  Δ: 词点击+17 广告点击0 转化0 rev$0.00 二跳0.00%
+- storyreel-v05-A5-us-9298290578-joyfullplayland.com (storyreel-v05) [P0/planned]
+  前: ref=treatments modalities of cancer 词点击=79 广告点击=0 转化=0 rev=$0.12 RPM=0.44 二跳=0.00%
+  后: ref=treatments modalities of cancer 词点击=114 广告点击=0 转化=3 rev=$0.35 RPM=0.99 二跳=0.00%
+  Δ: 词点击+35 广告点击0 转化+3 rev$+0.23 二跳0.00%
+- storyreel-v05-A12-us-8007066269-intodeepdive.com (storyreel-v05) [P0/planned]
+  前: ref=gm hybrid vehicles 词点击=50 广告点击=0 转化=0 rev=$0.00 RPM=0.00 二跳=0.00%
+  后: ref=gm hybrid vehicles 词点击=77 广告点击=0 转化=0 rev=$0.00 RPM=0.00 二跳=0.00%
+  Δ: 词点击+27 广告点击0 转化0 rev$0.00 二跳0.00%

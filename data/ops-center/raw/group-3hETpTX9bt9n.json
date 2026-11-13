@@ -1,0 +1,43 @@
+{
+  "code": 200,
+  "data": {
+    "groupId": "3hETpTX9bt9n",
+    "groupName": "JZ-18-SA",
+    "routing": "",
+    "geo": "SA",
+    "yesterdayRpm": 0,
+    "yesterdayRev": 0,
+    "yesterdayRpmTrend": 0,
+    "yesterdayRevTrend": 0,
+    "offerList": [
+      {
+        "offerId": "3hDLLKX04Sff",
+        "offerName": "JZ-18-A14-SA-9494524946",
+        "categoryName": "汽车保险",
+        "weight": 0.5,
+        "channelId": "9494524946",
+        "countryCode": null,
+        "afsSource": null,
+        "todayRpm": 0,
+        "todayRev": 0
+      },
+      {
+        "offerId": "3lMAsj65ixaB",
+        "offerName": "JZ-18-A12-SA-2165711172",
+        "categoryName": "汽车保险",
+        "weight": 0.5,
+        "channelId": "2165711172",
+        "countryCode": null,
+        "afsSource": null,
+        "todayRpm": 0,
+        "todayRev": 0
+      }
+    ],
+    "funnelId": "3h7auqpMJMVz",
+    "funnelName": "JZ-18",
+    "partnerName": "shortmax",
+    "urlName": "JZ-18",
+    "urlId": 107,
+    "platform": "FF"
+  }
+}

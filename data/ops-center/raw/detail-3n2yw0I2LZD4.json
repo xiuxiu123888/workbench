@@ -1,0 +1,22 @@
+{
+  "code": 200,
+  "data": {
+    "funnelId": "3n2yw0I2LZD4",
+    "funnelName": "jz-signin-v01",
+    "partnerName": "shortmax",
+    "urlName": "jz-signin-v01",
+    "urlId": 121,
+    "offerGroupList": [
+      {
+        "groupId": "3n2z2OlRrXL0",
+        "groupName": "jz-signin-v01-A1-de",
+        "geo": "DE"
+      },
+      {
+        "groupId": "3n2z2OlfcuKU",
+        "groupName": "jz-signin-v01-A12-default",
+        "geo": "DEFAULT"
+      }
+    ]
+  }
+}

@@ -1,0 +1,98 @@
+{
+  "code": 200,
+  "data": {
+    "groupId": "3z7cydgOCSmO",
+    "groupName": "shortmax-v04-us",
+    "routing": "rotator",
+    "geo": "US",
+    "yesterdayRpm": 34.1,
+    "yesterdayRev": 118.57,
+    "yesterdayRpmTrend": -63.8,
+    "yesterdayRevTrend": -41.07,
+    "offerList": [
+      {
+        "offerId": "3z7cWGmCnx2J",
+        "offerName": "Shortmax-V04-A5-us-2222573036-joyfullplayland.com",
+        "categoryName": "注射除皱",
+        "weight": 0.38,
+        "channelId": "2222573036",
+        "countryCode": "US",
+        "afsSource": "5",
+        "todayRpm": 32.7,
+        "todayRev": 41.82
+      },
+      {
+        "offerId": "3z7cK01oZgcv",
+        "offerName": "Shortmax-V04-A12-Us-1898762721-degreesuccesstips.com",
+        "categoryName": "面部提拉",
+        "weight": 0.05,
+        "channelId": "1898762721",
+        "countryCode": "US",
+        "afsSource": "12",
+        "todayRpm": 15.7,
+        "todayRev": 3.33
+      },
+      {
+        "offerId": "3z7cCQnggIr4",
+        "offerName": "Shortmax-V04-A15-us-7917387848-mpbus.com",
+        "categoryName": "汽车金融",
+        "weight": 0.07,
+        "channelId": "7917387848",
+        "countryCode": "US",
+        "afsSource": "15",
+        "todayRpm": 21.8,
+        "todayRev": 7.09
+      },
+      {
+        "offerId": "3z7c3j0jm3Yw",
+        "offerName": "Shortmax-V04-A7-Us-7868532178-algo-cash.com",
+        "categoryName": "消费电子",
+        "weight": 0.07,
+        "channelId": "7868532178",
+        "countryCode": "US",
+        "afsSource": "7",
+        "todayRpm": 20.7,
+        "todayRev": 1.22
+      },
+      {
+        "offerId": "3z7bwRD3SwTQ",
+        "offerName": "Shortmax-V04-A4-Us-7474002238-zestfularcade.com",
+        "categoryName": "新能源汽车",
+        "weight": 0.35,
+        "channelId": "7474002238",
+        "countryCode": "US",
+        "afsSource": "4",
+        "todayRpm": 35.6,
+        "todayRev": 24.59
+      },
+      {
+        "offerId": "3z7b5qQk06Vy",
+        "offerName": "Shortmax-V04-A5-us-2222573036",
+        "categoryName": "消费电子",
+        "weight": 0.37,
+        "channelId": "2222573036",
+        "countryCode": "US",
+        "afsSource": "5",
+        "todayRpm": 32.7,
+        "todayRev": 41.82
+      },
+      {
+        "offerId": "43qPqDD211N1",
+        "offerName": "ShortMax-v04-A17-us-2102287833-seekmoon.ai",
+        "categoryName": null,
+        "weight": 0.3,
+        "channelId": "2102287833",
+        "countryCode": "US",
+        "afsSource": "17",
+        "todayRpm": 0,
+        "todayRev": 0
+      }
+    ],
+    "funnelId": "3z7d1Vmn8Fku",
+    "funnelName": "ShortMax-v04",
+    "partnerName": null,
+    "urlName": null,
+    "urlId": null,
+    "platform": "MIS"
+  }
+}

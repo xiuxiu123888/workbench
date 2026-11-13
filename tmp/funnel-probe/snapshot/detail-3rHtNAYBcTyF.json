@@ -1,0 +1,26 @@
+{
+  "code": 200,
+  "data": {
+    "funnelId": "3rHtNAYBcTyF",
+    "funnelName": "Vibeshort-V05",
+    "partnerName": "vibeshort",
+    "urlName": "vibeshort-V05",
+    "urlId": 138,
+    "offerGroupList": [
+      {
+        "groupId": "3rHs9nW4RCZN",
+        "groupName": "vibeshort-v05-default",
+        "geo": null
+      },
+      {
+        "groupId": "3rHs35dC0FiO",
+        "groupName": "vibeshort-v05-us",
+        "geo": "US"
+      }
+    ],
+    "platform": "MIS",
+    "status": "active",
+    "autoWeightEnabled": 1,
+    "autoWeightRuleType": "TODAY_RPM"
+  }
+}

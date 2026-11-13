@@ -1,0 +1,76 @@
+{
+  "code": 200,
+  "data": {
+    "groupId": "3wxPGjqQjruH",
+    "groupName": "storyreel-v04-default",
+    "routing": "rotator",
+    "geo": null,
+    "yesterdayRpm": 0,
+    "yesterdayRev": 0,
+    "yesterdayRpmTrend": 0,
+    "yesterdayRevTrend": 0,
+    "offerList": [
+      {
+        "offerId": "3wxNsLajkcY8",
+        "offerName": "storyreel-v04-A15-default-6939282168",
+        "categoryName": "医疗健康",
+        "weight": 1,
+        "channelId": "6939282168",
+        "countryCode": null,
+        "afsSource": "15",
+        "todayRpm": 0,
+        "todayRev": 0
+      },
+      {
+        "offerId": "3wxNnEgnV6l0",
+        "offerName": "storyreel-v04-A12-default-7547901266",
+        "categoryName": "应用软件",
+        "weight": 1,
+        "channelId": "7547901266",
+        "countryCode": null,
+        "afsSource": "12",
+        "todayRpm": 0,
+        "todayRev": 0
+      },
+      {
+        "offerId": "3wxNiRwh7J8x",
+        "offerName": "storyreel-v04-A7-default-11505",
+        "categoryName": "应用软件",
+        "weight": 1,
+        "channelId": "11505",
+        "countryCode": null,
+        "afsSource": "7",
+        "todayRpm": 0,
+        "todayRev": 0
+      },
+      {
+        "offerId": "3wxNdSoZGS6S",
+        "offerName": "storyreel-v04-A5-default-1204178134",
+        "categoryName": "疾病治疗",
+        "weight": 1,
+        "channelId": "1204178134",
+        "countryCode": null,
+        "afsSource": "5",
+        "todayRpm": 0,
+        "todayRev": 0
+      },
+      {
+        "offerId": "3wxNYA7NqaHk",
+        "offerName": "storyreel-v04-A4-default-9567324597",
+        "categoryName": "专科治疗",
+        "weight": 1,
+        "channelId": "9567324597",
+        "countryCode": null,
+        "afsSource": "4",
+        "todayRpm": 0,
+        "todayRev": 0
+      }
+    ],
+    "funnelId": "3wxQUAbsGb0e",
+    "funnelName": "storyreel-v04",
+    "partnerName": "storyreel",
+    "urlName": "storyreel-v04",
+    "urlId": 130,
+    "platform": "MIS"
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "code": 200,
+  "data": {
+    "groupId": "3XcIJjeaUYOT",
+    "groupName": "CD-Reader-A60-Us",
+    "routing": "rotator",
+    "geo": "US",
+    "yesterdayRpm": 0,
+    "yesterdayRev": 0,
+    "yesterdayRpmTrend": -100,
+    "yesterdayRevTrend": -100,
+    "offerList": [
+      {
+        "offerId": "3lWWRRSUGLWj",
+        "offerName": "cd-reader-60-A12-US-2402337368",
+        "categoryName": "临床研究",
+        "weight": 1,
+        "channelId": "2402337368",
+        "countryCode": null,
+        "afsSource": null,
+        "todayRpm": 7.1,
+        "todayRev": 0.24
+      },
+      {
+        "offerId": "3XcFci62Mhsa",
+        "offerName": "cd-read-60-A4-us-4300370257",
+        "categoryName": "临床研究",
+        "weight": 1,
+        "channelId": "4300370257",
+        "countryCode": null,
+        "afsSource": null,
+        "todayRpm": 0,
+        "todayRev": 0
+      },
+      {
+        "offerId": "3XcHo5KSBEn6",
+        "offerName": "cd-read-60-A7-us-7609117695",
+        "categoryName": "事故律师",
+        "weight": 1,
+        "channelId": "7609117695",
+        "countryCode": null,
+        "afsSource": null,
+        "todayRpm": 0,
+        "todayRev": 0
+      }
+    ],
+    "funnelId": "3O3Sj2gNpkzw",
+    "funnelName": "cd-reader-A4-60",
+    "partnerName": "changdu",
+    "urlName": "moboreader",
+    "urlId": 60,
+    "platform": "FF"
+  }
+}

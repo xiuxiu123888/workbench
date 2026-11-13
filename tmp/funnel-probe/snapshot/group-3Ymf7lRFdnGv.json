@@ -1,0 +1,65 @@
+{
+  "code": 200,
+  "data": {
+    "groupId": "3Ymf7lRFdnGv",
+    "groupName": "cd-A50-de",
+    "routing": "",
+    "geo": "DE",
+    "yesterdayRpm": 0.8,
+    "yesterdayRev": 1.51,
+    "yesterdayRpmTrend": 300,
+    "yesterdayRevTrend": 387.1,
+    "offerList": [
+      {
+        "offerId": "3lplh98XtPst",
+        "offerName": "cd-reel-50-A14-DE-7826736975",
+        "categoryName": "分期购买手机",
+        "weight": 0.02,
+        "channelId": "7826736975",
+        "countryCode": null,
+        "afsSource": null,
+        "todayRpm": 0,
+        "todayRev": 0
+      },
+      {
+        "offerId": "3lWWRRH1PzOR",
+        "offerName": "cd-reel-50-A12-DE-3731730900",
+        "categoryName": "移民律师",
+        "weight": 1,
+        "channelId": "3731730900",
+        "countryCode": null,
+        "afsSource": null,
+        "todayRpm": 1.3,
+        "todayRev": 0.64
+      },
+      {
+        "offerId": "3UYxJwBrc8Yn",
+        "offerName": "Cd-A50-A7-Us-9653496952",
+        "categoryName": "事故律师",
+        "weight": 0.02,
+        "channelId": "9653496952",
+        "countryCode": null,
+        "afsSource": null,
+        "todayRpm": 0.1,
+        "todayRev": 0.02
+      },
+      {
+        "offerId": "3XKk7lQRtvYO",
+        "offerName": "CD-50-A4-US-8671712417",
+        "categoryName": "临床研究",
+        "weight": 0.02,
+        "channelId": "8671712417",
+        "countryCode": null,
+        "afsSource": null,
+        "todayRpm": 0,
+        "todayRev": 0.02
+      }
+    ],
+    "funnelId": "3LcdpN4mS9hK",
+    "funnelName": "cd-reel-A5-50",
+    "partnerName": "changdu",
+    "urlName": "moboreels",
+    "urlId": 50,
+    "platform": "FF"
+  }
+}

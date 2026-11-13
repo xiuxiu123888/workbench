@@ -1,0 +1,121 @@
+{
+  "funnelId": "3rI0WAnYN9fC",
+  "funnelName": "cd-reader-banner-v01",
+  "day": "2026-11-10",
+  "query": {
+    "day": "2026-11-10",
+    "startTime": "2026-11-10 00:00:00",
+    "endTime": "2026-11-10 23:59:59"
+  },
+  "data": {
+    "categoryList": [
+      {
+        "categoryId": "3rHyoiswJQQa",
+        "categoryName": "cd-reel-banner-v01",
+        "categoryType": "offer"
+      }
+    ],
+    "statsList": [
+      {
+        "id": "3szxnTr06HKg",
+        "name": "cd-reader-banner-v01-A4-Us-9114102876",
+        "categoryId": "3rHyoiswJQQa",
+        "visits": 0,
+        "views": 0,
+        "conversion": 0,
+        "category": "cd-reel-banner-v01",
+        "offerSource": "moboreel-hit",
+        "revenue": "0.00",
+        "funnelImpressions": 36,
+        "funnelClicks": 7,
+        "clicks": 0,
+        "funnelRpm": "0.00",
+        "rpc": "0",
+        "funnelCtr": "19.444444444444443",
+        "cvr1": "0.0",
+        "cvr2": "0.0",
+        "url": "https://playfulviibes.com/detail/291466022937?channel=9114102876&hit={hit}&rType=2&partner=Moboreel&subid1={data-userid}&subid2={data-taskId}&subid3={data-subid3}&subid4={data-subid4}",
+        "countryInfos": [
+          {
+            "countryCode": "DE",
+            "revenue": "0.00",
+            "impressions": 2,
+            "rpm": "0.00",
+            "funnelClicks": 0,
+            "clicks": 0
+          },
+          {
+            "countryCode": "RU",
+            "revenue": "0.00",
+            "impressions": 0,
+            "rpm": "0",
+            "funnelClicks": 0,
+            "clicks": 0
+          },
+          {
+            "countryCode": "TZ",
+            "revenue": "0.00",
+            "impressions": 1,
+            "rpm": "0.00",
+            "funnelClicks": 0,
+            "clicks": 0
+          },
+          {
+            "countryCode": "US",
+            "revenue": "0.00",
+            "impressions": 33,
+            "rpm": "0.00",
+            "funnelClicks": 7,
+            "clicks": 0
+          }
+        ]
+      },
+      {
+        "id": "3rHzxc88pwCs",
+        "name": "cd-reader-banner-v01-A12-Us-8275192094",
+        "categoryId": "3rHyoiswJQQa",
+        "visits": 0,
+        "views": 0,
+        "conversion": 0,
+        "category": "cd-reel-banner-v01",
+        "offerSource": "moboreel-hit",
+        "revenue": "0.33",
+        "funnelImpressions": 38,
+        "funnelClicks": 8,
+        "clicks": 0,
+        "funnelRpm": "8.68",
+        "rpc": "0",
+        "funnelCtr": "21.05263157894737",
+        "cvr1": "0.0",
+        "cvr2": "0.0",
+        "url": "https://intodeepdive.com/detail/868489340771?ref=PrEP Cost Guide 2026&channel=8275192094&hit={hit}&rType=2&partner=Moboreel&subid1={data-userid}&subid2={data-taskId}&subid3={data-subid3}&subid4={data-subid4}",
+        "countryInfos": [
+          {
+            "countryCode": "US",
+            "revenue": "0.33",
+            "impressions": 37,
+            "rpm": "8.92",
+            "funnelClicks": 8,
+            "clicks": 0
+          },
+          {
+            "countryCode": "DE",
+            "revenue": "0.00",
+            "impressions": 1,
+            "rpm": "0.00",
+            "funnelClicks": 0,
+            "clicks": 0
+          },
+          {
+            "countryCode": "RU",
+            "revenue": "0.00",
+            "impressions": 0,
+            "rpm": "0",
+            "funnelClicks": 0,
+            "clicks": 0
+          }
+        ]
+      }
+    ]
+  }
+}

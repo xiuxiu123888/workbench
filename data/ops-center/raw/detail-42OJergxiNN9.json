@@ -1,0 +1,22 @@
+{
+  "code": 200,
+  "data": {
+    "funnelId": "42OJergxiNN9",
+    "funnelName": "Dramaticreel-v03",
+    "partnerName": null,
+    "urlName": null,
+    "urlId": null,
+    "offerGroupList": [
+      {
+        "groupId": "42OIxW0HpkL5",
+        "groupName": "Dramaticreel-v03-default",
+        "geo": null
+      },
+      {
+        "groupId": "42OItvQhSeae",
+        "groupName": "Dramaticreel-v03-us",
+        "geo": "US"
+      }
+    ]
+  }
+}

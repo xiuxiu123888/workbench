@@ -1,0 +1,54 @@
+{
+  "code": 200,
+  "data": {
+    "groupId": "3We0mc0XPo2O",
+    "groupName": "Jiu-0912-Br",
+    "routing": "",
+    "geo": "BR",
+    "yesterdayRpm": 1.8,
+    "yesterdayRev": 0.05,
+    "yesterdayRpmTrend": 200,
+    "yesterdayRevTrend": 400,
+    "offerList": [
+      {
+        "offerId": "3lMAsjRBUVmN",
+        "offerName": "Jiu-reel-0912-A12-BR-1898762721",
+        "categoryName": "汽车分期",
+        "weight": 1,
+        "channelId": "1898762721",
+        "countryCode": null,
+        "afsSource": null,
+        "todayRpm": 0,
+        "todayRev": 0
+      },
+      {
+        "offerId": "3WdzFjwrakMd",
+        "offerName": "A4-Br-7474002238",
+        "categoryName": "冰箱分期",
+        "weight": 1,
+        "channelId": "7474002238",
+        "countryCode": null,
+        "afsSource": null,
+        "todayRpm": 0,
+        "todayRev": 0
+      },
+      {
+        "offerId": "3XD96IPocc4V",
+        "offerName": "A7-BR-7868532178",
+        "categoryName": "冰箱分期",
+        "weight": 1,
+        "channelId": "7868532178",
+        "countryCode": null,
+        "afsSource": null,
+        "todayRpm": 0,
+        "todayRev": 0
+      }
+    ],
+    "funnelId": "3PZNC9XTyfXp",
+    "funnelName": "Jiu-reel-0912",
+    "partnerName": "shortmax",
+    "urlName": "Jiu-reel-0912",
+    "urlId": 68,
+    "platform": "FF"
+  }
+}

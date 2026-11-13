@@ -1,0 +1,190 @@
+{
+  "scope": "whitelist · exclude default offerName · half-day caution for today",
+  "yesterday": {
+    "matched": 338,
+    "revenue": 4707.26,
+    "visits": 30353,
+    "funnelClicks": 441952,
+    "conversion": 2147,
+    "overallRpc": 0.0107,
+    "overallRpmFromVisits": 155.084,
+    "rpm": {
+      "p50": 2.07,
+      "p75": 14.35,
+      "p90": 29.62,
+      "avgPos": 13.781,
+      "positiveCount": 247
+    },
+    "rpc": {
+      "p50": 0.05,
+      "p75": 0.156,
+      "p90": 0.274,
+      "avgPos": 0.1364,
+      "positiveCount": 247
+    },
+    "weak": {
+      "rpmBelow1VisitsGe10": 100,
+      "rpcBelow0_01ClicksGe20": 35,
+      "bothWeak": 83
+    }
+  },
+  "today": {
+    "matched": 338,
+    "revenue": 3026.17,
+    "visits": 59800,
+    "funnelClicks": 199476,
+    "conversion": 7919,
+    "overallRpc": 0.0152,
+    "overallRpmFromVisits": 50.605,
+    "rpm": {
+      "p50": 1.58,
+      "p75": 17.25,
+      "p90": 41.1,
+      "avgPos": 17.296,
+      "positiveCount": 237
+    },
+    "rpc": {
+      "p50": 0.0546,
+      "p75": 0.19,
+      "p90": 0.284,
+      "avgPos": 0.1549,
+      "positiveCount": 237
+    },
+    "weak": {
+      "rpmBelow1VisitsGe10": 62,
+      "rpcBelow0_01ClicksGe20": 44,
+      "bothWeak": 44
+    }
+  },
+  "delta": {
+    "revenue": -1681.09,
+    "visits": 29447,
+    "funnelClicks": -242476,
+    "overallRpc": 0.0045,
+    "rpmP50": -0.49,
+    "rpcP50": 0.0046,
+    "weakRpm": -38,
+    "weakRpc": 9
+  },
+  "byPartner": [
+    {
+      "partner": "blinkdrama",
+      "yesterday": {
+        "revenue": 2457.82,
+        "visits": 8641,
+        "clicks": 248613,
+        "rpc": 0.0099
+      },
+      "today": {
+        "revenue": 1818.65,
+        "visits": 36163,
+        "clicks": 110940,
+        "rpc": 0.0164
+      },
+      "revenueDelta": -639.17,
+      "rpcDelta": 0.0065
+    },
+    {
+      "partner": "cd-reader",
+      "yesterday": {
+        "revenue": 79.4,
+        "visits": 1693,
+        "clicks": 1927,
+        "rpc": 0.0412
+      },
+      "today": {
+        "revenue": 22.43,
+        "visits": 535,
+        "clicks": 494,
+        "rpc": 0.0454
+      },
+      "revenueDelta": -56.97,
+      "rpcDelta": 0.0042
+    },
+    {
+      "partner": "shortmax",
+      "yesterday": {
+        "revenue": 547.15,
+        "visits": 5258,
+        "clicks": 34552,
+        "rpc": 0.0158
+      },
+      "today": {
+        "revenue": 308.7,
+        "visits": 5659,
+        "clicks": 15441,
+        "rpc": 0.02
+      },
+      "revenueDelta": -238.45,
+      "rpcDelta": 0.0042
+    },
+    {
+      "partner": "moboreels",
+      "yesterday": {
+        "revenue": 204.36,
+        "visits": 2548,
+        "clicks": 36850,
+        "rpc": 0.0055
+      },
+      "today": {
+        "revenue": 159.82,
+        "visits": 7812,
+        "clicks": 17540,
+        "rpc": 0.0091
+      },
+      "revenueDelta": -44.54,
+      "rpcDelta": 0.0036
+    },
+    {
+      "partner": "storyreel",
+      "yesterday": {
+        "revenue": 479.23,
+        "visits": 3380,
+        "clicks": 35065,
+        "rpc": 0.0137
+      },
+      "today": {
+        "revenue": 215.44,
+        "visits": 1469,
+        "clicks": 13896,
+        "rpc": 0.0155
+      },
+      "revenueDelta": -263.79,
+      "rpcDelta": 0.0018
+    },
+    {
+      "partner": "vibeshort",
+      "yesterday": {
+        "revenue": 862.41,
+        "visits": 6184,
+        "clicks": 74448,
+        "rpc": 0.0116
+      },
+      "today": {
+        "revenue": 454.41,
+        "visits": 2470,
+        "clicks": 35112,
+        "rpc": 0.0129
+      },
+      "revenueDelta": -408,
+      "rpcDelta": 0.0013
+    },
+    {
+      "partner": "reader",
+      "yesterday": {
+        "revenue": 76.89,
+        "visits": 2649,
+        "clicks": 10497,
+        "rpc": 0.0073
+      },
+      "today": {
+        "revenue": 46.72,
+        "visits": 5692,
+        "clicks": 6053,
+        "rpc": 0.0077
+      },
+      "revenueDelta": -30.17,
+      "rpcDelta": 0.0004
+    }
+  ]
+}

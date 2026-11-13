@@ -1,0 +1,121 @@
+{
+  "funnelId": "3rI0WAnYN9fC",
+  "funnelName": "cd-reader-banner-v01",
+  "day": "2026-11-11",
+  "query": {
+    "day": "2026-11-11",
+    "startTime": "2026-11-11 00:00:00",
+    "endTime": "2026-11-11 23:59:59"
+  },
+  "data": {
+    "categoryList": [
+      {
+        "categoryId": "3rHyoiswJQQa",
+        "categoryName": "cd-reel-banner-v01",
+        "categoryType": "offer"
+      }
+    ],
+    "statsList": [
+      {
+        "id": "3szxnTr06HKg",
+        "name": "cd-reader-banner-v01-A4-Us-9114102876",
+        "categoryId": "3rHyoiswJQQa",
+        "visits": 0,
+        "views": 0,
+        "conversion": 0,
+        "category": "cd-reel-banner-v01",
+        "offerSource": "moboreel-hit",
+        "revenue": "0.00",
+        "funnelImpressions": 48,
+        "funnelClicks": 9,
+        "clicks": 0,
+        "funnelRpm": "0.00",
+        "rpc": "0",
+        "funnelCtr": "18.75",
+        "cvr1": "0.0",
+        "cvr2": "0.0",
+        "url": "https://playfulviibes.com/detail/114692308840?channel=9114102876&hit={hit}&rType=2&partner=Moboreel&subid1=9114102876&subid2=114692308840&subid3=%7Bdata-subid3%7D&subid4=%7Bdata-subid4%7D&ref=Isotretinoin+Cost+Without+Insurance",
+        "countryInfos": [
+          {
+            "countryCode": "PT",
+            "revenue": "0.00",
+            "impressions": 0,
+            "rpm": "0",
+            "funnelClicks": 1,
+            "clicks": 0
+          },
+          {
+            "countryCode": "RU",
+            "revenue": "0.00",
+            "impressions": 0,
+            "rpm": "0",
+            "funnelClicks": 0,
+            "clicks": 0
+          },
+          {
+            "countryCode": "SG",
+            "revenue": "0.00",
+            "impressions": 2,
+            "rpm": "0.00",
+            "funnelClicks": 0,
+            "clicks": 0
+          },
+          {
+            "countryCode": "US",
+            "revenue": "0.00",
+            "impressions": 46,
+            "rpm": "0.00",
+            "funnelClicks": 8,
+            "clicks": 0
+          }
+        ]
+      },
+      {
+        "id": "3rHzxc88pwCs",
+        "name": "cd-reader-banner-v01-A12-Us-8275192094",
+        "categoryId": "3rHyoiswJQQa",
+        "visits": 0,
+        "views": 0,
+        "conversion": 0,
+        "category": "cd-reel-banner-v01",
+        "offerSource": "moboreel-hit",
+        "revenue": "0.08",
+        "funnelImpressions": 54,
+        "funnelClicks": 3,
+        "clicks": 0,
+        "funnelRpm": "1.48",
+        "rpc": "0",
+        "funnelCtr": "5.555555555555555",
+        "cvr1": "0.0",
+        "cvr2": "0.0",
+        "url": "https://intodeepdive.com/detail/672803381853?ref=Epidural+Steroid+Injection+Cost&channel=8275192094&hit={hit}&rType=2&partner=Moboreel&subid1=8275192094&subid2=672803381853&subid3=%7Bdata-subid3%7D&subid4=%7Bdata-subid4%7D",
+        "countryInfos": [
+          {
+            "countryCode": "US",
+            "revenue": "0.08",
+            "impressions": 52,
+            "rpm": "1.54",
+            "funnelClicks": 3,
+            "clicks": 0
+          },
+          {
+            "countryCode": "RU",
+            "revenue": "0.00",
+            "impressions": 0,
+            "rpm": "0",
+            "funnelClicks": 0,
+            "clicks": 0
+          },
+          {
+            "countryCode": "SG",
+            "revenue": "0.00",
+            "impressions": 2,
+            "rpm": "0.00",
+            "funnelClicks": 0,
+            "clicks": 0
+          }
+        ]
+      }
+    ]
+  }
+}

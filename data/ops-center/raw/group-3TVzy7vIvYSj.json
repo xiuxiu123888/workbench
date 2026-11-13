@@ -1,0 +1,65 @@
+{
+  "code": 200,
+  "data": {
+    "groupId": "3TVzy7vIvYSj",
+    "groupName": "JZ-06-FR",
+    "routing": "",
+    "geo": "FR",
+    "yesterdayRpm": 1,
+    "yesterdayRev": 0.14,
+    "yesterdayRpmTrend": 900,
+    "yesterdayRevTrend": 600,
+    "offerList": [
+      {
+        "offerId": "3bwFSvTmTo56",
+        "offerName": "JZ-06-A1-fr-4613686949",
+        "categoryName": "太阳能储能",
+        "weight": 1,
+        "channelId": "4613686949",
+        "countryCode": null,
+        "afsSource": null,
+        "todayRpm": 0,
+        "todayRev": 0
+      },
+      {
+        "offerId": "3lMAsjNo8haW",
+        "offerName": "JZ-06-A12-FR-6838607522",
+        "categoryName": "园艺与室外维护",
+        "weight": 1,
+        "channelId": "6838607522",
+        "countryCode": null,
+        "afsSource": null,
+        "todayRpm": 0,
+        "todayRev": 0
+      },
+      {
+        "offerId": "3XGvqytcwF1s",
+        "offerName": "JZ-06-A4-FR-9259456650",
+        "categoryName": "心理健康",
+        "weight": 1,
+        "channelId": "9259456650",
+        "countryCode": null,
+        "afsSource": null,
+        "todayRpm": 0,
+        "todayRev": 0
+      },
+      {
+        "offerId": "3XGwaUHc40Zv",
+        "offerName": "JZ-06-A7-FR-3115809079",
+        "categoryName": "心理健康",
+        "weight": 1,
+        "channelId": "3115809079",
+        "countryCode": null,
+        "afsSource": null,
+        "todayRpm": 0.4,
+        "todayRev": 0.05
+      }
+    ],
+    "funnelId": "3SmbEZti3YSr",
+    "funnelName": "JZ-06",
+    "partnerName": "shortmax",
+    "urlName": "JZ-06",
+    "urlId": 86,
+    "platform": "FF"
+  }
+}

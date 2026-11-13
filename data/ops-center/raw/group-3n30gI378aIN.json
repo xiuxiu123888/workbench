@@ -1,0 +1,76 @@
+{
+  "code": 200,
+  "data": {
+    "groupId": "3n30gI378aIN",
+    "groupName": "jz-signin-v02-A1-fr",
+    "routing": "",
+    "geo": "FR",
+    "yesterdayRpm": 3,
+    "yesterdayRev": 4.02,
+    "yesterdayRpmTrend": -30.23,
+    "yesterdayRevTrend": -37.48,
+    "offerList": [
+      {
+        "offerId": "3n2zWCTnUKX9",
+        "offerName": "jz-signin-v02-A1-fr-16520",
+        "categoryName": "紧急贷款",
+        "weight": 0.61,
+        "channelId": "16520",
+        "countryCode": null,
+        "afsSource": null,
+        "todayRpm": 0,
+        "todayRev": 0
+      },
+      {
+        "offerId": "3n3zr2qnQHpW",
+        "offerName": "jz-signin-v02-A12-fr-1202440647",
+        "categoryName": "紧急贷款",
+        "weight": 0.1,
+        "channelId": "1202440647",
+        "countryCode": null,
+        "afsSource": null,
+        "todayRpm": 0.9,
+        "todayRev": 0.44
+      },
+      {
+        "offerId": "3pbI3zo8D1ll",
+        "offerName": "jz-signin-v02-A4-fr-9305674565",
+        "categoryName": "紧急贷款",
+        "weight": 0.06,
+        "channelId": "9305674565",
+        "countryCode": null,
+        "afsSource": null,
+        "todayRpm": 3.8,
+        "todayRev": 1.61
+      },
+      {
+        "offerId": "3pbI5pBrWkKq",
+        "offerName": "jz-signin-v02-A7-fr-11261",
+        "categoryName": "紧急贷款",
+        "weight": 0.23,
+        "channelId": "11261",
+        "countryCode": null,
+        "afsSource": null,
+        "todayRpm": 0,
+        "todayRev": 0
+      },
+      {
+        "offerId": "3pbI7vph8TPp",
+        "offerName": "jz-signin-v02-A14-fr-2133117664",
+        "categoryName": "紧急贷款",
+        "weight": 0,
+        "channelId": "2133117664",
+        "countryCode": null,
+        "afsSource": null,
+        "todayRpm": 0,
+        "todayRev": 0
+      }
+    ],
+    "funnelId": "3n30aqxf3T2y",
+    "funnelName": "jz-signin-v02",
+    "partnerName": "shortmax",
+    "urlName": "jz-signin-v02",
+    "urlId": 122,
+    "platform": "FF"
+  }
+}

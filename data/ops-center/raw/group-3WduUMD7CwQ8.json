@@ -1,0 +1,54 @@
+{
+  "code": 200,
+  "data": {
+    "groupId": "3WduUMD7CwQ8",
+    "groupName": "JZ-06-US-default",
+    "routing": "",
+    "geo": "US",
+    "yesterdayRpm": 19.3,
+    "yesterdayRev": 14.29,
+    "yesterdayRpmTrend": -24.61,
+    "yesterdayRevTrend": 2.14,
+    "offerList": [
+      {
+        "offerId": "3bbvRR5wKGyF",
+        "offerName": "JZ-06-A12-US-6838607522",
+        "categoryName": "健康保险",
+        "weight": 0.34,
+        "channelId": "6838607522",
+        "countryCode": null,
+        "afsSource": null,
+        "todayRpm": 0,
+        "todayRev": 0
+      },
+      {
+        "offerId": "3XGvo6EPgTth",
+        "offerName": "JZ-06-A4-US-9259456650",
+        "categoryName": "肝脏健康",
+        "weight": 0.33,
+        "channelId": "9259456650",
+        "countryCode": null,
+        "afsSource": null,
+        "todayRpm": 0,
+        "todayRev": 0
+      },
+      {
+        "offerId": "3XGwLN9H7e1e",
+        "offerName": "JZ-06-A7-US-3115809079",
+        "categoryName": "健康保险",
+        "weight": 0.33,
+        "channelId": "3115809079",
+        "countryCode": null,
+        "afsSource": null,
+        "todayRpm": 22.8,
+        "todayRev": 12.23
+      }
+    ],
+    "funnelId": "3SmbEZti3YSr",
+    "funnelName": "JZ-06",
+    "partnerName": "shortmax",
+    "urlName": "JZ-06",
+    "urlId": 86,
+    "platform": "FF"
+  }
+}

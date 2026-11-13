@@ -1,0 +1,142 @@
+{
+  "code": 200,
+  "data": {
+    "groupId": "3zawJefnU1rD",
+    "groupName": "reader-v02-us",
+    "routing": "rotator",
+    "geo": "US",
+    "yesterdayRpm": 1.1,
+    "yesterdayRev": 2.32,
+    "yesterdayRpmTrend": -60.71,
+    "yesterdayRevTrend": -61.33,
+    "offerList": [
+      {
+        "offerId": "3zavc4CtoOLC",
+        "offerName": "reader-v02-A4-us-4300370257-zestfularcade.com",
+        "categoryName": "临床研究",
+        "weight": 0.02,
+        "channelId": "4300370257",
+        "countryCode": "US",
+        "afsSource": "4",
+        "todayRpm": 0,
+        "todayRev": 0
+      },
+      {
+        "offerId": "3zavgze8LnJq",
+        "offerName": "reader-v02-A7-us-7609117695-bank-flux.com",
+        "categoryName": "事故律师",
+        "weight": 0.02,
+        "channelId": "7609117695",
+        "countryCode": "US",
+        "afsSource": "7",
+        "todayRpm": 0,
+        "todayRev": 0
+      },
+      {
+        "offerId": "3zavUMkw3NMi",
+        "offerName": "reader-v02-A12-US-2402337368-degreesuccesstips.com",
+        "categoryName": "临床研究",
+        "weight": 0.02,
+        "channelId": "2402337368",
+        "countryCode": "US",
+        "afsSource": "12",
+        "todayRpm": 7.1,
+        "todayRev": 0.24
+      },
+      {
+        "offerId": "402rm6THtpNp",
+        "offerName": "reader-v02-A7-us-18633-aifinteches.com",
+        "categoryName": "事故律师",
+        "weight": 0.02,
+        "channelId": "18633",
+        "countryCode": "US",
+        "afsSource": "7",
+        "todayRpm": 0,
+        "todayRev": 0
+      },
+      {
+        "offerId": "402rfkzwFYni",
+        "offerName": "reader-v02-A7-us-7609117695-quantify-energy.com",
+        "categoryName": "事故律师",
+        "weight": 0.02,
+        "channelId": "7609117695",
+        "countryCode": "US",
+        "afsSource": "7",
+        "todayRpm": 0,
+        "todayRev": 0
+      },
+      {
+        "offerId": "402rXsi0AjN2",
+        "offerName": "reader-v02-A5-us-2983419154-whirlwindarcade.com",
+        "categoryName": "特殊疾病药品",
+        "weight": 0.5,
+        "channelId": "2983419154",
+        "countryCode": "US",
+        "afsSource": "5",
+        "todayRpm": 1.4,
+        "todayRev": 2.05
+      },
+      {
+        "offerId": "402rRje9k8Ry",
+        "offerName": "reader-v02-A5-us-7322863926-easyfungalaxy.com",
+        "categoryName": "特殊疾病药品",
+        "weight": 0.02,
+        "channelId": "7322863926",
+        "countryCode": "US",
+        "afsSource": "5",
+        "todayRpm": 6.2,
+        "todayRev": 0.18
+      },
+      {
+        "offerId": "402rHNHtJZan",
+        "offerName": "reader-v02-A5-us-2983419154-funfillgames.com",
+        "categoryName": "特殊疾病药品",
+        "weight": 0.5,
+        "channelId": "2983419154",
+        "countryCode": "US",
+        "afsSource": "5",
+        "todayRpm": 1.4,
+        "todayRev": 2.05
+      },
+      {
+        "offerId": "402r3R6ThamV",
+        "offerName": "reader-v02-A15-9485648631-us-lstmai.com",
+        "categoryName": "医疗健康",
+        "weight": 0.02,
+        "channelId": "9485648631",
+        "countryCode": "US",
+        "afsSource": "15",
+        "todayRpm": 0,
+        "todayRev": 0
+      },
+      {
+        "offerId": "402qy5qGO6lD",
+        "offerName": "reader-v02-A15-6503525985-us-mpbus.com",
+        "categoryName": "医疗健康",
+        "weight": 0.02,
+        "channelId": "2952029875",
+        "countryCode": "US",
+        "afsSource": "15",
+        "todayRpm": 0,
+        "todayRev": 0
+      },
+      {
+        "offerId": "402qnFTeo9OY",
+        "offerName": "reader-v02-A15-2952029875-us-51jiejue.com",
+        "categoryName": "医疗健康",
+        "weight": 0.02,
+        "channelId": "2952029875",
+        "countryCode": "US",
+        "afsSource": "15",
+        "todayRpm": 0,
+        "todayRev": 0
+      }
+    ],
+    "funnelId": "3zaxNqwFxfnB",
+    "funnelName": "reader-v02",
+    "partnerName": null,
+    "urlName": null,
+    "urlId": null,
+    "platform": "MIS"
+  }
+}

@@ -1,0 +1,76 @@
+{
+  "code": 200,
+  "data": {
+    "groupId": "3x4BYAL3vdtz",
+    "groupName": "shortmax-v11-default",
+    "routing": "rotator",
+    "geo": null,
+    "yesterdayRpm": 0,
+    "yesterdayRev": 0,
+    "yesterdayRpmTrend": 0,
+    "yesterdayRevTrend": 0,
+    "offerList": [
+      {
+        "offerId": "3x4BJZa1LShu",
+        "offerName": "JZ11-A5-default-3547510412",
+        "categoryName": "疾病治疗",
+        "weight": 1,
+        "channelId": "3547510412",
+        "countryCode": null,
+        "afsSource": "5",
+        "todayRpm": 0,
+        "todayRev": 0
+      },
+      {
+        "offerId": "3x4B1aBk1UY5",
+        "offerName": "JZ11-A15-default-5586737973",
+        "categoryName": "医疗健康",
+        "weight": 1,
+        "channelId": "5586737973",
+        "countryCode": null,
+        "afsSource": "15",
+        "todayRpm": 0,
+        "todayRev": 0
+      },
+      {
+        "offerId": "3x4Ag4OqD8IM",
+        "offerName": "JZ11-A7-default-2299609366",
+        "categoryName": "手机分期",
+        "weight": 1,
+        "channelId": "2299609366",
+        "countryCode": null,
+        "afsSource": "7",
+        "todayRpm": 0,
+        "todayRev": 0
+      },
+      {
+        "offerId": "3x4Ac6FYzfcn",
+        "offerName": "JZ11-A7-default-2299609366",
+        "categoryName": "手机分期",
+        "weight": 1,
+        "channelId": "2299609366",
+        "countryCode": null,
+        "afsSource": "7",
+        "todayRpm": 0,
+        "todayRev": 0
+      },
+      {
+        "offerId": "3x4AWuYKWs9V",
+        "offerName": "JZ11-A4-default-6792427953",
+        "categoryName": "手机分期",
+        "weight": 1,
+        "channelId": "6792427953",
+        "countryCode": null,
+        "afsSource": "4",
+        "todayRpm": 0,
+        "todayRev": 0
+      }
+    ],
+    "funnelId": "3x4Biffp1su8",
+    "funnelName": "ShortMax-v11",
+    "partnerName": "shortmax",
+    "urlName": null,
+    "urlId": null,
+    "platform": "MIS"
+  }
+}

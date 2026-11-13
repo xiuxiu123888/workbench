@@ -1,0 +1,108 @@
+{
+  "title": "moboreels-v04 产文",
+  "startedAt": "2026-11-11T13:32:55.837Z",
+  "funnel": {
+    "funnelId": "3zb3S8BZbPfp",
+    "funnelName": "moboreels-v04"
+  },
+  "sourceOfTruth": "landpulse/offer/getById",
+  "seedPoolCount": 63,
+  "tasks": [
+    {
+      "taskIndex": 1,
+      "offerId": "3zb2RxclzOAi",
+      "offerName": "moboreels-v04-A12-default-9598677745",
+      "groupId": "3zb2m5GkIItD",
+      "groupName": "moboreels-v04-default",
+      "geo": null,
+      "channelId": "9598677745",
+      "status": "published",
+      "oldLandingUrl": "https://intodeepdive.com/detail/868489340771?channel=9598677745&hit={hit}",
+      "oldArticleId": "868489340771",
+      "host": "intodeepdive.com",
+      "siteId": 62,
+      "accountId": 11,
+      "siteName": "intodeepdive.com",
+      "seed": {
+        "keyword": "Trelegy Cost Without Insurance",
+        "intentKeyword": "Trelegy Cost Without Insurance",
+        "ref": "Trelegy Cost Without Insurance",
+        "domainCategory": "医疗·呼吸与睡眠",
+        "categoryId": 6452,
+        "regionId": "US"
+      },
+      "languageId": 1,
+      "taskId": "job_fe957fa2934e4de9852acbe579efbf77",
+      "itemId": 9844,
+      "newArticleId": "520137104789",
+      "newLandingUrl": "https://intodeepdive.com/detail/520137104789?channel=9598677745&hit={hit}&subid1=9598677745&subid2=520137104789&ref=Trelegy+Cost+Without+Insurance",
+      "note": "已发布 article_id=520137104789"
+    },
+    {
+      "taskIndex": 2,
+      "offerId": "3zb2OzWzfG2Z",
+      "offerName": "moboreels-v04-A4-default-8836912457",
+      "groupId": "3zb2m5GkIItD",
+      "groupName": "moboreels-v04-default",
+      "geo": null,
+      "channelId": "8836912457",
+      "status": "published",
+      "oldLandingUrl": "https://zestfularcade.com/detail/963671542428?ref=Truvada+Cost+Without+Insurance&channel=8836912457&hit={hit}",
+      "oldArticleId": "963671542428",
+      "host": "zestfularcade.com",
+      "siteId": 6,
+      "accountId": 2,
+      "siteName": "zestfularcade.com",
+      "seed": {
+        "keyword": "CPAP Machine Cost",
+        "intentKeyword": "CPAP Machine Cost",
+        "ref": "CPAP Machine Cost",
+        "domainCategory": "医疗·呼吸与睡眠",
+        "categoryId": 6452,
+        "regionId": "US"
+      },
+      "languageId": 1,
+      "taskId": "job_07bebb82a28e4b1c9b1b7c28d7abc800",
+      "itemId": 9847,
+      "newArticleId": "105756631207",
+      "newLandingUrl": "https://zestfularcade.com/detail/105756631207?ref=CPAP+Machine+Cost&channel=8836912457&hit={hit}&subid1=8836912457&subid2=105756631207",
+      "note": "已发布 article_id=105756631207"
+    },
+    {
+      "taskIndex": 3,
+      "offerId": "3zb2MFJ17cnO",
+      "offerName": "moboreels-v04-A7-default-10930",
+      "groupId": "3zb2m5GkIItD",
+      "groupName": "moboreels-v04-default",
+      "geo": null,
+      "channelId": "10930",
+      "status": "published",
+      "oldLandingUrl": "https://algo-cash.com/detail/132989645932?ref=Mounjaro+Cost+Without+Insurance&channel=10930&hit={hit}",
+      "oldArticleId": "132989645932",
+      "host": "algo-cash.com",
+      "siteId": 42,
+      "accountId": 4,
+      "siteName": "algo-cash.com",
+      "seed": {
+        "keyword": "TMS Therapy Cost",
+        "intentKeyword": "TMS Therapy Cost",
+        "ref": "TMS Therapy Cost",
+        "domainCategory": "心理健康 / 成瘾",
+        "categoryId": 6314,
+        "regionId": "US"
+      },
+      "languageId": 1,
+      "taskId": "job_610eaaa74b554c8c9b0c4477eeffbc2d",
+      "itemId": 9850,
+      "newArticleId": "497698491440",
+      "newLandingUrl": "https://algo-cash.com/detail/497698491440?ref=TMS+Therapy+Cost&channel=10930&hit={hit}&subid1=10930&subid2=497698491440",
+      "note": "已发布 article_id=497698491440"
+    }
+  ],
+  "summary": {
+    "total": 3,
+    "success": 3,
+    "failed": 0
+  },
+  "finishedAt": "2026-11-11T13:35:15.321Z"
+}

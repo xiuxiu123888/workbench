@@ -1,0 +1,65 @@
+{
+  "code": 200,
+  "data": {
+    "groupId": "3QiVuvTPgLnU",
+    "groupName": "CD-Reel-A74-BR",
+    "routing": "",
+    "geo": "BR",
+    "yesterdayRpm": 0,
+    "yesterdayRev": 0,
+    "yesterdayRpmTrend": 0,
+    "yesterdayRevTrend": 0,
+    "offerList": [
+      {
+        "offerId": "3lpdddIyk5aM",
+        "offerName": "cd-reader-A74-A12-BR-2498890618",
+        "categoryName": "汽车分期",
+        "weight": 0,
+        "channelId": "2498890618",
+        "countryCode": null,
+        "afsSource": null,
+        "todayRpm": 0,
+        "todayRev": 0
+      },
+      {
+        "offerId": "3lplh9nEMZww",
+        "offerName": "cd-reader-A74-A14-BR-8126119871",
+        "categoryName": "家电分期",
+        "weight": 0,
+        "channelId": "8126119871",
+        "countryCode": null,
+        "afsSource": null,
+        "todayRpm": 0,
+        "todayRev": 0
+      },
+      {
+        "offerId": "3Xcg1Z0YRbA1",
+        "offerName": "A74-A4-br-8142492474",
+        "categoryName": "冰箱分期",
+        "weight": 0.26,
+        "channelId": "8142492474",
+        "countryCode": null,
+        "afsSource": null,
+        "todayRpm": 0,
+        "todayRev": 0
+      },
+      {
+        "offerId": "3XcgsbnHK3Y8",
+        "offerName": "A74-A7-br-10936",
+        "categoryName": "冰箱分期",
+        "weight": 0.74,
+        "channelId": "10936",
+        "countryCode": null,
+        "afsSource": null,
+        "todayRpm": 0,
+        "todayRev": 0
+      }
+    ],
+    "funnelId": "3Qi1ty6v4Zxt",
+    "funnelName": "cd-reader-A74",
+    "partnerName": "changdu",
+    "urlName": "moboreader",
+    "urlId": 75,
+    "platform": "FF"
+  }
+}

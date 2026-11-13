@@ -1,0 +1,14 @@
+{
+  "funnelId": "3oIS6Y7J2ySb",
+  "funnelName": "cd-lock-v01",
+  "day": "2026-11-10",
+  "query": {
+    "day": "2026-11-10",
+    "startTime": "2026-11-10 00:00:00",
+    "endTime": "2026-11-10 23:59:59"
+  },
+  "data": {
+    "categoryList": [],
+    "statsList": []
+  }
+}

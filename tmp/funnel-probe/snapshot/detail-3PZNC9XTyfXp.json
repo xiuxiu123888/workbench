@@ -1,0 +1,61 @@
+{
+  "code": 200,
+  "data": {
+    "funnelId": "3PZNC9XTyfXp",
+    "funnelName": "Jiu-reel-0912",
+    "partnerName": "shortmax",
+    "urlName": "Jiu-reel-0912",
+    "urlId": 68,
+    "offerGroupList": [
+      {
+        "groupId": "3TAgAwCMIRnG",
+        "groupName": "Jiu-0912-JP",
+        "geo": "JP"
+      },
+      {
+        "groupId": "3TAgHZ2ewcvT",
+        "groupName": "Jiu-0912-FR",
+        "geo": "FR"
+      },
+      {
+        "groupId": "3TAgNGiTpdG4",
+        "groupName": "Jiu-0912-IT",
+        "geo": "IT"
+      },
+      {
+        "groupId": "3TAg1aVvtyht",
+        "groupName": "Jiu-0912-US",
+        "geo": "US"
+      },
+      {
+        "groupId": "3We0mc0XPo2O",
+        "groupName": "Jiu-0912-Br",
+        "geo": "BR"
+      },
+      {
+        "groupId": "3We12iYC3TUO",
+        "groupName": "Jiu-0912-US-default",
+        "geo": "US"
+      },
+      {
+        "groupId": "3bvqXF2bpuPE",
+        "groupName": "Jiu-0912-MX",
+        "geo": "MX"
+      },
+      {
+        "groupId": "3c8hS9kizRMP",
+        "groupName": "Jiu-0912-sa",
+        "geo": "SA"
+      },
+      {
+        "groupId": "3fmY7cyiPFfn",
+        "groupName": "BlockPage",
+        "geo": null
+      }
+    ],
+    "platform": "FF",
+    "status": "active",
+    "autoWeightEnabled": 1,
+    "autoWeightRuleType": "TODAY_RPM"
+  }
+}

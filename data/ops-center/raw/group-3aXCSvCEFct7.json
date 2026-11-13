@@ -1,0 +1,54 @@
+{
+  "code": 200,
+  "data": {
+    "groupId": "3aXCSvCEFct7",
+    "groupName": "JZ09-FR",
+    "routing": "",
+    "geo": "FR",
+    "yesterdayRpm": 0,
+    "yesterdayRev": 0,
+    "yesterdayRpmTrend": -100,
+    "yesterdayRevTrend": -100,
+    "offerList": [
+      {
+        "offerId": "3aX1by5FytNQ",
+        "offerName": "JZ09-A4-fr-8488653000",
+        "categoryName": "心理健康",
+        "weight": 1,
+        "channelId": "8488653000",
+        "countryCode": null,
+        "afsSource": null,
+        "todayRpm": 3.9,
+        "todayRev": 0.14
+      },
+      {
+        "offerId": "3aX86K6L6Ltb",
+        "offerName": "JZ09-A7-fr-1751917633",
+        "categoryName": "心理健康",
+        "weight": 1,
+        "channelId": "1751917633",
+        "countryCode": null,
+        "afsSource": null,
+        "todayRpm": 0,
+        "todayRev": 0
+      },
+      {
+        "offerId": "3boa1GcqO8bl",
+        "offerName": "JZ09-A12-fr-9827539423",
+        "categoryName": "个人贷款",
+        "weight": 1,
+        "channelId": "9827539423",
+        "countryCode": null,
+        "afsSource": null,
+        "todayRpm": 0,
+        "todayRev": 0
+      }
+    ],
+    "funnelId": "3aXEOxFRbofy",
+    "funnelName": "jz-09",
+    "partnerName": "shortmax",
+    "urlName": "JZ-09",
+    "urlId": 91,
+    "platform": "FF"
+  }
+}

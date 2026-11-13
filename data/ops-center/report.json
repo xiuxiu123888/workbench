@@ -1,0 +1,5897 @@
+{
+  "pulledAt": "2026-11-13T10:00:27.352Z",
+  "metricDays": [
+    "2026-11-13",
+    "2026-11-12"
+  ],
+  "primaryDay": "2026-11-13",
+  "funnelCount": 77,
+  "groupCount": 275,
+  "offerCount": 1124,
+  "matchedOfferCount": 556,
+  "totals": {
+    "visits": 1013208,
+    "views": 1013208,
+    "conversion": 28808,
+    "revenue": 8102.039999999998,
+    "funnelImpressions": 2384529,
+    "funnelClicks": 640654,
+    "clicks": 39184,
+    "funnelRpm": 7138.770000000002,
+    "rpc": 54.288000000000004,
+    "funnelCtr": 14147.025892502113,
+    "cvr1": 6339.255057831691,
+    "cvr2": 2193.198446016124
+  },
+  "partnerRank": [
+    {
+      "key": "Blinkdrama",
+      "count": 96,
+      "revenue": 4038.6099999999997,
+      "visits": 461757,
+      "views": 461757,
+      "conversion": 15256,
+      "funnelImpressions": 1131065,
+      "funnelClicks": 357053,
+      "clicks": 18768,
+      "funnelRpmAvg": 17.51385416666666,
+      "funnelCtrAvg": 35.80339438260484
+    },
+    {
+      "key": "vibeshort",
+      "count": 92,
+      "revenue": 1468.4399999999985,
+      "visits": 121977,
+      "views": 121977,
+      "conversion": 5471,
+      "funnelImpressions": 314664,
+      "funnelClicks": 103771,
+      "clicks": 7338,
+      "funnelRpmAvg": 26.11152173913042,
+      "funnelCtrAvg": 32.26288946817237
+    },
+    {
+      "key": "(未填)",
+      "count": 192,
+      "revenue": 1222.2099999999996,
+      "visits": 276306,
+      "views": 276306,
+      "conversion": 3322,
+      "funnelImpressions": 485187,
+      "funnelClicks": 73469,
+      "clicks": 5984,
+      "funnelRpmAvg": 6.1215625,
+      "funnelCtrAvg": 11.102674286555276
+    },
+    {
+      "key": "storyreel",
+      "count": 121,
+      "revenue": 698.63,
+      "visits": 36490,
+      "views": 36490,
+      "conversion": 1959,
+      "funnelImpressions": 188344,
+      "funnelClicks": 45304,
+      "clicks": 3430,
+      "funnelRpmAvg": 10.921570247933891,
+      "funnelCtrAvg": 32.32896761831692
+    },
+    {
+      "key": "shortmax",
+      "count": 352,
+      "revenue": 584.4599999999998,
+      "visits": 39506,
+      "views": 39506,
+      "conversion": 2145,
+      "funnelImpressions": 116513,
+      "funnelClicks": 39541,
+      "clicks": 3202,
+      "funnelRpmAvg": 0.8582670454545457,
+      "funnelCtrAvg": 3.498395818778877
+    },
+    {
+      "key": "changdu",
+      "count": 271,
+      "revenue": 89.69000000000001,
+      "visits": 77172,
+      "views": 77172,
+      "conversion": 655,
+      "funnelImpressions": 148756,
+      "funnelClicks": 21516,
+      "clicks": 462,
+      "funnelRpmAvg": 0.9454612546125463,
+      "funnelCtrAvg": 1.7223628326755578
+    }
+  ],
+  "urlRank": [
+    {
+      "key": "(未填)",
+      "count": 229,
+      "revenue": 1806.67,
+      "visits": 315812,
+      "views": 315812,
+      "conversion": 5467,
+      "funnelImpressions": 601700,
+      "funnelClicks": 113010,
+      "clicks": 9186,
+      "funnelRpmAvg": 6.45174672489083,
+      "funnelCtrAvg": 14.686239263007746
+    },
+    {
+      "key": "Blinkdrama-v01",
+      "count": 23,
+      "revenue": 1449.4599999999998,
+      "visits": 146285,
+      "views": 146285,
+      "conversion": 6434,
+      "funnelImpressions": 391402,
+      "funnelClicks": 149461,
+      "clicks": 8049,
+      "funnelRpmAvg": 21.387826086956526,
+      "funnelCtrAvg": 37.778992980520904
+    },
+    {
+      "key": "Blinkdrama-v02",
+      "count": 19,
+      "revenue": 1117.0400000000002,
+      "visits": 79791,
+      "views": 79791,
+      "conversion": 3788,
+      "funnelImpressions": 224549,
+      "funnelClicks": 94849,
+      "clicks": 4652,
+      "funnelRpmAvg": 23.707368421052635,
+      "funnelCtrAvg": 44.369435528246726
+    },
+    {
+      "key": "Blinkdrama-sign-v01",
+      "count": 18,
+      "revenue": 1078.36,
+      "visits": 196338,
+      "views": 196338,
+      "conversion": 3331,
+      "funnelImpressions": 408453,
+      "funnelClicks": 72430,
+      "clicks": 4330,
+      "funnelRpmAvg": 9.369444444444445,
+      "funnelCtrAvg": 17.613517584886594
+    },
+    {
+      "key": "vibeshort-v01",
+      "count": 21,
+      "revenue": 757.9100000000001,
+      "visits": 69175,
+      "views": 69175,
+      "conversion": 2995,
+      "funnelImpressions": 179369,
+      "funnelClicks": 57324,
+      "clicks": 4561,
+      "funnelRpmAvg": 19.616666666666664,
+      "funnelCtrAvg": 32.27512572338743
+    },
+    {
+      "key": "vibeshort-v02",
+      "count": 21,
+      "revenue": 368.76,
+      "visits": 28794,
+      "views": 28794,
+      "conversion": 1118,
+      "funnelImpressions": 74866,
+      "funnelClicks": 26321,
+      "clicks": 1621,
+      "funnelRpmAvg": 39.36666666666667,
+      "funnelCtrAvg": 36.607669598431464
+    },
+    {
+      "key": "storyreel-sign-v01",
+      "count": 19,
+      "revenue": 242.92,
+      "visits": 8443,
+      "views": 8443,
+      "conversion": 571,
+      "funnelImpressions": 110610,
+      "funnelClicks": 19303,
+      "clicks": 1452,
+      "funnelRpmAvg": 3.8299999999999996,
+      "funnelCtrAvg": 24.60781982197522
+    },
+    {
+      "key": "Blinkdrama-v04",
+      "count": 18,
+      "revenue": 231.74,
+      "visits": 22154,
+      "views": 22154,
+      "conversion": 909,
+      "funnelImpressions": 59472,
+      "funnelClicks": 21777,
+      "clicks": 848,
+      "funnelRpmAvg": 17.561666666666664,
+      "funnelCtrAvg": 40.82659475483179
+    },
+    {
+      "key": "storyreel-v01",
+      "count": 23,
+      "revenue": 228.89,
+      "visits": 6123,
+      "views": 6123,
+      "conversion": 281,
+      "funnelImpressions": 23543,
+      "funnelClicks": 6790,
+      "clicks": 978,
+      "funnelRpmAvg": 15.75869565217391,
+      "funnelCtrAvg": 34.194379491663426
+    },
+    {
+      "key": "vibeshort-V05",
+      "count": 17,
+      "revenue": 188.47,
+      "visits": 10032,
+      "views": 10032,
+      "conversion": 642,
+      "funnelImpressions": 26178,
+      "funnelClicks": 8638,
+      "clicks": 637,
+      "funnelRpmAvg": 23.971176470588233,
+      "funnelCtrAvg": 33.14944893383981
+    },
+    {
+      "key": "Blinkdrama-v03",
+      "count": 18,
+      "revenue": 162.01000000000002,
+      "visits": 17189,
+      "views": 17189,
+      "conversion": 794,
+      "funnelImpressions": 47189,
+      "funnelClicks": 18536,
+      "clicks": 889,
+      "funnelRpmAvg": 14.122777777777777,
+      "funnelCtrAvg": 37.40376250147033
+    },
+    {
+      "key": "storyreel-v02",
+      "count": 22,
+      "revenue": 125.29000000000002,
+      "visits": 11879,
+      "views": 11879,
+      "conversion": 611,
+      "funnelImpressions": 29812,
+      "funnelClicks": 11216,
+      "clicks": 720,
+      "funnelRpmAvg": 1.710909090909091,
+      "funnelCtrAvg": 30.607983294755147
+    },
+    {
+      "key": "vibeshort-v03",
+      "count": 17,
+      "revenue": 79.37000000000002,
+      "visits": 8340,
+      "views": 8340,
+      "conversion": 366,
+      "funnelImpressions": 21156,
+      "funnelClicks": 7663,
+      "clicks": 307,
+      "funnelRpmAvg": 24.3664705882353,
+      "funnelCtrAvg": 31.773204016067854
+    },
+    {
+      "key": "vibeshort-v04",
+      "count": 16,
+      "revenue": 73.92999999999999,
+      "visits": 5636,
+      "views": 5636,
+      "conversion": 350,
+      "funnelImpressions": 13095,
+      "funnelClicks": 3825,
+      "clicks": 212,
+      "funnelRpmAvg": 21.366875,
+      "funnelCtrAvg": 26.122626822826895
+    },
+    {
+      "key": "storyreel-v04",
+      "count": 19,
+      "revenue": 58.02,
+      "visits": 4117,
+      "views": 4117,
+      "conversion": 295,
+      "funnelImpressions": 9912,
+      "funnelClicks": 3533,
+      "clicks": 197,
+      "funnelRpmAvg": 17.706315789473685,
+      "funnelCtrAvg": 36.014156747039216
+    },
+    {
+      "key": "moboreels",
+      "count": 158,
+      "revenue": 47.02,
+      "visits": 76225,
+      "views": 76225,
+      "conversion": 243,
+      "funnelImpressions": 147424,
+      "funnelClicks": 20732,
+      "clicks": 140,
+      "funnelRpmAvg": 0.7411392405063292,
+      "funnelCtrAvg": 1.6986144755159664
+    },
+    {
+      "key": "moboreader",
+      "count": 111,
+      "revenue": 42.67,
+      "visits": 947,
+      "views": 947,
+      "conversion": 412,
+      "funnelImpressions": 1332,
+      "funnelClicks": 784,
+      "clicks": 322,
+      "funnelRpmAvg": 1.2533333333333334,
+      "funnelCtrAvg": 1.787200365077058
+    },
+    {
+      "key": "storyreel-v05",
+      "count": 19,
+      "revenue": 23.820000000000004,
+      "visits": 1862,
+      "views": 1862,
+      "conversion": 74,
+      "funnelImpressions": 4374,
+      "funnelClicks": 1357,
+      "clicks": 35,
+      "funnelRpmAvg": 16.003157894736844,
+      "funnelCtrAvg": 36.42716680925198
+    },
+    {
+      "key": "storyreel-v03",
+      "count": 19,
+      "revenue": 19.689999999999994,
+      "visits": 4066,
+      "views": 4066,
+      "conversion": 127,
+      "funnelImpressions": 10093,
+      "funnelClicks": 3105,
+      "clicks": 48,
+      "funnelRpmAvg": 10.956315789473683,
+      "funnelCtrAvg": 32.00131562296915
+    },
+    {
+      "key": "Jiu-reel-0912",
+      "count": 35,
+      "revenue": 0,
+      "visits": 0,
+      "views": 0,
+      "conversion": 0,
+      "funnelImpressions": 0,
+      "funnelClicks": 0,
+      "clicks": 0,
+      "funnelRpmAvg": 0,
+      "funnelCtrAvg": 0
+    }
+  ],
+  "geoRank": [
+    {
+      "key": "US",
+      "count": 486,
+      "revenue": 5873.700000000002,
+      "visits": 310321,
+      "views": 310321,
+      "conversion": 17019,
+      "funnelImpressions": 1451398,
+      "funnelClicks": 377551,
+      "clicks": 26400,
+      "funnelRpmAvg": 13.348868312757205,
+      "funnelCtrAvg": 22.196229007686156
+    },
+    {
+      "key": "(默认/未标)",
+      "count": 177,
+      "revenue": 2105.1099999999997,
+      "visits": 702710,
+      "views": 702710,
+      "conversion": 11786,
+      "funnelImpressions": 929678,
+      "funnelClicks": 261827,
+      "clicks": 12243,
+      "funnelRpmAvg": 2.3736158192090397,
+      "funnelCtrAvg": 17.239083306878943
+    },
+    {
+      "key": "BR",
+      "count": 98,
+      "revenue": 121.88000000000001,
+      "visits": 0,
+      "views": 0,
+      "conversion": 0,
+      "funnelImpressions": 3270,
+      "funnelClicks": 1252,
+      "clicks": 541,
+      "funnelRpmAvg": 1.6692857142857143,
+      "funnelCtrAvg": 2.470625890346472
+    },
+    {
+      "key": "CD",
+      "count": 42,
+      "revenue": 1.35,
+      "visits": 177,
+      "views": 177,
+      "conversion": 3,
+      "funnelImpressions": 183,
+      "funnelClicks": 24,
+      "clicks": 0,
+      "funnelRpmAvg": 1.6071428571428572,
+      "funnelCtrAvg": 1.5766550522648084
+    },
+    {
+      "key": "DE",
+      "count": 31,
+      "revenue": 0,
+      "visits": 0,
+      "views": 0,
+      "conversion": 0,
+      "funnelImpressions": 0,
+      "funnelClicks": 0,
+      "clicks": 0,
+      "funnelRpmAvg": 0,
+      "funnelCtrAvg": 0
+    },
+    {
+      "key": "DEFAULT",
+      "count": 29,
+      "revenue": 0,
+      "visits": 0,
+      "views": 0,
+      "conversion": 0,
+      "funnelImpressions": 0,
+      "funnelClicks": 0,
+      "clicks": 0,
+      "funnelRpmAvg": 0,
+      "funnelCtrAvg": 0
+    },
+    {
+      "key": "ES",
+      "count": 2,
+      "revenue": 0,
+      "visits": 0,
+      "views": 0,
+      "conversion": 0,
+      "funnelImpressions": 0,
+      "funnelClicks": 0,
+      "clicks": 0,
+      "funnelRpmAvg": 0,
+      "funnelCtrAvg": 0
+    },
+    {
+      "key": "FR",
+      "count": 36,
+      "revenue": 0,
+      "visits": 0,
+      "views": 0,
+      "conversion": 0,
+      "funnelImpressions": 0,
+      "funnelClicks": 0,
+      "clicks": 0,
+      "funnelRpmAvg": 0,
+      "funnelCtrAvg": 0
+    },
+    {
+      "key": "GB",
+      "count": 4,
+      "revenue": 0,
+      "visits": 0,
+      "views": 0,
+      "conversion": 0,
+      "funnelImpressions": 0,
+      "funnelClicks": 0,
+      "clicks": 0,
+      "funnelRpmAvg": 0,
+      "funnelCtrAvg": 0
+    },
+    {
+      "key": "IT",
+      "count": 38,
+      "revenue": 0,
+      "visits": 0,
+      "views": 0,
+      "conversion": 0,
+      "funnelImpressions": 0,
+      "funnelClicks": 0,
+      "clicks": 0,
+      "funnelRpmAvg": 0,
+      "funnelCtrAvg": 0
+    },
+    {
+      "key": "JP",
+      "count": 90,
+      "revenue": 0,
+      "visits": 0,
+      "views": 0,
+      "conversion": 0,
+      "funnelImpressions": 0,
+      "funnelClicks": 0,
+      "clicks": 0,
+      "funnelRpmAvg": 0,
+      "funnelCtrAvg": 0
+    },
+    {
+      "key": "KR",
+      "count": 3,
+      "revenue": 0,
+      "visits": 0,
+      "views": 0,
+      "conversion": 0,
+      "funnelImpressions": 0,
+      "funnelClicks": 0,
+      "clicks": 0,
+      "funnelRpmAvg": 0,
+      "funnelCtrAvg": 0
+    },
+    {
+      "key": "MX",
+      "count": 45,
+      "revenue": 0,
+      "visits": 0,
+      "views": 0,
+      "conversion": 0,
+      "funnelImpressions": 0,
+      "funnelClicks": 0,
+      "clicks": 0,
+      "funnelRpmAvg": 0,
+      "funnelCtrAvg": 0
+    },
+    {
+      "key": "SA",
+      "count": 38,
+      "revenue": 0,
+      "visits": 0,
+      "views": 0,
+      "conversion": 0,
+      "funnelImpressions": 0,
+      "funnelClicks": 0,
+      "clicks": 0,
+      "funnelRpmAvg": 0,
+      "funnelCtrAvg": 0
+    },
+    {
+      "key": "TG",
+      "count": 5,
+      "revenue": 0,
+      "visits": 0,
+      "views": 0,
+      "conversion": 0,
+      "funnelImpressions": 0,
+      "funnelClicks": 0,
+      "clicks": 0,
+      "funnelRpmAvg": 0,
+      "funnelCtrAvg": 0
+    }
+  ],
+  "categoryRank": [
+    {
+      "key": "面部提拉",
+      "count": 55,
+      "revenue": 997.65,
+      "visits": 21069,
+      "views": 21069,
+      "conversion": 3146,
+      "funnelImpressions": 221338,
+      "funnelClicks": 68206,
+      "clicks": 4681,
+      "funnelRpmAvg": 14.469454545454546,
+      "funnelCtrAvg": 30.928512097758972
+    },
+    {
+      "key": "心理健康 / 成瘾",
+      "count": 48,
+      "revenue": 900.36,
+      "visits": 117978,
+      "views": 117978,
+      "conversion": 2371,
+      "funnelImpressions": 255809,
+      "funnelClicks": 72747,
+      "clicks": 3367,
+      "funnelRpmAvg": 9.895000000000001,
+      "funnelCtrAvg": 28.84131378442227
+    },
+    {
+      "key": "SUV",
+      "count": 24,
+      "revenue": 836.0600000000001,
+      "visits": 13296,
+      "views": 13296,
+      "conversion": 2048,
+      "funnelImpressions": 95622,
+      "funnelClicks": 28014,
+      "clicks": 3986,
+      "funnelRpmAvg": 31.589583333333337,
+      "funnelCtrAvg": 29.970539051997275
+    },
+    {
+      "key": "肿瘤 / 生物制剂",
+      "count": 46,
+      "revenue": 753.4799999999999,
+      "visits": 67386,
+      "views": 67386,
+      "conversion": 2258,
+      "funnelImpressions": 221911,
+      "funnelClicks": 45683,
+      "clicks": 3208,
+      "funnelRpmAvg": 11.98826086956522,
+      "funnelCtrAvg": 29.756079554985025
+    },
+    {
+      "key": "新能源汽车",
+      "count": 33,
+      "revenue": 538.3299999999999,
+      "visits": 12069,
+      "views": 12069,
+      "conversion": 1662,
+      "funnelImpressions": 180120,
+      "funnelClicks": 53875,
+      "clicks": 2677,
+      "funnelRpmAvg": 23.56575757575758,
+      "funnelCtrAvg": 32.543077591394315
+    },
+    {
+      "key": "注射除皱",
+      "count": 47,
+      "revenue": 514.8800000000001,
+      "visits": 16777,
+      "views": 16777,
+      "conversion": 1573,
+      "funnelImpressions": 139709,
+      "funnelClicks": 36027,
+      "clicks": 2078,
+      "funnelRpmAvg": 13.204255319148938,
+      "funnelCtrAvg": 26.24618770448024
+    },
+    {
+      "key": "消费电子",
+      "count": 35,
+      "revenue": 448.35,
+      "visits": 11974,
+      "views": 11974,
+      "conversion": 1987,
+      "funnelImpressions": 60810,
+      "funnelClicks": 12974,
+      "clicks": 2249,
+      "funnelRpmAvg": 20.356285714285715,
+      "funnelCtrAvg": 29.31455741980869
+    },
+    {
+      "key": "宠物产品",
+      "count": 39,
+      "revenue": 436.3999999999999,
+      "visits": 13637,
+      "views": 13637,
+      "conversion": 1865,
+      "funnelImpressions": 64706,
+      "funnelClicks": 13824,
+      "clicks": 2264,
+      "funnelRpmAvg": 16.817179487179487,
+      "funnelCtrAvg": 27.24830064733405
+    },
+    {
+      "key": "医疗·皮肤",
+      "count": 12,
+      "revenue": 421,
+      "visits": 62205,
+      "views": 62205,
+      "conversion": 1472,
+      "funnelImpressions": 83267,
+      "funnelClicks": 25154,
+      "clicks": 1755,
+      "funnelRpmAvg": 2.6733333333333333,
+      "funnelCtrAvg": 29.431902452166042
+    },
+    {
+      "key": "汽车金融",
+      "count": 35,
+      "revenue": 411.7,
+      "visits": 12647,
+      "views": 12647,
+      "conversion": 659,
+      "funnelImpressions": 214510,
+      "funnelClicks": 45078,
+      "clicks": 1979,
+      "funnelRpmAvg": 26.349142857142855,
+      "funnelCtrAvg": 21.936617976033585
+    },
+    {
+      "key": "自身免疫",
+      "count": 11,
+      "revenue": 303.12,
+      "visits": 77185,
+      "views": 77185,
+      "conversion": 1426,
+      "funnelImpressions": 118602,
+      "funnelClicks": 45797,
+      "clicks": 1743,
+      "funnelRpmAvg": 3.0036363636363634,
+      "funnelCtrAvg": 34.570080948986835
+    },
+    {
+      "key": "心血管 / 抗凝",
+      "count": 11,
+      "revenue": 250.73000000000002,
+      "visits": 77314,
+      "views": 77314,
+      "conversion": 1139,
+      "funnelImpressions": 96275,
+      "funnelClicks": 25546,
+      "clicks": 1247,
+      "funnelRpmAvg": 2.6700000000000004,
+      "funnelCtrAvg": 26.955631782215217
+    },
+    {
+      "key": "信用卡",
+      "count": 15,
+      "revenue": 229.71999999999997,
+      "visits": 0,
+      "views": 0,
+      "conversion": 0,
+      "funnelImpressions": 6144,
+      "funnelClicks": 2350,
+      "clicks": 1018,
+      "funnelRpmAvg": 15.508,
+      "funnelCtrAvg": 21.12554516784154
+    },
+    {
+      "key": "眼科 / 视力",
+      "count": 5,
+      "revenue": 199.16000000000003,
+      "visits": 75304,
+      "views": 75304,
+      "conversion": 1663,
+      "funnelImpressions": 99082,
+      "funnelClicks": 32783,
+      "clicks": 1586,
+      "funnelRpmAvg": 1.832,
+      "funnelCtrAvg": 31.794977521794397
+    },
+    {
+      "key": "医疗·偏头痛",
+      "count": 12,
+      "revenue": 197.66000000000003,
+      "visits": 120536,
+      "views": 120536,
+      "conversion": 1220,
+      "funnelImpressions": 154038,
+      "funnelClicks": 45943,
+      "clicks": 1099,
+      "funnelRpmAvg": 6.389166666666665,
+      "funnelCtrAvg": 29.882857563482233
+    },
+    {
+      "key": "GLP-1 / 糖尿病",
+      "count": 9,
+      "revenue": 152.01,
+      "visits": 42043,
+      "views": 42043,
+      "conversion": 1163,
+      "funnelImpressions": 61419,
+      "funnelClicks": 22051,
+      "clicks": 1160,
+      "funnelRpmAvg": 2.6611111111111114,
+      "funnelCtrAvg": 32.62968738378991
+    },
+    {
+      "key": "个人贷款",
+      "count": 19,
+      "revenue": 107.84,
+      "visits": 1,
+      "views": 1,
+      "conversion": 0,
+      "funnelImpressions": 2874,
+      "funnelClicks": 1098,
+      "clicks": 477,
+      "funnelRpmAvg": 3.633157894736842,
+      "funnelCtrAvg": 3.934833698087831
+    },
+    {
+      "key": "牙科",
+      "count": 4,
+      "revenue": 101.97999999999999,
+      "visits": 37290,
+      "views": 37290,
+      "conversion": 957,
+      "funnelImpressions": 38641,
+      "funnelClicks": 8770,
+      "clicks": 646,
+      "funnelRpmAvg": 12.892499999999998,
+      "funnelCtrAvg": 27.138324765503537
+    },
+    {
+      "key": "医疗·泌尿外科",
+      "count": 9,
+      "revenue": 94.34000000000002,
+      "visits": 35167,
+      "views": 35167,
+      "conversion": 472,
+      "funnelImpressions": 47900,
+      "funnelClicks": 12171,
+      "clicks": 643,
+      "funnelRpmAvg": 1.4555555555555557,
+      "funnelCtrAvg": 32.08867683727376
+    },
+    {
+      "key": "诊断 / 急诊",
+      "count": 8,
+      "revenue": 75.57000000000001,
+      "visits": 132297,
+      "views": 132297,
+      "conversion": 873,
+      "funnelImpressions": 139370,
+      "funnelClicks": 23937,
+      "clicks": 588,
+      "funnelRpmAvg": 5.328749999999999,
+      "funnelCtrAvg": 23.428253762946472
+    }
+  ],
+  "funnelRank": [
+    {
+      "funnelId": "3sFDWWqvNxR9",
+      "funnelName": "Blinkdrama-v01",
+      "partnerName": "Blinkdrama",
+      "urlName": "Blinkdrama-v01",
+      "platform": "MIS",
+      "groupCount": 2,
+      "offerCount": 23,
+      "matchedStats": 23,
+      "revenue": 1449.4599999999998,
+      "visits": 146285,
+      "views": 146285,
+      "conversion": 6434,
+      "funnelImpressions": 391402,
+      "funnelClicks": 149461,
+      "clicks": 8049,
+      "funnelRpmAvg": 21.387826086956526,
+      "funnelCtrAvg": 37.778992980520904,
+      "geos": [
+        "默认",
+        "US"
+      ],
+      "topCategories": [
+        "面部提拉",
+        "肿瘤 / 生物制剂",
+        "自身免疫"
+      ]
+    },
+    {
+      "funnelId": "3sFDuJeEbeay",
+      "funnelName": "Blinkdrama-v02",
+      "partnerName": "Blinkdrama",
+      "urlName": "Blinkdrama-v02",
+      "platform": "MIS",
+      "groupCount": 2,
+      "offerCount": 19,
+      "matchedStats": 19,
+      "revenue": 1117.0400000000002,
+      "visits": 79791,
+      "views": 79791,
+      "conversion": 3788,
+      "funnelImpressions": 224549,
+      "funnelClicks": 94849,
+      "clicks": 4652,
+      "funnelRpmAvg": 23.707368421052635,
+      "funnelCtrAvg": 44.369435528246726,
+      "geos": [
+        "默认",
+        "US"
+      ],
+      "topCategories": [
+        "心理健康 / 成瘾",
+        "面部提拉",
+        "医疗·皮肤"
+      ]
+    },
+    {
+      "funnelId": "3uUfpSpZ3e2U",
+      "funnelName": "Blinkdrama-sign-v01",
+      "partnerName": "Blinkdrama",
+      "urlName": "Blinkdrama-sign-v01",
+      "platform": "MIS",
+      "groupCount": 2,
+      "offerCount": 18,
+      "matchedStats": 18,
+      "revenue": 1078.36,
+      "visits": 196338,
+      "views": 196338,
+      "conversion": 3331,
+      "funnelImpressions": 408453,
+      "funnelClicks": 72430,
+      "clicks": 4330,
+      "funnelRpmAvg": 9.369444444444445,
+      "funnelCtrAvg": 17.613517584886594,
+      "geos": [
+        "US"
+      ],
+      "topCategories": [
+        "SUV",
+        "心理健康 / 成瘾",
+        "注射除皱"
+      ]
+    },
+    {
+      "funnelId": "3yj8jf5lC9CG",
+      "funnelName": "Vibeshort-V01",
+      "partnerName": "vibeshort",
+      "urlName": "vibeshort-v01",
+      "platform": "MIS",
+      "groupCount": 2,
+      "offerCount": 21,
+      "matchedStats": 21,
+      "revenue": 757.9100000000001,
+      "visits": 69175,
+      "views": 69175,
+      "conversion": 2995,
+      "funnelImpressions": 179369,
+      "funnelClicks": 57324,
+      "clicks": 4561,
+      "funnelRpmAvg": 19.616666666666664,
+      "funnelCtrAvg": 32.27512572338743,
+      "geos": [
+        "默认",
+        "US"
+      ],
+      "topCategories": [
+        "SUV",
+        "医疗·皮肤",
+        "心血管 / 抗凝"
+      ]
+    },
+    {
+      "funnelId": "3x47BxwjQBMo",
+      "funnelName": "ShortMax-v05",
+      "partnerName": "shortmax",
+      "urlName": null,
+      "platform": "MIS",
+      "groupCount": 2,
+      "offerCount": 15,
+      "matchedStats": 15,
+      "revenue": 474.54999999999995,
+      "visits": 28628,
+      "views": 28628,
+      "conversion": 1775,
+      "funnelImpressions": 79246,
+      "funnelClicks": 27126,
+      "clicks": 2712,
+      "funnelRpmAvg": 12.369333333333334,
+      "funnelCtrAvg": 34.438020284253405,
+      "geos": [
+        "默认",
+        "US"
+      ],
+      "topCategories": [
+        "新能源汽车",
+        "GLP-1 / 糖尿病",
+        "消费电子"
+      ]
+    },
+    {
+      "funnelId": "3zb0bcaeqhVS",
+      "funnelName": "moboreels-v01",
+      "partnerName": null,
+      "urlName": null,
+      "platform": "MIS",
+      "groupCount": 2,
+      "offerCount": 20,
+      "matchedStats": 20,
+      "revenue": 390.13,
+      "visits": 95930,
+      "views": 95930,
+      "conversion": 1237,
+      "funnelImpressions": 182318,
+      "funnelClicks": 26169,
+      "clicks": 1670,
+      "funnelRpmAvg": 18.726,
+      "funnelCtrAvg": 16.481905292249674,
+      "geos": [
+        "默认",
+        "US"
+      ],
+      "topCategories": [
+        "汽车金融",
+        "新能源汽车",
+        "肿瘤 / 生物制剂"
+      ]
+    },
+    {
+      "funnelId": "3w0aPitAgGtJ",
+      "funnelName": "Vibeshort-v02",
+      "partnerName": "vibeshort",
+      "urlName": "vibeshort-v02",
+      "platform": "MIS",
+      "groupCount": 2,
+      "offerCount": 21,
+      "matchedStats": 21,
+      "revenue": 368.76,
+      "visits": 28794,
+      "views": 28794,
+      "conversion": 1118,
+      "funnelImpressions": 74866,
+      "funnelClicks": 26321,
+      "clicks": 1621,
+      "funnelRpmAvg": 39.36666666666667,
+      "funnelCtrAvg": 36.607669598431464,
+      "geos": [
+        "默认",
+        "US"
+      ],
+      "topCategories": [
+        "汽车金融",
+        "面部提拉",
+        "心血管 / 抗凝"
+      ]
+    },
+    {
+      "funnelId": "3p0rRj7GzSgd",
+      "funnelName": "ff-reel-v04",
+      "partnerName": null,
+      "urlName": null,
+      "platform": "MIS",
+      "groupCount": 3,
+      "offerCount": 6,
+      "matchedStats": 6,
+      "revenue": 258.81,
+      "visits": 0,
+      "views": 0,
+      "conversion": 0,
+      "funnelImpressions": 5919,
+      "funnelClicks": 2364,
+      "clicks": 1107,
+      "funnelRpmAvg": 48.445,
+      "funnelCtrAvg": 39.13855195422107,
+      "geos": [
+        "默认",
+        "US",
+        "BR"
+      ],
+      "topCategories": [
+        "信用卡",
+        "个人贷款",
+        "临床研究"
+      ]
+    },
+    {
+      "funnelId": "3p82yVFf1xF9",
+      "funnelName": "storyreel-sign-v01",
+      "partnerName": "storyreel",
+      "urlName": "storyreel-sign-v01",
+      "platform": "MIS",
+      "groupCount": 2,
+      "offerCount": 19,
+      "matchedStats": 19,
+      "revenue": 242.92,
+      "visits": 8443,
+      "views": 8443,
+      "conversion": 571,
+      "funnelImpressions": 110610,
+      "funnelClicks": 19303,
+      "clicks": 1452,
+      "funnelRpmAvg": 3.8299999999999996,
+      "funnelCtrAvg": 24.60781982197522,
+      "geos": [
+        "默认",
+        "US"
+      ],
+      "topCategories": [
+        "肿瘤 / 生物制剂",
+        "汽车金融",
+        "新能源汽车"
+      ]
+    },
+    {
+      "funnelId": "3uDZt8ImMHUl",
+      "funnelName": "Blinkdrama-v04",
+      "partnerName": "Blinkdrama",
+      "urlName": "Blinkdrama-v04",
+      "platform": "MIS",
+      "groupCount": 2,
+      "offerCount": 18,
+      "matchedStats": 18,
+      "revenue": 231.74,
+      "visits": 22154,
+      "views": 22154,
+      "conversion": 909,
+      "funnelImpressions": 59472,
+      "funnelClicks": 21777,
+      "clicks": 848,
+      "funnelRpmAvg": 17.561666666666664,
+      "funnelCtrAvg": 40.82659475483179,
+      "geos": [
+        "默认",
+        "US"
+      ],
+      "topCategories": [
+        "心血管 / 抗凝",
+        "肿瘤 / 生物制剂",
+        "牙科"
+      ]
+    },
+    {
+      "funnelId": "3wxF131slLhR",
+      "funnelName": "storyreel-v01",
+      "partnerName": "storyreel",
+      "urlName": "storyreel-v01",
+      "platform": "MIS",
+      "groupCount": 2,
+      "offerCount": 23,
+      "matchedStats": 23,
+      "revenue": 228.89,
+      "visits": 6123,
+      "views": 6123,
+      "conversion": 281,
+      "funnelImpressions": 23543,
+      "funnelClicks": 6790,
+      "clicks": 978,
+      "funnelRpmAvg": 15.75869565217391,
+      "funnelCtrAvg": 34.194379491663426,
+      "geos": [
+        "默认",
+        "US"
+      ],
+      "topCategories": [
+        "自身免疫",
+        "心理健康 / 成瘾",
+        "新能源汽车"
+      ]
+    },
+    {
+      "funnelId": "3z7d1Vmn8Fku",
+      "funnelName": "ShortMax-v04",
+      "partnerName": null,
+      "urlName": null,
+      "platform": "MIS",
+      "groupCount": 2,
+      "offerCount": 10,
+      "matchedStats": 10,
+      "revenue": 197.29999999999998,
+      "visits": 9605,
+      "views": 9605,
+      "conversion": 514,
+      "funnelImpressions": 29557,
+      "funnelClicks": 9659,
+      "clicks": 962,
+      "funnelRpmAvg": 12.553999999999998,
+      "funnelCtrAvg": 30.497060797720174,
+      "geos": [
+        "默认",
+        "US"
+      ],
+      "topCategories": [
+        "消费电子",
+        "注射除皱",
+        "医疗·泌尿外科"
+      ]
+    },
+    {
+      "funnelId": "3rHtNAYBcTyF",
+      "funnelName": "Vibeshort-V05",
+      "partnerName": "vibeshort",
+      "urlName": "vibeshort-V05",
+      "platform": "MIS",
+      "groupCount": 2,
+      "offerCount": 17,
+      "matchedStats": 17,
+      "revenue": 188.47,
+      "visits": 10032,
+      "views": 10032,
+      "conversion": 642,
+      "funnelImpressions": 26178,
+      "funnelClicks": 8638,
+      "clicks": 637,
+      "funnelRpmAvg": 23.971176470588233,
+      "funnelCtrAvg": 33.14944893383981,
+      "geos": [
+        "默认",
+        "US"
+      ],
+      "topCategories": [
+        "SUV",
+        "面部提拉",
+        "医疗·偏头痛"
+      ]
+    },
+    {
+      "funnelId": "3uDZjmliiexb",
+      "funnelName": "Blinkdrama-v03",
+      "partnerName": "Blinkdrama",
+      "urlName": "Blinkdrama-v03",
+      "platform": "MIS",
+      "groupCount": 2,
+      "offerCount": 18,
+      "matchedStats": 18,
+      "revenue": 162.01000000000002,
+      "visits": 17189,
+      "views": 17189,
+      "conversion": 794,
+      "funnelImpressions": 47189,
+      "funnelClicks": 18536,
+      "clicks": 889,
+      "funnelRpmAvg": 14.122777777777777,
+      "funnelCtrAvg": 37.40376250147033,
+      "geos": [
+        "US"
+      ],
+      "topCategories": [
+        "肿瘤 / 生物制剂",
+        "宠物产品",
+        "新能源汽车"
+      ]
+    },
+    {
+      "funnelId": "3zawx1d3eHDg",
+      "funnelName": "reader-v01",
+      "partnerName": null,
+      "urlName": null,
+      "platform": "MIS",
+      "groupCount": 2,
+      "offerCount": 19,
+      "matchedStats": 19,
+      "revenue": 148.53,
+      "visits": 103133,
+      "views": 103133,
+      "conversion": 931,
+      "funnelImpressions": 155619,
+      "funnelClicks": 17395,
+      "clicks": 1106,
+      "funnelRpmAvg": 2.8594736842105264,
+      "funnelCtrAvg": 9.452796482591902,
+      "geos": [
+        "默认",
+        "US"
+      ],
+      "topCategories": [
+        "肿瘤 / 生物制剂",
+        "新能源汽车",
+        "宠物产品"
+      ]
+    },
+    {
+      "funnelId": "3ykKt2fZxicx",
+      "funnelName": "storyreel-v02",
+      "partnerName": "storyreel",
+      "urlName": "storyreel-v02",
+      "platform": "MIS",
+      "groupCount": 2,
+      "offerCount": 22,
+      "matchedStats": 22,
+      "revenue": 125.29000000000002,
+      "visits": 11879,
+      "views": 11879,
+      "conversion": 611,
+      "funnelImpressions": 29812,
+      "funnelClicks": 11216,
+      "clicks": 720,
+      "funnelRpmAvg": 1.710909090909091,
+      "funnelCtrAvg": 30.607983294755147,
+      "geos": [
+        "默认",
+        "US"
+      ],
+      "topCategories": [
+        "汽车金融",
+        "GLP-1 / 糖尿病",
+        "宠物产品"
+      ]
+    },
+    {
+      "funnelId": "3x4Biffp1su8",
+      "funnelName": "ShortMax-v11",
+      "partnerName": "shortmax",
+      "urlName": null,
+      "platform": "MIS",
+      "groupCount": 2,
+      "offerCount": 14,
+      "matchedStats": 14,
+      "revenue": 79.44999999999999,
+      "visits": 8075,
+      "views": 8075,
+      "conversion": 285,
+      "funnelImpressions": 27855,
+      "funnelClicks": 9457,
+      "clicks": 386,
+      "funnelRpmAvg": 7.045,
+      "funnelCtrAvg": 32.93906646378215,
+      "geos": [
+        "默认",
+        "US"
+      ],
+      "topCategories": [
+        "呼吸与睡眠",
+        "面部提拉",
+        "医疗·皮肤"
+      ]
+    },
+    {
+      "funnelId": "3w2ShcbnMk5i",
+      "funnelName": "Vibeshort-V03",
+      "partnerName": "vibeshort",
+      "urlName": "vibeshort-v03",
+      "platform": "MIS",
+      "groupCount": 2,
+      "offerCount": 17,
+      "matchedStats": 17,
+      "revenue": 79.37000000000002,
+      "visits": 8340,
+      "views": 8340,
+      "conversion": 366,
+      "funnelImpressions": 21156,
+      "funnelClicks": 7663,
+      "clicks": 307,
+      "funnelRpmAvg": 24.3664705882353,
+      "funnelCtrAvg": 31.773204016067854,
+      "geos": [
+        "US"
+      ],
+      "topCategories": [
+        "注射除皱",
+        "汽车金融",
+        "SUV"
+      ]
+    },
+    {
+      "funnelId": "3z7nZk7WDoBd",
+      "funnelName": "ShortMax-v03",
+      "partnerName": null,
+      "urlName": null,
+      "platform": "MIS",
+      "groupCount": 2,
+      "offerCount": 10,
+      "matchedStats": 10,
+      "revenue": 74.39,
+      "visits": 5605,
+      "views": 5605,
+      "conversion": 260,
+      "funnelImpressions": 16252,
+      "funnelClicks": 5328,
+      "clicks": 323,
+      "funnelRpmAvg": 4.504,
+      "funnelCtrAvg": 32.79922070903908,
+      "geos": [
+        "US"
+      ],
+      "topCategories": [
+        "汽车金融",
+        "心血管 / 抗凝",
+        "注射除皱"
+      ]
+    },
+    {
+      "funnelId": "3rHsTlCL2Fcg",
+      "funnelName": "Vibeshort-V04",
+      "partnerName": "vibeshort",
+      "urlName": "vibeshort-v04",
+      "platform": "MIS",
+      "groupCount": 2,
+      "offerCount": 16,
+      "matchedStats": 16,
+      "revenue": 73.92999999999999,
+      "visits": 5636,
+      "views": 5636,
+      "conversion": 350,
+      "funnelImpressions": 13095,
+      "funnelClicks": 3825,
+      "clicks": 212,
+      "funnelRpmAvg": 21.366875,
+      "funnelCtrAvg": 26.122626822826895,
+      "geos": [
+        "默认",
+        "US"
+      ],
+      "topCategories": [
+        "注射除皱",
+        "宠物产品",
+        "SUV"
+      ]
+    },
+    {
+      "funnelId": "3p0r533ddojY",
+      "funnelName": "ff-reel-v03",
+      "partnerName": null,
+      "urlName": null,
+      "platform": "MIS",
+      "groupCount": 3,
+      "offerCount": 6,
+      "matchedStats": 6,
+      "revenue": 72.44999999999999,
+      "visits": 0,
+      "views": 0,
+      "conversion": 0,
+      "funnelImpressions": 2982,
+      "funnelClicks": 1023,
+      "clicks": 363,
+      "funnelRpmAvg": 13.455,
+      "funnelCtrAvg": 30.136402387041773,
+      "geos": [
+        "默认",
+        "US",
+        "BR"
+      ],
+      "topCategories": [
+        "信用卡",
+        "个人贷款",
+        "临床研究"
+      ]
+    },
+    {
+      "funnelId": "3wxQUAbsGb0e",
+      "funnelName": "storyreel-v04",
+      "partnerName": "storyreel",
+      "urlName": "storyreel-v04",
+      "platform": "MIS",
+      "groupCount": 2,
+      "offerCount": 19,
+      "matchedStats": 19,
+      "revenue": 58.02,
+      "visits": 4117,
+      "views": 4117,
+      "conversion": 295,
+      "funnelImpressions": 9912,
+      "funnelClicks": 3533,
+      "clicks": 197,
+      "funnelRpmAvg": 17.706315789473685,
+      "funnelCtrAvg": 36.014156747039216,
+      "geos": [
+        "默认",
+        "US"
+      ],
+      "topCategories": [
+        "宠物产品",
+        "新能源汽车",
+        "汽车金融"
+      ]
+    },
+    {
+      "funnelId": "3zb2pKLqQr7e",
+      "funnelName": "moboreels-v02",
+      "partnerName": "changdu",
+      "urlName": "moboreels",
+      "platform": "MIS",
+      "groupCount": 2,
+      "offerCount": 21,
+      "matchedStats": 21,
+      "revenue": 47.02,
+      "visits": 76225,
+      "views": 76225,
+      "conversion": 243,
+      "funnelImpressions": 147424,
+      "funnelClicks": 20732,
+      "clicks": 140,
+      "funnelRpmAvg": 5.576190476190477,
+      "funnelCtrAvg": 12.780051768167747,
+      "geos": [
+        "默认",
+        "US"
+      ],
+      "topCategories": [
+        "肿瘤 / 生物制剂",
+        "面部提拉",
+        "心理健康 / 成瘾"
+      ]
+    },
+    {
+      "funnelId": "3uIzmqzFx5yx",
+      "funnelName": "cd-reader-pb-v01",
+      "partnerName": "changdu",
+      "urlName": "moboreader",
+      "platform": "MIS",
+      "groupCount": 2,
+      "offerCount": 4,
+      "matchedStats": 4,
+      "revenue": 41.77,
+      "visits": 829,
+      "views": 829,
+      "conversion": 410,
+      "funnelImpressions": 1210,
+      "funnelClicks": 768,
+      "clicks": 322,
+      "funnelRpmAvg": 23.53,
+      "funnelCtrAvg": 38.55822476503471,
+      "geos": [
+        "US",
+        "CD"
+      ],
+      "topCategories": [
+        "面部提拉",
+        "消费电子",
+        "宠物产品"
+      ]
+    },
+    {
+      "funnelId": "3p0reOSIpMGA",
+      "funnelName": "ff-reel-v05",
+      "partnerName": null,
+      "urlName": null,
+      "platform": "MIS",
+      "groupCount": 3,
+      "offerCount": 6,
+      "matchedStats": 6,
+      "revenue": 34.38,
+      "visits": 0,
+      "views": 0,
+      "conversion": 0,
+      "funnelImpressions": 864,
+      "funnelClicks": 360,
+      "clicks": 153,
+      "funnelRpmAvg": 19.895,
+      "funnelCtrAvg": 20.833333333333332,
+      "geos": [
+        "默认",
+        "US",
+        "BR"
+      ],
+      "topCategories": [
+        "临床研究",
+        "信用卡",
+        "药品配送"
+      ]
+    },
+    {
+      "funnelId": "3zb3PGEznP52",
+      "funnelName": "moboreels-v03",
+      "partnerName": null,
+      "urlName": null,
+      "platform": "MIS",
+      "groupCount": 2,
+      "offerCount": 4,
+      "matchedStats": 4,
+      "revenue": 33.94,
+      "visits": 38513,
+      "views": 38513,
+      "conversion": 292,
+      "funnelImpressions": 59752,
+      "funnelClicks": 7847,
+      "clicks": 300,
+      "funnelRpmAvg": 3.6825,
+      "funnelCtrAvg": 12.737988899948373,
+      "geos": [
+        "默认",
+        "US"
+      ],
+      "topCategories": [
+        "新能源汽车",
+        "呼吸与睡眠",
+        "消费电子"
+      ]
+    },
+    {
+      "funnelId": "3ws8SMf82B2C",
+      "funnelName": "ShortMax-v06",
+      "partnerName": "shortmax",
+      "urlName": null,
+      "platform": "MIS",
+      "groupCount": 2,
+      "offerCount": 8,
+      "matchedStats": 8,
+      "revenue": 30.46,
+      "visits": 2803,
+      "views": 2803,
+      "conversion": 85,
+      "funnelImpressions": 9412,
+      "funnelClicks": 2958,
+      "clicks": 104,
+      "funnelRpmAvg": 2.2425,
+      "funnelCtrAvg": 31.714761681676727,
+      "geos": [
+        "默认",
+        "US"
+      ],
+      "topCategories": [
+        "骨科 / 关节",
+        "肿瘤 / 生物制剂",
+        "面部提拉"
+      ]
+    },
+    {
+      "funnelId": "3wxU24LWkWif",
+      "funnelName": "storyreel-v05",
+      "partnerName": "storyreel",
+      "urlName": "storyreel-v05",
+      "platform": "MIS",
+      "groupCount": 2,
+      "offerCount": 19,
+      "matchedStats": 19,
+      "revenue": 23.820000000000004,
+      "visits": 1862,
+      "views": 1862,
+      "conversion": 74,
+      "funnelImpressions": 4374,
+      "funnelClicks": 1357,
+      "clicks": 35,
+      "funnelRpmAvg": 16.003157894736844,
+      "funnelCtrAvg": 36.42716680925198,
+      "geos": [
+        "默认",
+        "US"
+      ],
+      "topCategories": [
+        "注射除皱",
+        "汽车金融",
+        "面部提拉"
+      ]
+    },
+    {
+      "funnelId": "3wxMhS6zF2m4",
+      "funnelName": "storyreel-v03",
+      "partnerName": "storyreel",
+      "urlName": "storyreel-v03",
+      "platform": "MIS",
+      "groupCount": 2,
+      "offerCount": 19,
+      "matchedStats": 19,
+      "revenue": 19.689999999999994,
+      "visits": 4066,
+      "views": 4066,
+      "conversion": 127,
+      "funnelImpressions": 10093,
+      "funnelClicks": 3105,
+      "clicks": 48,
+      "funnelRpmAvg": 10.956315789473683,
+      "funnelCtrAvg": 32.00131562296915,
+      "geos": [
+        "默认",
+        "US"
+      ],
+      "topCategories": [
+        "心理健康 / 成瘾",
+        "新能源汽车",
+        "汽车金融"
+      ]
+    },
+    {
+      "funnelId": "3zaxNqwFxfnB",
+      "funnelName": "reader-v02",
+      "partnerName": null,
+      "urlName": null,
+      "platform": "MIS",
+      "groupCount": 2,
+      "offerCount": 15,
+      "matchedStats": 15,
+      "revenue": 6.36,
+      "visits": 12076,
+      "views": 12076,
+      "conversion": 23,
+      "funnelImpressions": 19774,
+      "funnelClicks": 1696,
+      "clicks": 0,
+      "funnelRpmAvg": 0.402,
+      "funnelCtrAvg": 7.687045824030067,
+      "geos": [
+        "US"
+      ],
+      "topCategories": [
+        "心理健康 / 成瘾",
+        "骨科 / 关节",
+        "肿瘤 / 生物制剂"
+      ]
+    },
+    {
+      "funnelId": "3p89AEQQqtiQ",
+      "funnelName": "Vibeshort-sign-v01",
+      "partnerName": null,
+      "urlName": null,
+      "platform": "MIS",
+      "groupCount": 2,
+      "offerCount": 6,
+      "matchedStats": 6,
+      "revenue": 3.12,
+      "visits": 0,
+      "views": 0,
+      "conversion": 0,
+      "funnelImpressions": 98,
+      "funnelClicks": 28,
+      "clicks": 0,
+      "funnelRpmAvg": 10.613333333333333,
+      "funnelCtrAvg": 9.523809523809524,
+      "geos": [
+        "默认",
+        "US"
+      ],
+      "topCategories": [
+        "面部提拉",
+        "诊断 / 急诊",
+        "心血管 / 抗凝"
+      ]
+    },
+    {
+      "funnelId": "3zb3S8BZbPfp",
+      "funnelName": "moboreels-v04",
+      "partnerName": null,
+      "urlName": null,
+      "platform": "MIS",
+      "groupCount": 1,
+      "offerCount": 3,
+      "matchedStats": 3,
+      "revenue": 2.8,
+      "visits": 11441,
+      "views": 11441,
+      "conversion": 65,
+      "funnelImpressions": 12007,
+      "funnelClicks": 1591,
+      "clicks": 0,
+      "funnelRpmAvg": 0.2333333333333333,
+      "funnelCtrAvg": 13.248299023938655,
+      "geos": [
+        "默认"
+      ],
+      "topCategories": [
+        "汽车金融",
+        "面部提拉",
+        "宠物产品"
+      ]
+    },
+    {
+      "funnelId": "3rI0WAnYN9fC",
+      "funnelName": "cd-reader-banner-v01",
+      "partnerName": "changdu",
+      "urlName": "moboreader",
+      "platform": "MIS",
+      "groupCount": 2,
+      "offerCount": 4,
+      "matchedStats": 4,
+      "revenue": 0.9,
+      "visits": 118,
+      "views": 118,
+      "conversion": 2,
+      "funnelImpressions": 122,
+      "funnelClicks": 16,
+      "clicks": 0,
+      "funnelRpmAvg": 11.25,
+      "funnelCtrAvg": 11.036585365853659,
+      "geos": [
+        "CD"
+      ],
+      "topCategories": [
+        "宠物产品",
+        "肿瘤 / 生物制剂"
+      ]
+    },
+    {
+      "funnelId": "3p0lGXZCpmW0",
+      "funnelName": "ff-reel-v01",
+      "partnerName": null,
+      "urlName": null,
+      "platform": "MIS",
+      "groupCount": 3,
+      "offerCount": 6,
+      "matchedStats": 6,
+      "revenue": 0,
+      "visits": 2,
+      "views": 2,
+      "conversion": 0,
+      "funnelImpressions": 27,
+      "funnelClicks": 6,
+      "clicks": 0,
+      "funnelRpmAvg": 0,
+      "funnelCtrAvg": 14.285714285714286,
+      "geos": [
+        "默认",
+        "US",
+        "BR"
+      ],
+      "topCategories": [
+        "个人贷款",
+        "临床研究",
+        "信用卡"
+      ]
+    },
+    {
+      "funnelId": "3p0qKj9ZuL0Q",
+      "funnelName": "ff-reel-v02",
+      "partnerName": null,
+      "urlName": null,
+      "platform": "MIS",
+      "groupCount": 3,
+      "offerCount": 6,
+      "matchedStats": 6,
+      "revenue": 0,
+      "visits": 1,
+      "views": 1,
+      "conversion": 0,
+      "funnelImpressions": 18,
+      "funnelClicks": 3,
+      "clicks": 0,
+      "funnelRpmAvg": 0,
+      "funnelCtrAvg": 16.666666666666668,
+      "geos": [
+        "默认",
+        "US",
+        "BR"
+      ],
+      "topCategories": [
+        "个人贷款",
+        "临床研究",
+        "信用卡"
+      ]
+    },
+    {
+      "funnelId": "3yuiJUqm4utg",
+      "funnelName": "adsense-v001",
+      "partnerName": null,
+      "urlName": null,
+      "platform": "MIS",
+      "groupCount": 1,
+      "offerCount": 5,
+      "matchedStats": 5,
+      "revenue": 0,
+      "visits": 0,
+      "views": 0,
+      "conversion": 0,
+      "funnelImpressions": 0,
+      "funnelClicks": 0,
+      "clicks": 0,
+      "funnelRpmAvg": 0,
+      "funnelCtrAvg": 0,
+      "geos": [
+        "TG"
+      ],
+      "topCategories": [
+        "(无品类)"
+      ]
+    },
+    {
+      "funnelId": "3uQ0fde3baao",
+      "funnelName": "Bestnovel-V01",
+      "partnerName": "changdu",
+      "urlName": "moboreader",
+      "platform": "MIS",
+      "groupCount": 1,
+      "offerCount": 1,
+      "matchedStats": 1,
+      "revenue": 0,
+      "visits": 0,
+      "views": 0,
+      "conversion": 0,
+      "funnelImpressions": 0,
+      "funnelClicks": 0,
+      "clicks": 0,
+      "funnelRpmAvg": 0,
+      "funnelCtrAvg": 0,
+      "geos": [
+        "US"
+      ],
+      "topCategories": [
+        "丁丙诺啡市场"
+      ]
+    },
+    {
+      "funnelId": "3oIS6Y7J2ySb",
+      "funnelName": "cd-lock-v01",
+      "partnerName": "changdu",
+      "urlName": "moboreels",
+      "platform": "FF",
+      "groupCount": 2,
+      "offerCount": 7,
+      "matchedStats": 0,
+      "revenue": 0,
+      "visits": 0,
+      "views": 0,
+      "conversion": 0,
+      "funnelImpressions": 0,
+      "funnelClicks": 0,
+      "clicks": 0,
+      "funnelRpmAvg": 0,
+      "funnelCtrAvg": 0,
+      "geos": [
+        "CD",
+        "US"
+      ],
+      "topCategories": [
+        "紧急贷款",
+        "药品配送"
+      ]
+    },
+    {
+      "funnelId": "3e5POoixvvOh",
+      "funnelName": "cd-ori-v01",
+      "partnerName": null,
+      "urlName": null,
+      "platform": "FF",
+      "groupCount": 2,
+      "offerCount": 4,
+      "matchedStats": 0,
+      "revenue": 0,
+      "visits": 0,
+      "views": 0,
+      "conversion": 0,
+      "funnelImpressions": 0,
+      "funnelClicks": 0,
+      "clicks": 0,
+      "funnelRpmAvg": 0,
+      "funnelCtrAvg": 0,
+      "geos": [
+        "CD",
+        "US"
+      ],
+      "topCategories": [
+        "紧急贷款",
+        "HIV"
+      ]
+    },
+    {
+      "funnelId": "3O3Sj2gNpkzw",
+      "funnelName": "cd-reader-A4-60",
+      "partnerName": "changdu",
+      "urlName": "moboreader",
+      "platform": "FF",
+      "groupCount": 7,
+      "offerCount": 21,
+      "matchedStats": 0,
+      "revenue": 0,
+      "visits": 0,
+      "views": 0,
+      "conversion": 0,
+      "funnelImpressions": 0,
+      "funnelClicks": 0,
+      "clicks": 0,
+      "funnelRpmAvg": 0,
+      "funnelCtrAvg": 0,
+      "geos": [
+        "默认",
+        "US",
+        "CD",
+        "JP",
+        "BR"
+      ],
+      "topCategories": [
+        "(无品类)",
+        "殡葬",
+        "冰箱分期"
+      ]
+    },
+    {
+      "funnelId": "3LyxpT9hzzh6",
+      "funnelName": "cd-reader-A5-51",
+      "partnerName": "changdu",
+      "urlName": "moboreader",
+      "platform": "FF",
+      "groupCount": 11,
+      "offerCount": 27,
+      "matchedStats": 0,
+      "revenue": 0,
+      "visits": 0,
+      "views": 0,
+      "conversion": 0,
+      "funnelImpressions": 0,
+      "funnelClicks": 0,
+      "clicks": 0,
+      "funnelRpmAvg": 0,
+      "funnelCtrAvg": 0,
+      "geos": [
+        "默认",
+        "US",
+        "CD",
+        "JP",
+        "BR",
+        "IT",
+        "DE",
+        "FR"
+      ],
+      "topCategories": [
+        "(无品类)",
+        "殡葬",
+        "冰箱分期"
+      ]
+    },
+    {
+      "funnelId": "3Qi1gJ9jSk2n",
+      "funnelName": "cd-reader-A73",
+      "partnerName": "changdu",
+      "urlName": "moboreader",
+      "platform": "FF",
+      "groupCount": 7,
+      "offerCount": 17,
+      "matchedStats": 0,
+      "revenue": 0,
+      "visits": 0,
+      "views": 0,
+      "conversion": 0,
+      "funnelImpressions": 0,
+      "funnelClicks": 0,
+      "clicks": 0,
+      "funnelRpmAvg": 0,
+      "funnelCtrAvg": 0,
+      "geos": [
+        "BR",
+        "US",
+        "JP",
+        "默认"
+      ],
+      "topCategories": [
+        "(无品类)",
+        "冰箱分期",
+        "宠物保险"
+      ]
+    },
+    {
+      "funnelId": "3Qi1ty6v4Zxt",
+      "funnelName": "cd-reader-A74",
+      "partnerName": "changdu",
+      "urlName": "moboreader",
+      "platform": "FF",
+      "groupCount": 6,
+      "offerCount": 16,
+      "matchedStats": 0,
+      "revenue": 0,
+      "visits": 0,
+      "views": 0,
+      "conversion": 0,
+      "funnelImpressions": 0,
+      "funnelClicks": 0,
+      "clicks": 0,
+      "funnelRpmAvg": 0,
+      "funnelCtrAvg": 0,
+      "geos": [
+        "BR",
+        "US",
+        "JP",
+        "默认"
+      ],
+      "topCategories": [
+        "(无品类)",
+        "殡葬",
+        "冰箱分期"
+      ]
+    },
+    {
+      "funnelId": "3Qi2AaBNTLG6",
+      "funnelName": "cd-reader-A75",
+      "partnerName": "changdu",
+      "urlName": "moboreader",
+      "platform": "FF",
+      "groupCount": 5,
+      "offerCount": 17,
+      "matchedStats": 0,
+      "revenue": 0,
+      "visits": 0,
+      "views": 0,
+      "conversion": 0,
+      "funnelImpressions": 0,
+      "funnelClicks": 0,
+      "clicks": 0,
+      "funnelRpmAvg": 0,
+      "funnelCtrAvg": 0,
+      "geos": [
+        "BR",
+        "US",
+        "JP",
+        "默认"
+      ],
+      "topCategories": [
+        "(无品类)",
+        "殡葬",
+        "冰箱分期"
+      ]
+    },
+    {
+      "funnelId": "3h7b2EEEVXm2",
+      "funnelName": "cd-reader-A76",
+      "partnerName": null,
+      "urlName": null,
+      "platform": "FF",
+      "groupCount": 5,
+      "offerCount": 10,
+      "matchedStats": 0,
+      "revenue": 0,
+      "visits": 0,
+      "views": 0,
+      "conversion": 0,
+      "funnelImpressions": 0,
+      "funnelClicks": 0,
+      "clicks": 0,
+      "funnelRpmAvg": 0,
+      "funnelCtrAvg": 0,
+      "geos": [
+        "US",
+        "JP",
+        "IT",
+        "BR",
+        "CD"
+      ],
+      "topCategories": [
+        "汽车租赁",
+        "清洁工招聘",
+        "种牙"
+      ]
+    },
+    {
+      "funnelId": "3UlhCblNbzAu",
+      "funnelName": "cd-reader-A79",
+      "partnerName": "changdu",
+      "urlName": "moboreader",
+      "platform": "FF",
+      "groupCount": 2,
+      "offerCount": 4,
+      "matchedStats": 0,
+      "revenue": 0,
+      "visits": 0,
+      "views": 0,
+      "conversion": 0,
+      "funnelImpressions": 0,
+      "funnelClicks": 0,
+      "clicks": 0,
+      "funnelRpmAvg": 0,
+      "funnelCtrAvg": 0,
+      "geos": [
+        "US"
+      ],
+      "topCategories": [
+        "手机套餐",
+        "私人债务",
+        "HIV"
+      ]
+    },
+    {
+      "funnelId": "3O4uJVikic4W",
+      "funnelName": "cd-reel-A4-61",
+      "partnerName": "changdu",
+      "urlName": "moboreels",
+      "platform": "FF",
+      "groupCount": 6,
+      "offerCount": 18,
+      "matchedStats": 0,
+      "revenue": 0,
+      "visits": 0,
+      "views": 0,
+      "conversion": 0,
+      "funnelImpressions": 0,
+      "funnelClicks": 0,
+      "clicks": 0,
+      "funnelRpmAvg": 0,
+      "funnelCtrAvg": 0,
+      "geos": [
+        "US",
+        "JP",
+        "BR",
+        "CD",
+        "IT",
+        "DE"
+      ],
+      "topCategories": [
+        "(无品类)",
+        "殡葬",
+        "分期购买手机"
+      ]
+    },
+    {
+      "funnelId": "3LcdpN4mS9hK",
+      "funnelName": "cd-reel-A5-50",
+      "partnerName": "changdu",
+      "urlName": "moboreels",
+      "platform": "FF",
+      "groupCount": 10,
+      "offerCount": 45,
+      "matchedStats": 0,
+      "revenue": 0,
+      "visits": 0,
+      "views": 0,
+      "conversion": 0,
+      "funnelImpressions": 0,
+      "funnelClicks": 0,
+      "clicks": 0,
+      "funnelRpmAvg": 0,
+      "funnelCtrAvg": 0,
+      "geos": [
+        "CD",
+        "US",
+        "JP",
+        "BR",
+        "DE",
+        "GB",
+        "MX",
+        "IT",
+        "FR"
+      ],
+      "topCategories": [
+        "(无品类)",
+        "殡葬",
+        "冰箱分期"
+      ]
+    },
+    {
+      "funnelId": "3O9Vr9Ar6pNC",
+      "funnelName": "cd-reel-A6fan-62",
+      "partnerName": "changdu",
+      "urlName": "moboreels",
+      "platform": "FF",
+      "groupCount": 7,
+      "offerCount": 19,
+      "matchedStats": 0,
+      "revenue": 0,
+      "visits": 0,
+      "views": 0,
+      "conversion": 0,
+      "funnelImpressions": 0,
+      "funnelClicks": 0,
+      "clicks": 0,
+      "funnelRpmAvg": 0,
+      "funnelCtrAvg": 0,
+      "geos": [
+        "US",
+        "BR",
+        "JP",
+        "CD",
+        "DE",
+        "IT",
+        "FR"
+      ],
+      "topCategories": [
+        "殡葬",
+        "冰箱分期",
+        "分期购买手机"
+      ]
+    },
+    {
+      "funnelId": "3Qi0wZnVilho",
+      "funnelName": "cd-reel-A70",
+      "partnerName": "changdu",
+      "urlName": "moboreels",
+      "platform": "FF",
+      "groupCount": 4,
+      "offerCount": 15,
+      "matchedStats": 0,
+      "revenue": 0,
+      "visits": 0,
+      "views": 0,
+      "conversion": 0,
+      "funnelImpressions": 0,
+      "funnelClicks": 0,
+      "clicks": 0,
+      "funnelRpmAvg": 0,
+      "funnelCtrAvg": 0,
+      "geos": [
+        "BR",
+        "US",
+        "JP",
+        "CD"
+      ],
+      "topCategories": [
+        "(无品类)",
+        "殡葬",
+        "冰箱分期"
+      ]
+    },
+    {
+      "funnelId": "3Qi1G0Basd3l",
+      "funnelName": "cd-reel-A71",
+      "partnerName": "changdu",
+      "urlName": "moboreels",
+      "platform": "FF",
+      "groupCount": 3,
+      "offerCount": 13,
+      "matchedStats": 0,
+      "revenue": 0,
+      "visits": 0,
+      "views": 0,
+      "conversion": 0,
+      "funnelImpressions": 0,
+      "funnelClicks": 0,
+      "clicks": 0,
+      "funnelRpmAvg": 0,
+      "funnelCtrAvg": 0,
+      "geos": [
+        "BR",
+        "US",
+        "JP"
+      ],
+      "topCategories": [
+        "(无品类)",
+        "冰箱分期",
+        "宠物保险"
+      ]
+    },
+    {
+      "funnelId": "3Qi1UskIWV7m",
+      "funnelName": "cd-reel-A72",
+      "partnerName": "changdu",
+      "urlName": "moboreels",
+      "platform": "FF",
+      "groupCount": 4,
+      "offerCount": 13,
+      "matchedStats": 0,
+      "revenue": 0,
+      "visits": 0,
+      "views": 0,
+      "conversion": 0,
+      "funnelImpressions": 0,
+      "funnelClicks": 0,
+      "clicks": 0,
+      "funnelRpmAvg": 0,
+      "funnelCtrAvg": 0,
+      "geos": [
+        "BR",
+        "JP",
+        "US",
+        "CD"
+      ],
+      "topCategories": [
+        "殡葬",
+        "冰箱分期",
+        "宠物保险"
+      ]
+    },
+    {
+      "funnelId": "3oIS9CuG2tEq",
+      "funnelName": "cd-task-v01",
+      "partnerName": "changdu",
+      "urlName": "moboreels",
+      "platform": "FF",
+      "groupCount": 2,
+      "offerCount": 7,
+      "matchedStats": 0,
+      "revenue": 0,
+      "visits": 0,
+      "views": 0,
+      "conversion": 0,
+      "funnelImpressions": 0,
+      "funnelClicks": 0,
+      "clicks": 0,
+      "funnelRpmAvg": 0,
+      "funnelCtrAvg": 0,
+      "geos": [
+        "CD",
+        "US"
+      ],
+      "topCategories": [
+        "紧急贷款",
+        "药品配送",
+        "HIV"
+      ]
+    },
+    {
+      "funnelId": "42OJBs5tgQkk",
+      "funnelName": "Dramaticreel-v01",
+      "partnerName": null,
+      "urlName": null,
+      "platform": "MIS",
+      "groupCount": 2,
+      "offerCount": 3,
+      "matchedStats": 3,
+      "revenue": 0,
+      "visits": 0,
+      "views": 0,
+      "conversion": 0,
+      "funnelImpressions": 0,
+      "funnelClicks": 0,
+      "clicks": 0,
+      "funnelRpmAvg": 0,
+      "funnelCtrAvg": 0,
+      "geos": [
+        "默认",
+        "US"
+      ],
+      "topCategories": [
+        "个人贷款",
+        "其他"
+      ]
+    },
+    {
+      "funnelId": "42OJahu8SFPj",
+      "funnelName": "Dramaticreel-v02",
+      "partnerName": null,
+      "urlName": null,
+      "platform": "MIS",
+      "groupCount": 2,
+      "offerCount": 3,
+      "matchedStats": 3,
+      "revenue": 0,
+      "visits": 0,
+      "views": 0,
+      "conversion": 0,
+      "funnelImpressions": 0,
+      "funnelClicks": 0,
+      "clicks": 0,
+      "funnelRpmAvg": 0,
+      "funnelCtrAvg": 0,
+      "geos": [
+        "默认",
+        "US"
+      ],
+      "topCategories": [
+        "个人贷款",
+        "其他"
+      ]
+    },
+    {
+      "funnelId": "42OJergxiNN9",
+      "funnelName": "Dramaticreel-v03",
+      "partnerName": null,
+      "urlName": null,
+      "platform": "MIS",
+      "groupCount": 2,
+      "offerCount": 3,
+      "matchedStats": 3,
+      "revenue": 0,
+      "visits": 0,
+      "views": 0,
+      "conversion": 0,
+      "funnelImpressions": 0,
+      "funnelClicks": 0,
+      "clicks": 0,
+      "funnelRpmAvg": 0,
+      "funnelCtrAvg": 0,
+      "geos": [
+        "默认",
+        "US"
+      ],
+      "topCategories": [
+        "个人贷款",
+        "其他"
+      ]
+    },
+    {
+      "funnelId": "3PZNC9XTyfXp",
+      "funnelName": "Jiu-reel-0912",
+      "partnerName": "shortmax",
+      "urlName": "Jiu-reel-0912",
+      "platform": "FF",
+      "groupCount": 9,
+      "offerCount": 35,
+      "matchedStats": 0,
+      "revenue": 0,
+      "visits": 0,
+      "views": 0,
+      "conversion": 0,
+      "funnelImpressions": 0,
+      "funnelClicks": 0,
+      "clicks": 0,
+      "funnelRpmAvg": 0,
+      "funnelCtrAvg": 0,
+      "geos": [
+        "JP",
+        "FR",
+        "IT",
+        "US",
+        "BR",
+        "MX",
+        "SA",
+        "默认"
+      ],
+      "topCategories": [
+        "(无品类)",
+        "冰箱分期",
+        "分期购买手机"
+      ]
+    },
+    {
+      "funnelId": "3SmbEZti3YSr",
+      "funnelName": "JZ-06",
+      "partnerName": "shortmax",
+      "urlName": "JZ-06",
+      "platform": "FF",
+      "groupCount": 11,
+      "offerCount": 35,
+      "matchedStats": 0,
+      "revenue": 0,
+      "visits": 0,
+      "views": 0,
+      "conversion": 0,
+      "funnelImpressions": 0,
+      "funnelClicks": 0,
+      "clicks": 0,
+      "funnelRpmAvg": 0,
+      "funnelCtrAvg": 0,
+      "geos": [
+        "US",
+        "JP",
+        "KR",
+        "BR",
+        "FR",
+        "IT",
+        "DE",
+        "SA",
+        "MX",
+        "默认"
+      ],
+      "topCategories": [
+        "(无品类)",
+        "殡葬",
+        "冰箱分期"
+      ]
+    },
+    {
+      "funnelId": "3SqmT5M7rv4d",
+      "funnelName": "JZ-07",
+      "partnerName": "shortmax",
+      "urlName": "JZ-07",
+      "platform": "FF",
+      "groupCount": 9,
+      "offerCount": 29,
+      "matchedStats": 0,
+      "revenue": 0,
+      "visits": 0,
+      "views": 0,
+      "conversion": 0,
+      "funnelImpressions": 0,
+      "funnelClicks": 0,
+      "clicks": 0,
+      "funnelRpmAvg": 0,
+      "funnelCtrAvg": 0,
+      "geos": [
+        "US",
+        "FR",
+        "JP",
+        "IT",
+        "DEFAULT",
+        "BR",
+        "MX",
+        "SA",
+        "默认"
+      ],
+      "topCategories": [
+        "(无品类)",
+        "房屋贷款",
+        "肝脏健康"
+      ]
+    },
+    {
+      "funnelId": "3URMYo1qyRLG",
+      "funnelName": "JZ-08",
+      "partnerName": "shortmax",
+      "urlName": "JZ-08",
+      "platform": "FF",
+      "groupCount": 10,
+      "offerCount": 32,
+      "matchedStats": 0,
+      "revenue": 0,
+      "visits": 0,
+      "views": 0,
+      "conversion": 0,
+      "funnelImpressions": 0,
+      "funnelClicks": 0,
+      "clicks": 0,
+      "funnelRpmAvg": 0,
+      "funnelCtrAvg": 0,
+      "geos": [
+        "US",
+        "IT",
+        "JP",
+        "BR",
+        "FR",
+        "SA",
+        "MX",
+        "默认",
+        "DE"
+      ],
+      "topCategories": [
+        "(无品类)",
+        "殡葬",
+        "冰箱分期"
+      ]
+    },
+    {
+      "funnelId": "3aXEOxFRbofy",
+      "funnelName": "jz-09",
+      "partnerName": "shortmax",
+      "urlName": "JZ-09",
+      "platform": "FF",
+      "groupCount": 11,
+      "offerCount": 33,
+      "matchedStats": 0,
+      "revenue": 0,
+      "visits": 0,
+      "views": 0,
+      "conversion": 0,
+      "funnelImpressions": 0,
+      "funnelClicks": 0,
+      "clicks": 0,
+      "funnelRpmAvg": 0,
+      "funnelCtrAvg": 0,
+      "geos": [
+        "US",
+        "FR",
+        "IT",
+        "DEFAULT",
+        "BR",
+        "MX",
+        "DE",
+        "SA",
+        "ES",
+        "默认",
+        "JP"
+      ],
+      "topCategories": [
+        "(无品类)",
+        "殡葬",
+        "冰箱分期"
+      ]
+    },
+    {
+      "funnelId": "3aXER1jGKCjP",
+      "funnelName": "jz-10",
+      "partnerName": "shortmax",
+      "urlName": "JZ-10",
+      "platform": "FF",
+      "groupCount": 10,
+      "offerCount": 29,
+      "matchedStats": 0,
+      "revenue": 0,
+      "visits": 0,
+      "views": 0,
+      "conversion": 0,
+      "funnelImpressions": 0,
+      "funnelClicks": 0,
+      "clicks": 0,
+      "funnelRpmAvg": 0,
+      "funnelCtrAvg": 0,
+      "geos": [
+        "US",
+        "BR",
+        "FR",
+        "IT",
+        "DE",
+        "JP",
+        "MX",
+        "SA",
+        "默认"
+      ],
+      "topCategories": [
+        "(无品类)",
+        "冰箱分期",
+        "肝脏健康"
+      ]
+    },
+    {
+      "funnelId": "3cOoCWdspR91",
+      "funnelName": "JZ-12",
+      "partnerName": "shortmax",
+      "urlName": "JZ-12",
+      "platform": "FF",
+      "groupCount": 4,
+      "offerCount": 12,
+      "matchedStats": 0,
+      "revenue": 0,
+      "visits": 0,
+      "views": 0,
+      "conversion": 0,
+      "funnelImpressions": 0,
+      "funnelClicks": 0,
+      "clicks": 0,
+      "funnelRpmAvg": 0,
+      "funnelCtrAvg": 0,
+      "geos": [
+        "BR",
+        "SA",
+        "JP",
+        "DEFAULT"
+      ],
+      "topCategories": [
+        "殡葬",
+        "冰箱分期",
+        "分期购买手机"
+      ]
+    },
+    {
+      "funnelId": "3cOnuvi6z7Vg",
+      "funnelName": "JZ-13",
+      "partnerName": "shortmax",
+      "urlName": "JZ-13",
+      "platform": "FF",
+      "groupCount": 3,
+      "offerCount": 9,
+      "matchedStats": 0,
+      "revenue": 0,
+      "visits": 0,
+      "views": 0,
+      "conversion": 0,
+      "funnelImpressions": 0,
+      "funnelClicks": 0,
+      "clicks": 0,
+      "funnelRpmAvg": 0,
+      "funnelCtrAvg": 0,
+      "geos": [
+        "BR",
+        "SA",
+        "JP"
+      ],
+      "topCategories": [
+        "殡葬",
+        "家装分期购买",
+        "汽车保险"
+      ]
+    },
+    {
+      "funnelId": "3cQDo7oKoOL2",
+      "funnelName": "JZ-14",
+      "partnerName": "shortmax",
+      "urlName": "JZ-14",
+      "platform": "FF",
+      "groupCount": 5,
+      "offerCount": 13,
+      "matchedStats": 0,
+      "revenue": 0,
+      "visits": 0,
+      "views": 0,
+      "conversion": 0,
+      "funnelImpressions": 0,
+      "funnelClicks": 0,
+      "clicks": 0,
+      "funnelRpmAvg": 0,
+      "funnelCtrAvg": 0,
+      "geos": [
+        "DEFAULT",
+        "BR",
+        "MX",
+        "SA",
+        "JP"
+      ],
+      "topCategories": [
+        "殡葬",
+        "冰箱分期",
+        "肝脏健康"
+      ]
+    },
+    {
+      "funnelId": "3cQE9BUzTVSd",
+      "funnelName": "JZ-15",
+      "partnerName": "shortmax",
+      "urlName": "JZ-15",
+      "platform": "FF",
+      "groupCount": 6,
+      "offerCount": 22,
+      "matchedStats": 0,
+      "revenue": 0,
+      "visits": 0,
+      "views": 0,
+      "conversion": 0,
+      "funnelImpressions": 0,
+      "funnelClicks": 0,
+      "clicks": 0,
+      "funnelRpmAvg": 0,
+      "funnelCtrAvg": 0,
+      "geos": [
+        "MX",
+        "BR",
+        "DEFAULT",
+        "SA",
+        "US",
+        "JP"
+      ],
+      "topCategories": [
+        "殡葬",
+        "冰箱分期",
+        "分期购买手机"
+      ]
+    },
+    {
+      "funnelId": "3cQHLR9KPkS9",
+      "funnelName": "JZ-16",
+      "partnerName": "shortmax",
+      "urlName": "JZ-16",
+      "platform": "FF",
+      "groupCount": 5,
+      "offerCount": 19,
+      "matchedStats": 0,
+      "revenue": 0,
+      "visits": 0,
+      "views": 0,
+      "conversion": 0,
+      "funnelImpressions": 0,
+      "funnelClicks": 0,
+      "clicks": 0,
+      "funnelRpmAvg": 0,
+      "funnelCtrAvg": 0,
+      "geos": [
+        "DEFAULT",
+        "BR",
+        "MX",
+        "SA",
+        "JP"
+      ],
+      "topCategories": [
+        "殡葬",
+        "冰箱分期",
+        "分期购买手机"
+      ]
+    },
+    {
+      "funnelId": "3cQH1PB9h2cm",
+      "funnelName": "JZ-17",
+      "partnerName": "shortmax",
+      "urlName": "JZ-17",
+      "platform": "FF",
+      "groupCount": 5,
+      "offerCount": 18,
+      "matchedStats": 0,
+      "revenue": 0,
+      "visits": 0,
+      "views": 0,
+      "conversion": 0,
+      "funnelImpressions": 0,
+      "funnelClicks": 0,
+      "clicks": 0,
+      "funnelRpmAvg": 0,
+      "funnelCtrAvg": 0,
+      "geos": [
+        "DEFAULT",
+        "BR",
+        "MX",
+        "SA",
+        "JP"
+      ],
+      "topCategories": [
+        "殡葬",
+        "冰箱分期",
+        "分期购买手机"
+      ]
+    },
+    {
+      "funnelId": "3h7auqpMJMVz",
+      "funnelName": "JZ-18",
+      "partnerName": "shortmax",
+      "urlName": "JZ-18",
+      "platform": "FF",
+      "groupCount": 7,
+      "offerCount": 15,
+      "matchedStats": 0,
+      "revenue": 0,
+      "visits": 0,
+      "views": 0,
+      "conversion": 0,
+      "funnelImpressions": 0,
+      "funnelClicks": 0,
+      "clicks": 0,
+      "funnelRpmAvg": 0,
+      "funnelCtrAvg": 0,
+      "geos": [
+        "US",
+        "JP",
+        "IT",
+        "BR",
+        "DEFAULT",
+        "SA",
+        "DE"
+      ],
+      "topCategories": [
+        "殡葬",
+        "冰箱分期",
+        "分期购买手机"
+      ]
+    },
+    {
+      "funnelId": "3n2yw0I2LZD4",
+      "funnelName": "jz-signin-v01",
+      "partnerName": "shortmax",
+      "urlName": "jz-signin-v01",
+      "platform": "FF",
+      "groupCount": 2,
+      "offerCount": 7,
+      "matchedStats": 0,
+      "revenue": 0,
+      "visits": 0,
+      "views": 0,
+      "conversion": 0,
+      "funnelImpressions": 0,
+      "funnelClicks": 0,
+      "clicks": 0,
+      "funnelRpmAvg": 0,
+      "funnelCtrAvg": 0,
+      "geos": [
+        "DE",
+        "DEFAULT"
+      ],
+      "topCategories": [
+        "手机分期",
+        "牙科保险"
+      ]
+    },
+    {
+      "funnelId": "3n30aqxf3T2y",
+      "funnelName": "jz-signin-v02",
+      "partnerName": "shortmax",
+      "urlName": "jz-signin-v02",
+      "platform": "FF",
+      "groupCount": 2,
+      "offerCount": 7,
+      "matchedStats": 0,
+      "revenue": 0,
+      "visits": 0,
+      "views": 0,
+      "conversion": 0,
+      "funnelImpressions": 0,
+      "funnelClicks": 0,
+      "clicks": 0,
+      "funnelRpmAvg": 0,
+      "funnelCtrAvg": 0,
+      "geos": [
+        "DEFAULT",
+        "FR"
+      ],
+      "topCategories": [
+        "紧急贷款",
+        "手机分期"
+      ]
+    },
+    {
+      "funnelId": "3v8c4XlVpGsX",
+      "funnelName": "Novelix-V01",
+      "partnerName": null,
+      "urlName": null,
+      "platform": "MIS",
+      "groupCount": 2,
+      "offerCount": 5,
+      "matchedStats": 5,
+      "revenue": 0,
+      "visits": 0,
+      "views": 0,
+      "conversion": 0,
+      "funnelImpressions": 0,
+      "funnelClicks": 0,
+      "clicks": 0,
+      "funnelRpmAvg": 0,
+      "funnelCtrAvg": 0,
+      "geos": [
+        "默认",
+        "US"
+      ],
+      "topCategories": [
+        "丁丙诺啡市场",
+        "个人贷款",
+        "特殊疾病药品"
+      ]
+    },
+    {
+      "funnelId": "3v8e8WW7dTcB",
+      "funnelName": "Novelix-V02",
+      "partnerName": null,
+      "urlName": null,
+      "platform": "MIS",
+      "groupCount": 2,
+      "offerCount": 5,
+      "matchedStats": 5,
+      "revenue": 0,
+      "visits": 0,
+      "views": 0,
+      "conversion": 0,
+      "funnelImpressions": 0,
+      "funnelClicks": 0,
+      "clicks": 0,
+      "funnelRpmAvg": 0,
+      "funnelCtrAvg": 0,
+      "geos": [
+        "默认",
+        "US"
+      ],
+      "topCategories": [
+        "丁丙诺啡市场",
+        "个人贷款",
+        "特殊疾病药品"
+      ]
+    },
+    {
+      "funnelId": "3v8eGzq3brlh",
+      "funnelName": "Novelix-V03",
+      "partnerName": null,
+      "urlName": null,
+      "platform": "MIS",
+      "groupCount": 2,
+      "offerCount": 5,
+      "matchedStats": 5,
+      "revenue": 0,
+      "visits": 0,
+      "views": 0,
+      "conversion": 0,
+      "funnelImpressions": 0,
+      "funnelClicks": 0,
+      "clicks": 0,
+      "funnelRpmAvg": 0,
+      "funnelCtrAvg": 0,
+      "geos": [
+        "默认",
+        "US"
+      ],
+      "topCategories": [
+        "丁丙诺啡市场",
+        "个人贷款",
+        "特殊疾病药品"
+      ]
+    },
+    {
+      "funnelId": "3vpOnm1eAKRw",
+      "funnelName": "web-v01",
+      "partnerName": "changdu",
+      "urlName": "moboreaderweb",
+      "platform": "MIS",
+      "groupCount": 1,
+      "offerCount": 2,
+      "matchedStats": 2,
+      "revenue": 0,
+      "visits": 0,
+      "views": 0,
+      "conversion": 0,
+      "funnelImpressions": 0,
+      "funnelClicks": 0,
+      "clicks": 0,
+      "funnelRpmAvg": 0,
+      "funnelCtrAvg": 0,
+      "geos": [
+        "默认"
+      ],
+      "topCategories": [
+        "丁丙诺啡市场",
+        "渐开线齿轮刀具品牌"
+      ]
+    },
+    {
+      "funnelId": "3vcQSId1clrr",
+      "funnelName": "Yahu-v01",
+      "partnerName": null,
+      "urlName": null,
+      "platform": "MIS",
+      "groupCount": 2,
+      "offerCount": 16,
+      "matchedStats": 16,
+      "revenue": 0,
+      "visits": 0,
+      "views": 0,
+      "conversion": 0,
+      "funnelImpressions": 0,
+      "funnelClicks": 0,
+      "clicks": 0,
+      "funnelRpmAvg": 0,
+      "funnelCtrAvg": 0,
+      "geos": [
+        "默认"
+      ],
+      "topCategories": [
+        "(无品类)"
+      ]
+    },
+    {
+      "funnelId": "3xmn72FXdrbv",
+      "funnelName": "Yahu-v02",
+      "partnerName": null,
+      "urlName": null,
+      "platform": "MIS",
+      "groupCount": 2,
+      "offerCount": 16,
+      "matchedStats": 16,
+      "revenue": 0,
+      "visits": 0,
+      "views": 0,
+      "conversion": 0,
+      "funnelImpressions": 0,
+      "funnelClicks": 0,
+      "clicks": 0,
+      "funnelRpmAvg": 0,
+      "funnelCtrAvg": 0,
+      "geos": [
+        "默认"
+      ],
+      "topCategories": [
+        "(无品类)"
+      ]
+    }
+  ],
+  "topOffers": [
+    {
+      "funnelName": "Blinkdrama-v01",
+      "partnerName": "Blinkdrama",
+      "urlName": "Blinkdrama-v01",
+      "geo": "US",
+      "categoryName": "肿瘤 / 生物制剂",
+      "offerName": "Blinkdrama-v01-A4-Us-8002532881-joyfulgaminghub9.com",
+      "channelId": "8002532881",
+      "offerId": "3ykOHLIDuHL8",
+      "weight": 0.2,
+      "revenue": 253.91,
+      "visits": 2874,
+      "views": 2874,
+      "conversion": 638,
+      "funnelImpressions": 4138,
+      "funnelClicks": 1570,
+      "clicks": 589,
+      "funnelRpm": 61.36,
+      "funnelCtr": 37.94103431609473,
+      "cvr1": 37.51592356687898
+    },
+    {
+      "funnelName": "Blinkdrama-sign-v01",
+      "partnerName": "Blinkdrama",
+      "urlName": "Blinkdrama-sign-v01",
+      "geo": "US",
+      "categoryName": "心理健康 / 成瘾",
+      "offerName": "Blinkdrama-sign-v01-A4-Us-4719974988-joyfulgaminghub9.com",
+      "channelId": "4719974988",
+      "offerId": "3ywIRG6wdkPv",
+      "weight": 0.34,
+      "revenue": 244.22,
+      "visits": 6371,
+      "views": 6371,
+      "conversion": 491,
+      "funnelImpressions": 7558,
+      "funnelClicks": 1306,
+      "clicks": 468,
+      "funnelRpm": 32.31,
+      "funnelCtr": 17.2797036252977,
+      "cvr1": 35.83460949464012
+    },
+    {
+      "funnelName": "Blinkdrama-v01",
+      "partnerName": "Blinkdrama",
+      "urlName": "Blinkdrama-v01",
+      "geo": "US",
+      "categoryName": "面部提拉",
+      "offerName": "Blinkdrama-v01-A1-Us-13248-beauty-center-nearby.com",
+      "channelId": "13248",
+      "offerId": "3ykOCh5adgGU",
+      "weight": 0.26,
+      "revenue": 232.6,
+      "visits": 2927,
+      "views": 2927,
+      "conversion": 641,
+      "funnelImpressions": 3048,
+      "funnelClicks": 1369,
+      "clicks": 620,
+      "funnelRpm": 76.31,
+      "funnelCtr": 44.91469816272966,
+      "cvr1": 45.288531775018264
+    },
+    {
+      "funnelName": "Blinkdrama-v02",
+      "partnerName": "Blinkdrama",
+      "urlName": "Blinkdrama-v02",
+      "geo": null,
+      "categoryName": "医疗·皮肤",
+      "offerName": "Blinkdrama-v02-A4-default-8895922786",
+      "channelId": "8895922786",
+      "offerId": "3sFCnknCM1PX",
+      "weight": 1,
+      "revenue": 211.48,
+      "visits": 14062,
+      "views": 14062,
+      "conversion": 244,
+      "funnelImpressions": 23258,
+      "funnelClicks": 9490,
+      "clicks": 516,
+      "funnelRpm": 9.09,
+      "funnelCtr": 40.80316450253676,
+      "cvr1": 5.437302423603794
+    },
+    {
+      "funnelName": "Blinkdrama-v02",
+      "partnerName": "Blinkdrama",
+      "urlName": "Blinkdrama-v02",
+      "geo": "US",
+      "categoryName": "心理健康 / 成瘾",
+      "offerName": "Blinkdrama-v02-A4-Us-8895922786-zestfularcade.com",
+      "channelId": "8895922786",
+      "offerId": "3sFCjUj5Q5vz",
+      "weight": 0.27,
+      "revenue": 211.48,
+      "visits": 1693,
+      "views": 1693,
+      "conversion": 389,
+      "funnelImpressions": 23258,
+      "funnelClicks": 9490,
+      "clicks": 516,
+      "funnelRpm": 9.09,
+      "funnelCtr": 40.80316450253676,
+      "cvr1": 5.437302423603794
+    },
+    {
+      "funnelName": "Blinkdrama-sign-v01",
+      "partnerName": "Blinkdrama",
+      "urlName": "Blinkdrama-sign-v01",
+      "geo": "US",
+      "categoryName": "注射除皱",
+      "offerName": "Blinkdrama-sign-v01-A1-us-15633-homeguarddeals.com",
+      "channelId": "15633",
+      "offerId": "3uZdL8nMVrYF",
+      "weight": 0.32,
+      "revenue": 188.82,
+      "visits": 5718,
+      "views": 5718,
+      "conversion": 450,
+      "funnelImpressions": 6111,
+      "funnelClicks": 1128,
+      "clicks": 441,
+      "funnelRpm": 30.9,
+      "funnelCtr": 18.45851742758959,
+      "cvr1": 39.09574468085106
+    },
+    {
+      "funnelName": "Blinkdrama-v02",
+      "partnerName": "Blinkdrama",
+      "urlName": "Blinkdrama-v02",
+      "geo": "US",
+      "categoryName": "面部提拉",
+      "offerName": "Blinkdrama-v02-A1-Us-13431-homeguarddeals.com",
+      "channelId": "13431",
+      "offerId": "3ywLwZdJd3h4",
+      "weight": 0.33,
+      "revenue": 176.3,
+      "visits": 1715,
+      "views": 1715,
+      "conversion": 511,
+      "funnelImpressions": 1793,
+      "funnelClicks": 1016,
+      "clicks": 492,
+      "funnelRpm": 98.33,
+      "funnelCtr": 56.66480758505298,
+      "cvr1": 48.425196850393704
+    },
+    {
+      "funnelName": "Blinkdrama-sign-v01",
+      "partnerName": "Blinkdrama",
+      "urlName": "Blinkdrama-sign-v01",
+      "geo": "US",
+      "categoryName": "SUV",
+      "offerName": "Blinkdrama-sign-v01-A1-us-13249-nearby-dental-implants.com",
+      "channelId": "13249",
+      "offerId": "3ywHlLRE1lbo",
+      "weight": 0.21,
+      "revenue": 146.28,
+      "visits": 3315,
+      "views": 3315,
+      "conversion": 263,
+      "funnelImpressions": 6696,
+      "funnelClicks": 1215,
+      "clicks": 545,
+      "funnelRpm": 21.85,
+      "funnelCtr": 18.14516129032258,
+      "cvr1": 44.8559670781893
+    },
+    {
+      "funnelName": "Blinkdrama-sign-v01",
+      "partnerName": "Blinkdrama",
+      "urlName": "Blinkdrama-sign-v01",
+      "geo": "US",
+      "categoryName": "SUV",
+      "offerName": "Blinkdrama-sign-v01-A1-us-13250-beauty-center-nearby.com",
+      "channelId": "13249",
+      "offerId": "3ywHqKdulnAf",
+      "weight": 0.21,
+      "revenue": 146.28,
+      "visits": 3289,
+      "views": 3289,
+      "conversion": 296,
+      "funnelImpressions": 6696,
+      "funnelClicks": 1215,
+      "clicks": 545,
+      "funnelRpm": 21.85,
+      "funnelCtr": 18.14516129032258,
+      "cvr1": 44.8559670781893
+    },
+    {
+      "funnelName": "Vibeshort-V01",
+      "partnerName": "vibeshort",
+      "urlName": "vibeshort-v01",
+      "geo": null,
+      "categoryName": "医疗·皮肤",
+      "offerName": "vibeshort-v01-A4-default-1377773572",
+      "channelId": "1377773572",
+      "offerId": "3yieCvqSl9c3",
+      "weight": 1,
+      "revenue": 139.35,
+      "visits": 16526,
+      "views": 16526,
+      "conversion": 852,
+      "funnelImpressions": 23683,
+      "funnelClicks": 7545,
+      "clicks": 876,
+      "funnelRpm": 5.88,
+      "funnelCtr": 31.858294979521176,
+      "cvr1": 11.610337972166999
+    },
+    {
+      "funnelName": "Vibeshort-V01",
+      "partnerName": "vibeshort",
+      "urlName": "vibeshort-v01",
+      "geo": "US",
+      "categoryName": "SUV",
+      "offerName": "vibeshort-v01-A4-us-1377773572-laidbackgam.com",
+      "channelId": "1377773572",
+      "offerId": "3yieiYSjvThZ",
+      "weight": 0.3,
+      "revenue": 139.35,
+      "visits": 1113,
+      "views": 1113,
+      "conversion": 215,
+      "funnelImpressions": 23683,
+      "funnelClicks": 7545,
+      "clicks": 876,
+      "funnelRpm": 5.88,
+      "funnelCtr": 31.858294979521176,
+      "cvr1": 11.610337972166999
+    },
+    {
+      "funnelName": "Blinkdrama-v01",
+      "partnerName": "Blinkdrama",
+      "urlName": "Blinkdrama-v01",
+      "geo": null,
+      "categoryName": "自身免疫",
+      "offerName": "Blinkdrama-v01-A4-default-9111267282",
+      "channelId": "9111267282",
+      "offerId": "3sF8TDVUdMIS",
+      "weight": 1,
+      "revenue": 129.95,
+      "visits": 25924,
+      "views": 25924,
+      "conversion": 711,
+      "funnelImpressions": 39267,
+      "funnelClicks": 15010,
+      "clicks": 791,
+      "funnelRpm": 3.31,
+      "funnelCtr": 38.22548195685945,
+      "cvr1": 5.269820119920054
+    },
+    {
+      "funnelName": "Blinkdrama-v01",
+      "partnerName": "Blinkdrama",
+      "urlName": "Blinkdrama-v01",
+      "geo": "US",
+      "categoryName": "面部提拉",
+      "offerName": "Blinkdrama-v01-A4-Us-9111267282-zestfularcade.com",
+      "channelId": "9111267282",
+      "offerId": "3sF8IOP57Geg",
+      "weight": 0.13,
+      "revenue": 129.95,
+      "visits": 1491,
+      "views": 1491,
+      "conversion": 270,
+      "funnelImpressions": 39267,
+      "funnelClicks": 15010,
+      "clicks": 791,
+      "funnelRpm": 3.31,
+      "funnelCtr": 38.22548195685945,
+      "cvr1": 5.269820119920054
+    },
+    {
+      "funnelName": "Vibeshort-V01",
+      "partnerName": "vibeshort",
+      "urlName": "vibeshort-v01",
+      "geo": null,
+      "categoryName": "心血管 / 抗凝",
+      "offerName": "vibeshort-v01-A12-default-4265989507",
+      "channelId": "4265989507",
+      "offerId": "3yigXvA1L7f3",
+      "weight": 1,
+      "revenue": 103.43,
+      "visits": 16440,
+      "views": 16440,
+      "conversion": 460,
+      "funnelImpressions": 22067,
+      "funnelClicks": 6704,
+      "clicks": 541,
+      "funnelRpm": 4.69,
+      "funnelCtr": 30.380205737073457,
+      "cvr1": 8.069809069212411
+    },
+    {
+      "funnelName": "Vibeshort-V01",
+      "partnerName": "vibeshort",
+      "urlName": "vibeshort-v01",
+      "geo": "US",
+      "categoryName": "SUV",
+      "offerName": "vibeshort-v01-A12-US-4265989507-intodeepdive.com",
+      "channelId": "4265989507",
+      "offerId": "3yikC1J0KIJG",
+      "weight": 0.26,
+      "revenue": 103.43,
+      "visits": 860,
+      "views": 860,
+      "conversion": 175,
+      "funnelImpressions": 22067,
+      "funnelClicks": 6704,
+      "clicks": 541,
+      "funnelRpm": 4.69,
+      "funnelCtr": 30.380205737073457,
+      "cvr1": 8.069809069212411
+    },
+    {
+      "funnelName": "Blinkdrama-sign-v01",
+      "partnerName": "Blinkdrama",
+      "urlName": "Blinkdrama-sign-v01",
+      "geo": "US",
+      "categoryName": "面部提拉",
+      "offerName": "Blinkdrama-sign-v01-A12-Us-new-7815494570-degreesuccesstips.com",
+      "channelId": "7815494570",
+      "offerId": "3yBLPFvA5Gt5",
+      "weight": 0.21,
+      "revenue": 89.54,
+      "visits": 3891,
+      "views": 3891,
+      "conversion": 450,
+      "funnelImpressions": 5443,
+      "funnelClicks": 1235,
+      "clicks": 428,
+      "funnelRpm": 16.45,
+      "funnelCtr": 22.689693183905934,
+      "cvr1": 34.65587044534413
+    },
+    {
+      "funnelName": "storyreel-v01",
+      "partnerName": "storyreel",
+      "urlName": "storyreel-v01",
+      "geo": null,
+      "categoryName": "自身免疫",
+      "offerName": "storyreel-v01-A12-default-7815494570",
+      "channelId": "7815494570",
+      "offerId": "3wxCQlezLJ5L",
+      "weight": 1,
+      "revenue": 89.54,
+      "visits": 1038,
+      "views": 1038,
+      "conversion": 32,
+      "funnelImpressions": 5443,
+      "funnelClicks": 1235,
+      "clicks": 428,
+      "funnelRpm": 16.45,
+      "funnelCtr": 22.689693183905934,
+      "cvr1": 34.65587044534413
+    },
+    {
+      "funnelName": "storyreel-v01",
+      "partnerName": "storyreel",
+      "urlName": "storyreel-v01",
+      "geo": "US",
+      "categoryName": "心理健康 / 成瘾",
+      "offerName": "storyreel-v01-A12-us-7815494570-intodeepdive.com",
+      "channelId": "7815494570",
+      "offerId": "3wxBMJWNTSBm",
+      "weight": 0.06,
+      "revenue": 89.54,
+      "visits": 10,
+      "views": 10,
+      "conversion": 0,
+      "funnelImpressions": 5443,
+      "funnelClicks": 1235,
+      "clicks": 428,
+      "funnelRpm": 16.45,
+      "funnelCtr": 22.689693183905934,
+      "cvr1": 34.65587044534413
+    },
+    {
+      "funnelName": "Blinkdrama-v02",
+      "partnerName": "Blinkdrama",
+      "urlName": "Blinkdrama-v02",
+      "geo": null,
+      "categoryName": "眼科 / 视力",
+      "offerName": "Blinkdrama-v02-A12-default-7191142882",
+      "channelId": "7191142882",
+      "offerId": "3wsD5Jq90LXc",
+      "weight": 1,
+      "revenue": 84.79,
+      "visits": 13904,
+      "views": 13904,
+      "conversion": 311,
+      "funnelImpressions": 21132,
+      "funnelClicks": 8967,
+      "clicks": 466,
+      "funnelRpm": 4.01,
+      "funnelCtr": 42.43327654741624,
+      "cvr1": 5.1968328314932535
+    },
+    {
+      "funnelName": "Blinkdrama-v02",
+      "partnerName": "Blinkdrama",
+      "urlName": "Blinkdrama-v02",
+      "geo": "US",
+      "categoryName": "新能源汽车",
+      "offerName": "Blinkdrama-v02-A12-us-7191142882-degreesuccesstips.com",
+      "channelId": "7191142882",
+      "offerId": "3yQgx4dSR98u",
+      "weight": 0.18,
+      "revenue": 84.79,
+      "visits": 1034,
+      "views": 1034,
+      "conversion": 302,
+      "funnelImpressions": 21132,
+      "funnelClicks": 8967,
+      "clicks": 466,
+      "funnelRpm": 4.01,
+      "funnelCtr": 42.43327654741624,
+      "cvr1": 5.1968328314932535
+    }
+  ],
+  "insights": [
+    "2026-11-13 对齐结果：556/1124 条 offer 命中 flatStats",
+    "待换漏斗 14 个 · 弱 offer 40 条",
+    "moboreels-v02：当前[医疗·偏头痛、诊断 / 急诊、心理健康 / 成瘾、新能源汽车、注射除皱] → 建议[医疗·皮肤、面部提拉、自身免疫]；收入 $1.54 低于同国家中位 $6.99 的 40%",
+    "reader-v01：当前[诊断 / 急诊、新能源汽车、注射除皱、消费电子、宠物产品] → 建议[面部提拉、SUV、心理健康 / 成瘾]；收入 $2.35 低于同国家中位 $6.99 的 40%",
+    "moboreels-v01：当前[骨科 / 关节、宠物产品、肿瘤 / 生物制剂、汽车金融、注射除皱] → 建议[面部提拉、SUV、心理健康 / 成瘾]；收入 $2.14 低于同国家中位 $6.99 的 40%",
+    "reader-v02：当前[骨科 / 关节、心血管 / 抗凝、医疗·皮肤、肿瘤 / 生物制剂] → 建议[面部提拉、SUV、心理健康 / 成瘾]；收入 $0.42 低于同国家中位 $2.33 的 40%",
+    "moboreels-v03：当前[呼吸与睡眠、眼科 / 视力、消费电子] → 建议[医疗·皮肤、自身免疫、面部提拉]；Funnel RPM 0.42 低于同国家中位 1.19 的 40%",
+    "流量：访问 1013208 · 浏览 1013208 · 漏斗展示 2384529 · 漏斗点击 640654",
+    "转化：conversion 28808 · 广告点击 39184 · 收入 $8102.04",
+    "收入集中国家：US $5873.70（约 72%）",
+    "合作方头部：Blinkdrama 收入 $4038.61 / 访问 461757 / CTR 35.80",
+    "品类头部：面部提拉（收入 $997.65 · 漏斗点击 68206）",
+    "有访问但 0 收入的漏斗：ff-reel-v01、ff-reel-v02",
+    "漏斗 Top：Blinkdrama-v01 $1449.46 · Blinkdrama-v02 $1117.04 · Blinkdrama-sign-v01 $1078.36"
+  ],
+  "replaceAdvice": [
+    {
+      "funnelId": "3zb0bcaeqhVS",
+      "funnelName": "moboreels-v01",
+      "partnerName": null,
+      "urlName": null,
+      "geo": null,
+      "offerId": "402HrJ1TwFPp",
+      "offerName": "moboreels-v01-A15-6671046943-default",
+      "channelId": "6671046943",
+      "currentCategory": "骨科 / 关节",
+      "reasons": [
+        "收入 $2.14 低于同国家中位 $6.99 的 40%",
+        "Funnel RPM 0.10 低于同国家中位 1.19 的 40%",
+        "漏斗 CTR 14.30 低于同国家中位 32.81 的 50%"
+      ],
+      "severity": "high",
+      "visits": 21947,
+      "revenue": 2.14,
+      "funnelRpm": 0.1,
+      "funnelCtr": 14.29558965850961,
+      "conversion": 46,
+      "funnelClicks": 3102,
+      "suggestCategories": [
+        {
+          "categoryName": "医疗·皮肤",
+          "revenue": 417.69,
+          "visits": 57719,
+          "funnelClicks": 23982,
+          "conversion": 1444,
+          "funnelRpmAvg": 3.0860000000000003,
+          "score": 2519.2
+        },
+        {
+          "categoryName": "自身免疫",
+          "revenue": 298.13,
+          "visits": 73208,
+          "funnelClicks": 43623,
+          "conversion": 1383,
+          "funnelRpmAvg": 3.43,
+          "score": 2415.49
+        },
+        {
+          "categoryName": "眼科 / 视力",
+          "revenue": 197.99,
+          "visits": 74357,
+          "funnelClicks": 32406,
+          "conversion": 1660,
+          "funnelRpmAvg": 2.0549999999999997,
+          "score": 2380.04
+        }
+      ]
+    },
+    {
+      "funnelId": "3zawx1d3eHDg",
+      "funnelName": "reader-v01",
+      "partnerName": null,
+      "urlName": null,
+      "geo": null,
+      "offerId": "402qJWBBxRg1",
+      "offerName": "reader-v01-A15-9325866530-default",
+      "channelId": "9325866530",
+      "currentCategory": "诊断 / 急诊",
+      "reasons": [
+        "收入 $2.35 低于同国家中位 $6.99 的 40%",
+        "Funnel RPM 0.16 低于同国家中位 1.19 的 40%",
+        "漏斗 CTR 11.08 低于同国家中位 32.81 的 50%"
+      ],
+      "severity": "high",
+      "visits": 19008,
+      "revenue": 2.35,
+      "funnelRpm": 0.16,
+      "funnelCtr": 11.07849304536241,
+      "conversion": 70,
+      "funnelClicks": 1585,
+      "suggestCategories": [
+        {
+          "categoryName": "医疗·皮肤",
+          "revenue": 417.69,
+          "visits": 57719,
+          "funnelClicks": 23982,
+          "conversion": 1444,
+          "funnelRpmAvg": 3.0860000000000003,
+          "score": 2519.2
+        },
+        {
+          "categoryName": "自身免疫",
+          "revenue": 298.13,
+          "visits": 73208,
+          "funnelClicks": 43623,
+          "conversion": 1383,
+          "funnelRpmAvg": 3.43,
+          "score": 2415.49
+        },
+        {
+          "categoryName": "眼科 / 视力",
+          "revenue": 197.99,
+          "visits": 74357,
+          "funnelClicks": 32406,
+          "conversion": 1660,
+          "funnelRpmAvg": 2.0549999999999997,
+          "score": 2380.04
+        }
+      ]
+    },
+    {
+      "funnelId": "3zb3PGEznP52",
+      "funnelName": "moboreels-v03",
+      "partnerName": null,
+      "urlName": null,
+      "geo": null,
+      "offerId": "3zb1PLgN7r1k",
+      "offerName": "moboreels-v03-A12-default-2506279147",
+      "channelId": "2506279147",
+      "currentCategory": "呼吸与睡眠",
+      "reasons": [
+        "Funnel RPM 0.42 低于同国家中位 1.19 的 40%",
+        "漏斗 CTR 12.66 低于同国家中位 32.81 的 50%"
+      ],
+      "severity": "high",
+      "visits": 18577,
+      "revenue": 8.13,
+      "funnelRpm": 0.42,
+      "funnelCtr": 12.655188269555,
+      "conversion": 180,
+      "funnelClicks": 2477,
+      "suggestCategories": [
+        {
+          "categoryName": "医疗·皮肤",
+          "revenue": 417.69,
+          "visits": 57719,
+          "funnelClicks": 23982,
+          "conversion": 1444,
+          "funnelRpmAvg": 3.0860000000000003,
+          "score": 2519.2
+        },
+        {
+          "categoryName": "自身免疫",
+          "revenue": 298.13,
+          "visits": 73208,
+          "funnelClicks": 43623,
+          "conversion": 1383,
+          "funnelRpmAvg": 3.43,
+          "score": 2415.49
+        },
+        {
+          "categoryName": "眼科 / 视力",
+          "revenue": 197.99,
+          "visits": 74357,
+          "funnelClicks": 32406,
+          "conversion": 1660,
+          "funnelRpmAvg": 2.0549999999999997,
+          "score": 2380.04
+        }
+      ]
+    },
+    {
+      "funnelId": "3zb3PGEznP52",
+      "funnelName": "moboreels-v03",
+      "partnerName": null,
+      "urlName": null,
+      "geo": null,
+      "offerId": "3zb1W9LGvPyZ",
+      "offerName": "moboreels-v03-A7-default-10926",
+      "channelId": "10926",
+      "currentCategory": "眼科 / 视力",
+      "reasons": [
+        "收入 $1.77 低于同国家中位 $6.99 的 40%",
+        "Funnel RPM 0.09 低于同国家中位 1.19 的 40%",
+        "漏斗 CTR 14.19 低于同国家中位 32.81 的 50%"
+      ],
+      "severity": "high",
+      "visits": 18412,
+      "revenue": 1.77,
+      "funnelRpm": 0.09,
+      "funnelCtr": 14.193183570657482,
+      "conversion": 59,
+      "funnelClicks": 2761,
+      "suggestCategories": [
+        {
+          "categoryName": "医疗·皮肤",
+          "revenue": 417.69,
+          "visits": 57719,
+          "funnelClicks": 23982,
+          "conversion": 1444,
+          "funnelRpmAvg": 3.0860000000000003,
+          "score": 2519.2
+        },
+        {
+          "categoryName": "自身免疫",
+          "revenue": 298.13,
+          "visits": 73208,
+          "funnelClicks": 43623,
+          "conversion": 1383,
+          "funnelRpmAvg": 3.43,
+          "score": 2415.49
+        },
+        {
+          "categoryName": "GLP-1 / 糖尿病",
+          "revenue": 148.35,
+          "visits": 38919,
+          "funnelClicks": 20230,
+          "conversion": 1076,
+          "funnelRpmAvg": 3.3071428571428574,
+          "score": 1575
+        }
+      ]
+    },
+    {
+      "funnelId": "3zb2pKLqQr7e",
+      "funnelName": "moboreels-v02",
+      "partnerName": "changdu",
+      "urlName": "moboreels",
+      "geo": null,
+      "offerId": "3zazvURRj6TD",
+      "offerName": "moboreels-v02-A4-default-8671712417",
+      "channelId": "8671712417",
+      "currentCategory": "医疗·偏头痛",
+      "reasons": [
+        "收入 $1.54 低于同国家中位 $6.99 的 40%",
+        "Funnel RPM 0.09 低于同国家中位 1.19 的 40%",
+        "漏斗 CTR 14.34 低于同国家中位 32.81 的 50%"
+      ],
+      "severity": "high",
+      "visits": 18338,
+      "revenue": 1.54,
+      "funnelRpm": 0.09,
+      "funnelCtr": 14.341979406965622,
+      "conversion": 14,
+      "funnelClicks": 2549,
+      "suggestCategories": [
+        {
+          "categoryName": "医疗·皮肤",
+          "revenue": 417.69,
+          "visits": 57719,
+          "funnelClicks": 23982,
+          "conversion": 1444,
+          "funnelRpmAvg": 3.0860000000000003,
+          "score": 2519.2
+        },
+        {
+          "categoryName": "自身免疫",
+          "revenue": 298.13,
+          "visits": 73208,
+          "funnelClicks": 43623,
+          "conversion": 1383,
+          "funnelRpmAvg": 3.43,
+          "score": 2415.49
+        },
+        {
+          "categoryName": "眼科 / 视力",
+          "revenue": 197.99,
+          "visits": 74357,
+          "funnelClicks": 32406,
+          "conversion": 1660,
+          "funnelRpmAvg": 2.0549999999999997,
+          "score": 2380.04
+        }
+      ]
+    },
+    {
+      "funnelId": "3zb2pKLqQr7e",
+      "funnelName": "moboreels-v02",
+      "partnerName": "changdu",
+      "urlName": "moboreels",
+      "geo": null,
+      "offerId": "402LNtAdJE3e",
+      "offerName": "moboreels-v02-A15-default-8746545947",
+      "channelId": "8746545947",
+      "currentCategory": "诊断 / 急诊",
+      "reasons": [
+        "收入 $0.41 低于同国家中位 $6.99 的 40%",
+        "Funnel RPM 0.02 低于同国家中位 1.19 的 40%",
+        "漏斗 CTR 12.75 低于同国家中位 32.81 的 50%"
+      ],
+      "severity": "high",
+      "visits": 18323,
+      "revenue": 0.41,
+      "funnelRpm": 0.02,
+      "funnelCtr": 12.750794868983665,
+      "conversion": 17,
+      "funnelClicks": 2326,
+      "suggestCategories": [
+        {
+          "categoryName": "医疗·皮肤",
+          "revenue": 417.69,
+          "visits": 57719,
+          "funnelClicks": 23982,
+          "conversion": 1444,
+          "funnelRpmAvg": 3.0860000000000003,
+          "score": 2519.2
+        },
+        {
+          "categoryName": "自身免疫",
+          "revenue": 298.13,
+          "visits": 73208,
+          "funnelClicks": 43623,
+          "conversion": 1383,
+          "funnelRpmAvg": 3.43,
+          "score": 2415.49
+        },
+        {
+          "categoryName": "眼科 / 视力",
+          "revenue": 197.99,
+          "visits": 74357,
+          "funnelClicks": 32406,
+          "conversion": 1660,
+          "funnelRpmAvg": 2.0549999999999997,
+          "score": 2380.04
+        }
+      ]
+    },
+    {
+      "funnelId": "3zb2pKLqQr7e",
+      "funnelName": "moboreels-v02",
+      "partnerName": "changdu",
+      "urlName": "moboreels",
+      "geo": null,
+      "offerId": "3zazlAyBvvaN",
+      "offerName": "moboreels-v02-A12-default-3731730900",
+      "channelId": "3731730900",
+      "currentCategory": "心理健康 / 成瘾",
+      "reasons": [
+        "收入 $1.98 低于同国家中位 $6.99 的 40%",
+        "Funnel RPM 0.11 低于同国家中位 1.19 的 40%",
+        "漏斗 CTR 13.54 低于同国家中位 32.81 的 50%"
+      ],
+      "severity": "high",
+      "visits": 18240,
+      "revenue": 1.98,
+      "funnelRpm": 0.11,
+      "funnelCtr": 13.53941609883109,
+      "conversion": 47,
+      "funnelClicks": 2444,
+      "suggestCategories": [
+        {
+          "categoryName": "医疗·皮肤",
+          "revenue": 417.69,
+          "visits": 57719,
+          "funnelClicks": 23982,
+          "conversion": 1444,
+          "funnelRpmAvg": 3.0860000000000003,
+          "score": 2519.2
+        },
+        {
+          "categoryName": "自身免疫",
+          "revenue": 298.13,
+          "visits": 73208,
+          "funnelClicks": 43623,
+          "conversion": 1383,
+          "funnelRpmAvg": 3.43,
+          "score": 2415.49
+        },
+        {
+          "categoryName": "眼科 / 视力",
+          "revenue": 197.99,
+          "visits": 74357,
+          "funnelClicks": 32406,
+          "conversion": 1660,
+          "funnelRpmAvg": 2.0549999999999997,
+          "score": 2380.04
+        }
+      ]
+    },
+    {
+      "funnelId": "3zb3S8BZbPfp",
+      "funnelName": "moboreels-v04",
+      "partnerName": null,
+      "urlName": null,
+      "geo": null,
+      "offerId": "3zb2OzWzfG2Z",
+      "offerName": "moboreels-v04-A4-default-8836912457",
+      "channelId": "8836912457",
+      "currentCategory": "面部提拉",
+      "reasons": [
+        "收入 $0.79 低于同国家中位 $6.99 的 40%",
+        "Funnel RPM 0.20 低于同国家中位 1.19 的 40%",
+        "漏斗 CTR 12.96 低于同国家中位 32.81 的 50%"
+      ],
+      "severity": "high",
+      "visits": 3832,
+      "revenue": 0.79,
+      "funnelRpm": 0.2,
+      "funnelCtr": 12.964799206742688,
+      "conversion": 14,
+      "funnelClicks": 523,
+      "suggestCategories": [
+        {
+          "categoryName": "医疗·皮肤",
+          "revenue": 417.69,
+          "visits": 57719,
+          "funnelClicks": 23982,
+          "conversion": 1444,
+          "funnelRpmAvg": 3.0860000000000003,
+          "score": 2519.2
+        },
+        {
+          "categoryName": "自身免疫",
+          "revenue": 298.13,
+          "visits": 73208,
+          "funnelClicks": 43623,
+          "conversion": 1383,
+          "funnelRpmAvg": 3.43,
+          "score": 2415.49
+        },
+        {
+          "categoryName": "眼科 / 视力",
+          "revenue": 197.99,
+          "visits": 74357,
+          "funnelClicks": 32406,
+          "conversion": 1660,
+          "funnelRpmAvg": 2.0549999999999997,
+          "score": 2380.04
+        }
+      ]
+    },
+    {
+      "funnelId": "3zb3S8BZbPfp",
+      "funnelName": "moboreels-v04",
+      "partnerName": null,
+      "urlName": null,
+      "geo": null,
+      "offerId": "3zb2RxclzOAi",
+      "offerName": "moboreels-v04-A12-default-9598677745",
+      "channelId": "9598677745",
+      "currentCategory": "宠物产品",
+      "reasons": [
+        "收入 $0.72 低于同国家中位 $6.99 的 40%",
+        "Funnel RPM 0.18 低于同国家中位 1.19 的 40%",
+        "漏斗 CTR 12.98 低于同国家中位 32.81 的 50%"
+      ],
+      "severity": "high",
+      "visits": 3806,
+      "revenue": 0.72,
+      "funnelRpm": 0.18,
+      "funnelCtr": 12.982723577235772,
+      "conversion": 28,
+      "funnelClicks": 511,
+      "suggestCategories": [
+        {
+          "categoryName": "医疗·皮肤",
+          "revenue": 417.69,
+          "visits": 57719,
+          "funnelClicks": 23982,
+          "conversion": 1444,
+          "funnelRpmAvg": 3.0860000000000003,
+          "score": 2519.2
+        },
+        {
+          "categoryName": "自身免疫",
+          "revenue": 298.13,
+          "visits": 73208,
+          "funnelClicks": 43623,
+          "conversion": 1383,
+          "funnelRpmAvg": 3.43,
+          "score": 2415.49
+        },
+        {
+          "categoryName": "眼科 / 视力",
+          "revenue": 197.99,
+          "visits": 74357,
+          "funnelClicks": 32406,
+          "conversion": 1660,
+          "funnelRpmAvg": 2.0549999999999997,
+          "score": 2380.04
+        }
+      ]
+    },
+    {
+      "funnelId": "3zb3S8BZbPfp",
+      "funnelName": "moboreels-v04",
+      "partnerName": null,
+      "urlName": null,
+      "geo": null,
+      "offerId": "3zb2MFJ17cnO",
+      "offerName": "moboreels-v04-A7-default-10930",
+      "channelId": "10930",
+      "currentCategory": "汽车金融",
+      "reasons": [
+        "收入 $1.29 低于同国家中位 $6.99 的 40%",
+        "Funnel RPM 0.32 低于同国家中位 1.19 的 40%",
+        "漏斗 CTR 13.80 低于同国家中位 32.81 的 50%"
+      ],
+      "severity": "high",
+      "visits": 3803,
+      "revenue": 1.29,
+      "funnelRpm": 0.32,
+      "funnelCtr": 13.797374287837503,
+      "conversion": 23,
+      "funnelClicks": 557,
+      "suggestCategories": [
+        {
+          "categoryName": "医疗·皮肤",
+          "revenue": 417.69,
+          "visits": 57719,
+          "funnelClicks": 23982,
+          "conversion": 1444,
+          "funnelRpmAvg": 3.0860000000000003,
+          "score": 2519.2
+        },
+        {
+          "categoryName": "自身免疫",
+          "revenue": 298.13,
+          "visits": 73208,
+          "funnelClicks": 43623,
+          "conversion": 1383,
+          "funnelRpmAvg": 3.43,
+          "score": 2415.49
+        },
+        {
+          "categoryName": "眼科 / 视力",
+          "revenue": 197.99,
+          "visits": 74357,
+          "funnelClicks": 32406,
+          "conversion": 1660,
+          "funnelRpmAvg": 2.0549999999999997,
+          "score": 2380.04
+        }
+      ]
+    },
+    {
+      "funnelId": "3zawx1d3eHDg",
+      "funnelName": "reader-v01",
+      "partnerName": null,
+      "urlName": null,
+      "geo": "US",
+      "offerId": "3zauMtMZADGQ",
+      "offerName": "reader-v01-A12-us-5132442487-degreesuccesstips.com",
+      "channelId": "5132442487",
+      "currentCategory": "新能源汽车",
+      "reasons": [
+        "Funnel RPM 1.67 低于同国家中位 5.04 的 40%",
+        "漏斗 CTR 11.07 低于同国家中位 31.35 的 50%"
+      ],
+      "severity": "high",
+      "visits": 3087,
+      "revenue": 28.07,
+      "funnelRpm": 1.67,
+      "funnelCtr": 11.07278782112274,
+      "conversion": 107,
+      "funnelClicks": 1862,
+      "suggestCategories": [
+        {
+          "categoryName": "面部提拉",
+          "revenue": 996.86,
+          "visits": 17237,
+          "funnelClicks": 67683,
+          "conversion": 3132,
+          "funnelRpmAvg": 14.733703703703704,
+          "score": 5802.55
+        },
+        {
+          "categoryName": "SUV",
+          "revenue": 836.0600000000001,
+          "visits": 13296,
+          "funnelClicks": 28014,
+          "conversion": 2048,
+          "funnelRpmAvg": 31.589583333333337,
+          "score": 4000.26
+        },
+        {
+          "categoryName": "心理健康 / 成瘾",
+          "revenue": 817.0500000000001,
+          "visits": 15115,
+          "funnelClicks": 48514,
+          "conversion": 1288,
+          "funnelRpmAvg": 11.904102564102564,
+          "score": 3407.2400000000002
+        }
+      ]
+    },
+    {
+      "funnelId": "3zaxNqwFxfnB",
+      "funnelName": "reader-v02",
+      "partnerName": null,
+      "urlName": null,
+      "geo": "US",
+      "offerId": "402qPUGYtKZJ",
+      "offerName": "reader-v02-A15-2952029875-default",
+      "channelId": "2952029875",
+      "currentCategory": "骨科 / 关节",
+      "reasons": [
+        "收入 $0.42 低于同国家中位 $2.33 的 40%",
+        "Funnel RPM 0.19 低于同国家中位 5.04 的 40%",
+        "漏斗 CTR 7.71 低于同国家中位 31.35 的 50%"
+      ],
+      "severity": "high",
+      "visits": 2697,
+      "revenue": 0.42,
+      "funnelRpm": 0.19,
+      "funnelCtr": 7.710064635272391,
+      "conversion": 2,
+      "funnelClicks": 167,
+      "suggestCategories": [
+        {
+          "categoryName": "面部提拉",
+          "revenue": 996.86,
+          "visits": 17237,
+          "funnelClicks": 67683,
+          "conversion": 3132,
+          "funnelRpmAvg": 14.733703703703704,
+          "score": 5802.55
+        },
+        {
+          "categoryName": "SUV",
+          "revenue": 836.0600000000001,
+          "visits": 13296,
+          "funnelClicks": 28014,
+          "conversion": 2048,
+          "funnelRpmAvg": 31.589583333333337,
+          "score": 4000.26
+        },
+        {
+          "categoryName": "心理健康 / 成瘾",
+          "revenue": 817.0500000000001,
+          "visits": 15115,
+          "funnelClicks": 48514,
+          "conversion": 1288,
+          "funnelRpmAvg": 11.904102564102564,
+          "score": 3407.2400000000002
+        }
+      ]
+    },
+    {
+      "funnelId": "3zaxNqwFxfnB",
+      "funnelName": "reader-v02",
+      "partnerName": null,
+      "urlName": null,
+      "geo": "US",
+      "offerId": "3zauw9hx9IkJ",
+      "offerName": "reader-v02-A12-default-2402337368",
+      "channelId": "2402337368",
+      "currentCategory": "骨科 / 关节",
+      "reasons": [
+        "Funnel RPM 0.44 低于同国家中位 5.04 的 40%",
+        "漏斗 CTR 8.48 低于同国家中位 31.35 的 50%"
+      ],
+      "severity": "high",
+      "visits": 2613,
+      "revenue": 1.01,
+      "funnelRpm": 0.44,
+      "funnelCtr": 8.479789103690685,
+      "conversion": 5,
+      "funnelClicks": 193,
+      "suggestCategories": [
+        {
+          "categoryName": "面部提拉",
+          "revenue": 996.86,
+          "visits": 17237,
+          "funnelClicks": 67683,
+          "conversion": 3132,
+          "funnelRpmAvg": 14.733703703703704,
+          "score": 5802.55
+        },
+        {
+          "categoryName": "SUV",
+          "revenue": 836.0600000000001,
+          "visits": 13296,
+          "funnelClicks": 28014,
+          "conversion": 2048,
+          "funnelRpmAvg": 31.589583333333337,
+          "score": 4000.26
+        },
+        {
+          "categoryName": "心理健康 / 成瘾",
+          "revenue": 817.0500000000001,
+          "visits": 15115,
+          "funnelClicks": 48514,
+          "conversion": 1288,
+          "funnelRpmAvg": 11.904102564102564,
+          "score": 3407.2400000000002
+        }
+      ]
+    },
+    {
+      "funnelId": "3zaxNqwFxfnB",
+      "funnelName": "reader-v02",
+      "partnerName": null,
+      "urlName": null,
+      "geo": "US",
+      "offerId": "3zav1TiK98kg",
+      "offerName": "reader-v02-A4-default-4300370257",
+      "channelId": "4300370257",
+      "currentCategory": "心血管 / 抗凝",
+      "reasons": [
+        "有访问(2590)但转化=0",
+        "收入 $0.00 低于同国家中位 $2.33 的 40%",
+        "Funnel RPM 0.00 低于同国家中位 5.04 的 40%",
+        "漏斗 CTR 7.45 低于同国家中位 31.35 的 50%"
+      ],
+      "severity": "high",
+      "visits": 2590,
+      "revenue": 0,
+      "funnelRpm": 0,
+      "funnelCtr": 7.451564828614009,
+      "conversion": 0,
+      "funnelClicks": 50,
+      "suggestCategories": [
+        {
+          "categoryName": "面部提拉",
+          "revenue": 996.86,
+          "visits": 17237,
+          "funnelClicks": 67683,
+          "conversion": 3132,
+          "funnelRpmAvg": 14.733703703703704,
+          "score": 5802.55
+        },
+        {
+          "categoryName": "SUV",
+          "revenue": 836.0600000000001,
+          "visits": 13296,
+          "funnelClicks": 28014,
+          "conversion": 2048,
+          "funnelRpmAvg": 31.589583333333337,
+          "score": 4000.26
+        },
+        {
+          "categoryName": "心理健康 / 成瘾",
+          "revenue": 817.0500000000001,
+          "visits": 15115,
+          "funnelClicks": 48514,
+          "conversion": 1288,
+          "funnelRpmAvg": 11.904102564102564,
+          "score": 3407.2400000000002
+        }
+      ]
+    },
+    {
+      "funnelId": "3zaxNqwFxfnB",
+      "funnelName": "reader-v02",
+      "partnerName": null,
+      "urlName": null,
+      "geo": "US",
+      "offerId": "3zav83AM5ews",
+      "offerName": "reader-v02-A7-default-7609117695",
+      "channelId": "7609117695",
+      "currentCategory": "医疗·皮肤",
+      "reasons": [
+        "收入 $0.11 低于同国家中位 $2.33 的 40%",
+        "Funnel RPM 0.05 低于同国家中位 5.04 的 40%",
+        "漏斗 CTR 10.07 低于同国家中位 31.35 的 50%"
+      ],
+      "severity": "high",
+      "visits": 2580,
+      "revenue": 0.11,
+      "funnelRpm": 0.05,
+      "funnelCtr": 10.069284064665126,
+      "conversion": 4,
+      "funnelClicks": 218,
+      "suggestCategories": [
+        {
+          "categoryName": "面部提拉",
+          "revenue": 996.86,
+          "visits": 17237,
+          "funnelClicks": 67683,
+          "conversion": 3132,
+          "funnelRpmAvg": 14.733703703703704,
+          "score": 5802.55
+        },
+        {
+          "categoryName": "SUV",
+          "revenue": 836.0600000000001,
+          "visits": 13296,
+          "funnelClicks": 28014,
+          "conversion": 2048,
+          "funnelRpmAvg": 31.589583333333337,
+          "score": 4000.26
+        },
+        {
+          "categoryName": "心理健康 / 成瘾",
+          "revenue": 817.0500000000001,
+          "visits": 15115,
+          "funnelClicks": 48514,
+          "conversion": 1288,
+          "funnelRpmAvg": 11.904102564102564,
+          "score": 3407.2400000000002
+        }
+      ]
+    },
+    {
+      "funnelId": "3zawx1d3eHDg",
+      "funnelName": "reader-v01",
+      "partnerName": null,
+      "urlName": null,
+      "geo": "US",
+      "offerId": "3zaubr1X75QS",
+      "offerName": "reader-v01-A7-us-9508193152-algo-cash.com",
+      "channelId": "9508193152",
+      "currentCategory": "注射除皱",
+      "reasons": [
+        "Funnel RPM 0.94 低于同国家中位 5.04 的 40%",
+        "漏斗 CTR 11.97 低于同国家中位 31.35 的 50%"
+      ],
+      "severity": "high",
+      "visits": 2052,
+      "revenue": 15.13,
+      "funnelRpm": 0.94,
+      "funnelCtr": 11.96767174386074,
+      "conversion": 31,
+      "funnelClicks": 1925,
+      "suggestCategories": [
+        {
+          "categoryName": "面部提拉",
+          "revenue": 996.86,
+          "visits": 17237,
+          "funnelClicks": 67683,
+          "conversion": 3132,
+          "funnelRpmAvg": 14.733703703703704,
+          "score": 5802.55
+        },
+        {
+          "categoryName": "SUV",
+          "revenue": 836.0600000000001,
+          "visits": 13296,
+          "funnelClicks": 28014,
+          "conversion": 2048,
+          "funnelRpmAvg": 31.589583333333337,
+          "score": 4000.26
+        },
+        {
+          "categoryName": "心理健康 / 成瘾",
+          "revenue": 817.0500000000001,
+          "visits": 15115,
+          "funnelClicks": 48514,
+          "conversion": 1288,
+          "funnelRpmAvg": 11.904102564102564,
+          "score": 3407.2400000000002
+        }
+      ]
+    },
+    {
+      "funnelId": "3z7d1Vmn8Fku",
+      "funnelName": "ShortMax-v04",
+      "partnerName": null,
+      "urlName": null,
+      "geo": null,
+      "offerId": "3z7alDgOVgnv",
+      "offerName": "Shortmax-V04-A7-default-7868532178-www.newamc.com",
+      "channelId": "19784",
+      "currentCategory": "呼吸与睡眠",
+      "reasons": [
+        "收入 $0.34 低于同国家中位 $6.99 的 40%",
+        "Funnel RPM 0.13 低于同国家中位 1.19 的 40%"
+      ],
+      "severity": "high",
+      "visits": 1896,
+      "revenue": 0.34,
+      "funnelRpm": 0.13,
+      "funnelCtr": 34.045922406967534,
+      "conversion": 7,
+      "funnelClicks": 860,
+      "suggestCategories": [
+        {
+          "categoryName": "医疗·皮肤",
+          "revenue": 417.69,
+          "visits": 57719,
+          "funnelClicks": 23982,
+          "conversion": 1444,
+          "funnelRpmAvg": 3.0860000000000003,
+          "score": 2519.2
+        },
+        {
+          "categoryName": "自身免疫",
+          "revenue": 298.13,
+          "visits": 73208,
+          "funnelClicks": 43623,
+          "conversion": 1383,
+          "funnelRpmAvg": 3.43,
+          "score": 2415.49
+        },
+        {
+          "categoryName": "眼科 / 视力",
+          "revenue": 197.99,
+          "visits": 74357,
+          "funnelClicks": 32406,
+          "conversion": 1660,
+          "funnelRpmAvg": 2.0549999999999997,
+          "score": 2380.04
+        }
+      ]
+    },
+    {
+      "funnelId": "3uUfpSpZ3e2U",
+      "funnelName": "Blinkdrama-sign-v01",
+      "partnerName": "Blinkdrama",
+      "urlName": "Blinkdrama-sign-v01",
+      "geo": "US",
+      "offerId": "3uUeo9IhbaYj",
+      "offerName": "Blinkdrama-sign-v01-A4-Us-1628696221-zestfularcade.com",
+      "channelId": "1628696221",
+      "currentCategory": "汽车金融",
+      "reasons": [
+        "有访问(1721)但转化=0",
+        "Funnel RPM 0.47 低于同国家中位 5.04 的 40%"
+      ],
+      "severity": "high",
+      "visits": 1721,
+      "revenue": 21.61,
+      "funnelRpm": 0.47,
+      "funnelCtr": 18.464354989865527,
+      "conversion": 0,
+      "funnelClicks": 8472,
+      "suggestCategories": [
+        {
+          "categoryName": "面部提拉",
+          "revenue": 996.86,
+          "visits": 17237,
+          "funnelClicks": 67683,
+          "conversion": 3132,
+          "funnelRpmAvg": 14.733703703703704,
+          "score": 5802.55
+        },
+        {
+          "categoryName": "SUV",
+          "revenue": 836.0600000000001,
+          "visits": 13296,
+          "funnelClicks": 28014,
+          "conversion": 2048,
+          "funnelRpmAvg": 31.589583333333337,
+          "score": 4000.26
+        },
+        {
+          "categoryName": "心理健康 / 成瘾",
+          "revenue": 817.0500000000001,
+          "visits": 15115,
+          "funnelClicks": 48514,
+          "conversion": 1288,
+          "funnelRpmAvg": 11.904102564102564,
+          "score": 3407.2400000000002
+        }
+      ]
+    },
+    {
+      "funnelId": "3uUfpSpZ3e2U",
+      "funnelName": "Blinkdrama-sign-v01",
+      "partnerName": "Blinkdrama",
+      "urlName": "Blinkdrama-sign-v01",
+      "geo": "US",
+      "offerId": "3p81Pz3qvRSk",
+      "offerName": "storyreel-sign-v01-A12-default-9817306223",
+      "channelId": "9817306223",
+      "currentCategory": "肿瘤 / 生物制剂",
+      "reasons": [
+        "Funnel RPM 1.13 低于同国家中位 5.04 的 40%",
+        "漏斗 CTR 15.55 低于同国家中位 31.35 的 50%"
+      ],
+      "severity": "high",
+      "visits": 1624,
+      "revenue": 52.3,
+      "funnelRpm": 1.13,
+      "funnelCtr": 15.55492908877998,
+      "conversion": 138,
+      "funnelClicks": 7173,
+      "suggestCategories": [
+        {
+          "categoryName": "面部提拉",
+          "revenue": 996.86,
+          "visits": 17237,
+          "funnelClicks": 67683,
+          "conversion": 3132,
+          "funnelRpmAvg": 14.733703703703704,
+          "score": 5802.55
+        },
+        {
+          "categoryName": "SUV",
+          "revenue": 836.0600000000001,
+          "visits": 13296,
+          "funnelClicks": 28014,
+          "conversion": 2048,
+          "funnelRpmAvg": 31.589583333333337,
+          "score": 4000.26
+        },
+        {
+          "categoryName": "心理健康 / 成瘾",
+          "revenue": 817.0500000000001,
+          "visits": 15115,
+          "funnelClicks": 48514,
+          "conversion": 1288,
+          "funnelRpmAvg": 11.904102564102564,
+          "score": 3407.2400000000002
+        }
+      ]
+    },
+    {
+      "funnelId": "3rHsTlCL2Fcg",
+      "funnelName": "Vibeshort-V04",
+      "partnerName": "vibeshort",
+      "urlName": "vibeshort-v04",
+      "geo": null,
+      "offerId": "3rHpCprKX16Y",
+      "offerName": "vibeshort-v04-A7-default-11746",
+      "channelId": "11746",
+      "currentCategory": "医疗·泌尿外科",
+      "reasons": [
+        "收入 $0.47 低于同国家中位 $6.99 的 40%",
+        "Funnel RPM 0.23 低于同国家中位 1.19 的 40%"
+      ],
+      "severity": "high",
+      "visits": 1564,
+      "revenue": 0.47,
+      "funnelRpm": 0.23,
+      "funnelCtr": 28.17246447819696,
+      "conversion": 7,
+      "funnelClicks": 575,
+      "suggestCategories": [
+        {
+          "categoryName": "医疗·皮肤",
+          "revenue": 417.69,
+          "visits": 57719,
+          "funnelClicks": 23982,
+          "conversion": 1444,
+          "funnelRpmAvg": 3.0860000000000003,
+          "score": 2519.2
+        },
+        {
+          "categoryName": "自身免疫",
+          "revenue": 298.13,
+          "visits": 73208,
+          "funnelClicks": 43623,
+          "conversion": 1383,
+          "funnelRpmAvg": 3.43,
+          "score": 2415.49
+        },
+        {
+          "categoryName": "眼科 / 视力",
+          "revenue": 197.99,
+          "visits": 74357,
+          "funnelClicks": 32406,
+          "conversion": 1660,
+          "funnelRpmAvg": 2.0549999999999997,
+          "score": 2380.04
+        }
+      ]
+    },
+    {
+      "funnelId": "3zb0bcaeqhVS",
+      "funnelName": "moboreels-v01",
+      "partnerName": null,
+      "urlName": null,
+      "geo": "US",
+      "offerId": "3zazDPPc8BIz",
+      "offerName": "moboreels-v01-A4-US-2811958953-zestfularcade.com",
+      "channelId": "2811958953",
+      "currentCategory": "宠物产品",
+      "reasons": [
+        "Funnel RPM 1.76 低于同国家中位 5.04 的 40%",
+        "漏斗 CTR 13.76 低于同国家中位 31.35 的 50%"
+      ],
+      "severity": "high",
+      "visits": 1216,
+      "revenue": 39.32,
+      "funnelRpm": 1.76,
+      "funnelCtr": 13.755546591367487,
+      "conversion": 111,
+      "funnelClicks": 3069,
+      "suggestCategories": [
+        {
+          "categoryName": "面部提拉",
+          "revenue": 996.86,
+          "visits": 17237,
+          "funnelClicks": 67683,
+          "conversion": 3132,
+          "funnelRpmAvg": 14.733703703703704,
+          "score": 5802.55
+        },
+        {
+          "categoryName": "SUV",
+          "revenue": 836.0600000000001,
+          "visits": 13296,
+          "funnelClicks": 28014,
+          "conversion": 2048,
+          "funnelRpmAvg": 31.589583333333337,
+          "score": 4000.26
+        },
+        {
+          "categoryName": "心理健康 / 成瘾",
+          "revenue": 817.0500000000001,
+          "visits": 15115,
+          "funnelClicks": 48514,
+          "conversion": 1288,
+          "funnelRpmAvg": 11.904102564102564,
+          "score": 3407.2400000000002
+        }
+      ]
+    },
+    {
+      "funnelId": "3wxF131slLhR",
+      "funnelName": "storyreel-v01",
+      "partnerName": "storyreel",
+      "urlName": "storyreel-v01",
+      "geo": null,
+      "offerId": "3wxCVyuPxTwX",
+      "offerName": "storyreel-v01-A5-default-9486100633",
+      "channelId": "9486100633",
+      "currentCategory": "医疗·皮肤",
+      "reasons": [
+        "收入 $0.17 低于同国家中位 $6.99 的 40%",
+        "Funnel RPM 0.11 低于同国家中位 1.19 的 40%"
+      ],
+      "severity": "high",
+      "visits": 1098,
+      "revenue": 0.17,
+      "funnelRpm": 0.11,
+      "funnelCtr": 33.09585492227979,
+      "conversion": 14,
+      "funnelClicks": 511,
+      "suggestCategories": [
+        {
+          "categoryName": "自身免疫",
+          "revenue": 298.13,
+          "visits": 73208,
+          "funnelClicks": 43623,
+          "conversion": 1383,
+          "funnelRpmAvg": 3.43,
+          "score": 2415.49
+        },
+        {
+          "categoryName": "眼科 / 视力",
+          "revenue": 197.99,
+          "visits": 74357,
+          "funnelClicks": 32406,
+          "conversion": 1660,
+          "funnelRpmAvg": 2.0549999999999997,
+          "score": 2380.04
+        },
+        {
+          "categoryName": "GLP-1 / 糖尿病",
+          "revenue": 148.35,
+          "visits": 38919,
+          "funnelClicks": 20230,
+          "conversion": 1076,
+          "funnelRpmAvg": 3.3071428571428574,
+          "score": 1575
+        }
+      ]
+    },
+    {
+      "funnelId": "3wxMhS6zF2m4",
+      "funnelName": "storyreel-v03",
+      "partnerName": "storyreel",
+      "urlName": "storyreel-v03",
+      "geo": null,
+      "offerId": "3wxKy4g7Pmah",
+      "offerName": "storyreel-v03-A7-default-11502",
+      "channelId": "11502",
+      "currentCategory": "医疗·皮肤",
+      "reasons": [
+        "收入 $0.27 低于同国家中位 $6.99 的 40%",
+        "Funnel RPM 0.26 低于同国家中位 1.19 的 40%"
+      ],
+      "severity": "high",
+      "visits": 781,
+      "revenue": 0.27,
+      "funnelRpm": 0.26,
+      "funnelCtr": 32.36151603498542,
+      "conversion": 13,
+      "funnelClicks": 333,
+      "suggestCategories": [
+        {
+          "categoryName": "自身免疫",
+          "revenue": 298.13,
+          "visits": 73208,
+          "funnelClicks": 43623,
+          "conversion": 1383,
+          "funnelRpmAvg": 3.43,
+          "score": 2415.49
+        },
+        {
+          "categoryName": "眼科 / 视力",
+          "revenue": 197.99,
+          "visits": 74357,
+          "funnelClicks": 32406,
+          "conversion": 1660,
+          "funnelRpmAvg": 2.0549999999999997,
+          "score": 2380.04
+        },
+        {
+          "categoryName": "GLP-1 / 糖尿病",
+          "revenue": 148.35,
+          "visits": 38919,
+          "funnelClicks": 20230,
+          "conversion": 1076,
+          "funnelRpmAvg": 3.3071428571428574,
+          "score": 1575
+        }
+      ]
+    },
+    {
+      "funnelId": "3wxMhS6zF2m4",
+      "funnelName": "storyreel-v03",
+      "partnerName": "storyreel",
+      "urlName": "storyreel-v03",
+      "geo": null,
+      "offerId": "3wxKrSo6LQ2m",
+      "offerName": "storyreel-v03-A4-default-9892530755",
+      "channelId": "9892530755",
+      "currentCategory": "GLP-1 / 糖尿病",
+      "reasons": [
+        "收入 $0.39 低于同国家中位 $6.99 的 40%",
+        "Funnel RPM 0.42 低于同国家中位 1.19 的 40%"
+      ],
+      "severity": "high",
+      "visits": 733,
+      "revenue": 0.39,
+      "funnelRpm": 0.42,
+      "funnelCtr": 30.257510729613735,
+      "conversion": 12,
+      "funnelClicks": 282,
+      "suggestCategories": [
+        {
+          "categoryName": "医疗·皮肤",
+          "revenue": 417.69,
+          "visits": 57719,
+          "funnelClicks": 23982,
+          "conversion": 1444,
+          "funnelRpmAvg": 3.0860000000000003,
+          "score": 2519.2
+        },
+        {
+          "categoryName": "自身免疫",
+          "revenue": 298.13,
+          "visits": 73208,
+          "funnelClicks": 43623,
+          "conversion": 1383,
+          "funnelRpmAvg": 3.43,
+          "score": 2415.49
+        },
+        {
+          "categoryName": "眼科 / 视力",
+          "revenue": 197.99,
+          "visits": 74357,
+          "funnelClicks": 32406,
+          "conversion": 1660,
+          "funnelRpmAvg": 2.0549999999999997,
+          "score": 2380.04
+        }
+      ]
+    },
+    {
+      "funnelId": "3wxMhS6zF2m4",
+      "funnelName": "storyreel-v03",
+      "partnerName": "storyreel",
+      "urlName": "storyreel-v03",
+      "geo": null,
+      "offerId": "3wxL8oZLkJiA",
+      "offerName": "storyreel-v03-A5-default-9392114755",
+      "channelId": "9392114755",
+      "currentCategory": "医疗·泌尿外科",
+      "reasons": [
+        "收入 $0.22 低于同国家中位 $6.99 的 40%",
+        "Funnel RPM 0.23 低于同国家中位 1.19 的 40%"
+      ],
+      "severity": "high",
+      "visits": 716,
+      "revenue": 0.22,
+      "funnelRpm": 0.23,
+      "funnelCtr": 27.626050420168067,
+      "conversion": 11,
+      "funnelClicks": 263,
+      "suggestCategories": [
+        {
+          "categoryName": "医疗·皮肤",
+          "revenue": 417.69,
+          "visits": 57719,
+          "funnelClicks": 23982,
+          "conversion": 1444,
+          "funnelRpmAvg": 3.0860000000000003,
+          "score": 2519.2
+        },
+        {
+          "categoryName": "自身免疫",
+          "revenue": 298.13,
+          "visits": 73208,
+          "funnelClicks": 43623,
+          "conversion": 1383,
+          "funnelRpmAvg": 3.43,
+          "score": 2415.49
+        },
+        {
+          "categoryName": "眼科 / 视力",
+          "revenue": 197.99,
+          "visits": 74357,
+          "funnelClicks": 32406,
+          "conversion": 1660,
+          "funnelRpmAvg": 2.0549999999999997,
+          "score": 2380.04
+        }
+      ]
+    },
+    {
+      "funnelId": "3ws8SMf82B2C",
+      "funnelName": "ShortMax-v06",
+      "partnerName": "shortmax",
+      "urlName": null,
+      "geo": null,
+      "offerId": "3ws6tRAB8KRH",
+      "offerName": "shortmax-v06-A15-default-2054687076",
+      "channelId": "2054687076",
+      "currentCategory": "医疗·皮肤",
+      "reasons": [
+        "收入 $0.30 低于同国家中位 $6.99 的 40%",
+        "Funnel RPM 0.39 低于同国家中位 1.19 的 40%"
+      ],
+      "severity": "high",
+      "visits": 574,
+      "revenue": 0.3,
+      "funnelRpm": 0.39,
+      "funnelCtr": 30.82901554404145,
+      "conversion": 2,
+      "funnelClicks": 238,
+      "suggestCategories": [
+        {
+          "categoryName": "自身免疫",
+          "revenue": 298.13,
+          "visits": 73208,
+          "funnelClicks": 43623,
+          "conversion": 1383,
+          "funnelRpmAvg": 3.43,
+          "score": 2415.49
+        },
+        {
+          "categoryName": "眼科 / 视力",
+          "revenue": 197.99,
+          "visits": 74357,
+          "funnelClicks": 32406,
+          "conversion": 1660,
+          "funnelRpmAvg": 2.0549999999999997,
+          "score": 2380.04
+        },
+        {
+          "categoryName": "GLP-1 / 糖尿病",
+          "revenue": 148.35,
+          "visits": 38919,
+          "funnelClicks": 20230,
+          "conversion": 1076,
+          "funnelRpmAvg": 3.3071428571428574,
+          "score": 1575
+        }
+      ]
+    },
+    {
+      "funnelId": "3uUfpSpZ3e2U",
+      "funnelName": "Blinkdrama-sign-v01",
+      "partnerName": "Blinkdrama",
+      "urlName": "Blinkdrama-sign-v01",
+      "geo": "US",
+      "offerId": "3ywI7ngx19LX",
+      "offerName": "Blinkdrama-sign-v01-A15-us-1607158614-lstmai.com",
+      "channelId": "1607158614",
+      "currentCategory": "汽车金融",
+      "reasons": [
+        "收入 $0.00 低于同国家中位 $2.33 的 40%",
+        "Funnel RPM 0.00 低于同国家中位 5.04 的 40%",
+        "漏斗 CTR 11.11 低于同国家中位 31.35 的 50%"
+      ],
+      "severity": "high",
+      "visits": 558,
+      "revenue": 0,
+      "funnelRpm": 0,
+      "funnelCtr": 11.11111111111111,
+      "conversion": 1,
+      "funnelClicks": 4,
+      "suggestCategories": [
+        {
+          "categoryName": "面部提拉",
+          "revenue": 996.86,
+          "visits": 17237,
+          "funnelClicks": 67683,
+          "conversion": 3132,
+          "funnelRpmAvg": 14.733703703703704,
+          "score": 5802.55
+        },
+        {
+          "categoryName": "SUV",
+          "revenue": 836.0600000000001,
+          "visits": 13296,
+          "funnelClicks": 28014,
+          "conversion": 2048,
+          "funnelRpmAvg": 31.589583333333337,
+          "score": 4000.26
+        },
+        {
+          "categoryName": "心理健康 / 成瘾",
+          "revenue": 817.0500000000001,
+          "visits": 15115,
+          "funnelClicks": 48514,
+          "conversion": 1288,
+          "funnelRpmAvg": 11.904102564102564,
+          "score": 3407.2400000000002
+        }
+      ]
+    },
+    {
+      "funnelId": "3zawx1d3eHDg",
+      "funnelName": "reader-v01",
+      "partnerName": null,
+      "urlName": null,
+      "geo": "US",
+      "offerId": "3zauUYPQam8T",
+      "offerName": "reader-v01-A5-us-1930962446-whirlwindarcade.com",
+      "channelId": "1930962446",
+      "currentCategory": "消费电子",
+      "reasons": [
+        "Funnel RPM 0.60 低于同国家中位 5.04 的 40%",
+        "漏斗 CTR 11.66 低于同国家中位 31.35 的 50%"
+      ],
+      "severity": "high",
+      "visits": 484,
+      "revenue": 9.17,
+      "funnelRpm": 0.6,
+      "funnelCtr": 11.658099380519308,
+      "conversion": 11,
+      "funnelClicks": 1769,
+      "suggestCategories": [
+        {
+          "categoryName": "面部提拉",
+          "revenue": 996.86,
+          "visits": 17237,
+          "funnelClicks": 67683,
+          "conversion": 3132,
+          "funnelRpmAvg": 14.733703703703704,
+          "score": 5802.55
+        },
+        {
+          "categoryName": "SUV",
+          "revenue": 836.0600000000001,
+          "visits": 13296,
+          "funnelClicks": 28014,
+          "conversion": 2048,
+          "funnelRpmAvg": 31.589583333333337,
+          "score": 4000.26
+        },
+        {
+          "categoryName": "心理健康 / 成瘾",
+          "revenue": 817.0500000000001,
+          "visits": 15115,
+          "funnelClicks": 48514,
+          "conversion": 1288,
+          "funnelRpmAvg": 11.904102564102564,
+          "score": 3407.2400000000002
+        }
+      ]
+    },
+    {
+      "funnelId": "3zb0bcaeqhVS",
+      "funnelName": "moboreels-v01",
+      "partnerName": null,
+      "urlName": null,
+      "geo": "US",
+      "offerId": "3zaz4QenVAvV",
+      "offerName": "moboreels-v01-A12-us-4301742392-degreesuccesstips.com",
+      "channelId": "4301742392",
+      "currentCategory": "肿瘤 / 生物制剂",
+      "reasons": [
+        "Funnel RPM 0.80 低于同国家中位 5.04 的 40%",
+        "漏斗 CTR 13.11 低于同国家中位 31.35 的 50%"
+      ],
+      "severity": "high",
+      "visits": 476,
+      "revenue": 17.29,
+      "funnelRpm": 0.8,
+      "funnelCtr": 13.105229180116204,
+      "conversion": 30,
+      "funnelClicks": 2842,
+      "suggestCategories": [
+        {
+          "categoryName": "面部提拉",
+          "revenue": 996.86,
+          "visits": 17237,
+          "funnelClicks": 67683,
+          "conversion": 3132,
+          "funnelRpmAvg": 14.733703703703704,
+          "score": 5802.55
+        },
+        {
+          "categoryName": "SUV",
+          "revenue": 836.0600000000001,
+          "visits": 13296,
+          "funnelClicks": 28014,
+          "conversion": 2048,
+          "funnelRpmAvg": 31.589583333333337,
+          "score": 4000.26
+        },
+        {
+          "categoryName": "心理健康 / 成瘾",
+          "revenue": 817.0500000000001,
+          "visits": 15115,
+          "funnelClicks": 48514,
+          "conversion": 1288,
+          "funnelRpmAvg": 11.904102564102564,
+          "score": 3407.2400000000002
+        }
+      ]
+    },
+    {
+      "funnelId": "3zawx1d3eHDg",
+      "funnelName": "reader-v01",
+      "partnerName": null,
+      "urlName": null,
+      "geo": "US",
+      "offerId": "3zauhaQtjnmN",
+      "offerName": "reader-v01-A4-us-7723809864-zestfularcade.com",
+      "channelId": "7723809864",
+      "currentCategory": "宠物产品",
+      "reasons": [
+        "Funnel RPM 0.97 低于同国家中位 5.04 的 40%",
+        "漏斗 CTR 10.24 低于同国家中位 31.35 的 50%"
+      ],
+      "severity": "high",
+      "visits": 430,
+      "revenue": 14.02,
+      "funnelRpm": 0.97,
+      "funnelCtr": 10.243835048697935,
+      "conversion": 7,
+      "funnelClicks": 1483,
+      "suggestCategories": [
+        {
+          "categoryName": "面部提拉",
+          "revenue": 996.86,
+          "visits": 17237,
+          "funnelClicks": 67683,
+          "conversion": 3132,
+          "funnelRpmAvg": 14.733703703703704,
+          "score": 5802.55
+        },
+        {
+          "categoryName": "SUV",
+          "revenue": 836.0600000000001,
+          "visits": 13296,
+          "funnelClicks": 28014,
+          "conversion": 2048,
+          "funnelRpmAvg": 31.589583333333337,
+          "score": 4000.26
+        },
+        {
+          "categoryName": "心理健康 / 成瘾",
+          "revenue": 817.0500000000001,
+          "visits": 15115,
+          "funnelClicks": 48514,
+          "conversion": 1288,
+          "funnelRpmAvg": 11.904102564102564,
+          "score": 3407.2400000000002
+        }
+      ]
+    },
+    {
+      "funnelId": "3zb0bcaeqhVS",
+      "funnelName": "moboreels-v01",
+      "partnerName": null,
+      "urlName": null,
+      "geo": "US",
+      "offerId": "3zazNqvwbaES",
+      "offerName": "moboreels-v01-A7-us-10924-algo-cash.com",
+      "channelId": "10924",
+      "currentCategory": "汽车金融",
+      "reasons": [
+        "Funnel RPM 0.76 低于同国家中位 5.04 的 40%",
+        "漏斗 CTR 15.22 低于同国家中位 31.35 的 50%"
+      ],
+      "severity": "high",
+      "visits": 384,
+      "revenue": 16.89,
+      "funnelRpm": 0.76,
+      "funnelCtr": 15.223097112860893,
+      "conversion": 17,
+      "funnelClicks": 3364,
+      "suggestCategories": [
+        {
+          "categoryName": "面部提拉",
+          "revenue": 996.86,
+          "visits": 17237,
+          "funnelClicks": 67683,
+          "conversion": 3132,
+          "funnelRpmAvg": 14.733703703703704,
+          "score": 5802.55
+        },
+        {
+          "categoryName": "SUV",
+          "revenue": 836.0600000000001,
+          "visits": 13296,
+          "funnelClicks": 28014,
+          "conversion": 2048,
+          "funnelRpmAvg": 31.589583333333337,
+          "score": 4000.26
+        },
+        {
+          "categoryName": "心理健康 / 成瘾",
+          "revenue": 817.0500000000001,
+          "visits": 15115,
+          "funnelClicks": 48514,
+          "conversion": 1288,
+          "funnelRpmAvg": 11.904102564102564,
+          "score": 3407.2400000000002
+        }
+      ]
+    },
+    {
+      "funnelId": "3zb0bcaeqhVS",
+      "funnelName": "moboreels-v01",
+      "partnerName": null,
+      "urlName": null,
+      "geo": "US",
+      "offerId": "402ESIGRce2n",
+      "offerName": "moboreels-v01-A7-us-10924-quantify-energy.com",
+      "channelId": "10924",
+      "currentCategory": "注射除皱",
+      "reasons": [
+        "Funnel RPM 0.76 低于同国家中位 5.04 的 40%",
+        "漏斗 CTR 15.22 低于同国家中位 31.35 的 50%"
+      ],
+      "severity": "high",
+      "visits": 374,
+      "revenue": 16.89,
+      "funnelRpm": 0.76,
+      "funnelCtr": 15.223097112860893,
+      "conversion": 16,
+      "funnelClicks": 3364,
+      "suggestCategories": [
+        {
+          "categoryName": "面部提拉",
+          "revenue": 996.86,
+          "visits": 17237,
+          "funnelClicks": 67683,
+          "conversion": 3132,
+          "funnelRpmAvg": 14.733703703703704,
+          "score": 5802.55
+        },
+        {
+          "categoryName": "SUV",
+          "revenue": 836.0600000000001,
+          "visits": 13296,
+          "funnelClicks": 28014,
+          "conversion": 2048,
+          "funnelRpmAvg": 31.589583333333337,
+          "score": 4000.26
+        },
+        {
+          "categoryName": "心理健康 / 成瘾",
+          "revenue": 817.0500000000001,
+          "visits": 15115,
+          "funnelClicks": 48514,
+          "conversion": 1288,
+          "funnelRpmAvg": 11.904102564102564,
+          "score": 3407.2400000000002
+        }
+      ]
+    },
+    {
+      "funnelId": "3zaxNqwFxfnB",
+      "funnelName": "reader-v02",
+      "partnerName": null,
+      "urlName": null,
+      "geo": "US",
+      "offerId": "3zavUMkw3NMi",
+      "offerName": "reader-v02-A12-US-2402337368-degreesuccesstips.com",
+      "channelId": "2402337368",
+      "currentCategory": "肿瘤 / 生物制剂",
+      "reasons": [
+        "Funnel RPM 0.44 低于同国家中位 5.04 的 40%",
+        "漏斗 CTR 8.48 低于同国家中位 31.35 的 50%"
+      ],
+      "severity": "high",
+      "visits": 340,
+      "revenue": 1.01,
+      "funnelRpm": 0.44,
+      "funnelCtr": 8.479789103690685,
+      "conversion": 2,
+      "funnelClicks": 193,
+      "suggestCategories": [
+        {
+          "categoryName": "面部提拉",
+          "revenue": 996.86,
+          "visits": 17237,
+          "funnelClicks": 67683,
+          "conversion": 3132,
+          "funnelRpmAvg": 14.733703703703704,
+          "score": 5802.55
+        },
+        {
+          "categoryName": "SUV",
+          "revenue": 836.0600000000001,
+          "visits": 13296,
+          "funnelClicks": 28014,
+          "conversion": 2048,
+          "funnelRpmAvg": 31.589583333333337,
+          "score": 4000.26
+        },
+        {
+          "categoryName": "心理健康 / 成瘾",
+          "revenue": 817.0500000000001,
+          "visits": 15115,
+          "funnelClicks": 48514,
+          "conversion": 1288,
+          "funnelRpmAvg": 11.904102564102564,
+          "score": 3407.2400000000002
+        }
+      ]
+    },
+    {
+      "funnelId": "3zb3PGEznP52",
+      "funnelName": "moboreels-v03",
+      "partnerName": null,
+      "urlName": null,
+      "geo": "US",
+      "offerId": "3zb1drsZvtna",
+      "offerName": "moboreels-v03-A12-us-2506279147-intodeepdive.com",
+      "channelId": "2506279147",
+      "currentCategory": "消费电子",
+      "reasons": [
+        "Funnel RPM 0.42 低于同国家中位 5.04 的 40%",
+        "漏斗 CTR 12.66 低于同国家中位 31.35 的 50%"
+      ],
+      "severity": "high",
+      "visits": 239,
+      "revenue": 8.13,
+      "funnelRpm": 0.42,
+      "funnelCtr": 12.655188269555,
+      "conversion": 12,
+      "funnelClicks": 2477,
+      "suggestCategories": [
+        {
+          "categoryName": "面部提拉",
+          "revenue": 996.86,
+          "visits": 17237,
+          "funnelClicks": 67683,
+          "conversion": 3132,
+          "funnelRpmAvg": 14.733703703703704,
+          "score": 5802.55
+        },
+        {
+          "categoryName": "SUV",
+          "revenue": 836.0600000000001,
+          "visits": 13296,
+          "funnelClicks": 28014,
+          "conversion": 2048,
+          "funnelRpmAvg": 31.589583333333337,
+          "score": 4000.26
+        },
+        {
+          "categoryName": "心理健康 / 成瘾",
+          "revenue": 817.0500000000001,
+          "visits": 15115,
+          "funnelClicks": 48514,
+          "conversion": 1288,
+          "funnelRpmAvg": 11.904102564102564,
+          "score": 3407.2400000000002
+        }
+      ]
+    },
+    {
+      "funnelId": "3zb2pKLqQr7e",
+      "funnelName": "moboreels-v02",
+      "partnerName": "changdu",
+      "urlName": "moboreels",
+      "geo": "US",
+      "offerId": "3zb01gVvKVmz",
+      "offerName": "moboreels-v02-A12-US-3731730900-intodeepdive.com",
+      "channelId": "3731730900",
+      "currentCategory": "新能源汽车",
+      "reasons": [
+        "有访问(173)但转化=0",
+        "Funnel RPM 0.11 低于同国家中位 5.04 的 40%",
+        "漏斗 CTR 13.54 低于同国家中位 31.35 的 50%"
+      ],
+      "severity": "high",
+      "visits": 173,
+      "revenue": 1.98,
+      "funnelRpm": 0.11,
+      "funnelCtr": 13.53941609883109,
+      "conversion": 0,
+      "funnelClicks": 2444,
+      "suggestCategories": [
+        {
+          "categoryName": "面部提拉",
+          "revenue": 996.86,
+          "visits": 17237,
+          "funnelClicks": 67683,
+          "conversion": 3132,
+          "funnelRpmAvg": 14.733703703703704,
+          "score": 5802.55
+        },
+        {
+          "categoryName": "SUV",
+          "revenue": 836.0600000000001,
+          "visits": 13296,
+          "funnelClicks": 28014,
+          "conversion": 2048,
+          "funnelRpmAvg": 31.589583333333337,
+          "score": 4000.26
+        },
+        {
+          "categoryName": "心理健康 / 成瘾",
+          "revenue": 817.0500000000001,
+          "visits": 15115,
+          "funnelClicks": 48514,
+          "conversion": 1288,
+          "funnelRpmAvg": 11.904102564102564,
+          "score": 3407.2400000000002
+        }
+      ]
+    },
+    {
+      "funnelId": "3zb2pKLqQr7e",
+      "funnelName": "moboreels-v02",
+      "partnerName": "changdu",
+      "urlName": "moboreels",
+      "geo": "US",
+      "offerId": "3zb0HmEeVleA",
+      "offerName": "moboreels-v02-A4-US-8671712417-zestfularcade.com",
+      "channelId": "8671712417",
+      "currentCategory": "注射除皱",
+      "reasons": [
+        "Funnel RPM 0.09 低于同国家中位 5.04 的 40%",
+        "漏斗 CTR 14.34 低于同国家中位 31.35 的 50%"
+      ],
+      "severity": "high",
+      "visits": 79,
+      "revenue": 1.54,
+      "funnelRpm": 0.09,
+      "funnelCtr": 14.341979406965622,
+      "conversion": 2,
+      "funnelClicks": 2549,
+      "suggestCategories": [
+        {
+          "categoryName": "面部提拉",
+          "revenue": 996.86,
+          "visits": 17237,
+          "funnelClicks": 67683,
+          "conversion": 3132,
+          "funnelRpmAvg": 14.733703703703704,
+          "score": 5802.55
+        },
+        {
+          "categoryName": "SUV",
+          "revenue": 836.0600000000001,
+          "visits": 13296,
+          "funnelClicks": 28014,
+          "conversion": 2048,
+          "funnelRpmAvg": 31.589583333333337,
+          "score": 4000.26
+        },
+        {
+          "categoryName": "心理健康 / 成瘾",
+          "revenue": 817.0500000000001,
+          "visits": 15115,
+          "funnelClicks": 48514,
+          "conversion": 1288,
+          "funnelRpmAvg": 11.904102564102564,
+          "score": 3407.2400000000002
+        }
+      ]
+    },
+    {
+      "funnelId": "3ykKt2fZxicx",
+      "funnelName": "storyreel-v02",
+      "partnerName": "storyreel",
+      "urlName": "storyreel-v02",
+      "geo": "US",
+      "offerId": "3yk4VrB8HRdZ",
+      "offerName": "storyreel-v02-A4-us-8236490346-joyfulgaminghub9.com",
+      "channelId": "8236490346",
+      "currentCategory": "汽车金融",
+      "reasons": [
+        "有访问(54)但转化=0"
+      ],
+      "severity": "high",
+      "visits": 54,
+      "revenue": 30.28,
+      "funnelRpm": 9.03,
+      "funnelCtr": 34.457040572792366,
+      "conversion": 0,
+      "funnelClicks": 1155,
+      "suggestCategories": [
+        {
+          "categoryName": "面部提拉",
+          "revenue": 996.86,
+          "visits": 17237,
+          "funnelClicks": 67683,
+          "conversion": 3132,
+          "funnelRpmAvg": 14.733703703703704,
+          "score": 5802.55
+        },
+        {
+          "categoryName": "SUV",
+          "revenue": 836.0600000000001,
+          "visits": 13296,
+          "funnelClicks": 28014,
+          "conversion": 2048,
+          "funnelRpmAvg": 31.589583333333337,
+          "score": 4000.26
+        },
+        {
+          "categoryName": "心理健康 / 成瘾",
+          "revenue": 817.0500000000001,
+          "visits": 15115,
+          "funnelClicks": 48514,
+          "conversion": 1288,
+          "funnelRpmAvg": 11.904102564102564,
+          "score": 3407.2400000000002
+        }
+      ]
+    },
+    {
+      "funnelId": "3ykKt2fZxicx",
+      "funnelName": "storyreel-v02",
+      "partnerName": "storyreel",
+      "urlName": "storyreel-v02",
+      "geo": "US",
+      "offerId": "3yk4daYIi9mk",
+      "offerName": "storyreel-v02-A12-us-9128576243-aivestorhq.com",
+      "channelId": "9128576243",
+      "currentCategory": "宠物产品",
+      "reasons": [
+        "有访问(40)但转化=0"
+      ],
+      "severity": "high",
+      "visits": 40,
+      "revenue": 15.35,
+      "funnelRpm": 4.59,
+      "funnelCtr": 38.06393785479534,
+      "conversion": 0,
+      "funnelClicks": 1274,
+      "suggestCategories": [
+        {
+          "categoryName": "面部提拉",
+          "revenue": 996.86,
+          "visits": 17237,
+          "funnelClicks": 67683,
+          "conversion": 3132,
+          "funnelRpmAvg": 14.733703703703704,
+          "score": 5802.55
+        },
+        {
+          "categoryName": "SUV",
+          "revenue": 836.0600000000001,
+          "visits": 13296,
+          "funnelClicks": 28014,
+          "conversion": 2048,
+          "funnelRpmAvg": 31.589583333333337,
+          "score": 4000.26
+        },
+        {
+          "categoryName": "心理健康 / 成瘾",
+          "revenue": 817.0500000000001,
+          "visits": 15115,
+          "funnelClicks": 48514,
+          "conversion": 1288,
+          "funnelRpmAvg": 11.904102564102564,
+          "score": 3407.2400000000002
+        }
+      ]
+    },
+    {
+      "funnelId": "3p82yVFf1xF9",
+      "funnelName": "storyreel-sign-v01",
+      "partnerName": "storyreel",
+      "urlName": "storyreel-sign-v01",
+      "geo": "US",
+      "offerId": "3p811ASKlKvO",
+      "offerName": "storyreel-sign-v01-A7-us-11482-algo-cash.com",
+      "channelId": "11482",
+      "currentCategory": "心理健康 / 成瘾",
+      "reasons": [
+        "有访问(38)但转化=0"
+      ],
+      "severity": "high",
+      "visits": 38,
+      "revenue": 19.71,
+      "funnelRpm": 8.47,
+      "funnelCtr": 25.601374570446737,
+      "conversion": 0,
+      "funnelClicks": 596,
+      "suggestCategories": [
+        {
+          "categoryName": "面部提拉",
+          "revenue": 996.86,
+          "visits": 17237,
+          "funnelClicks": 67683,
+          "conversion": 3132,
+          "funnelRpmAvg": 14.733703703703704,
+          "score": 5802.55
+        },
+        {
+          "categoryName": "SUV",
+          "revenue": 836.0600000000001,
+          "visits": 13296,
+          "funnelClicks": 28014,
+          "conversion": 2048,
+          "funnelRpmAvg": 31.589583333333337,
+          "score": 4000.26
+        },
+        {
+          "categoryName": "新能源汽车",
+          "revenue": 538.3299999999999,
+          "visits": 12069,
+          "funnelClicks": 53875,
+          "conversion": 1662,
+          "funnelRpmAvg": 25.08612903225807,
+          "score": 3277.41
+        }
+      ]
+    },
+    {
+      "funnelId": "3p82yVFf1xF9",
+      "funnelName": "storyreel-sign-v01",
+      "partnerName": "storyreel",
+      "urlName": "storyreel-sign-v01",
+      "geo": "US",
+      "offerId": "3p80SplcYLVo",
+      "offerName": "storyreel-sign-v01-A4-us-9470541113-zestfularcade.com",
+      "channelId": "9470541113",
+      "currentCategory": "肿瘤 / 生物制剂",
+      "reasons": [
+        "有访问(37)但转化=0"
+      ],
+      "severity": "high",
+      "visits": 37,
+      "revenue": 16.25,
+      "funnelRpm": 7.2,
+      "funnelCtr": 26.805494018608773,
+      "conversion": 0,
+      "funnelClicks": 605,
+      "suggestCategories": [
+        {
+          "categoryName": "面部提拉",
+          "revenue": 996.86,
+          "visits": 17237,
+          "funnelClicks": 67683,
+          "conversion": 3132,
+          "funnelRpmAvg": 14.733703703703704,
+          "score": 5802.55
+        },
+        {
+          "categoryName": "SUV",
+          "revenue": 836.0600000000001,
+          "visits": 13296,
+          "funnelClicks": 28014,
+          "conversion": 2048,
+          "funnelRpmAvg": 31.589583333333337,
+          "score": 4000.26
+        },
+        {
+          "categoryName": "心理健康 / 成瘾",
+          "revenue": 817.0500000000001,
+          "visits": 15115,
+          "funnelClicks": 48514,
+          "conversion": 1288,
+          "funnelRpmAvg": 11.904102564102564,
+          "score": 3407.2400000000002
+        }
+      ]
+    }
+  ],
+  "funnelReplaceSummaries": [
+    {
+      "funnelId": "3zb2pKLqQr7e",
+      "funnelName": "moboreels-v02",
+      "partnerName": "changdu",
+      "urlName": "moboreels",
+      "weakOfferCount": 5,
+      "highSeverityCount": 5,
+      "visits": 55153,
+      "revenue": 7.45,
+      "currentCategories": [
+        "医疗·偏头痛",
+        "诊断 / 急诊",
+        "心理健康 / 成瘾",
+        "新能源汽车",
+        "注射除皱"
+      ],
+      "suggestCategories": [
+        "医疗·皮肤",
+        "面部提拉",
+        "自身免疫"
+      ],
+      "sampleReasons": [
+        "收入 $1.54 低于同国家中位 $6.99 的 40%",
+        "Funnel RPM 0.09 低于同国家中位 1.19 的 40%",
+        "漏斗 CTR 14.34 低于同国家中位 32.81 的 50%"
+      ]
+    },
+    {
+      "funnelId": "3zawx1d3eHDg",
+      "funnelName": "reader-v01",
+      "partnerName": null,
+      "urlName": null,
+      "weakOfferCount": 5,
+      "highSeverityCount": 5,
+      "visits": 25061,
+      "revenue": 68.74000000000001,
+      "currentCategories": [
+        "诊断 / 急诊",
+        "新能源汽车",
+        "注射除皱",
+        "消费电子",
+        "宠物产品"
+      ],
+      "suggestCategories": [
+        "面部提拉",
+        "SUV",
+        "心理健康 / 成瘾"
+      ],
+      "sampleReasons": [
+        "收入 $2.35 低于同国家中位 $6.99 的 40%",
+        "Funnel RPM 0.16 低于同国家中位 1.19 的 40%",
+        "漏斗 CTR 11.08 低于同国家中位 32.81 的 50%"
+      ]
+    },
+    {
+      "funnelId": "3zb0bcaeqhVS",
+      "funnelName": "moboreels-v01",
+      "partnerName": null,
+      "urlName": null,
+      "weakOfferCount": 5,
+      "highSeverityCount": 5,
+      "visits": 24397,
+      "revenue": 92.53,
+      "currentCategories": [
+        "骨科 / 关节",
+        "宠物产品",
+        "肿瘤 / 生物制剂",
+        "汽车金融",
+        "注射除皱"
+      ],
+      "suggestCategories": [
+        "面部提拉",
+        "SUV",
+        "心理健康 / 成瘾"
+      ],
+      "sampleReasons": [
+        "收入 $2.14 低于同国家中位 $6.99 的 40%",
+        "Funnel RPM 0.10 低于同国家中位 1.19 的 40%",
+        "漏斗 CTR 14.30 低于同国家中位 32.81 的 50%"
+      ]
+    },
+    {
+      "funnelId": "3zaxNqwFxfnB",
+      "funnelName": "reader-v02",
+      "partnerName": null,
+      "urlName": null,
+      "weakOfferCount": 5,
+      "highSeverityCount": 5,
+      "visits": 10820,
+      "revenue": 2.55,
+      "currentCategories": [
+        "骨科 / 关节",
+        "心血管 / 抗凝",
+        "医疗·皮肤",
+        "肿瘤 / 生物制剂"
+      ],
+      "suggestCategories": [
+        "面部提拉",
+        "SUV",
+        "心理健康 / 成瘾"
+      ],
+      "sampleReasons": [
+        "收入 $0.42 低于同国家中位 $2.33 的 40%",
+        "Funnel RPM 0.19 低于同国家中位 5.04 的 40%",
+        "漏斗 CTR 7.71 低于同国家中位 31.35 的 50%"
+      ]
+    },
+    {
+      "funnelId": "3zb3PGEznP52",
+      "funnelName": "moboreels-v03",
+      "partnerName": null,
+      "urlName": null,
+      "weakOfferCount": 3,
+      "highSeverityCount": 3,
+      "visits": 37228,
+      "revenue": 18.03,
+      "currentCategories": [
+        "呼吸与睡眠",
+        "眼科 / 视力",
+        "消费电子"
+      ],
+      "suggestCategories": [
+        "医疗·皮肤",
+        "自身免疫",
+        "面部提拉"
+      ],
+      "sampleReasons": [
+        "Funnel RPM 0.42 低于同国家中位 1.19 的 40%",
+        "漏斗 CTR 12.66 低于同国家中位 32.81 的 50%",
+        "收入 $1.77 低于同国家中位 $6.99 的 40%"
+      ]
+    },
+    {
+      "funnelId": "3zb3S8BZbPfp",
+      "funnelName": "moboreels-v04",
+      "partnerName": null,
+      "urlName": null,
+      "weakOfferCount": 3,
+      "highSeverityCount": 3,
+      "visits": 11441,
+      "revenue": 2.8,
+      "currentCategories": [
+        "面部提拉",
+        "宠物产品",
+        "汽车金融"
+      ],
+      "suggestCategories": [
+        "医疗·皮肤",
+        "自身免疫",
+        "眼科 / 视力"
+      ],
+      "sampleReasons": [
+        "收入 $0.79 低于同国家中位 $6.99 的 40%",
+        "Funnel RPM 0.20 低于同国家中位 1.19 的 40%",
+        "漏斗 CTR 12.96 低于同国家中位 32.81 的 50%"
+      ]
+    },
+    {
+      "funnelId": "3uUfpSpZ3e2U",
+      "funnelName": "Blinkdrama-sign-v01",
+      "partnerName": "Blinkdrama",
+      "urlName": "Blinkdrama-sign-v01",
+      "weakOfferCount": 3,
+      "highSeverityCount": 3,
+      "visits": 3903,
+      "revenue": 73.91,
+      "currentCategories": [
+        "汽车金融",
+        "肿瘤 / 生物制剂"
+      ],
+      "suggestCategories": [
+        "面部提拉",
+        "SUV",
+        "心理健康 / 成瘾"
+      ],
+      "sampleReasons": [
+        "有访问(1721)但转化=0",
+        "Funnel RPM 0.47 低于同国家中位 5.04 的 40%",
+        "Funnel RPM 1.13 低于同国家中位 5.04 的 40%"
+      ]
+    },
+    {
+      "funnelId": "3wxMhS6zF2m4",
+      "funnelName": "storyreel-v03",
+      "partnerName": "storyreel",
+      "urlName": "storyreel-v03",
+      "weakOfferCount": 3,
+      "highSeverityCount": 3,
+      "visits": 2230,
+      "revenue": 0.88,
+      "currentCategories": [
+        "医疗·皮肤",
+        "GLP-1 / 糖尿病",
+        "医疗·泌尿外科"
+      ],
+      "suggestCategories": [
+        "自身免疫",
+        "医疗·皮肤",
+        "眼科 / 视力"
+      ],
+      "sampleReasons": [
+        "收入 $0.27 低于同国家中位 $6.99 的 40%",
+        "Funnel RPM 0.26 低于同国家中位 1.19 的 40%",
+        "收入 $0.39 低于同国家中位 $6.99 的 40%"
+      ]
+    },
+    {
+      "funnelId": "3ykKt2fZxicx",
+      "funnelName": "storyreel-v02",
+      "partnerName": "storyreel",
+      "urlName": "storyreel-v02",
+      "weakOfferCount": 2,
+      "highSeverityCount": 2,
+      "visits": 94,
+      "revenue": 45.63,
+      "currentCategories": [
+        "汽车金融",
+        "宠物产品"
+      ],
+      "suggestCategories": [
+        "面部提拉",
+        "SUV",
+        "心理健康 / 成瘾"
+      ],
+      "sampleReasons": [
+        "有访问(54)但转化=0",
+        "有访问(40)但转化=0"
+      ]
+    },
+    {
+      "funnelId": "3p82yVFf1xF9",
+      "funnelName": "storyreel-sign-v01",
+      "partnerName": "storyreel",
+      "urlName": "storyreel-sign-v01",
+      "weakOfferCount": 2,
+      "highSeverityCount": 2,
+      "visits": 75,
+      "revenue": 35.96,
+      "currentCategories": [
+        "心理健康 / 成瘾",
+        "肿瘤 / 生物制剂"
+      ],
+      "suggestCategories": [
+        "面部提拉",
+        "SUV",
+        "心理健康 / 成瘾"
+      ],
+      "sampleReasons": [
+        "有访问(38)但转化=0",
+        "有访问(37)但转化=0"
+      ]
+    },
+    {
+      "funnelId": "3z7d1Vmn8Fku",
+      "funnelName": "ShortMax-v04",
+      "partnerName": null,
+      "urlName": null,
+      "weakOfferCount": 1,
+      "highSeverityCount": 1,
+      "visits": 1896,
+      "revenue": 0.34,
+      "currentCategories": [
+        "呼吸与睡眠"
+      ],
+      "suggestCategories": [
+        "医疗·皮肤",
+        "自身免疫",
+        "眼科 / 视力"
+      ],
+      "sampleReasons": [
+        "收入 $0.34 低于同国家中位 $6.99 的 40%",
+        "Funnel RPM 0.13 低于同国家中位 1.19 的 40%"
+      ]
+    },
+    {
+      "funnelId": "3rHsTlCL2Fcg",
+      "funnelName": "Vibeshort-V04",
+      "partnerName": "vibeshort",
+      "urlName": "vibeshort-v04",
+      "weakOfferCount": 1,
+      "highSeverityCount": 1,
+      "visits": 1564,
+      "revenue": 0.47,
+      "currentCategories": [
+        "医疗·泌尿外科"
+      ],
+      "suggestCategories": [
+        "医疗·皮肤",
+        "自身免疫",
+        "眼科 / 视力"
+      ],
+      "sampleReasons": [
+        "收入 $0.47 低于同国家中位 $6.99 的 40%",
+        "Funnel RPM 0.23 低于同国家中位 1.19 的 40%"
+      ]
+    },
+    {
+      "funnelId": "3wxF131slLhR",
+      "funnelName": "storyreel-v01",
+      "partnerName": "storyreel",
+      "urlName": "storyreel-v01",
+      "weakOfferCount": 1,
+      "highSeverityCount": 1,
+      "visits": 1098,
+      "revenue": 0.17,
+      "currentCategories": [
+        "医疗·皮肤"
+      ],
+      "suggestCategories": [
+        "自身免疫",
+        "眼科 / 视力",
+        "GLP-1 / 糖尿病"
+      ],
+      "sampleReasons": [
+        "收入 $0.17 低于同国家中位 $6.99 的 40%",
+        "Funnel RPM 0.11 低于同国家中位 1.19 的 40%"
+      ]
+    },
+    {
+      "funnelId": "3ws8SMf82B2C",
+      "funnelName": "ShortMax-v06",
+      "partnerName": "shortmax",
+      "urlName": null,
+      "weakOfferCount": 1,
+      "highSeverityCount": 1,
+      "visits": 574,
+      "revenue": 0.3,
+      "currentCategories": [
+        "医疗·皮肤"
+      ],
+      "suggestCategories": [
+        "自身免疫",
+        "眼科 / 视力",
+        "GLP-1 / 糖尿病"
+      ],
+      "sampleReasons": [
+        "收入 $0.30 低于同国家中位 $6.99 的 40%",
+        "Funnel RPM 0.39 低于同国家中位 1.19 的 40%"
+      ]
+    }
+  ]
+}

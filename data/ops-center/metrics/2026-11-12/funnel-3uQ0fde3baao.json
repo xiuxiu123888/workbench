@@ -1,0 +1,42 @@
+{
+  "funnelId": "3uQ0fde3baao",
+  "funnelName": "Bestnovel-V01",
+  "day": "2026-11-12",
+  "query": {
+    "day": "2026-11-12",
+    "startTime": "2026-11-12 00:00:00",
+    "endTime": "2026-11-12 23:59:59"
+  },
+  "data": {
+    "categoryList": [
+      {
+        "categoryId": "3uPveZwVkm2k",
+        "categoryName": "Bestnovel-v01",
+        "categoryType": "offer"
+      }
+    ],
+    "statsList": [
+      {
+        "id": "3uPvsLAE6XGW",
+        "name": "Bestnovel-v01-A5-us-7196379644",
+        "categoryId": "3uPveZwVkm2k",
+        "visits": 0,
+        "views": 0,
+        "conversion": 0,
+        "category": "Bestnovel-v01",
+        "offerSource": "afs-common",
+        "revenue": "0",
+        "funnelImpressions": 0,
+        "funnelClicks": 0,
+        "clicks": 0,
+        "funnelRpm": "0",
+        "rpc": "0",
+        "funnelCtr": "0",
+        "cvr1": "0",
+        "cvr2": "0",
+        "url": "https://easyfungalaxy.com/detail/129506647705?ref=Buprenorphine+Market+2026&channel=7196379644&hit={hit}",
+        "countryInfos": []
+      }
+    ]
+  }
+}

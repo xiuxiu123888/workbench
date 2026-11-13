@@ -1,0 +1,76 @@
+{
+  "code": 200,
+  "data": {
+    "groupId": "3bozV31GtuJz",
+    "groupName": "JZ07-mx",
+    "routing": "",
+    "geo": "MX",
+    "yesterdayRpm": 0,
+    "yesterdayRev": 0,
+    "yesterdayRpmTrend": 0,
+    "yesterdayRevTrend": 0,
+    "offerList": [
+      {
+        "offerId": "3bozOMFqHHw1",
+        "offerName": "JZ-07-A1-mx-2550963527",
+        "categoryName": "汽车贷款",
+        "weight": 0.98,
+        "channelId": "2550963527",
+        "countryCode": null,
+        "afsSource": null,
+        "todayRpm": 0,
+        "todayRev": 0
+      },
+      {
+        "offerId": "3fi9d7Jqqgi3",
+        "offerName": "JZ-07-A4-mx-3221603862",
+        "categoryName": "肝脏健康",
+        "weight": 0,
+        "channelId": "3221603862",
+        "countryCode": null,
+        "afsSource": null,
+        "todayRpm": 0,
+        "todayRev": 0
+      },
+      {
+        "offerId": "3fodykO2oxD9",
+        "offerName": "JZ-07-A7-mx-9761308166",
+        "categoryName": "汽车贷款",
+        "weight": 0,
+        "channelId": "9761308166",
+        "countryCode": null,
+        "afsSource": null,
+        "todayRpm": 0,
+        "todayRev": 0
+      },
+      {
+        "offerId": "3j6Vtdywd2lc",
+        "offerName": "JZ-07-A14-mx-6377407014",
+        "categoryName": "汽车贷款",
+        "weight": 0,
+        "channelId": "6377407014",
+        "countryCode": null,
+        "afsSource": null,
+        "todayRpm": 0,
+        "todayRev": 0
+      },
+      {
+        "offerId": "3lMAsjLqe3u8",
+        "offerName": "JZ-07-A12-MX-8514457756",
+        "categoryName": "种牙",
+        "weight": 0.02,
+        "channelId": "8514457756",
+        "countryCode": null,
+        "afsSource": null,
+        "todayRpm": 0,
+        "todayRev": 0
+      }
+    ],
+    "funnelId": "3SqmT5M7rv4d",
+    "funnelName": "JZ-07",
+    "partnerName": "shortmax",
+    "urlName": "JZ-07",
+    "urlId": 87,
+    "platform": "FF"
+  }
+}

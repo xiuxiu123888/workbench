@@ -1,0 +1,890 @@
+{
+  "funnelId": "3uIzmqzFx5yx",
+  "funnelName": "cd-reader-pb-v01",
+  "day": "2026-11-11",
+  "query": {
+    "day": "2026-11-11",
+    "startTime": "2026-11-11 00:00:00",
+    "endTime": "2026-11-11 23:59:59"
+  },
+  "data": {
+    "categoryList": [
+      {
+        "categoryId": "3uIydSsxioZV",
+        "categoryName": "cd-reader-pb-v01",
+        "categoryType": "offer"
+      },
+      {
+        "categoryId": "3rHyoiswJQQa",
+        "categoryName": "cd-reel-banner-v01",
+        "categoryType": "offer"
+      }
+    ],
+    "statsList": [
+      {
+        "id": "3uIz45okPGMU",
+        "name": "cd-reader-pb-v01-A4-Us-1975194475",
+        "categoryId": "3uIydSsxioZV",
+        "visits": 465,
+        "views": 465,
+        "conversion": 182,
+        "category": "cd-reader-pb-v01",
+        "offerSource": "moboreader-hit",
+        "revenue": "14.90",
+        "funnelImpressions": 641,
+        "funnelClicks": 359,
+        "clicks": 194,
+        "funnelRpm": "23.24",
+        "rpc": "0.077",
+        "funnelCtr": "56.00624024960999",
+        "cvr1": "54.03899721448468",
+        "cvr2": "30.265210608424336",
+        "url": "https://zestfularcade.com/detail/255409286126?ref=Accutane+Cost+Without+Insurance&channel=1975194475&hit={hit}&rType=2&partner=MoboReader&subid1=1975194475&subid2=255409286126&subid3=%7Bdata-subid3%7D&subid4=%7Bdata-subid4%7D",
+        "countryInfos": [
+          {
+            "countryCode": "HK",
+            "revenue": "3.58",
+            "impressions": 50,
+            "rpm": "71.60",
+            "funnelClicks": 44,
+            "clicks": 36
+          },
+          {
+            "countryCode": "DE",
+            "revenue": "2.40",
+            "impressions": 44,
+            "rpm": "54.55",
+            "funnelClicks": 27,
+            "clicks": 19
+          },
+          {
+            "countryCode": "TW",
+            "revenue": "2.02",
+            "impressions": 42,
+            "rpm": "48.10",
+            "funnelClicks": 30,
+            "clicks": 30
+          },
+          {
+            "countryCode": "GB",
+            "revenue": "1.61",
+            "impressions": 29,
+            "rpm": "55.52",
+            "funnelClicks": 11,
+            "clicks": 14
+          },
+          {
+            "countryCode": "JP",
+            "revenue": "1.21",
+            "impressions": 75,
+            "rpm": "16.13",
+            "funnelClicks": 42,
+            "clicks": 24
+          },
+          {
+            "countryCode": "PL",
+            "revenue": "1.09",
+            "impressions": 11,
+            "rpm": "99.09",
+            "funnelClicks": 7,
+            "clicks": 0
+          },
+          {
+            "countryCode": "FR",
+            "revenue": "0.89",
+            "impressions": 39,
+            "rpm": "22.82",
+            "funnelClicks": 16,
+            "clicks": 20
+          },
+          {
+            "countryCode": "CA",
+            "revenue": "0.67",
+            "impressions": 14,
+            "rpm": "47.86",
+            "funnelClicks": 7,
+            "clicks": 0
+          },
+          {
+            "countryCode": "KR",
+            "revenue": "0.65",
+            "impressions": 109,
+            "rpm": "5.96",
+            "funnelClicks": 75,
+            "clicks": 41
+          },
+          {
+            "countryCode": "ES",
+            "revenue": "0.24",
+            "impressions": 12,
+            "rpm": "20.00",
+            "funnelClicks": 18,
+            "clicks": 0
+          },
+          {
+            "countryCode": "NL",
+            "revenue": "0.21",
+            "impressions": 5,
+            "rpm": "42.00",
+            "funnelClicks": 3,
+            "clicks": 0
+          },
+          {
+            "countryCode": "BR",
+            "revenue": "0.12",
+            "impressions": 60,
+            "rpm": "2.00",
+            "funnelClicks": 36,
+            "clicks": 10
+          },
+          {
+            "countryCode": "BY",
+            "revenue": "0.12",
+            "impressions": 12,
+            "rpm": "10.00",
+            "funnelClicks": 5,
+            "clicks": 0
+          },
+          {
+            "countryCode": "AU",
+            "revenue": "0.06",
+            "impressions": 4,
+            "rpm": "15.00",
+            "funnelClicks": 3,
+            "clicks": 0
+          },
+          {
+            "countryCode": "VN",
+            "revenue": "0.02",
+            "impressions": 4,
+            "rpm": "5.00",
+            "funnelClicks": 4,
+            "clicks": 0
+          },
+          {
+            "countryCode": "UA",
+            "revenue": "0.01",
+            "impressions": 13,
+            "rpm": "0.77",
+            "funnelClicks": 4,
+            "clicks": 0
+          },
+          {
+            "countryCode": "AR",
+            "revenue": "0.00",
+            "impressions": 3,
+            "rpm": "0.00",
+            "funnelClicks": 0,
+            "clicks": 0
+          },
+          {
+            "countryCode": "AT",
+            "revenue": "0.00",
+            "impressions": 1,
+            "rpm": "0.00",
+            "funnelClicks": 0,
+            "clicks": 0
+          },
+          {
+            "countryCode": "CL",
+            "revenue": "0.00",
+            "impressions": 3,
+            "rpm": "0.00",
+            "funnelClicks": 0,
+            "clicks": 0
+          },
+          {
+            "countryCode": "CO",
+            "revenue": "0.00",
+            "impressions": 2,
+            "rpm": "0.00",
+            "funnelClicks": 0,
+            "clicks": 0
+          },
+          {
+            "countryCode": "EC",
+            "revenue": "0.00",
+            "impressions": 1,
+            "rpm": "0.00",
+            "funnelClicks": 0,
+            "clicks": 0
+          },
+          {
+            "countryCode": "GE",
+            "revenue": "0.00",
+            "impressions": 3,
+            "rpm": "0.00",
+            "funnelClicks": 0,
+            "clicks": 0
+          },
+          {
+            "countryCode": "ID",
+            "revenue": "0.00",
+            "impressions": 2,
+            "rpm": "0.00",
+            "funnelClicks": 0,
+            "clicks": 0
+          },
+          {
+            "countryCode": "IE",
+            "revenue": "0.00",
+            "impressions": 1,
+            "rpm": "0.00",
+            "funnelClicks": 0,
+            "clicks": 0
+          },
+          {
+            "countryCode": "IN",
+            "revenue": "0.00",
+            "impressions": 9,
+            "rpm": "0.00",
+            "funnelClicks": 8,
+            "clicks": 0
+          },
+          {
+            "countryCode": "IT",
+            "revenue": "0.00",
+            "impressions": 1,
+            "rpm": "0.00",
+            "funnelClicks": 0,
+            "clicks": 0
+          },
+          {
+            "countryCode": "KZ",
+            "revenue": "0.00",
+            "impressions": 54,
+            "rpm": "0.00",
+            "funnelClicks": 7,
+            "clicks": 0
+          },
+          {
+            "countryCode": "MD",
+            "revenue": "0.00",
+            "impressions": 4,
+            "rpm": "0.00",
+            "funnelClicks": 2,
+            "clicks": 0
+          },
+          {
+            "countryCode": "ME",
+            "revenue": "0.00",
+            "impressions": 3,
+            "rpm": "0.00",
+            "funnelClicks": 0,
+            "clicks": 0
+          },
+          {
+            "countryCode": "MG",
+            "revenue": "0.00",
+            "impressions": 2,
+            "rpm": "0.00",
+            "funnelClicks": 0,
+            "clicks": 0
+          },
+          {
+            "countryCode": "ML",
+            "revenue": "0.00",
+            "impressions": 1,
+            "rpm": "0.00",
+            "funnelClicks": 0,
+            "clicks": 0
+          },
+          {
+            "countryCode": "MX",
+            "revenue": "0.00",
+            "impressions": 2,
+            "rpm": "0.00",
+            "funnelClicks": 1,
+            "clicks": 0
+          },
+          {
+            "countryCode": "PA",
+            "revenue": "0.00",
+            "impressions": 3,
+            "rpm": "0.00",
+            "funnelClicks": 0,
+            "clicks": 0
+          },
+          {
+            "countryCode": "RE",
+            "revenue": "0.00",
+            "impressions": 1,
+            "rpm": "0.00",
+            "funnelClicks": 0,
+            "clicks": 0
+          },
+          {
+            "countryCode": "RS",
+            "revenue": "0.00",
+            "impressions": 2,
+            "rpm": "0.00",
+            "funnelClicks": 0,
+            "clicks": 0
+          },
+          {
+            "countryCode": "RU",
+            "revenue": "0.00",
+            "impressions": 0,
+            "rpm": "0",
+            "funnelClicks": 0,
+            "clicks": 0
+          },
+          {
+            "countryCode": "SG",
+            "revenue": "0.00",
+            "impressions": 4,
+            "rpm": "0.00",
+            "funnelClicks": 1,
+            "clicks": 0
+          },
+          {
+            "countryCode": "TH",
+            "revenue": "0.00",
+            "impressions": 1,
+            "rpm": "0.00",
+            "funnelClicks": 0,
+            "clicks": 0
+          },
+          {
+            "countryCode": "TR",
+            "revenue": "0.00",
+            "impressions": 3,
+            "rpm": "0.00",
+            "funnelClicks": 2,
+            "clicks": 0
+          },
+          {
+            "countryCode": "UZ",
+            "revenue": "0.00",
+            "impressions": 5,
+            "rpm": "0.00",
+            "funnelClicks": 0,
+            "clicks": 0
+          },
+          {
+            "countryCode": "VE",
+            "revenue": "0.00",
+            "impressions": 4,
+            "rpm": "0.00",
+            "funnelClicks": 5,
+            "clicks": 0
+          },
+          {
+            "countryCode": "ZA",
+            "revenue": "0.00",
+            "impressions": 3,
+            "rpm": "0.00",
+            "funnelClicks": 1,
+            "clicks": 0
+          }
+        ]
+      },
+      {
+        "id": "3uIzIeJTGnmj",
+        "name": "cd-reader-pb-v01-A7-Us-12133",
+        "categoryId": "3uIydSsxioZV",
+        "visits": 464,
+        "views": 464,
+        "conversion": 100,
+        "category": "cd-reader-pb-v01",
+        "offerSource": "moboreader-hit",
+        "revenue": "6.98",
+        "funnelImpressions": 698,
+        "funnelClicks": 397,
+        "clicks": 41,
+        "funnelRpm": "10.00",
+        "rpc": "0.170",
+        "funnelCtr": "56.87679083094556",
+        "cvr1": "10.327455919395465",
+        "cvr2": "5.873925501432665",
+        "url": "https://www.newamc.com/detail/669869134919?ref=Epidural+Steroid+Injection+Cost&channel=12133&hit={hit}&rType=2&partner=MoboReader&subid1=12133&subid2=669869134919&subid3=%7Bdata-subid3%7D&subid4=%7Bdata-subid4%7D",
+        "countryInfos": [
+          {
+            "countryCode": "DE",
+            "revenue": "2.10",
+            "impressions": 35,
+            "rpm": "60.00",
+            "funnelClicks": 23,
+            "clicks": 19
+          },
+          {
+            "countryCode": "HK",
+            "revenue": "1.35",
+            "impressions": 44,
+            "rpm": "30.68",
+            "funnelClicks": 38,
+            "clicks": 0
+          },
+          {
+            "countryCode": "JP",
+            "revenue": "0.68",
+            "impressions": 130,
+            "rpm": "5.23",
+            "funnelClicks": 100,
+            "clicks": 0
+          },
+          {
+            "countryCode": "GB",
+            "revenue": "0.51",
+            "impressions": 24,
+            "rpm": "21.25",
+            "funnelClicks": 8,
+            "clicks": 0
+          },
+          {
+            "countryCode": "KR",
+            "revenue": "0.50",
+            "impressions": 89,
+            "rpm": "5.62",
+            "funnelClicks": 63,
+            "clicks": 12
+          },
+          {
+            "countryCode": "TW",
+            "revenue": "0.49",
+            "impressions": 27,
+            "rpm": "18.15",
+            "funnelClicks": 22,
+            "clicks": 0
+          },
+          {
+            "countryCode": "BY",
+            "revenue": "0.42",
+            "impressions": 12,
+            "rpm": "35.00",
+            "funnelClicks": 4,
+            "clicks": 0
+          },
+          {
+            "countryCode": "VN",
+            "revenue": "0.19",
+            "impressions": 2,
+            "rpm": "95.00",
+            "funnelClicks": 2,
+            "clicks": 0
+          },
+          {
+            "countryCode": "BR",
+            "revenue": "0.15",
+            "impressions": 66,
+            "rpm": "2.27",
+            "funnelClicks": 47,
+            "clicks": 10
+          },
+          {
+            "countryCode": "MY",
+            "revenue": "0.15",
+            "impressions": 4,
+            "rpm": "37.50",
+            "funnelClicks": 3,
+            "clicks": 0
+          },
+          {
+            "countryCode": "TH",
+            "revenue": "0.14",
+            "impressions": 6,
+            "rpm": "23.33",
+            "funnelClicks": 3,
+            "clicks": 0
+          },
+          {
+            "countryCode": "CA",
+            "revenue": "0.10",
+            "impressions": 4,
+            "rpm": "25.00",
+            "funnelClicks": 4,
+            "clicks": 0
+          },
+          {
+            "countryCode": "FR",
+            "revenue": "0.09",
+            "impressions": 27,
+            "rpm": "3.33",
+            "funnelClicks": 5,
+            "clicks": 0
+          },
+          {
+            "countryCode": "PL",
+            "revenue": "0.03",
+            "impressions": 13,
+            "rpm": "2.31",
+            "funnelClicks": 6,
+            "clicks": 0
+          },
+          {
+            "countryCode": "ZA",
+            "revenue": "0.03",
+            "impressions": 4,
+            "rpm": "7.50",
+            "funnelClicks": 2,
+            "clicks": 0
+          },
+          {
+            "countryCode": "KZ",
+            "revenue": "0.02",
+            "impressions": 72,
+            "rpm": "0.28",
+            "funnelClicks": 18,
+            "clicks": 0
+          },
+          {
+            "countryCode": "UA",
+            "revenue": "0.02",
+            "impressions": 24,
+            "rpm": "0.83",
+            "funnelClicks": 8,
+            "clicks": 0
+          },
+          {
+            "countryCode": "TR",
+            "revenue": "0.01",
+            "impressions": 11,
+            "rpm": "0.91",
+            "funnelClicks": 5,
+            "clicks": 0
+          },
+          {
+            "countryCode": "AM",
+            "revenue": "0.00",
+            "impressions": 2,
+            "rpm": "0.00",
+            "funnelClicks": 0,
+            "clicks": 0
+          },
+          {
+            "countryCode": "AR",
+            "revenue": "0.00",
+            "impressions": 2,
+            "rpm": "0.00",
+            "funnelClicks": 0,
+            "clicks": 0
+          },
+          {
+            "countryCode": "AU",
+            "revenue": "0.00",
+            "impressions": 4,
+            "rpm": "0.00",
+            "funnelClicks": 1,
+            "clicks": 0
+          },
+          {
+            "countryCode": "AZ",
+            "revenue": "0.00",
+            "impressions": 1,
+            "rpm": "0.00",
+            "funnelClicks": 0,
+            "clicks": 0
+          },
+          {
+            "countryCode": "BE",
+            "revenue": "0.00",
+            "impressions": 3,
+            "rpm": "0.00",
+            "funnelClicks": 0,
+            "clicks": 0
+          },
+          {
+            "countryCode": "BJ",
+            "revenue": "0.00",
+            "impressions": 5,
+            "rpm": "0.00",
+            "funnelClicks": 5,
+            "clicks": 0
+          },
+          {
+            "countryCode": "CL",
+            "revenue": "0.00",
+            "impressions": 6,
+            "rpm": "0.00",
+            "funnelClicks": 0,
+            "clicks": 0
+          },
+          {
+            "countryCode": "CO",
+            "revenue": "0.00",
+            "impressions": 2,
+            "rpm": "0.00",
+            "funnelClicks": 1,
+            "clicks": 0
+          },
+          {
+            "countryCode": "EC",
+            "revenue": "0.00",
+            "impressions": 1,
+            "rpm": "0.00",
+            "funnelClicks": 0,
+            "clicks": 0
+          },
+          {
+            "countryCode": "ES",
+            "revenue": "0.00",
+            "impressions": 13,
+            "rpm": "0.00",
+            "funnelClicks": 7,
+            "clicks": 0
+          },
+          {
+            "countryCode": "FI",
+            "revenue": "0.00",
+            "impressions": 5,
+            "rpm": "0.00",
+            "funnelClicks": 4,
+            "clicks": 0
+          },
+          {
+            "countryCode": "GE",
+            "revenue": "0.00",
+            "impressions": 1,
+            "rpm": "0.00",
+            "funnelClicks": 0,
+            "clicks": 0
+          },
+          {
+            "countryCode": "ID",
+            "revenue": "0.00",
+            "impressions": 1,
+            "rpm": "0.00",
+            "funnelClicks": 0,
+            "clicks": 0
+          },
+          {
+            "countryCode": "IT",
+            "revenue": "0.00",
+            "impressions": 8,
+            "rpm": "0.00",
+            "funnelClicks": 4,
+            "clicks": 0
+          },
+          {
+            "countryCode": "KG",
+            "revenue": "0.00",
+            "impressions": 7,
+            "rpm": "0.00",
+            "funnelClicks": 5,
+            "clicks": 0
+          },
+          {
+            "countryCode": "LS",
+            "revenue": "0.00",
+            "impressions": 1,
+            "rpm": "0.00",
+            "funnelClicks": 0,
+            "clicks": 0
+          },
+          {
+            "countryCode": "MD",
+            "revenue": "0.00",
+            "impressions": 7,
+            "rpm": "0.00",
+            "funnelClicks": 4,
+            "clicks": 0
+          },
+          {
+            "countryCode": "ME",
+            "revenue": "0.00",
+            "impressions": 4,
+            "rpm": "0.00",
+            "funnelClicks": 0,
+            "clicks": 0
+          },
+          {
+            "countryCode": "MX",
+            "revenue": "0.00",
+            "impressions": 5,
+            "rpm": "0.00",
+            "funnelClicks": 1,
+            "clicks": 0
+          },
+          {
+            "countryCode": "NL",
+            "revenue": "0.00",
+            "impressions": 1,
+            "rpm": "0.00",
+            "funnelClicks": 1,
+            "clicks": 0
+          },
+          {
+            "countryCode": "PA",
+            "revenue": "0.00",
+            "impressions": 4,
+            "rpm": "0.00",
+            "funnelClicks": 0,
+            "clicks": 0
+          },
+          {
+            "countryCode": "PH",
+            "revenue": "0.00",
+            "impressions": 1,
+            "rpm": "0.00",
+            "funnelClicks": 0,
+            "clicks": 0
+          },
+          {
+            "countryCode": "PT",
+            "revenue": "0.00",
+            "impressions": 3,
+            "rpm": "0.00",
+            "funnelClicks": 0,
+            "clicks": 0
+          },
+          {
+            "countryCode": "RE",
+            "revenue": "0.00",
+            "impressions": 2,
+            "rpm": "0.00",
+            "funnelClicks": 0,
+            "clicks": 0
+          },
+          {
+            "countryCode": "RS",
+            "revenue": "0.00",
+            "impressions": 1,
+            "rpm": "0.00",
+            "funnelClicks": 0,
+            "clicks": 0
+          },
+          {
+            "countryCode": "RU",
+            "revenue": "0.00",
+            "impressions": 0,
+            "rpm": "0",
+            "funnelClicks": 0,
+            "clicks": 0
+          },
+          {
+            "countryCode": "SG",
+            "revenue": "0.00",
+            "impressions": 1,
+            "rpm": "0.00",
+            "funnelClicks": 0,
+            "clicks": 0
+          },
+          {
+            "countryCode": "US",
+            "revenue": "0.00",
+            "impressions": 2,
+            "rpm": "0.00",
+            "funnelClicks": 0,
+            "clicks": 0
+          },
+          {
+            "countryCode": "UZ",
+            "revenue": "0.00",
+            "impressions": 6,
+            "rpm": "0.00",
+            "funnelClicks": 0,
+            "clicks": 0
+          },
+          {
+            "countryCode": "VE",
+            "revenue": "0.00",
+            "impressions": 5,
+            "rpm": "0.00",
+            "funnelClicks": 3,
+            "clicks": 0
+          }
+        ]
+      },
+      {
+        "id": "3szxnTr06HKg",
+        "name": "cd-reader-banner-v01-A4-Us-9114102876",
+        "categoryId": "3rHyoiswJQQa",
+        "visits": 49,
+        "views": 49,
+        "conversion": 0,
+        "category": "cd-reel-banner-v01",
+        "offerSource": "moboreel-hit",
+        "revenue": "0.00",
+        "funnelImpressions": 48,
+        "funnelClicks": 9,
+        "clicks": 0,
+        "funnelRpm": "0.00",
+        "rpc": "0",
+        "funnelCtr": "18.75",
+        "cvr1": "0.0",
+        "cvr2": "0.0",
+        "url": "https://playfulviibes.com/detail/114692308840?channel=9114102876&hit={hit}&rType=2&partner=Moboreel&subid1=9114102876&subid2=114692308840&subid3=%7Bdata-subid3%7D&subid4=%7Bdata-subid4%7D&ref=Isotretinoin+Cost+Without+Insurance",
+        "countryInfos": [
+          {
+            "countryCode": "PT",
+            "revenue": "0.00",
+            "impressions": 0,
+            "rpm": "0",
+            "funnelClicks": 1,
+            "clicks": 0
+          },
+          {
+            "countryCode": "RU",
+            "revenue": "0.00",
+            "impressions": 0,
+            "rpm": "0",
+            "funnelClicks": 0,
+            "clicks": 0
+          },
+          {
+            "countryCode": "SG",
+            "revenue": "0.00",
+            "impressions": 2,
+            "rpm": "0.00",
+            "funnelClicks": 0,
+            "clicks": 0
+          },
+          {
+            "countryCode": "US",
+            "revenue": "0.00",
+            "impressions": 46,
+            "rpm": "0.00",
+            "funnelClicks": 8,
+            "clicks": 0
+          }
+        ]
+      },
+      {
+        "id": "3rHzxc88pwCs",
+        "name": "cd-reader-banner-v01-A12-Us-8275192094",
+        "categoryId": "3rHyoiswJQQa",
+        "visits": 48,
+        "views": 48,
+        "conversion": 1,
+        "category": "cd-reel-banner-v01",
+        "offerSource": "moboreel-hit",
+        "revenue": "0.08",
+        "funnelImpressions": 54,
+        "funnelClicks": 3,
+        "clicks": 0,
+        "funnelRpm": "1.48",
+        "rpc": "0",
+        "funnelCtr": "5.555555555555555",
+        "cvr1": "0.0",
+        "cvr2": "0.0",
+        "url": "https://intodeepdive.com/detail/672803381853?ref=Epidural+Steroid+Injection+Cost&channel=8275192094&hit={hit}&rType=2&partner=Moboreel&subid1=8275192094&subid2=672803381853&subid3=%7Bdata-subid3%7D&subid4=%7Bdata-subid4%7D",
+        "countryInfos": [
+          {
+            "countryCode": "US",
+            "revenue": "0.08",
+            "impressions": 52,
+            "rpm": "1.54",
+            "funnelClicks": 3,
+            "clicks": 0
+          },
+          {
+            "countryCode": "RU",
+            "revenue": "0.00",
+            "impressions": 0,
+            "rpm": "0",
+            "funnelClicks": 0,
+            "clicks": 0
+          },
+          {
+            "countryCode": "SG",
+            "revenue": "0.00",
+            "impressions": 2,
+            "rpm": "0.00",
+            "funnelClicks": 0,
+            "clicks": 0
+          }
+        ]
+      }
+    ]
+  }
+}

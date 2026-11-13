@@ -1,0 +1,893 @@
+{
+  "title": "第一个漏斗干跑计划（不产文）",
+  "createdAt": "2026-11-11T10:01:00.367Z",
+  "generateArticles": true,
+  "funnel": {
+    "funnelId": "3sFDWWqvNxR9",
+    "funnelName": "Blinkdrama-v01",
+    "partnerName": "Blinkdrama",
+    "revenue": 1919.1099999999997,
+    "offerCountReport": 23,
+    "groupCountReport": 2
+  },
+  "inventory": {
+    "offersInFunnel": 23,
+    "eligibleWithUrl": 23,
+    "eligibleUs": 18,
+    "targetPool": 18,
+    "targetPoolMode": "geo_US_with_url",
+    "skipped": 5,
+    "unresolvedSite": 0,
+    "missingCategory": 0,
+    "seedCount": 63
+  },
+  "tasks": [
+    {
+      "taskIndex": 1,
+      "status": "planned_no_generate",
+      "offerId": "3sF8IOP57Geg",
+      "offerName": "Blinkdrama-v01-A4-Us-9111267282-zestfularcade.com",
+      "groupId": "3sFCVTgYYRkx",
+      "groupName": "Blinkdrama-v01-us",
+      "geo": "US",
+      "channelId": "9111267282",
+      "oldLandingUrl": "https://jubilantsphere.com/detail/589388456714?ref=construction%20accident%20lawyer%20near%20me&channel=9111267282&hit={hit}&rType=2&partner=Blinkdrama",
+      "oldArticleId": "589388456714",
+      "host": "jubilantsphere.com",
+      "siteId": 5,
+      "accountId": 2,
+      "siteName": "jubilantsphere.com",
+      "siteResolved": true,
+      "seed": {
+        "keyword": "Opdivo Cost Without Insurance",
+        "intentKeyword": "Opdivo Cost Without Insurance",
+        "ref": "Opdivo Cost Without Insurance",
+        "domainCategory": "肿瘤 / 生物制剂",
+        "categoryId": 6308,
+        "regionId": "US"
+      },
+      "articleJobPreview": {
+        "publish": false,
+        "articlesPerDomain": 1,
+        "willCreate": false,
+        "note": "本轮只出计划，不调用 article-jobs",
+        "targets": [
+          {
+            "domain": "jubilantsphere.com",
+            "site_id": 5,
+            "account_id": 2
+          }
+        ]
+      },
+      "newLandingUrlExample": "https://jubilantsphere.com/detail/PENDING_ARTICLE_1?ref=construction+accident+lawyer+near+me&channel=9111267282&hit=%7Bhit%7D&rType=2&partner=Blinkdrama&subid1=9111267282&subid2=PENDING_ARTICLE_1",
+      "urlRewriteRule": {
+        "replaceArticleIdInPath": true,
+        "setSubid1": "channelId",
+        "setSubid2": "newArticleId",
+        "keepOtherQueryParams": true,
+        "overwriteRefWithKeyword": false
+      }
+    },
+    {
+      "taskIndex": 2,
+      "status": "planned_no_generate",
+      "offerId": "3sFC6AG3G1XY",
+      "offerName": "Blinkdrama-v01-A7-Us-11849-quantify-energy.com",
+      "groupId": "3sFCVTgYYRkx",
+      "groupName": "Blinkdrama-v01-us",
+      "geo": "US",
+      "channelId": "11849",
+      "oldLandingUrl": "https://bank-flux.com/detail/823521924205?ref=construction%20accident%20lawyer%20near%20me&channel=11849&hit={hit}&rType=2&partner=Blinkdrama",
+      "oldArticleId": "823521924205",
+      "host": "bank-flux.com",
+      "siteId": 39,
+      "accountId": 4,
+      "siteName": "bank-flux.com",
+      "siteResolved": true,
+      "seed": {
+        "keyword": "Sleep Study Cost Without Insurance",
+        "intentKeyword": "Sleep Study Cost Without Insurance",
+        "ref": "Sleep Study Cost Without Insurance",
+        "domainCategory": "诊断 / 急诊",
+        "categoryId": 6316,
+        "regionId": "US"
+      },
+      "articleJobPreview": {
+        "publish": false,
+        "articlesPerDomain": 1,
+        "willCreate": false,
+        "note": "本轮只出计划，不调用 article-jobs",
+        "targets": [
+          {
+            "domain": "bank-flux.com",
+            "site_id": 39,
+            "account_id": 4
+          }
+        ]
+      },
+      "newLandingUrlExample": "https://bank-flux.com/detail/PENDING_ARTICLE_2?ref=construction+accident+lawyer+near+me&channel=11849&hit=%7Bhit%7D&rType=2&partner=Blinkdrama&subid1=11849&subid2=PENDING_ARTICLE_2",
+      "urlRewriteRule": {
+        "replaceArticleIdInPath": true,
+        "setSubid1": "channelId",
+        "setSubid2": "newArticleId",
+        "keepOtherQueryParams": true,
+        "overwriteRefWithKeyword": false
+      }
+    },
+    {
+      "taskIndex": 3,
+      "status": "planned_no_generate",
+      "offerId": "3v8Siju4ffvs",
+      "offerName": "Blinkdrama-v01-A1-Us-15584-nearby-dental-implants.com",
+      "groupId": "3sFCVTgYYRkx",
+      "groupName": "Blinkdrama-v01-us",
+      "geo": "US",
+      "channelId": "15584",
+      "oldLandingUrl": "https://nearby-dental-implants.com/detail/236588121583?ref=Buprenorphine%20Market%202026&channel=15584&hit={hit}&rType=2&partner=Blinkdrama",
+      "oldArticleId": "236588121583",
+      "host": "nearby-dental-implants.com",
+      "siteId": 92,
+      "accountId": 13,
+      "siteName": "nearby-dental-implants.com",
+      "siteResolved": true,
+      "seed": {
+        "keyword": "PRP Injection Cost",
+        "intentKeyword": "PRP Injection Cost",
+        "ref": "PRP Injection Cost",
+        "domainCategory": "骨科 / 关节",
+        "categoryId": 6310,
+        "regionId": "US"
+      },
+      "articleJobPreview": {
+        "publish": false,
+        "articlesPerDomain": 1,
+        "willCreate": false,
+        "note": "本轮只出计划，不调用 article-jobs",
+        "targets": [
+          {
+            "domain": "nearby-dental-implants.com",
+            "site_id": 92,
+            "account_id": 13
+          }
+        ]
+      },
+      "newLandingUrlExample": "https://nearby-dental-implants.com/detail/PENDING_ARTICLE_3?ref=Buprenorphine+Market+2026&channel=15584&hit=%7Bhit%7D&rType=2&partner=Blinkdrama&subid1=15584&subid2=PENDING_ARTICLE_3",
+      "urlRewriteRule": {
+        "replaceArticleIdInPath": true,
+        "setSubid1": "channelId",
+        "setSubid2": "newArticleId",
+        "keepOtherQueryParams": true,
+        "overwriteRefWithKeyword": false
+      }
+    },
+    {
+      "taskIndex": 4,
+      "status": "planned_no_generate",
+      "offerId": "3wsFVLlbyKi7",
+      "offerName": "Blinkdrama-v01-A15-us-5914041032-mpbus.com",
+      "groupId": "3sFCVTgYYRkx",
+      "groupName": "Blinkdrama-v01-us",
+      "geo": "US",
+      "channelId": "5914041032",
+      "oldLandingUrl": "https://lstmai.com/detail/231542498616?ref=construction%20accident%20lawyer%20near%20me&channel=5914041032&hit={hit}&rType=2&partner=Blinkdrama",
+      "oldArticleId": "231542498616",
+      "host": "lstmai.com",
+      "siteId": 127,
+      "accountId": 17,
+      "siteName": "lstmai.com",
+      "siteResolved": true,
+      "seed": {
+        "keyword": "PRP Injection Cost",
+        "intentKeyword": "PRP Injection Cost",
+        "ref": "PRP Injection Cost",
+        "domainCategory": "骨科 / 关节",
+        "categoryId": 6310,
+        "regionId": "US"
+      },
+      "articleJobPreview": {
+        "publish": false,
+        "articlesPerDomain": 1,
+        "willCreate": false,
+        "note": "本轮只出计划，不调用 article-jobs",
+        "targets": [
+          {
+            "domain": "lstmai.com",
+            "site_id": 127,
+            "account_id": 17
+          }
+        ]
+      },
+      "newLandingUrlExample": "https://lstmai.com/detail/PENDING_ARTICLE_4?ref=construction+accident+lawyer+near+me&channel=5914041032&hit=%7Bhit%7D&rType=2&partner=Blinkdrama&subid1=5914041032&subid2=PENDING_ARTICLE_4",
+      "urlRewriteRule": {
+        "replaceArticleIdInPath": true,
+        "setSubid1": "channelId",
+        "setSubid2": "newArticleId",
+        "keepOtherQueryParams": true,
+        "overwriteRefWithKeyword": false
+      }
+    },
+    {
+      "taskIndex": 5,
+      "status": "planned_no_generate",
+      "offerId": "3wsEOTo1vk4N",
+      "offerName": "Blinkdrama-v01-A5-us-5003814895-funfillgames.com",
+      "groupId": "3sFCVTgYYRkx",
+      "groupName": "Blinkdrama-v01-us",
+      "geo": "US",
+      "channelId": "5003814895",
+      "oldLandingUrl": "https://whirlwindarcade.com/detail/696901589409?ref=construction%20accident%20lawyer%20near%20me&channel=5003814895&hit={hit}&rType=2&partner=Blinkdrama",
+      "oldArticleId": "696901589409",
+      "host": "whirlwindarcade.com",
+      "siteId": 14,
+      "accountId": 3,
+      "siteName": "whirlwindarcade.com",
+      "siteResolved": true,
+      "seed": {
+        "keyword": "Rinvoq Cost Without Insurance",
+        "intentKeyword": "Rinvoq Cost Without Insurance",
+        "ref": "Rinvoq Cost Without Insurance",
+        "domainCategory": "医疗·自身免疫",
+        "categoryId": 6454,
+        "regionId": "US"
+      },
+      "articleJobPreview": {
+        "publish": false,
+        "articlesPerDomain": 1,
+        "willCreate": false,
+        "note": "本轮只出计划，不调用 article-jobs",
+        "targets": [
+          {
+            "domain": "whirlwindarcade.com",
+            "site_id": 14,
+            "account_id": 3
+          }
+        ]
+      },
+      "newLandingUrlExample": "https://whirlwindarcade.com/detail/PENDING_ARTICLE_5?ref=construction+accident+lawyer+near+me&channel=5003814895&hit=%7Bhit%7D&rType=2&partner=Blinkdrama&subid1=5003814895&subid2=PENDING_ARTICLE_5",
+      "urlRewriteRule": {
+        "replaceArticleIdInPath": true,
+        "setSubid1": "channelId",
+        "setSubid2": "newArticleId",
+        "keepOtherQueryParams": true,
+        "overwriteRefWithKeyword": false
+      }
+    },
+    {
+      "taskIndex": 6,
+      "status": "planned_no_generate",
+      "offerId": "3yQgoSyy0tEe",
+      "offerName": "Blinkdrama-v01-A12-us-7345253802-degreesuccesstips.com",
+      "groupId": "3sFCVTgYYRkx",
+      "groupName": "Blinkdrama-v01-us",
+      "geo": "US",
+      "channelId": "7345253802",
+      "oldLandingUrl": "https://aivestorhq.com/detail/133157680934?ref=construction%20accident%20lawyer%20near%20me&channel=7345253802&hit={hit}&rType=2&partner=Blinkdrama",
+      "oldArticleId": "133157680934",
+      "host": "aivestorhq.com",
+      "siteId": 65,
+      "accountId": 11,
+      "siteName": "aivestorhq.com",
+      "siteResolved": true,
+      "seed": {
+        "keyword": "Trulicity Cost Without Insurance",
+        "intentKeyword": "Trulicity Cost Without Insurance",
+        "ref": "Trulicity Cost Without Insurance",
+        "domainCategory": "GLP-1 / 糖尿病",
+        "categoryId": 6305,
+        "regionId": "US"
+      },
+      "articleJobPreview": {
+        "publish": false,
+        "articlesPerDomain": 1,
+        "willCreate": false,
+        "note": "本轮只出计划，不调用 article-jobs",
+        "targets": [
+          {
+            "domain": "aivestorhq.com",
+            "site_id": 65,
+            "account_id": 11
+          }
+        ]
+      },
+      "newLandingUrlExample": "https://aivestorhq.com/detail/PENDING_ARTICLE_6?ref=construction+accident+lawyer+near+me&channel=7345253802&hit=%7Bhit%7D&rType=2&partner=Blinkdrama&subid1=7345253802&subid2=PENDING_ARTICLE_6",
+      "urlRewriteRule": {
+        "replaceArticleIdInPath": true,
+        "setSubid1": "channelId",
+        "setSubid2": "newArticleId",
+        "keepOtherQueryParams": true,
+        "overwriteRefWithKeyword": false
+      }
+    },
+    {
+      "taskIndex": 7,
+      "status": "planned_no_generate",
+      "offerId": "3ykOB11qNeRV",
+      "offerName": "Blinkdrama-v01-A1-Us-13247-homeguarddeals.com",
+      "groupId": "3sFCVTgYYRkx",
+      "groupName": "Blinkdrama-v01-us",
+      "geo": "US",
+      "channelId": "13247",
+      "oldLandingUrl": "https://homeguarddeals.com/detail/236588121583?ref=Buprenorphine%20Market%202026&channel=13247&hit={hit}&rType=2&partner=Blinkdrama",
+      "oldArticleId": "236588121583",
+      "host": "homeguarddeals.com",
+      "siteId": 94,
+      "accountId": 13,
+      "siteName": "homeguarddeals.com",
+      "siteResolved": true,
+      "seed": {
+        "keyword": "Botox for Migraine Cost",
+        "intentKeyword": "Botox for Migraine Cost",
+        "ref": "Botox for Migraine Cost",
+        "domainCategory": "医疗·偏头痛",
+        "categoryId": 6451,
+        "regionId": "US"
+      },
+      "articleJobPreview": {
+        "publish": false,
+        "articlesPerDomain": 1,
+        "willCreate": false,
+        "note": "本轮只出计划，不调用 article-jobs",
+        "targets": [
+          {
+            "domain": "homeguarddeals.com",
+            "site_id": 94,
+            "account_id": 13
+          }
+        ]
+      },
+      "newLandingUrlExample": "https://homeguarddeals.com/detail/PENDING_ARTICLE_7?ref=Buprenorphine+Market+2026&channel=13247&hit=%7Bhit%7D&rType=2&partner=Blinkdrama&subid1=13247&subid2=PENDING_ARTICLE_7",
+      "urlRewriteRule": {
+        "replaceArticleIdInPath": true,
+        "setSubid1": "channelId",
+        "setSubid2": "newArticleId",
+        "keepOtherQueryParams": true,
+        "overwriteRefWithKeyword": false
+      }
+    },
+    {
+      "taskIndex": 8,
+      "status": "planned_no_generate",
+      "offerId": "3ykOCh5adgGU",
+      "offerName": "Blinkdrama-v01-A1-Us-13248-beauty-center-nearby.com",
+      "groupId": "3sFCVTgYYRkx",
+      "groupName": "Blinkdrama-v01-us",
+      "geo": "US",
+      "channelId": "13248",
+      "oldLandingUrl": "https://beauty-center-nearby.com/detail/236588121583?ref=Buprenorphine%20Market%202026&channel=13248&hit={hit}&rType=2&partner=Blinkdrama",
+      "oldArticleId": "236588121583",
+      "host": "beauty-center-nearby.com",
+      "siteId": 95,
+      "accountId": 13,
+      "siteName": "beauty-center-nearby.com",
+      "siteResolved": true,
+      "seed": {
+        "keyword": "Opdivo Cost Without Insurance",
+        "intentKeyword": "Opdivo Cost Without Insurance",
+        "ref": "Opdivo Cost Without Insurance",
+        "domainCategory": "肿瘤 / 生物制剂",
+        "categoryId": 6308,
+        "regionId": "US"
+      },
+      "articleJobPreview": {
+        "publish": false,
+        "articlesPerDomain": 1,
+        "willCreate": false,
+        "note": "本轮只出计划，不调用 article-jobs",
+        "targets": [
+          {
+            "domain": "beauty-center-nearby.com",
+            "site_id": 95,
+            "account_id": 13
+          }
+        ]
+      },
+      "newLandingUrlExample": "https://beauty-center-nearby.com/detail/PENDING_ARTICLE_8?ref=Buprenorphine+Market+2026&channel=13248&hit=%7Bhit%7D&rType=2&partner=Blinkdrama&subid1=13248&subid2=PENDING_ARTICLE_8",
+      "urlRewriteRule": {
+        "replaceArticleIdInPath": true,
+        "setSubid1": "channelId",
+        "setSubid2": "newArticleId",
+        "keepOtherQueryParams": true,
+        "overwriteRefWithKeyword": false
+      }
+    },
+    {
+      "taskIndex": 9,
+      "status": "planned_no_generate",
+      "offerId": "3ykOFYkwVPai",
+      "offerName": "Blinkdrama-v01-A4-Us-8026393663-playfulviibes.com",
+      "groupId": "3sFCVTgYYRkx",
+      "groupName": "Blinkdrama-v01-us",
+      "geo": "US",
+      "channelId": "8026393663",
+      "oldLandingUrl": "https://zestfularcade.com/detail/236588121583?ref=Buprenorphine%20Market%202026&channel=8026393663&hit={hit}&rType=2&partner=Blinkdrama",
+      "oldArticleId": "236588121583",
+      "host": "zestfularcade.com",
+      "siteId": 6,
+      "accountId": 2,
+      "siteName": "zestfularcade.com",
+      "siteResolved": true,
+      "seed": {
+        "keyword": "Spinal Cord Stimulator Cost",
+        "intentKeyword": "Spinal Cord Stimulator Cost",
+        "ref": "Spinal Cord Stimulator Cost",
+        "domainCategory": "骨科 / 关节",
+        "categoryId": 6310,
+        "regionId": "US"
+      },
+      "articleJobPreview": {
+        "publish": false,
+        "articlesPerDomain": 1,
+        "willCreate": false,
+        "note": "本轮只出计划，不调用 article-jobs",
+        "targets": [
+          {
+            "domain": "zestfularcade.com",
+            "site_id": 6,
+            "account_id": 2
+          }
+        ]
+      },
+      "newLandingUrlExample": "https://zestfularcade.com/detail/PENDING_ARTICLE_9?ref=Buprenorphine+Market+2026&channel=8026393663&hit=%7Bhit%7D&rType=2&partner=Blinkdrama&subid1=8026393663&subid2=PENDING_ARTICLE_9",
+      "urlRewriteRule": {
+        "replaceArticleIdInPath": true,
+        "setSubid1": "channelId",
+        "setSubid2": "newArticleId",
+        "keepOtherQueryParams": true,
+        "overwriteRefWithKeyword": false
+      }
+    },
+    {
+      "taskIndex": 10,
+      "status": "planned_no_generate",
+      "offerId": "3ykOHLIDuHL8",
+      "offerName": "Blinkdrama-v01-A4-Us-8002532881-joyfulgaminghub9.com",
+      "groupId": "3sFCVTgYYRkx",
+      "groupName": "Blinkdrama-v01-us",
+      "geo": "US",
+      "channelId": "8002532881",
+      "oldLandingUrl": "https://zestfularcade.com/detail/236588121583?ref=Buprenorphine%20Market%202026&channel=8002532881&hit={hit}&rType=2&partner=Blinkdrama",
+      "oldArticleId": "236588121583",
+      "host": "zestfularcade.com",
+      "siteId": 6,
+      "accountId": 2,
+      "siteName": "zestfularcade.com",
+      "siteResolved": true,
+      "seed": {
+        "keyword": "Wet AMD Treatment Cost",
+        "intentKeyword": "Wet AMD Treatment Cost",
+        "ref": "Wet AMD Treatment Cost",
+        "domainCategory": "眼科 / 视力",
+        "categoryId": 6311,
+        "regionId": "US"
+      },
+      "articleJobPreview": {
+        "publish": false,
+        "articlesPerDomain": 1,
+        "willCreate": false,
+        "note": "本轮只出计划，不调用 article-jobs",
+        "targets": [
+          {
+            "domain": "zestfularcade.com",
+            "site_id": 6,
+            "account_id": 2
+          }
+        ]
+      },
+      "newLandingUrlExample": "https://zestfularcade.com/detail/PENDING_ARTICLE_10?ref=Buprenorphine+Market+2026&channel=8002532881&hit=%7Bhit%7D&rType=2&partner=Blinkdrama&subid1=8002532881&subid2=PENDING_ARTICLE_10",
+      "urlRewriteRule": {
+        "replaceArticleIdInPath": true,
+        "setSubid1": "channelId",
+        "setSubid2": "newArticleId",
+        "keepOtherQueryParams": true,
+        "overwriteRefWithKeyword": false
+      }
+    },
+    {
+      "taskIndex": 11,
+      "status": "planned_no_generate",
+      "offerId": "3ykOKo6PrIjT",
+      "offerName": "Blinkdrama-v01-A5-us-9357255815-playfulbreak.com",
+      "groupId": "3sFCVTgYYRkx",
+      "groupName": "Blinkdrama-v01-us",
+      "geo": "US",
+      "channelId": "9357255815",
+      "oldLandingUrl": "https://joyfullplayland.com/detail/236588121583?ref=Buprenorphine%20Market%202026&channel=9357255815&hit={hit}&rType=2&partner=Blinkdrama",
+      "oldArticleId": "236588121583",
+      "host": "joyfullplayland.com",
+      "siteId": 17,
+      "accountId": 3,
+      "siteName": "joyfullplayland.com",
+      "siteResolved": true,
+      "seed": {
+        "keyword": "Eylea Cost Without Insurance",
+        "intentKeyword": "Eylea Cost Without Insurance",
+        "ref": "Eylea Cost Without Insurance",
+        "domainCategory": "眼科 / 视力",
+        "categoryId": 6311,
+        "regionId": "US"
+      },
+      "articleJobPreview": {
+        "publish": false,
+        "articlesPerDomain": 1,
+        "willCreate": false,
+        "note": "本轮只出计划，不调用 article-jobs",
+        "targets": [
+          {
+            "domain": "joyfullplayland.com",
+            "site_id": 17,
+            "account_id": 3
+          }
+        ]
+      },
+      "newLandingUrlExample": "https://joyfullplayland.com/detail/PENDING_ARTICLE_11?ref=Buprenorphine+Market+2026&channel=9357255815&hit=%7Bhit%7D&rType=2&partner=Blinkdrama&subid1=9357255815&subid2=PENDING_ARTICLE_11",
+      "urlRewriteRule": {
+        "replaceArticleIdInPath": true,
+        "setSubid1": "channelId",
+        "setSubid2": "newArticleId",
+        "keepOtherQueryParams": true,
+        "overwriteRefWithKeyword": false
+      }
+    },
+    {
+      "taskIndex": 12,
+      "status": "planned_no_generate",
+      "offerId": "3ykOM7UurzAx",
+      "offerName": "Blinkdrama-v01-A5-us-3790036697-easyfungalaxy.com",
+      "groupId": "3sFCVTgYYRkx",
+      "groupName": "Blinkdrama-v01-us",
+      "geo": "US",
+      "channelId": "3790036697",
+      "oldLandingUrl": "https://joyfullplayland.com/detail/236588121583?ref=Buprenorphine%20Market%202026&channel=3790036697&hit={hit}&rType=2&partner=Blinkdrama",
+      "oldArticleId": "236588121583",
+      "host": "joyfullplayland.com",
+      "siteId": 17,
+      "accountId": 3,
+      "siteName": "joyfullplayland.com",
+      "siteResolved": true,
+      "seed": {
+        "keyword": "Contrave Cost Without Insurance",
+        "intentKeyword": "Contrave Cost Without Insurance",
+        "ref": "Contrave Cost Without Insurance",
+        "domainCategory": "GLP-1 / 糖尿病",
+        "categoryId": 6305,
+        "regionId": "US"
+      },
+      "articleJobPreview": {
+        "publish": false,
+        "articlesPerDomain": 1,
+        "willCreate": false,
+        "note": "本轮只出计划，不调用 article-jobs",
+        "targets": [
+          {
+            "domain": "joyfullplayland.com",
+            "site_id": 17,
+            "account_id": 3
+          }
+        ]
+      },
+      "newLandingUrlExample": "https://joyfullplayland.com/detail/PENDING_ARTICLE_12?ref=Buprenorphine+Market+2026&channel=3790036697&hit=%7Bhit%7D&rType=2&partner=Blinkdrama&subid1=3790036697&subid2=PENDING_ARTICLE_12",
+      "urlRewriteRule": {
+        "replaceArticleIdInPath": true,
+        "setSubid1": "channelId",
+        "setSubid2": "newArticleId",
+        "keepOtherQueryParams": true,
+        "overwriteRefWithKeyword": false
+      }
+    },
+    {
+      "taskIndex": 13,
+      "status": "planned_no_generate",
+      "offerId": "3ykOOq8Aoduh",
+      "offerName": "Blinkdrama-v01-A7-Us-18666-xveluxai.com",
+      "groupId": "3sFCVTgYYRkx",
+      "groupName": "Blinkdrama-v01-us",
+      "geo": "US",
+      "channelId": "18666",
+      "oldLandingUrl": "https://xveluxai.com/detail/923706854063?ref=birth%20injury%20lawyer%20near%20me&channel=18666&hit={hit}&rType=2&partner=Blinkdrama",
+      "oldArticleId": "923706854063",
+      "host": "xveluxai.com",
+      "siteId": 117,
+      "accountId": 4,
+      "siteName": "xveluxai.com",
+      "siteResolved": true,
+      "seed": {
+        "keyword": "Botox for Migraine Cost",
+        "intentKeyword": "Botox for Migraine Cost",
+        "ref": "Botox for Migraine Cost",
+        "domainCategory": "医疗·偏头痛",
+        "categoryId": 6451,
+        "regionId": "US"
+      },
+      "articleJobPreview": {
+        "publish": false,
+        "articlesPerDomain": 1,
+        "willCreate": false,
+        "note": "本轮只出计划，不调用 article-jobs",
+        "targets": [
+          {
+            "domain": "xveluxai.com",
+            "site_id": 117,
+            "account_id": 4
+          }
+        ]
+      },
+      "newLandingUrlExample": "https://xveluxai.com/detail/PENDING_ARTICLE_13?ref=birth+injury+lawyer+near+me&channel=18666&hit=%7Bhit%7D&rType=2&partner=Blinkdrama&subid1=18666&subid2=PENDING_ARTICLE_13",
+      "urlRewriteRule": {
+        "replaceArticleIdInPath": true,
+        "setSubid1": "channelId",
+        "setSubid2": "newArticleId",
+        "keepOtherQueryParams": true,
+        "overwriteRefWithKeyword": false
+      }
+    },
+    {
+      "taskIndex": 14,
+      "status": "planned_no_generate",
+      "offerId": "3ykOQIJHOXFR",
+      "offerName": "Blinkdrama-v01-A7-Us-18667-aifinteches.com",
+      "groupId": "3sFCVTgYYRkx",
+      "groupName": "Blinkdrama-v01-us",
+      "geo": "US",
+      "channelId": "18667",
+      "oldLandingUrl": "https://algo-cash.com/detail/236588121583?ref=Buprenorphine%20Market%202026&channel=18667&hit={hit}&rType=2&partner=Blinkdrama",
+      "oldArticleId": "236588121583",
+      "host": "algo-cash.com",
+      "siteId": 42,
+      "accountId": 4,
+      "siteName": "algo-cash.com",
+      "siteResolved": true,
+      "seed": {
+        "keyword": "Contrave Cost Without Insurance",
+        "intentKeyword": "Contrave Cost Without Insurance",
+        "ref": "Contrave Cost Without Insurance",
+        "domainCategory": "GLP-1 / 糖尿病",
+        "categoryId": 6305,
+        "regionId": "US"
+      },
+      "articleJobPreview": {
+        "publish": false,
+        "articlesPerDomain": 1,
+        "willCreate": false,
+        "note": "本轮只出计划，不调用 article-jobs",
+        "targets": [
+          {
+            "domain": "algo-cash.com",
+            "site_id": 42,
+            "account_id": 4
+          }
+        ]
+      },
+      "newLandingUrlExample": "https://algo-cash.com/detail/PENDING_ARTICLE_14?ref=Buprenorphine+Market+2026&channel=18667&hit=%7Bhit%7D&rType=2&partner=Blinkdrama&subid1=18667&subid2=PENDING_ARTICLE_14",
+      "urlRewriteRule": {
+        "replaceArticleIdInPath": true,
+        "setSubid1": "channelId",
+        "setSubid2": "newArticleId",
+        "keepOtherQueryParams": true,
+        "overwriteRefWithKeyword": false
+      }
+    },
+    {
+      "taskIndex": 15,
+      "status": "planned_no_generate",
+      "offerId": "3ykPiJsMz7UB",
+      "offerName": "Blinkdrama-v01-A12-us-4212444181-aivestorhq.com",
+      "groupId": "3sFCVTgYYRkx",
+      "groupName": "Blinkdrama-v01-us",
+      "geo": "US",
+      "channelId": "4212444181",
+      "oldLandingUrl": "https://protectlifeplan.com/detail/662147821723?ref=Cart%C3%A3o%20de%20Cr%C3%A9dito%20para%20Negativado%20Aprovado%20na%20Hora:%20Comparativo%202026&channel=4212444181&hit={hit}&rType=2&partner=Flare",
+      "oldArticleId": "662147821723",
+      "host": "protectlifeplan.com",
+      "siteId": 63,
+      "accountId": 11,
+      "siteName": "protectlifeplan.com",
+      "siteResolved": true,
+      "seed": {
+        "keyword": "Enbrel Cost Without Insurance",
+        "intentKeyword": "Enbrel Cost Without Insurance",
+        "ref": "Enbrel Cost Without Insurance",
+        "domainCategory": "医疗·自身免疫",
+        "categoryId": 6454,
+        "regionId": "US"
+      },
+      "articleJobPreview": {
+        "publish": false,
+        "articlesPerDomain": 1,
+        "willCreate": false,
+        "note": "本轮只出计划，不调用 article-jobs",
+        "targets": [
+          {
+            "domain": "protectlifeplan.com",
+            "site_id": 63,
+            "account_id": 11
+          }
+        ]
+      },
+      "newLandingUrlExample": "https://protectlifeplan.com/detail/PENDING_ARTICLE_15?ref=Cart%C3%A3o+de+Cr%C3%A9dito+para+Negativado+Aprovado+na+Hora%3A+Comparativo+2026&channel=4212444181&hit=%7Bhit%7D&rType=2&partner=Flare&subid1=4212444181&subid2=PENDING_ARTICLE_15",
+      "urlRewriteRule": {
+        "replaceArticleIdInPath": true,
+        "setSubid1": "channelId",
+        "setSubid2": "newArticleId",
+        "keepOtherQueryParams": true,
+        "overwriteRefWithKeyword": false
+      }
+    },
+    {
+      "taskIndex": 16,
+      "status": "planned_no_generate",
+      "offerId": "3ykPjpxON04D",
+      "offerName": "Blinkdrama-v01-A12-us-5661257225-protectlifeplan.com ",
+      "groupId": "3sFCVTgYYRkx",
+      "groupName": "Blinkdrama-v01-us",
+      "geo": "US",
+      "channelId": "5661257225",
+      "oldLandingUrl": "https://protectlifeplan.com/detail/662147821723?ref=Cart%C3%A3o%20de%20Cr%C3%A9dito%20para%20Negativado%20Aprovado%20na%20Hora:%20Comparativo%202026&channel=5661257225&hit={hit}&rType=2&partner=Flare",
+      "oldArticleId": "662147821723",
+      "host": "protectlifeplan.com",
+      "siteId": 63,
+      "accountId": 11,
+      "siteName": "protectlifeplan.com",
+      "siteResolved": true,
+      "seed": {
+        "keyword": "Symbicort Cost Without Insurance",
+        "intentKeyword": "Symbicort Cost Without Insurance",
+        "ref": "Symbicort Cost Without Insurance",
+        "domainCategory": "医疗·呼吸与睡眠",
+        "categoryId": 6452,
+        "regionId": "US"
+      },
+      "articleJobPreview": {
+        "publish": false,
+        "articlesPerDomain": 1,
+        "willCreate": false,
+        "note": "本轮只出计划，不调用 article-jobs",
+        "targets": [
+          {
+            "domain": "protectlifeplan.com",
+            "site_id": 63,
+            "account_id": 11
+          }
+        ]
+      },
+      "newLandingUrlExample": "https://protectlifeplan.com/detail/PENDING_ARTICLE_16?ref=Cart%C3%A3o+de+Cr%C3%A9dito+para+Negativado+Aprovado+na+Hora%3A+Comparativo+2026&channel=5661257225&hit=%7Bhit%7D&rType=2&partner=Flare&subid1=5661257225&subid2=PENDING_ARTICLE_16",
+      "urlRewriteRule": {
+        "replaceArticleIdInPath": true,
+        "setSubid1": "channelId",
+        "setSubid2": "newArticleId",
+        "keepOtherQueryParams": true,
+        "overwriteRefWithKeyword": false
+      }
+    },
+    {
+      "taskIndex": 17,
+      "status": "planned_no_generate",
+      "offerId": "3ykRNT72RXbJ",
+      "offerName": "Blinkdrama-v01-A15-us-8962168365-51jiejue.com",
+      "groupId": "3sFCVTgYYRkx",
+      "groupName": "Blinkdrama-v01-us",
+      "geo": "US",
+      "channelId": "8962168365",
+      "oldLandingUrl": "https://51jiejue.com/detail/969129004345?ref=Cancer%20Treatment%20Cost%202026&channel=8962168365&hit={hit}&rType=2&partner=Blinkdrama",
+      "oldArticleId": "969129004345",
+      "host": "51jiejue.com",
+      "siteId": 128,
+      "accountId": 17,
+      "siteName": "51jiejue.com",
+      "siteResolved": true,
+      "seed": {
+        "keyword": "Spinal Cord Stimulator Cost",
+        "intentKeyword": "Spinal Cord Stimulator Cost",
+        "ref": "Spinal Cord Stimulator Cost",
+        "domainCategory": "骨科 / 关节",
+        "categoryId": 6310,
+        "regionId": "US"
+      },
+      "articleJobPreview": {
+        "publish": false,
+        "articlesPerDomain": 1,
+        "willCreate": false,
+        "note": "本轮只出计划，不调用 article-jobs",
+        "targets": [
+          {
+            "domain": "51jiejue.com",
+            "site_id": 128,
+            "account_id": 17
+          }
+        ]
+      },
+      "newLandingUrlExample": "https://51jiejue.com/detail/PENDING_ARTICLE_17?ref=Cancer+Treatment+Cost+2026&channel=8962168365&hit=%7Bhit%7D&rType=2&partner=Blinkdrama&subid1=8962168365&subid2=PENDING_ARTICLE_17",
+      "urlRewriteRule": {
+        "replaceArticleIdInPath": true,
+        "setSubid1": "channelId",
+        "setSubid2": "newArticleId",
+        "keepOtherQueryParams": true,
+        "overwriteRefWithKeyword": false
+      }
+    },
+    {
+      "taskIndex": 18,
+      "status": "planned_no_generate",
+      "offerId": "3ykRQbIyOZzU",
+      "offerName": "Blinkdrama-v01-A15-us-8855093242-lstmai.com",
+      "groupId": "3sFCVTgYYRkx",
+      "groupName": "Blinkdrama-v01-us",
+      "geo": "US",
+      "channelId": "8855093242",
+      "oldLandingUrl": "https://lstmai.com/detail/231542498616?ref=construction%20accident%20lawyer%20near%20me&channel=8855093242&hit={hit}",
+      "oldArticleId": "231542498616",
+      "host": "lstmai.com",
+      "siteId": 127,
+      "accountId": 17,
+      "siteName": "lstmai.com",
+      "siteResolved": true,
+      "seed": {
+        "keyword": "All-on-4 Dental Implants Cost",
+        "intentKeyword": "All-on-4 Dental Implants Cost",
+        "ref": "All-on-4 Dental Implants Cost",
+        "domainCategory": "牙科",
+        "categoryId": 5342,
+        "regionId": "US"
+      },
+      "articleJobPreview": {
+        "publish": false,
+        "articlesPerDomain": 1,
+        "willCreate": false,
+        "note": "本轮只出计划，不调用 article-jobs",
+        "targets": [
+          {
+            "domain": "lstmai.com",
+            "site_id": 127,
+            "account_id": 17
+          }
+        ]
+      },
+      "newLandingUrlExample": "https://lstmai.com/detail/PENDING_ARTICLE_18?ref=construction+accident+lawyer+near+me&channel=8855093242&hit=%7Bhit%7D&subid1=8855093242&subid2=PENDING_ARTICLE_18",
+      "urlRewriteRule": {
+        "replaceArticleIdInPath": true,
+        "setSubid1": "channelId",
+        "setSubid2": "newArticleId",
+        "keepOtherQueryParams": true,
+        "overwriteRefWithKeyword": false
+      }
+    }
+  ],
+  "skippedOffers": [
+    {
+      "offerId": "3sF8TDVUdMIS",
+      "offerName": "Blinkdrama-v01-A4-default-9111267282",
+      "groupId": "3sFCawuJlJcU",
+      "geo": null,
+      "reason": "geo_not_US"
+    },
+    {
+      "offerId": "3sFCDbvAfTXC",
+      "offerName": "Blinkdrama-v01-A7-default-11849",
+      "groupId": "3sFCawuJlJcU",
+      "geo": null,
+      "reason": "geo_not_US"
+    },
+    {
+      "offerId": "3wsEzCUJ03cL",
+      "offerName": "Blinkdrama-v01-A15-default-5914041032",
+      "groupId": "3sFCawuJlJcU",
+      "geo": null,
+      "reason": "geo_not_US"
+    },
+    {
+      "offerId": "3wsDZxqYboRh",
+      "offerName": "Blinkdrama-v01-A5-default-5003814895",
+      "groupId": "3sFCawuJlJcU",
+      "geo": null,
+      "reason": "geo_not_US"
+    },
+    {
+      "offerId": "3wsCf75j4g8f",
+      "offerName": "Blinkdrama-v01-A12-default-7345253802",
+      "groupId": "3sFCawuJlJcU",
+      "geo": null,
+      "reason": "geo_not_US"
+    }
+  ],
+  "generateStartedAt": "2026-11-11T10:15:54.519Z",
+  "generateRunFile": "tmp/first-funnel-generate-run.json"
+}

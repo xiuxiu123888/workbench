@@ -1,0 +1,26 @@
+{
+  "code": 200,
+  "data": {
+    "funnelId": "3zb2pKLqQr7e",
+    "funnelName": "moboreels-v02",
+    "partnerName": "changdu",
+    "urlName": "moboreels",
+    "urlId": 50,
+    "offerGroupList": [
+      {
+        "groupId": "3zb1132T5hJ7",
+        "groupName": "moboreels-v02-default",
+        "geo": null
+      },
+      {
+        "groupId": "3zb15NZTKTtA",
+        "groupName": "moboreels-v02-us",
+        "geo": "US"
+      }
+    ],
+    "platform": "MIS",
+    "status": "active",
+    "autoWeightEnabled": 1,
+    "autoWeightRuleType": "TODAY_RPM"
+  }
+}

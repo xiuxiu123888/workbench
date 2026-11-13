@@ -1,0 +1,43 @@
+{
+  "code": 200,
+  "data": {
+    "groupId": "42OIeWm1Vaat",
+    "groupName": "Dramaticreel-v02-us",
+    "routing": "rotator",
+    "geo": "US",
+    "yesterdayRpm": 0,
+    "yesterdayRev": 0,
+    "yesterdayRpmTrend": 0,
+    "yesterdayRevTrend": 0,
+    "offerList": [
+      {
+        "offerId": "42OHsRZdZJyW",
+        "offerName": "Dramaticreel-v02-A7-Us-18985-quantify-energy.com(copy)",
+        "categoryName": "其他",
+        "weight": 1,
+        "channelId": "18985",
+        "countryCode": "US",
+        "afsSource": "7",
+        "todayRpm": 0,
+        "todayRev": 0
+      },
+      {
+        "offerId": "42OHNuR5kENM",
+        "offerName": "Dramaticreel-v02-A1-Us-13514-beauty-center-nearby.com",
+        "categoryName": "其他",
+        "weight": 1,
+        "channelId": "13514",
+        "countryCode": "US",
+        "afsSource": "1",
+        "todayRpm": 0,
+        "todayRev": 0
+      }
+    ],
+    "funnelId": "42OJahu8SFPj",
+    "funnelName": "Dramaticreel-v02",
+    "partnerName": null,
+    "urlName": null,
+    "urlId": null,
+    "platform": "MIS"
+  }
+}

@@ -1,0 +1,135 @@
+:root {
+  --ink: #1c2430;
+  --muted: #667085;
+  --line: #e6e8ee;
+  --paper: #f4f5f7;
+  --blue: #1677ff;
+  --ok: #17803d;
+  --warn: #b45309;
+  --mono: "Cascadia Mono", "Sarasa Mono SC", Consolas, "Courier New", monospace;
+  --sans: "Segoe UI", "PingFang SC", "Microsoft YaHei", sans-serif;
+  --el-color-primary: #1677ff;
+  color: var(--ink);
+  font-family: var(--sans);
+  background: var(--paper);
+}
+
+* {
+  box-sizing: border-box;
+}
+
+html,
+body,
+#app {
+  margin: 0;
+  height: 100%;
+  overflow: hidden;
+}
+
+button,
+input,
+textarea {
+  font-family: inherit;
+}
+
+.shell {
+  height: 100%;
+  min-height: 0;
+}
+
+.status {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+}
+
+.pill {
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
+  height: 28px;
+  padding: 0 10px;
+  border-radius: 999px;
+  background: #f2f4f7;
+  color: var(--muted);
+  font-size: 12px;
+}
+
+.pill i {
+  width: 7px;
+  height: 7px;
+  border-radius: 50%;
+  background: #c4c9d4;
+}
+
+.pill.on {
+  background: #e8f7ee;
+  color: var(--ok);
+}
+
+.pill.on i {
+  background: var(--ok);
+}
+
+.log-open {
+  display: inline-flex;
+  gap: 8px;
+  align-items: center;
+  height: 32px;
+  padding: 0 12px;
+  border: 1px solid var(--line);
+  border-radius: 10px;
+  background: #fff;
+  color: inherit;
+  cursor: pointer;
+}
+
+.log-open:hover:not(:disabled) {
+  border-color: #b9d4ff;
+}
+
+.log-open.active {
+  border-color: #b9d4ff;
+  background: #f8fbff;
+  color: var(--blue);
+}
+
+.log-open:disabled {
+  opacity: 0.55;
+  cursor: not-allowed;
+}
+
+.log-open strong {
+  font-size: 14px;
+  font-weight: 650;
+}
+
+.log-open span {
+  color: var(--muted);
+  font-size: 12px;
+}
+
+.write-confirm .confirm-lead {
+  margin: 0 0 12px;
+  color: var(--ink);
+}
+
+.write-confirm .confirm-label {
+  margin: 0 0 4px;
+  color: var(--muted);
+  font-size: 12px;
+}
+
+.write-confirm code {
+  display: block;
+  margin: 0 0 12px;
+  padding: 8px 10px;
+  border-radius: 8px;
+  background: var(--paper);
+  color: var(--ink);
+  font-family: var(--mono);
+  font-size: 12px;
+  line-height: 1.55;
+  word-break: break-all;
+  white-space: pre-wrap;
+}

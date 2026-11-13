@@ -1,0 +1,225 @@
+{
+  "funnelId": "3p0qKj9ZuL0Q",
+  "funnelName": "ff-reel-v02",
+  "day": "2026-11-12",
+  "query": {
+    "day": "2026-11-12",
+    "startTime": "2026-11-12 00:00:00",
+    "endTime": "2026-11-12 23:59:59"
+  },
+  "data": {
+    "categoryList": [
+      {
+        "categoryId": "3p0nfsYUAr0U",
+        "categoryName": "Flare-V02",
+        "categoryType": "offer"
+      }
+    ],
+    "statsList": [
+      {
+        "id": "3p6ovDqc2FtD",
+        "name": "flare-v02-A12-us-6972514407",
+        "categoryId": "3p0nfsYUAr0U",
+        "visits": 0,
+        "views": 0,
+        "conversion": 0,
+        "category": "Flare-V02",
+        "offerSource": "flare-hit",
+        "revenue": "0.00",
+        "funnelImpressions": 0,
+        "funnelClicks": 1,
+        "clicks": 0,
+        "funnelRpm": "0",
+        "rpc": "0",
+        "funnelCtr": "0",
+        "cvr1": "0.0",
+        "cvr2": "0",
+        "url": "https://protectlifeplan.com/detail/662147821723?ref=Cart%C3%A3o%20de%20Cr%C3%A9dito%20para%20Negativado%20Aprovado%20na%20Hora:%20Comparativo%202026&channel=6972514407&hit={hit}&rType=2&partner=Flare",
+        "countryInfos": [
+          {
+            "countryCode": "PH",
+            "revenue": "0.00",
+            "impressions": 0,
+            "rpm": "0",
+            "funnelClicks": 1,
+            "clicks": 0
+          }
+        ]
+      },
+      {
+        "id": "3p1at7JQDkF8",
+        "name": "flare-v02-A12-default-6972514407",
+        "categoryId": "3p0nfsYUAr0U",
+        "visits": 0,
+        "views": 0,
+        "conversion": 0,
+        "category": "Flare-V02",
+        "offerSource": "flare-hit",
+        "revenue": "0.00",
+        "funnelImpressions": 0,
+        "funnelClicks": 1,
+        "clicks": 0,
+        "funnelRpm": "0",
+        "rpc": "0",
+        "funnelCtr": "0",
+        "cvr1": "0.0",
+        "cvr2": "0",
+        "url": "https://protectlifeplan.com/detail/698976626521?ref=Emergency%20Loans%20in%202026&channel=6972514407&hit={hit}&rType=2&partner=Flare",
+        "countryInfos": [
+          {
+            "countryCode": "PH",
+            "revenue": "0.00",
+            "impressions": 0,
+            "rpm": "0",
+            "funnelClicks": 1,
+            "clicks": 0
+          }
+        ]
+      },
+      {
+        "id": "3p1UutmFWLgy",
+        "name": "flare-v02-A12-br-6972514407",
+        "categoryId": "3p0nfsYUAr0U",
+        "visits": 0,
+        "views": 0,
+        "conversion": 0,
+        "category": "Flare-V02",
+        "offerSource": "flare-hit",
+        "revenue": "0.00",
+        "funnelImpressions": 0,
+        "funnelClicks": 1,
+        "clicks": 0,
+        "funnelRpm": "0",
+        "rpc": "0",
+        "funnelCtr": "0",
+        "cvr1": "0.0",
+        "cvr2": "0",
+        "url": "https://protectlifeplan.com/detail/662147821723?ref=Cart%C3%A3o%20de%20Cr%C3%A9dito%20para%20Negativado%20Aprovado%20na%20Hora:%20Comparativo%202026&channel=6972514407&hit={hit}&rType=2&partner=Flare",
+        "countryInfos": [
+          {
+            "countryCode": "PH",
+            "revenue": "0.00",
+            "impressions": 0,
+            "rpm": "0",
+            "funnelClicks": 1,
+            "clicks": 0
+          }
+        ]
+      },
+      {
+        "id": "3p1TmJy8l85L",
+        "name": "flare-v02-A4-br-1493955810",
+        "categoryId": "3p0nfsYUAr0U",
+        "visits": 0,
+        "views": 0,
+        "conversion": 0,
+        "category": "Flare-V02",
+        "offerSource": "flare-hit",
+        "revenue": "0.00",
+        "funnelImpressions": 2,
+        "funnelClicks": 3,
+        "clicks": 0,
+        "funnelRpm": "0.00",
+        "rpc": "0",
+        "funnelCtr": "150.0",
+        "cvr1": "0.0",
+        "cvr2": "0.0",
+        "url": "https://fluxpaid.com/detail/329095452933?ref=Cart%C3%A3o%20de%20Cr%C3%A9dito%20para%20Negativado%20Aprovado%20na%20Hora:%20Comparativo%202026&channel=1493955810&hit={hit}&rType=2&partner=Flare",
+        "countryInfos": [
+          {
+            "countryCode": "PH",
+            "revenue": "0.00",
+            "impressions": 1,
+            "rpm": "0.00",
+            "funnelClicks": 3,
+            "clicks": 0
+          },
+          {
+            "countryCode": "US",
+            "revenue": "0.00",
+            "impressions": 1,
+            "rpm": "0.00",
+            "funnelClicks": 0,
+            "clicks": 0
+          }
+        ]
+      },
+      {
+        "id": "3p0ntpLcOt7H",
+        "name": "flare-v02-A4-us-1493955810",
+        "categoryId": "3p0nfsYUAr0U",
+        "visits": 0,
+        "views": 0,
+        "conversion": 0,
+        "category": "Flare-V02",
+        "offerSource": "flare-hit",
+        "revenue": "0.00",
+        "funnelImpressions": 2,
+        "funnelClicks": 3,
+        "clicks": 0,
+        "funnelRpm": "0.00",
+        "rpc": "0",
+        "funnelCtr": "150.0",
+        "cvr1": "0.0",
+        "cvr2": "0.0",
+        "url": "https://zestfularcade.com/detail/138338230325?channel=1493955810&ref=PrEP%20Cost%20Guide%202026&hit={hit}&rType=2&partner=Flare",
+        "countryInfos": [
+          {
+            "countryCode": "PH",
+            "revenue": "0.00",
+            "impressions": 1,
+            "rpm": "0.00",
+            "funnelClicks": 3,
+            "clicks": 0
+          },
+          {
+            "countryCode": "US",
+            "revenue": "0.00",
+            "impressions": 1,
+            "rpm": "0.00",
+            "funnelClicks": 0,
+            "clicks": 0
+          }
+        ]
+      },
+      {
+        "id": "3p0np6y41fmo",
+        "name": "flare-v02-A4-default-1493955810",
+        "categoryId": "3p0nfsYUAr0U",
+        "visits": 0,
+        "views": 0,
+        "conversion": 0,
+        "category": "Flare-V02",
+        "offerSource": "afs-common",
+        "revenue": "0.00",
+        "funnelImpressions": 2,
+        "funnelClicks": 3,
+        "clicks": 0,
+        "funnelRpm": "0.00",
+        "rpc": "0",
+        "funnelCtr": "150.0",
+        "cvr1": "0.0",
+        "cvr2": "0.0",
+        "url": "https://joyfulgaminghub9.com/detail/491294484924?channel=1493955810&hit={hit}",
+        "countryInfos": [
+          {
+            "countryCode": "PH",
+            "revenue": "0.00",
+            "impressions": 1,
+            "rpm": "0.00",
+            "funnelClicks": 3,
+            "clicks": 0
+          },
+          {
+            "countryCode": "US",
+            "revenue": "0.00",
+            "impressions": 1,
+            "rpm": "0.00",
+            "funnelClicks": 0,
+            "clicks": 0
+          }
+        ]
+      }
+    ]
+  }
+}

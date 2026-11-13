@@ -1,0 +1,22 @@
+{
+  "code": 200,
+  "data": {
+    "funnelId": "3zaxNqwFxfnB",
+    "funnelName": "reader-v02",
+    "partnerName": null,
+    "urlName": null,
+    "urlId": null,
+    "offerGroupList": [
+      {
+        "groupId": "3zawDpprkMda",
+        "groupName": "reader-v02-default",
+        "geo": "US"
+      },
+      {
+        "groupId": "3zawJefnU1rD",
+        "groupName": "reader-v02-us",
+        "geo": "US"
+      }
+    ]
+  }
+}

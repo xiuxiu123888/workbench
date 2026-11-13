@@ -1,0 +1,924 @@
+[
+  {
+    "ref": "clorox everclean",
+    "articleId": "221412270182",
+    "channel": "12152",
+    "host": "algo-cash.com",
+    "funnels": [
+      "Blinkdrama-sign-v01",
+      "Blinkdrama-v01",
+      "Blinkdrama-v02",
+      "Blinkdrama-v03",
+      "Blinkdrama-v04",
+      "Vibeshort-V01",
+      "Vibeshort-V03",
+      "Vibeshort-V04",
+      "Vibeshort-V05"
+    ],
+    "matches": [
+      {
+        "funnelName": "Vibeshort-V03",
+        "funnelId": "3w2ShcbnMk5i",
+        "offerId": "3w2PDvakvMeu",
+        "offerName": "vibeshort-v03-A7-us-11452-algo-cash.com",
+        "channelId": "11452",
+        "seed": "new jeep suv",
+        "status": "ready",
+        "source": "draft"
+      },
+      {
+        "funnelName": "Vibeshort-V01",
+        "funnelId": "3yj8jf5lC9CG",
+        "offerId": "3yisUUf90NgI",
+        "offerName": "Vibeshort-V01-A5-us-9950467973-funfillgames.com",
+        "channelId": "9950467973",
+        "seed": "clorox everclean",
+        "status": "ready",
+        "source": "draft"
+      },
+      {
+        "funnelName": "Vibeshort-V04",
+        "funnelId": "3rHsTlCL2Fcg",
+        "offerId": "3rHpQ18kYD9g",
+        "offerName": "vibeshort-v04-A7-us-11746-algo-cash.com",
+        "channelId": "11746",
+        "seed": "innovative gadgets",
+        "status": "ready",
+        "source": "draft"
+      },
+      {
+        "funnelName": "Vibeshort-V01",
+        "funnelId": "3yj8jf5lC9CG",
+        "offerId": "3yirR152RW7k",
+        "offerName": "vibeshort-v01-A4-us-3036134554-joyfulgaminghub9.com",
+        "channelId": "3036134554",
+        "seed": "clorox everclean",
+        "status": "ready",
+        "source": "draft"
+      },
+      {
+        "funnelName": "Vibeshort-V05",
+        "funnelId": "3rHtNAYBcTyF",
+        "offerId": "3rHqT7qERZ9s",
+        "offerName": "vibeshort-v05-A7-us-11747-algo-cash.com",
+        "channelId": "11747",
+        "seed": "brixadi market trends",
+        "status": "ready",
+        "source": "draft"
+      },
+      {
+        "funnelName": "Blinkdrama-v04",
+        "funnelId": "3uDZt8ImMHUl",
+        "offerId": "3uDYkbUyIjd4",
+        "offerName": "Blinkdrama-v04-A7-Us-12152-algo-cash.com",
+        "channelId": "12152",
+        "seed": "clorox everclean",
+        "status": "ready",
+        "source": "draft"
+      },
+      {
+        "funnelName": "Blinkdrama-v03",
+        "funnelId": "3uDZjmliiexb",
+        "offerId": "3uDYSHvFKceJ",
+        "offerName": "Blinkdrama-v03-A7-Us-12151-algo-cash.com",
+        "channelId": "12151",
+        "seed": "gm hybrid suv",
+        "status": "ready",
+        "source": "draft"
+      },
+      {
+        "funnelName": "Blinkdrama-v02",
+        "funnelId": "3sFDuJeEbeay",
+        "offerId": "3sFCvYmcWean",
+        "offerName": "Blinkdrama-v02-A7-Us-11850-algo-cash.com",
+        "channelId": "11850",
+        "seed": "buprenorphine induction protocol",
+        "status": "ready",
+        "source": "draft"
+      },
+      {
+        "funnelName": "Blinkdrama-v01",
+        "funnelId": "3sFDWWqvNxR9",
+        "offerId": "3ykOQIJHOXFR",
+        "offerName": "Blinkdrama-v01-A7-Us-18667-aifinteches.com",
+        "channelId": "18667",
+        "seed": "new jeep suv",
+        "status": "ready",
+        "source": "draft"
+      },
+      {
+        "funnelName": "Blinkdrama-sign-v01",
+        "funnelId": "3uUfpSpZ3e2U",
+        "offerId": "3uZdTp0CLbkH",
+        "offerName": "Blinkdrama-sign-v01-A7-us-12486-algo-cash.com",
+        "channelId": "12486",
+        "seed": "gadgets for wellness",
+        "status": "ready",
+        "source": "draft"
+      },
+      {
+        "funnelName": "Vibeshort-V05",
+        "funnelId": "3rHtNAYBcTyF",
+        "offerId": "3rHqT7qERZ9s",
+        "offerName": "vibeshort-v05-A7-us-11747-algo-cash.com",
+        "channelId": "11747",
+        "seed": "brixadi market trends",
+        "source": "replace-log"
+      },
+      {
+        "funnelName": "Blinkdrama-v02",
+        "funnelId": "3sFDuJeEbeay",
+        "offerId": "3sFCvYmcWean",
+        "offerName": "Blinkdrama-v02-A7-Us-11850-algo-cash.com",
+        "channelId": "11850",
+        "seed": "buprenorphine induction protocol",
+        "source": "replace-log"
+      },
+      {
+        "funnelName": "Blinkdrama-v01",
+        "funnelId": "3sFDWWqvNxR9",
+        "offerId": "3ykOQIJHOXFR",
+        "offerName": "Blinkdrama-v01-A7-Us-18667-aifinteches.com",
+        "channelId": "18667",
+        "seed": "new jeep suv",
+        "source": "replace-log"
+      }
+    ]
+  },
+  {
+    "ref": "cars with 0 apr",
+    "articleId": "260559976094",
+    "channel": "2092927125",
+    "host": "degreesuccesstips.com",
+    "funnels": [
+      "Blinkdrama-sign-v01",
+      "Blinkdrama-v01",
+      "Blinkdrama-v02",
+      "Blinkdrama-v03",
+      "Blinkdrama-v04",
+      "Vibeshort-sign-v01",
+      "Vibeshort-V01",
+      "Vibeshort-v02",
+      "Vibeshort-V03",
+      "Vibeshort-V04",
+      "Vibeshort-V05"
+    ],
+    "matches": [
+      {
+        "funnelName": "Vibeshort-v02",
+        "funnelId": "3w0aPitAgGtJ",
+        "offerId": "3yibzLJBFJPR",
+        "offerName": "vibeshort-v02-A1-us-14941-beauty-center-nearby.com",
+        "channelId": "14941",
+        "seed": "cars with 0 apr",
+        "status": "ready",
+        "source": "draft"
+      },
+      {
+        "funnelName": "Vibeshort-v02",
+        "funnelId": "3w0aPitAgGtJ",
+        "offerId": "3yicSaS9IdSM",
+        "offerName": "vibeshort-v02-A12-US-1685250163-degreesuccesstips.com",
+        "channelId": "1685250163",
+        "seed": "fillers near me",
+        "status": "ready",
+        "source": "draft"
+      },
+      {
+        "funnelName": "Vibeshort-sign-v01",
+        "funnelId": "3p89AEQQqtiQ",
+        "offerId": "3p88Q5nI9TBl",
+        "offerName": "vibeshort-sign-v01-A12-us-6426391280",
+        "channelId": "6426391280",
+        "seed": "botox vs dysport units",
+        "status": "ready",
+        "source": "draft"
+      },
+      {
+        "funnelName": "Vibeshort-V01",
+        "funnelId": "3yj8jf5lC9CG",
+        "offerId": "3yikMLyLKLR1",
+        "offerName": "vibeshort-v01-A12-US-8003729354-protectlifeplan.com",
+        "channelId": "8003729354",
+        "seed": "cars with 0 finance",
+        "status": "ready",
+        "source": "draft"
+      },
+      {
+        "funnelName": "Vibeshort-V01",
+        "funnelId": "3yj8jf5lC9CG",
+        "offerId": "3yikREvnngT8",
+        "offerName": "vibeshort-v01-A12-US-3934817012-degreesuccesstips.com",
+        "channelId": "3934817012",
+        "seed": "jeuveau botox head to head",
+        "status": "ready",
+        "source": "draft"
+      },
+      {
+        "funnelName": "Vibeshort-V03",
+        "funnelId": "3w2ShcbnMk5i",
+        "offerId": "3w2PXnM7a7U1",
+        "offerName": "vibeshort-v03-A12-us-6255000890-degreesuccesstips.com",
+        "channelId": "6255000890",
+        "seed": "best phev lease",
+        "status": "ready",
+        "source": "draft"
+      },
+      {
+        "funnelName": "Vibeshort-V05",
+        "funnelId": "3rHtNAYBcTyF",
+        "offerId": "3rHqKJZBkZu7",
+        "offerName": "vibeshort-v05-A12-us-8504224551-degreesuccesstips.com",
+        "channelId": "8504224551",
+        "seed": "replacement for botox",
+        "status": "ready",
+        "source": "draft"
+      },
+      {
+        "funnelName": "Vibeshort-V01",
+        "funnelId": "3yj8jf5lC9CG",
+        "offerId": "3yik2WYr8sn4",
+        "offerName": "vibeshort-v01-A1-US-14944-homeguarddeals.com",
+        "channelId": "14944",
+        "seed": "cars with 0 apr",
+        "status": "ready",
+        "source": "draft"
+      },
+      {
+        "funnelName": "Vibeshort-V04",
+        "funnelId": "3rHsTlCL2Fcg",
+        "offerId": "3rHphIZX6BFK",
+        "offerName": "vibeshort-v04-A12-us-8578384355-degreesuccesstips.com",
+        "channelId": "8578384355",
+        "seed": "best wedding skincare products",
+        "status": "ready",
+        "source": "draft"
+      },
+      {
+        "funnelName": "Blinkdrama-v02",
+        "funnelId": "3sFDuJeEbeay",
+        "offerId": "3ywMb9GM5fp0",
+        "offerName": "Blinkdrama-v02-A12-us-3826752218-protectlifeplan.com",
+        "channelId": "3826752218",
+        "seed": "Chevrolet hybrid vehicles",
+        "status": "ready",
+        "source": "draft"
+      },
+      {
+        "funnelName": "Blinkdrama-v03",
+        "funnelId": "3uDZjmliiexb",
+        "offerId": "3yQh3RzmisW0",
+        "offerName": "Blinkdrama-v03-A12-us-2175454077-degreesuccesstips.com",
+        "channelId": "2175454077",
+        "seed": "brixadi market trends",
+        "status": "ready",
+        "source": "draft"
+      },
+      {
+        "funnelName": "Blinkdrama-v02",
+        "funnelId": "3sFDuJeEbeay",
+        "offerId": "3yQgx4dSR98u",
+        "offerName": "Blinkdrama-v02-A12-us-7191142882-degreesuccesstips.com",
+        "channelId": "7191142882",
+        "seed": "Chevrolet hybrid vehicles",
+        "status": "ready",
+        "source": "draft"
+      },
+      {
+        "funnelName": "Blinkdrama-v04",
+        "funnelId": "3uDZt8ImMHUl",
+        "offerId": "3yQhAOrPBABm",
+        "offerName": "Blinkdrama-v04-A12-us-2092927125-degreesuccesstips.com",
+        "channelId": "2092927125",
+        "seed": "cars with 0 apr",
+        "status": "ready",
+        "source": "draft"
+      },
+      {
+        "funnelName": "Blinkdrama-v01",
+        "funnelId": "3sFDWWqvNxR9",
+        "offerId": "3ykPjpxON04D",
+        "offerName": "Blinkdrama-v01-A12-us-5661257225-protectlifeplan.com",
+        "channelId": "5661257225",
+        "seed": "gadgets for wellness",
+        "status": "ready",
+        "source": "draft"
+      },
+      {
+        "funnelName": "Blinkdrama-v01",
+        "funnelId": "3sFDWWqvNxR9",
+        "offerId": "3ykOFYkwVPai",
+        "offerName": "Blinkdrama-v01-A4-Us-8026393663-playfulviibes.com",
+        "channelId": "8026393663",
+        "seed": "cars with 0 apr",
+        "status": "ready",
+        "source": "draft"
+      },
+      {
+        "funnelName": "Blinkdrama-v01",
+        "funnelId": "3sFDWWqvNxR9",
+        "offerId": "3yQgoSyy0tEe",
+        "offerName": "Blinkdrama-v01-A12-us-7345253802-degreesuccesstips.com",
+        "channelId": "7345253802",
+        "seed": "best wedding skincare products",
+        "status": "ready",
+        "source": "draft"
+      },
+      {
+        "funnelName": "Blinkdrama-sign-v01",
+        "funnelId": "3uUfpSpZ3e2U",
+        "offerId": "3yBLPFvA5Gt5",
+        "offerName": "Blinkdrama-sign-v01-A12-Us-new-7815494570-degreesuccesstips.com",
+        "channelId": "7815494570",
+        "seed": "best wedding skincare products",
+        "status": "ready",
+        "source": "draft"
+      },
+      {
+        "funnelName": "Blinkdrama-sign-v01",
+        "funnelId": "3uUfpSpZ3e2U",
+        "offerId": "3uUeo9IhbaYj",
+        "offerName": "Blinkdrama-sign-v01-A4-Us-1628696221-zestfularcade.com",
+        "channelId": "1628696221",
+        "seed": "cars with 0 apr",
+        "status": "ready",
+        "source": "draft"
+      },
+      {
+        "funnelName": "Vibeshort-V05",
+        "funnelId": "3rHtNAYBcTyF",
+        "offerId": "3rHqKJZBkZu7",
+        "offerName": "vibeshort-v05-A12-us-8504224551-degreesuccesstips.com",
+        "channelId": "8504224551",
+        "seed": "replacement for botox",
+        "source": "replace-log"
+      },
+      {
+        "funnelName": "Blinkdrama-v02",
+        "funnelId": "3sFDuJeEbeay",
+        "offerId": "3yQgx4dSR98u",
+        "offerName": "Blinkdrama-v02-A12-us-7191142882-degreesuccesstips.com",
+        "channelId": "7191142882",
+        "seed": "Chevrolet hybrid vehicles",
+        "source": "replace-log"
+      },
+      {
+        "funnelName": "Blinkdrama-v02",
+        "funnelId": "3sFDuJeEbeay",
+        "offerId": "3ywMb9GM5fp0",
+        "offerName": "Blinkdrama-v02-A12-us-3826752218-protectlifeplan.com",
+        "channelId": "3826752218",
+        "seed": "Chevrolet hybrid vehicles",
+        "source": "replace-log"
+      },
+      {
+        "funnelName": "Blinkdrama-v01",
+        "funnelId": "3sFDWWqvNxR9",
+        "offerId": "3yQgoSyy0tEe",
+        "offerName": "Blinkdrama-v01-A12-us-7345253802-degreesuccesstips.com",
+        "channelId": "7345253802",
+        "seed": "best wedding skincare products",
+        "source": "replace-log"
+      },
+      {
+        "funnelName": "Blinkdrama-v01",
+        "funnelId": "3sFDWWqvNxR9",
+        "offerId": "3ykOFYkwVPai",
+        "offerName": "Blinkdrama-v01-A4-Us-8026393663-playfulviibes.com",
+        "channelId": "8026393663",
+        "seed": "cars with 0 apr",
+        "source": "replace-log"
+      },
+      {
+        "funnelName": "Blinkdrama-v01",
+        "funnelId": "3sFDWWqvNxR9",
+        "offerId": "3ykPjpxON04D",
+        "offerName": "Blinkdrama-v01-A12-us-5661257225-protectlifeplan.com",
+        "channelId": "5661257225",
+        "seed": "gadgets for wellness",
+        "source": "replace-log"
+      }
+    ]
+  },
+  {
+    "ref": "cars with 0 finance",
+    "articleId": "126389073303",
+    "channel": "8412824288",
+    "host": "funfillgames.com",
+    "funnels": [
+      "Blinkdrama-sign-v01",
+      "Blinkdrama-v01",
+      "Blinkdrama-v02",
+      "Blinkdrama-v03",
+      "Vibeshort-V01",
+      "Vibeshort-v02",
+      "Vibeshort-V05"
+    ],
+    "matches": [
+      {
+        "funnelName": "Vibeshort-v02",
+        "funnelId": "3w0aPitAgGtJ",
+        "offerId": "3yicsEljxoxj",
+        "offerName": "Vibeshort-V02-A5-us-7324304633-funfillgames.com",
+        "channelId": "7324304633",
+        "seed": "best wedding skincare products",
+        "status": "ready",
+        "source": "draft"
+      },
+      {
+        "funnelName": "Vibeshort-V01",
+        "funnelId": "3yj8jf5lC9CG",
+        "offerId": "3yisUUf90NgI",
+        "offerName": "Vibeshort-V01-A5-us-9950467973-funfillgames.com",
+        "channelId": "9950467973",
+        "seed": "clorox everclean",
+        "status": "ready",
+        "source": "draft"
+      },
+      {
+        "funnelName": "Vibeshort-V01",
+        "funnelId": "3yj8jf5lC9CG",
+        "offerId": "3yikMLyLKLR1",
+        "offerName": "vibeshort-v01-A12-US-8003729354-protectlifeplan.com",
+        "channelId": "8003729354",
+        "seed": "cars with 0 finance",
+        "status": "ready",
+        "source": "draft"
+      },
+      {
+        "funnelName": "Vibeshort-V05",
+        "funnelId": "3rHtNAYBcTyF",
+        "offerId": "3yBO5ZdzwSmW",
+        "offerName": "Vibeshort-V05-A5-us-5243735467-funfillgames.com",
+        "channelId": "5243735467",
+        "seed": "best suv models right now",
+        "status": "ready",
+        "source": "draft"
+      },
+      {
+        "funnelName": "Vibeshort-v02",
+        "funnelId": "3w0aPitAgGtJ",
+        "offerId": "3w0OBXH3QcWG",
+        "offerName": "vibeshort-v02-A4-us-1287194105-minigamemix.com",
+        "channelId": "1287194105",
+        "seed": "cars with 0 finance",
+        "status": "ready",
+        "source": "draft"
+      },
+      {
+        "funnelName": "Blinkdrama-v02",
+        "funnelId": "3sFDuJeEbeay",
+        "offerId": "3ywMItQ8waKO",
+        "offerName": "Blinkdrama-v02-A5-us-1845597308-whirlwindarcade.com",
+        "channelId": "1845597308",
+        "seed": "best cat litter reddit",
+        "status": "ready",
+        "source": "draft"
+      },
+      {
+        "funnelName": "Blinkdrama-v03",
+        "funnelId": "3uDZjmliiexb",
+        "offerId": "3wsEk5dFQ5NI",
+        "offerName": "Blinkdrama-v03-A5-us-5602828114-whirlwindarcade.com",
+        "channelId": "5602828114",
+        "seed": "cars with 0 finance",
+        "status": "ready",
+        "source": "draft"
+      },
+      {
+        "funnelName": "Blinkdrama-v02",
+        "funnelId": "3sFDuJeEbeay",
+        "offerId": "3wsEYJJ6fFdm",
+        "offerName": "Blinkdrama-v02-A5-us-8412824288-funfillgames.com",
+        "channelId": "8412824288",
+        "seed": "cars with 0 finance",
+        "status": "ready",
+        "source": "draft"
+      },
+      {
+        "funnelName": "Blinkdrama-v01",
+        "funnelId": "3sFDWWqvNxR9",
+        "offerId": "3wsEOTo1vk4N",
+        "offerName": "Blinkdrama-v01-A5-us-5003814895-funfillgames.com",
+        "channelId": "5003814895",
+        "seed": "fillers near me",
+        "status": "ready",
+        "source": "draft"
+      },
+      {
+        "funnelName": "Blinkdrama-sign-v01",
+        "funnelId": "3uUfpSpZ3e2U",
+        "offerId": "3ywI7ngx19LX",
+        "offerName": "Blinkdrama-sign-v01-A15-us-1607158614-lstmai.com",
+        "channelId": "1607158614",
+        "seed": "cars with 0 finance",
+        "status": "ready",
+        "source": "draft"
+      },
+      {
+        "funnelName": "Blinkdrama-sign-v01",
+        "funnelId": "3uUfpSpZ3e2U",
+        "offerId": "3uUfE2yfRfra",
+        "offerName": "Blinkdrama-sign-v01-A5-Us-4669020397-funfillgames.com",
+        "channelId": "4669020397",
+        "seed": "voluma face lift",
+        "status": "ready",
+        "source": "draft"
+      },
+      {
+        "funnelName": "Vibeshort-V05",
+        "funnelId": "3rHtNAYBcTyF",
+        "offerId": "3yBO5ZdzwSmW",
+        "offerName": "Vibeshort-V05-A5-us-5243735467-funfillgames.com",
+        "channelId": "5243735467",
+        "seed": "best suv models right now",
+        "source": "replace-log"
+      },
+      {
+        "funnelName": "Blinkdrama-v02",
+        "funnelId": "3sFDuJeEbeay",
+        "offerId": "3wsEYJJ6fFdm",
+        "offerName": "Blinkdrama-v02-A5-us-8412824288-funfillgames.com",
+        "channelId": "8412824288",
+        "seed": "cars with 0 finance",
+        "source": "replace-log"
+      },
+      {
+        "funnelName": "Blinkdrama-v02",
+        "funnelId": "3sFDuJeEbeay",
+        "offerId": "3ywMItQ8waKO",
+        "offerName": "Blinkdrama-v02-A5-us-1845597308-whirlwindarcade.com",
+        "channelId": "1845597308",
+        "seed": "best cat litter reddit",
+        "source": "replace-log"
+      },
+      {
+        "funnelName": "Blinkdrama-v01",
+        "funnelId": "3sFDWWqvNxR9",
+        "offerId": "3wsEOTo1vk4N",
+        "offerName": "Blinkdrama-v01-A5-us-5003814895-funfillgames.com",
+        "channelId": "5003814895",
+        "seed": "fillers near me",
+        "source": "replace-log"
+      }
+    ]
+  },
+  {
+    "ref": "cars for sale 0% finance",
+    "articleId": "520034953200",
+    "channel": "7227122706",
+    "host": "mpbus.com",
+    "funnels": [
+      "Blinkdrama-sign-v01",
+      "Blinkdrama-v01",
+      "Blinkdrama-v02",
+      "Blinkdrama-v03",
+      "Blinkdrama-v04",
+      "Vibeshort-V01",
+      "Vibeshort-v02",
+      "Vibeshort-V03",
+      "Vibeshort-V04"
+    ],
+    "matches": [
+      {
+        "funnelName": "Vibeshort-v02",
+        "funnelId": "3w0aPitAgGtJ",
+        "offerId": "3yicjsHUTroy",
+        "offerName": "vibeshort-v02-A4-us-6233251331-fluxpaid.com",
+        "channelId": "6233251331",
+        "seed": "cars for sale 0% finance",
+        "status": "ready",
+        "source": "draft"
+      },
+      {
+        "funnelName": "Vibeshort-V01",
+        "funnelId": "3yj8jf5lC9CG",
+        "offerId": "3yisxTgxexmo",
+        "offerName": "Vibeshort-v01-A15-us-6396450861-mpbus.com",
+        "channelId": "6396450861",
+        "seed": "replacement for botox",
+        "status": "ready",
+        "source": "draft"
+      },
+      {
+        "funnelName": "Vibeshort-V04",
+        "funnelId": "3rHsTlCL2Fcg",
+        "offerId": "3yx1Be6CXRqO",
+        "offerName": "vibeshort-v04-us-A15-5195049838-mpbus.com",
+        "channelId": "5195049838",
+        "seed": "botox vs dysport for brow lift",
+        "status": "ready",
+        "source": "draft"
+      },
+      {
+        "funnelName": "Vibeshort-v02",
+        "funnelId": "3w0aPitAgGtJ",
+        "offerId": "3yidl88fkNxu",
+        "offerName": "Vibeshort-v02-A15-us-3770287525-mpbus.com",
+        "channelId": "3770287525",
+        "seed": "best new gadgets to buy",
+        "status": "ready",
+        "source": "draft"
+      },
+      {
+        "funnelName": "Vibeshort-V03",
+        "funnelId": "3w2ShcbnMk5i",
+        "offerId": "3ywsLD6Synj2",
+        "offerName": "vibeshort-v03-A1-us-13426-homeguarddeals.com",
+        "channelId": "13426",
+        "seed": "cars for sale 0% finance",
+        "status": "ready",
+        "source": "draft"
+      },
+      {
+        "funnelName": "Blinkdrama-v04",
+        "funnelId": "3uDZt8ImMHUl",
+        "offerId": "3wsFpL1meodv",
+        "offerName": "Blinkdrama-v04-A15-us-4932131851-mpbus.com",
+        "channelId": "4932131851",
+        "seed": "buprenorphine induction protocol",
+        "status": "ready",
+        "source": "draft"
+      },
+      {
+        "funnelName": "Blinkdrama-v03",
+        "funnelId": "3uDZjmliiexb",
+        "offerId": "3wsFvDuIbLEn",
+        "offerName": "Blinkdrama-v03-A15-us-7227122706-mpbus.com",
+        "channelId": "7227122706",
+        "seed": "cars for sale 0% finance",
+        "status": "ready",
+        "source": "draft"
+      },
+      {
+        "funnelName": "Blinkdrama-v02",
+        "funnelId": "3sFDuJeEbeay",
+        "offerId": "3wsFjIN71Mkz",
+        "offerName": "Blinkdrama-v02-A15-us-3619050185-mpbus.com",
+        "channelId": "3619050185",
+        "seed": "jeuveau botox head to head",
+        "status": "ready",
+        "source": "draft"
+      },
+      {
+        "funnelName": "Blinkdrama-v01",
+        "funnelId": "3sFDWWqvNxR9",
+        "offerId": "3wsFVLlbyKi7",
+        "offerName": "Blinkdrama-v01-A15-us-5914041032-mpbus.com",
+        "channelId": "5914041032",
+        "seed": "Chevrolet hybrid vehicles",
+        "status": "ready",
+        "source": "draft"
+      },
+      {
+        "funnelName": "Blinkdrama-sign-v01",
+        "funnelId": "3uUfpSpZ3e2U",
+        "offerId": "3wsFbYKpWvog",
+        "offerName": "Blinkdrama-sign-v01-A15-us-2979233422-mpbus.com",
+        "channelId": "2979233422",
+        "seed": "hyundai 0 financing",
+        "status": "ready",
+        "source": "draft"
+      },
+      {
+        "funnelName": "Blinkdrama-v02",
+        "funnelId": "3sFDuJeEbeay",
+        "offerId": "3wsFjIN71Mkz",
+        "offerName": "Blinkdrama-v02-A15-us-3619050185-mpbus.com",
+        "channelId": "3619050185",
+        "seed": "jeuveau botox head to head",
+        "source": "replace-log"
+      },
+      {
+        "funnelName": "Blinkdrama-v01",
+        "funnelId": "3sFDWWqvNxR9",
+        "offerId": "3wsFVLlbyKi7",
+        "offerName": "Blinkdrama-v01-A15-us-5914041032-mpbus.com",
+        "channelId": "5914041032",
+        "seed": "Chevrolet hybrid vehicles",
+        "source": "replace-log"
+      }
+    ]
+  },
+  {
+    "ref": "cars with 0 finance",
+    "articleId": "843927117121",
+    "channel": "5602828114",
+    "host": "whirlwindarcade.com",
+    "funnels": [
+      "Blinkdrama-sign-v01",
+      "Blinkdrama-v02",
+      "Blinkdrama-v03",
+      "Vibeshort-V01",
+      "Vibeshort-v02",
+      "Vibeshort-V03"
+    ],
+    "matches": [
+      {
+        "funnelName": "Vibeshort-v02",
+        "funnelId": "3w0aPitAgGtJ",
+        "offerId": "3yicwd47cS57",
+        "offerName": "Vibeshort-V02-A5-us-8637386308-whirlwindarcade.com",
+        "channelId": "8637386308",
+        "seed": "new jeep wagoneer",
+        "status": "ready",
+        "source": "draft"
+      },
+      {
+        "funnelName": "Vibeshort-V01",
+        "funnelId": "3yj8jf5lC9CG",
+        "offerId": "3yikMLyLKLR1",
+        "offerName": "vibeshort-v01-A12-US-8003729354-protectlifeplan.com",
+        "channelId": "8003729354",
+        "seed": "cars with 0 finance",
+        "status": "ready",
+        "source": "draft"
+      },
+      {
+        "funnelName": "Vibeshort-V03",
+        "funnelId": "3w2ShcbnMk5i",
+        "offerId": "3ywsZ48jk6et",
+        "offerName": "Vibeshort-V03-A5-us-2263549649-whirlwindarcade.com",
+        "channelId": "2263549649",
+        "seed": "buprenorphine induction protocol",
+        "status": "ready",
+        "source": "draft"
+      },
+      {
+        "funnelName": "Vibeshort-v02",
+        "funnelId": "3w0aPitAgGtJ",
+        "offerId": "3w0OBXH3QcWG",
+        "offerName": "vibeshort-v02-A4-us-1287194105-minigamemix.com",
+        "channelId": "1287194105",
+        "seed": "cars with 0 finance",
+        "status": "ready",
+        "source": "draft"
+      },
+      {
+        "funnelName": "Blinkdrama-v03",
+        "funnelId": "3uDZjmliiexb",
+        "offerId": "3wsEk5dFQ5NI",
+        "offerName": "Blinkdrama-v03-A5-us-5602828114-whirlwindarcade.com",
+        "channelId": "5602828114",
+        "seed": "cars with 0 finance",
+        "status": "ready",
+        "source": "draft"
+      },
+      {
+        "funnelName": "Blinkdrama-v02",
+        "funnelId": "3sFDuJeEbeay",
+        "offerId": "3wsEYJJ6fFdm",
+        "offerName": "Blinkdrama-v02-A5-us-8412824288-funfillgames.com",
+        "channelId": "8412824288",
+        "seed": "cars with 0 finance",
+        "status": "ready",
+        "source": "draft"
+      },
+      {
+        "funnelName": "Blinkdrama-sign-v01",
+        "funnelId": "3uUfpSpZ3e2U",
+        "offerId": "3ywI7ngx19LX",
+        "offerName": "Blinkdrama-sign-v01-A15-us-1607158614-lstmai.com",
+        "channelId": "1607158614",
+        "seed": "cars with 0 finance",
+        "status": "ready",
+        "source": "draft"
+      },
+      {
+        "funnelName": "Blinkdrama-v02",
+        "funnelId": "3sFDuJeEbeay",
+        "offerId": "3wsEYJJ6fFdm",
+        "offerName": "Blinkdrama-v02-A5-us-8412824288-funfillgames.com",
+        "channelId": "8412824288",
+        "seed": "cars with 0 finance",
+        "source": "replace-log"
+      }
+    ]
+  },
+  {
+    "ref": "hyundai 0 financing",
+    "articleId": "203008532777",
+    "channel": "13434",
+    "host": "beauty-center-nearby.com",
+    "funnels": [
+      "Blinkdrama-sign-v01",
+      "Blinkdrama-v01",
+      "Blinkdrama-v03",
+      "Blinkdrama-v04",
+      "Vibeshort-v02",
+      "Vibeshort-V03",
+      "Vibeshort-V04",
+      "Vibeshort-V05"
+    ],
+    "matches": [
+      {
+        "funnelName": "Vibeshort-v02",
+        "funnelId": "3w0aPitAgGtJ",
+        "offerId": "3yibzLJBFJPR",
+        "offerName": "vibeshort-v02-A1-us-14941-beauty-center-nearby.com",
+        "channelId": "14941",
+        "seed": "cars with 0 apr",
+        "status": "ready",
+        "source": "draft"
+      },
+      {
+        "funnelName": "Vibeshort-V04",
+        "funnelId": "3rHsTlCL2Fcg",
+        "offerId": "3yBO1FCQJnxw",
+        "offerName": "Vibeshort-V04-A5-us-3930653793-joyfullplayland.com",
+        "channelId": "3930653793",
+        "seed": "hyundai 0 financing",
+        "status": "ready",
+        "source": "draft"
+      },
+      {
+        "funnelName": "Vibeshort-V05",
+        "funnelId": "3rHtNAYBcTyF",
+        "offerId": "3ywuC9ftYGoa",
+        "offerName": "vibeshort-v05-A1-us-13430-beauty-center-nearby.com",
+        "channelId": "13430",
+        "seed": "botox dysport and xeomin injectable near me",
+        "status": "ready",
+        "source": "draft"
+      },
+      {
+        "funnelName": "Vibeshort-V03",
+        "funnelId": "3w2ShcbnMk5i",
+        "offerId": "3ywsGbt3Wc1A",
+        "offerName": "vibeshort-v03-A1-us-13425-beauty-center-nearby.com",
+        "channelId": "13425",
+        "seed": "botox vs dysport units",
+        "status": "ready",
+        "source": "draft"
+      },
+      {
+        "funnelName": "Blinkdrama-v03",
+        "funnelId": "3uDZjmliiexb",
+        "offerId": "3ywNzCCRQOoa",
+        "offerName": "Blinkdrama-v03-A1-Us-new-13434-beauty-center-nearby.com",
+        "channelId": "13434",
+        "seed": "hyundai 0 financing",
+        "status": "ready",
+        "source": "draft"
+      },
+      {
+        "funnelName": "Blinkdrama-v03",
+        "funnelId": "3uDZjmliiexb",
+        "offerId": "3v8SqRTkISDj",
+        "offerName": "Blinkdrama-v03-A1-Us-15586-beauty-center-nearby.com",
+        "channelId": "15586",
+        "seed": "best non smelling cat litter",
+        "status": "ready",
+        "source": "draft"
+      },
+      {
+        "funnelName": "Blinkdrama-v04",
+        "funnelId": "3uDZt8ImMHUl",
+        "offerId": "3ywPwkSXwBMK",
+        "offerName": "Blinkdrama-v04-A1-Us-13435-beauty-center-nearby.com",
+        "channelId": "13435",
+        "seed": "best wedding skincare products",
+        "status": "ready",
+        "source": "draft"
+      },
+      {
+        "funnelName": "Blinkdrama-v01",
+        "funnelId": "3sFDWWqvNxR9",
+        "offerId": "3ykOCh5adgGU",
+        "offerName": "Blinkdrama-v01-A1-Us-13248-beauty-center-nearby.com",
+        "channelId": "13248",
+        "seed": "best non surgical facelift",
+        "status": "ready",
+        "source": "draft"
+      },
+      {
+        "funnelName": "Blinkdrama-sign-v01",
+        "funnelId": "3uUfpSpZ3e2U",
+        "offerId": "3wsFbYKpWvog",
+        "offerName": "Blinkdrama-sign-v01-A15-us-2979233422-mpbus.com",
+        "channelId": "2979233422",
+        "seed": "hyundai 0 financing",
+        "status": "ready",
+        "source": "draft"
+      },
+      {
+        "funnelName": "Vibeshort-V05",
+        "funnelId": "3rHtNAYBcTyF",
+        "offerId": "3ywuC9ftYGoa",
+        "offerName": "vibeshort-v05-A1-us-13430-beauty-center-nearby.com",
+        "channelId": "13430",
+        "seed": "botox dysport and xeomin injectable near me",
+        "source": "replace-log"
+      },
+      {
+        "funnelName": "Blinkdrama-v01",
+        "funnelId": "3sFDWWqvNxR9",
+        "offerId": "3ykOCh5adgGU",
+        "offerName": "Blinkdrama-v01-A1-Us-13248-beauty-center-nearby.com",
+        "channelId": "13248",
+        "seed": "best non surgical facelift",
+        "source": "replace-log"
+      }
+    ]
+  }
+]

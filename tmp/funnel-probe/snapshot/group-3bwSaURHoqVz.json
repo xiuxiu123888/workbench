@@ -1,0 +1,65 @@
+{
+  "code": 200,
+  "data": {
+    "groupId": "3bwSaURHoqVz",
+    "groupName": "JZ-08-mx",
+    "routing": "",
+    "geo": "MX",
+    "yesterdayRpm": 0,
+    "yesterdayRev": 0,
+    "yesterdayRpmTrend": 0,
+    "yesterdayRevTrend": 0,
+    "offerList": [
+      {
+        "offerId": "3bwRy6rDPpYt",
+        "offerName": "JZ-08-A1-mx-4689191644",
+        "categoryName": null,
+        "weight": 0,
+        "channelId": "4689191644",
+        "countryCode": null,
+        "afsSource": null,
+        "todayRpm": 0,
+        "todayRev": 0
+      },
+      {
+        "offerId": "3bwSIgMWerH6",
+        "offerName": "JZ-08-A7-mx-8974640419",
+        "categoryName": "肝脏健康",
+        "weight": 0,
+        "channelId": "8974640419",
+        "countryCode": null,
+        "afsSource": null,
+        "todayRpm": 0,
+        "todayRev": 0
+      },
+      {
+        "offerId": "3fi6mnOkRovn",
+        "offerName": "JZ-08-A4-mx-4612213758",
+        "categoryName": "肝脏健康",
+        "weight": 0,
+        "channelId": "4612213758",
+        "countryCode": null,
+        "afsSource": null,
+        "todayRpm": 0,
+        "todayRev": 0
+      },
+      {
+        "offerId": "3lMAsjKHKjIN",
+        "offerName": "JZ-08-A12-MX-4007063078",
+        "categoryName": "种牙",
+        "weight": 1,
+        "channelId": "4007063078",
+        "countryCode": null,
+        "afsSource": null,
+        "todayRpm": 0,
+        "todayRev": 0
+      }
+    ],
+    "funnelId": "3URMYo1qyRLG",
+    "funnelName": "JZ-08",
+    "partnerName": "shortmax",
+    "urlName": "JZ-08",
+    "urlId": 88,
+    "platform": "FF"
+  }
+}

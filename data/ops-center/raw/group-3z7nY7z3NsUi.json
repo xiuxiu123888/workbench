@@ -1,0 +1,87 @@
+{
+  "code": 200,
+  "data": {
+    "groupId": "3z7nY7z3NsUi",
+    "groupName": "shortmax-v03-us",
+    "routing": "rotator",
+    "geo": "US",
+    "yesterdayRpm": 33.3,
+    "yesterdayRev": 55.55,
+    "yesterdayRpmTrend": -61.94,
+    "yesterdayRevTrend": -56.27,
+    "offerList": [
+      {
+        "offerId": "3z7mSXt7eoLL",
+        "offerName": "Shortmax-V03-A15-us-3969598079-mpbus.com",
+        "categoryName": "面部提拉",
+        "weight": 0.27,
+        "channelId": "3969598079",
+        "countryCode": "US",
+        "afsSource": "15",
+        "todayRpm": 5.4,
+        "todayRev": 0.14
+      },
+      {
+        "offerId": "3z7lNTNGuaWl",
+        "offerName": "Shortmax-V03-A5-us-9646014907-joyfullplayland.com",
+        "categoryName": "注射除皱",
+        "weight": 0.3,
+        "channelId": "9646014907",
+        "countryCode": "US",
+        "afsSource": "5",
+        "todayRpm": 20.5,
+        "todayRev": 10.5
+      },
+      {
+        "offerId": "3z7lFIge9xhH",
+        "offerName": "Shortmax-V03-A12-US-9827539423-aivestorhq.com",
+        "categoryName": "注射除皱",
+        "weight": 0.24,
+        "channelId": "9827539423",
+        "countryCode": "US",
+        "afsSource": "12",
+        "todayRpm": 19.4,
+        "todayRev": 0.93
+      },
+      {
+        "offerId": "3z7l58DI0qhi",
+        "offerName": "Shortmax-V03-A7-us-1751917633-algo-cash.com",
+        "categoryName": "肿瘤 / 生物制剂",
+        "weight": 0.31,
+        "channelId": "1751917633",
+        "countryCode": "US",
+        "afsSource": "7",
+        "todayRpm": 18.5,
+        "todayRev": 0.85
+      },
+      {
+        "offerId": "3z7kjmeluRu2",
+        "offerName": "Shortmax-V03-A4-us-8488653000-zestfularcade.com",
+        "categoryName": "汽车金融",
+        "weight": 0.32,
+        "channelId": "8488653000",
+        "countryCode": "US",
+        "afsSource": "4",
+        "todayRpm": 34.6,
+        "todayRev": 19.27
+      },
+      {
+        "offerId": "43qPfrS7yAQB",
+        "offerName": "ShortMax-v03-A17-us-3819236753-seekmoon.ai",
+        "categoryName": null,
+        "weight": 0.26,
+        "channelId": "3819236753",
+        "countryCode": "US",
+        "afsSource": "17",
+        "todayRpm": 0,
+        "todayRev": 0
+      }
+    ],
+    "funnelId": "3z7nZk7WDoBd",
+    "funnelName": "ShortMax-v03",
+    "partnerName": null,
+    "urlName": null,
+    "urlId": null,
+    "platform": "MIS"
+  }
+}

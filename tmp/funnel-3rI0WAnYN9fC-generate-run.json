@@ -1,0 +1,78 @@
+{
+  "title": "cd-reader-banner-v01 产文",
+  "startedAt": "2026-11-11T13:42:48.005Z",
+  "funnel": {
+    "funnelId": "3rI0WAnYN9fC",
+    "funnelName": "cd-reader-banner-v01"
+  },
+  "sourceOfTruth": "landpulse/offer/getById",
+  "seedPoolCount": 63,
+  "tasks": [
+    {
+      "taskIndex": 1,
+      "offerId": "3rHzxc88pwCs",
+      "offerName": "cd-reader-banner-v01-A12-Us-8275192094",
+      "groupId": "3rI0QOkekGfb",
+      "groupName": "cd-reader-banner-v01-default",
+      "geo": "CD",
+      "channelId": "8275192094",
+      "status": "published",
+      "oldLandingUrl": "https://intodeepdive.com/detail/868489340771?ref=PrEP Cost Guide 2026&channel=8275192094&hit={hit}&rType=2&partner=Moboreel&subid1={data-userid}&subid2={data-taskId}&subid3={data-subid3}&subid4={data-subid4}",
+      "oldArticleId": "868489340771",
+      "host": "intodeepdive.com",
+      "siteId": 62,
+      "accountId": 11,
+      "siteName": "intodeepdive.com",
+      "seed": {
+        "keyword": "Epidural Steroid Injection Cost",
+        "intentKeyword": "Epidural Steroid Injection Cost",
+        "ref": "Epidural Steroid Injection Cost",
+        "domainCategory": "骨科 / 关节",
+        "categoryId": 6310,
+        "regionId": "US"
+      },
+      "languageId": 1,
+      "taskId": "job_64cfd56435d446f4b285c13820a8d189",
+      "itemId": 9877,
+      "newArticleId": "672803381853",
+      "newLandingUrl": "https://intodeepdive.com/detail/672803381853?ref=Epidural+Steroid+Injection+Cost&channel=8275192094&hit={hit}&rType=2&partner=Moboreel&subid1=8275192094&subid2=672803381853&subid3=%7Bdata-subid3%7D&subid4=%7Bdata-subid4%7D",
+      "note": "已发布 article_id=672803381853"
+    },
+    {
+      "taskIndex": 2,
+      "offerId": "3szxnTr06HKg",
+      "offerName": "cd-reader-banner-v01-A4-Us-9114102876",
+      "groupId": "3rI0QOkekGfb",
+      "groupName": "cd-reader-banner-v01-default",
+      "geo": "CD",
+      "channelId": "9114102876",
+      "status": "published",
+      "oldLandingUrl": "https://playfulviibes.com/detail/291466022937?channel=9114102876&hit={hit}&rType=2&partner=Moboreel&subid1={data-userid}&subid2={data-taskId}&subid3={data-subid3}&subid4={data-subid4}",
+      "oldArticleId": "291466022937",
+      "host": "playfulviibes.com",
+      "siteId": 18,
+      "accountId": 2,
+      "siteName": "playfulviibes.com",
+      "seed": {
+        "keyword": "Isotretinoin Cost Without Insurance",
+        "intentKeyword": "Isotretinoin Cost Without Insurance",
+        "ref": "Isotretinoin Cost Without Insurance",
+        "domainCategory": "医疗·皮肤",
+        "categoryId": 6453,
+        "regionId": "US"
+      },
+      "languageId": 1,
+      "taskId": "job_8a006561a1ae4e4796aac20e077c8643",
+      "itemId": 9878,
+      "newArticleId": "114692308840",
+      "newLandingUrl": "https://playfulviibes.com/detail/114692308840?channel=9114102876&hit={hit}&rType=2&partner=Moboreel&subid1=9114102876&subid2=114692308840&subid3=%7Bdata-subid3%7D&subid4=%7Bdata-subid4%7D&ref=Isotretinoin+Cost+Without+Insurance",
+      "note": "已发布 article_id=114692308840"
+    }
+  ],
+  "summary": {
+    "total": 2,
+    "success": 2,
+    "failed": 0
+  },
+  "finishedAt": "2026-11-11T13:49:10.475Z"
+}

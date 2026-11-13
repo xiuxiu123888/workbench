@@ -1,0 +1,65 @@
+{
+  "code": 200,
+  "data": {
+    "groupId": "3UU92N9IYaOE",
+    "groupName": "JZ-08-JP",
+    "routing": "",
+    "geo": "JP",
+    "yesterdayRpm": 0,
+    "yesterdayRev": 0,
+    "yesterdayRpmTrend": 0,
+    "yesterdayRevTrend": 0,
+    "offerList": [
+      {
+        "offerId": "3lMAsjJQ21zM",
+        "offerName": "JZ-08-A12-JP-4007063078",
+        "categoryName": "殡葬",
+        "weight": 0.25,
+        "channelId": "4007063078",
+        "countryCode": null,
+        "afsSource": null,
+        "todayRpm": 0,
+        "todayRev": 0
+      },
+      {
+        "offerId": "3mbOi5955z3k",
+        "offerName": "JZ-08-A1-JP-4689191644",
+        "categoryName": "同城配送",
+        "weight": 0.25,
+        "channelId": "4922932539",
+        "countryCode": null,
+        "afsSource": null,
+        "todayRpm": 0,
+        "todayRev": 0
+      },
+      {
+        "offerId": "3UllUq1hE7KZ",
+        "offerName": "JZ-08-A7-jp-8974640419",
+        "categoryName": "私募信贷",
+        "weight": 0.25,
+        "channelId": "8974640419",
+        "countryCode": null,
+        "afsSource": null,
+        "todayRpm": 0,
+        "todayRev": 0
+      },
+      {
+        "offerId": "3XHEfi7MoAdi",
+        "offerName": "JZ-08-A4-JP-4612213758",
+        "categoryName": "私募信贷",
+        "weight": 0.25,
+        "channelId": "4612213758",
+        "countryCode": null,
+        "afsSource": null,
+        "todayRpm": 0,
+        "todayRev": 0
+      }
+    ],
+    "funnelId": "3URMYo1qyRLG",
+    "funnelName": "JZ-08",
+    "partnerName": "shortmax",
+    "urlName": "JZ-08",
+    "urlId": 88,
+    "platform": "FF"
+  }
+}

@@ -1,0 +1,132 @@
+【优先换文报告】指标日 2026-11-13
+P0无广告 24 · P1弱二跳 27 · P2低RPM预览 19
+
+## 同商借词 Donor（高收非default）
+- moboreels: clorox everclean ← moboreels-v01-A4-US-2811958953-zestfularcade.com (moboreels-v01) rev$28.09 二跳5.64%
+- reader: gm hybrid vehicles ← reader-v01-A12-us-5132442487-degreesuccesstips.com (reader-v01) rev$17.05 二跳6.73%
+- shortmax: gm hybrid vehicles ← JZ-05-A5-Us-9921347079-funfillgames.com (ShortMax-v05) rev$64.42 二跳17.66%
+- storyreel: long acting buprenorphine ← storyreel-v01-A12-us-7815494570-intodeepdive.com (storyreel-v01) rev$55.63 二跳31.23%
+- vibeshort: jeep wagoneers ← vibeshort-v01-A4-us-1377773572-laidbackgam.com (Vibeshort-V01) rev$91.57 二跳11.06%
+- blinkdrama: treatments modalities of cancer ← Blinkdrama-v01-A4-Us-8002532881-joyfulgaminghub9.com (Blinkdrama-v01) rev$177.11 二跳37.35%
+- cd: jeuveau botox head to head ← cd-reader-pb-v01-A4-Us-1975194475 (cd-reader-pb-v01) rev$15.06 二跳37.5%
+
+## P0 无广告优先队列（建议本批先换）
+1. [moboreels/moboreels-v02] moboreels-v02-A12-US-3731730900-intodeepdive.com
+   现状: 词点击1770 广告点击0 转化0 rev$1.32 RPM0.1 二跳0%
+   当前ref: gm hybrid suv
+   借种: clorox everclean ← moboreels-v01-A4-US-2811958953-zestfularcade.com (moboreels-v01) | 产文+写回
+2. [moboreels/moboreels-v02] moboreels-v02-A15-us-8746545947-mpbus.com
+   现状: 词点击1605 广告点击0 转化0 rev$0.39 RPM0.03 二跳0%
+   当前ref: new hummers
+   借种: clorox everclean ← moboreels-v01-A4-US-2811958953-zestfularcade.com (moboreels-v01) | 产文+写回
+3. [reader/reader-v01] reader-v01-A15-us-9325866530-51jiejue.com
+   现状: 词点击983 广告点击0 转化0 rev$1.48 RPM0.16 二跳0%
+   当前ref: Buprenorphine everything you need to know
+   借种: gm hybrid vehicles ← reader-v01-A12-us-5132442487-degreesuccesstips.com (reader-v01) | 产文+写回
+4. [shortmax/ShortMax-v11] JZ11-A7-us-8883994701-algo-cash.com
+   现状: 词点击440 广告点击0 转化0 rev$0.41 RPM0.34 二跳0%
+   当前ref: innovative gadgets
+   借种: gm hybrid vehicles ← JZ-05-A5-Us-9921347079-funfillgames.com (ShortMax-v05) | 产文+写回
+5. [vibeshort/Vibeshort-V04] vibeshort-v04-A4-us-9196005107-minigamemix.com
+   现状: 词点击406 广告点击0 转化0 rev$1.76 RPM1.24 二跳0%
+   当前ref: Ubrelvy Cost Without Insurance
+   借种: jeep wagoneers ← vibeshort-v01-A4-us-1377773572-laidbackgam.com (Vibeshort-V01) | 产文+写回
+6. [vibeshort/Vibeshort-V04] vibeshort-v04-A12-us-8578384355-degreesuccesstips.com
+   现状: 词点击397 广告点击0 转化0 rev$1.3 RPM0.93 二跳0%
+   当前ref: best wedding skincare products
+   借种: jeep wagoneers ← vibeshort-v01-A4-us-1377773572-laidbackgam.com (Vibeshort-V01) | 产文+写回
+7. [storyreel/storyreel-v01] storyreel-v01-A15-us-3000037153-lstmai.com
+   现状: 词点击361 广告点击0 转化0 rev$0.35 RPM0.35 二跳0%
+   当前ref: fillers near me
+   借种: long acting buprenorphine ← storyreel-v01-A12-us-7815494570-intodeepdive.com (storyreel-v01) | 产文+写回
+8. [storyreel/storyreel-v01] storyreel-v01-A5-us-9486100633-joyfullplayland.com
+   现状: 词点击361 广告点击0 转化0 rev$0.16 RPM0.15 二跳0%
+   当前ref: new hummers
+   借种: long acting buprenorphine ← storyreel-v01-A12-us-7815494570-intodeepdive.com (storyreel-v01) | 产文+写回
+9. [storyreel/storyreel-v01] storyreel-v01-A7-us-8392386174-www.newamc.com
+   现状: 词点击345 广告点击0 转化0 rev$0.52 RPM0.55 二跳0%
+   当前ref: best non surgical facelift
+   借种: long acting buprenorphine ← storyreel-v01-A12-us-7815494570-intodeepdive.com (storyreel-v01) | 产文+写回
+10. [storyreel/storyreel-v04] storyreel-v04-A4-us-9567324597-joyfulgaminghub9.com
+   现状: 词点击250 广告点击0 转化0 rev$1.31 RPM2.07 二跳0%
+   当前ref: gadgets for wellness
+   借种: long acting buprenorphine ← storyreel-v01-A12-us-7815494570-intodeepdive.com (storyreel-v01) | 产文+写回
+11. [storyreel/storyreel-v03] storyreel-v03-A7-us-11502-algo-cash.com
+   现状: 词点击231 广告点击0 转化0 rev$0.28 RPM0.37 二跳0%
+   当前ref: latest trends and advancements in oncology
+   借种: long acting buprenorphine ← storyreel-v01-A12-us-7815494570-intodeepdive.com (storyreel-v01) | 产文+写回
+12. [storyreel/storyreel-v03] storyreel-v03-A12-us-5380902928-degreesuccesstips.com
+   现状: 词点击217 广告点击0 转化0 rev$0.08 RPM0.12 二跳0%
+   当前ref: hyundai financing deals
+   借种: long acting buprenorphine ← storyreel-v01-A12-us-7815494570-intodeepdive.com (storyreel-v01) | 产文+写回
+13. [shortmax/ShortMax-v03] Shortmax-V03-A12-US-9827539423-aivestorhq.com
+   现状: 词点击215 广告点击0 转化0 rev$0.84 RPM1.04 二跳0%
+   当前ref: fillers near me
+   借种: gm hybrid vehicles ← JZ-05-A5-Us-9921347079-funfillgames.com (ShortMax-v05) | 产文+写回
+14. [storyreel/storyreel-v03] storyreel-v03-A15-us-8314128922-51jiejue.com
+   现状: 词点击205 广告点击0 转化0 rev$0.47 RPM0.69 二跳0%
+   当前ref: long acting buprenorphine
+   借种: long acting buprenorphine ← storyreel-v01-A12-us-7815494570-intodeepdive.com (storyreel-v01) | 同词跳过/换域再试
+15. [shortmax/ShortMax-v06] shortmax-v06-A4-Us-9259456650-zestfularcade.com
+   现状: 词点击204 广告点击0 转化0 rev$1.31 RPM2.43 二跳0%
+   当前ref: best non surgical facelift
+   借种: gm hybrid vehicles ← JZ-05-A5-Us-9921347079-funfillgames.com (ShortMax-v05) | 产文+写回
+16. [storyreel/storyreel-v03] storyreel-v03-A4-us-9892530755-fluxpaid.com
+   现状: 词点击200 广告点击0 转化0 rev$0.39 RPM0.59 二跳0%
+   当前ref: gadgets for wellness
+   借种: long acting buprenorphine ← storyreel-v01-A12-us-7815494570-intodeepdive.com (storyreel-v01) | 产文+写回
+17. [storyreel/storyreel-v03] storyreel-v03-A5-us-9392114755-joyfullplayland.com
+   现状: 词点击195 广告点击0 转化0 rev$0.06 RPM0.09 二跳0%
+   当前ref: best cat litter reddit
+   借种: long acting buprenorphine ← storyreel-v01-A12-us-7815494570-intodeepdive.com (storyreel-v01) | 产文+写回
+18. [reader/reader-v02] reader-v02-A7-us-7609117695-quantify-energy.com
+   现状: 词点击160 广告点击0 转化0 rev$0.11 RPM0.07 二跳0%
+   当前ref: fraxel vs botox
+   借种: gm hybrid vehicles ← reader-v01-A12-us-5132442487-degreesuccesstips.com (reader-v01) | 产文+写回
+19. [reader/reader-v02] reader-v02-A7-us-7609117695-bank-flux.com
+   现状: 词点击160 广告点击0 转化0 rev$0.11 RPM0.07 二跳0%
+   当前ref: botox dysport and xeomin injectable near me
+   借种: gm hybrid vehicles ← reader-v01-A12-us-5132442487-degreesuccesstips.com (reader-v01) | 产文+写回
+20. [shortmax/ShortMax-v06] shortmax-v06-A15-us-2054687076-51jiejue.com
+   现状: 词点击160 广告点击0 转化0 rev$0.3 RPM0.61 二跳0%
+   当前ref: brixadi market trends
+   借种: gm hybrid vehicles ← JZ-05-A5-Us-9921347079-funfillgames.com (ShortMax-v05) | 产文+写回
+21. [storyreel/storyreel-v05] storyreel-v05-A7-us-11504-algo-cash.com
+   现状: 词点击105 广告点击0 转化0 rev$0.24 RPM0.78 二跳0%
+   当前ref: best cat litter to keep smell down
+   借种: long acting buprenorphine ← storyreel-v01-A12-us-7815494570-intodeepdive.com (storyreel-v01) | 产文+写回
+22. [storyreel/storyreel-v05] storyreel-v05-A15-us-3504535236-mpbus.com
+   现状: 词点击86 广告点击0 转化0 rev$0.08 RPM0.3 二跳0%
+   当前ref: botox vs dysport for brow lift
+   借种: long acting buprenorphine ← storyreel-v01-A12-us-7815494570-intodeepdive.com (storyreel-v01) | 产文+写回
+23. [storyreel/storyreel-v05] storyreel-v05-A5-us-9298290578-joyfullplayland.com
+   现状: 词点击79 广告点击0 转化0 rev$0.12 RPM0.44 二跳0%
+   当前ref: treatments modalities of cancer
+   借种: long acting buprenorphine ← storyreel-v01-A12-us-7815494570-intodeepdive.com (storyreel-v01) | 产文+写回
+24. [storyreel/storyreel-v05] storyreel-v05-A12-us-8007066269-intodeepdive.com
+   现状: 词点击50 广告点击0 转化0 rev$0 RPM0 二跳0%
+   当前ref: gm hybrid vehicles
+   借种: long acting buprenorphine ← storyreel-v01-A12-us-7815494570-intodeepdive.com (storyreel-v01) | 产文+写回
+
+## P1 弱二跳（次优先，前15）
+1. Blinkdrama-v01-A5-us-5003814895-funfillgames.com | 词点击10203 二跳1.84% RPM0.91 → 借 treatments modalities of cancer
+2. Blinkdrama-v01-A15-us-5914041032-mpbus.com | 词点击8623 二跳1.74% RPM0.75 → 借 treatments modalities of cancer
+3. Blinkdrama-v02-A7-Us-11850-algo-cash.com | 词点击6325 二跳1.71% RPM1.66 → 借 treatments modalities of cancer
+4. Blinkdrama-v02-A15-us-3619050185-mpbus.com | 词点击5934 二跳0.93% RPM0.31 → 借 treatments modalities of cancer
+5. Blinkdrama-sign-v01-A15-us-2979233422-mpbus.com | 词点击4619 二跳1.75% RPM0.33 → 借 treatments modalities of cancer
+6. moboreels-v02-A7-Us-9653496952-algo-cash.com | 词点击1983 二跳1.66% RPM0.41 → 借 clorox everclean
+7. moboreels-v02-A4-US-8671712417-zestfularcade.com | 词点击1730 二跳0% RPM0.04 → 借 clorox everclean
+8. Blinkdrama-v04-A7-Us-12152-algo-cash.com | 词点击1409 二跳0.78% RPM0.41 → 借 treatments modalities of cancer
+9. Blinkdrama-v04-A12-us-2092927125-degreesuccesstips.com | 词点击1297 二跳0% RPM0.4 → 借 treatments modalities of cancer
+10. Blinkdrama-v03-A5-us-5602828114-whirlwindarcade.com | 词点击1283 二跳1.95% RPM1 → 借 treatments modalities of cancer
+11. Blinkdrama-v03-A12-us-2175454077-degreesuccesstips.com | 词点击1274 二跳1.96% RPM0.9 → 借 treatments modalities of cancer
+12. Blinkdrama-v04-A15-us-4932131851-mpbus.com | 词点击1178 二跳0% RPM0.86 → 借 treatments modalities of cancer
+13. Shortmax-V04-A15-us-7917387848-mpbus.com | 词点击904 二跳1.33% RPM1.73 → 借 gm hybrid vehicles
+14. vibeshort-v05-A7-us-11747-algo-cash.com | 词点击782 二跳1.92% RPM1.72 → 借 jeep wagoneers
+15. Vibeshort-V03-A15-us-7788687495-51jiejue.com | 词点击711 二跳0% RPM0.38 → 借 jeep wagoneers
+
+## 规则摘要
+- 排除 default；仅白名单漏斗
+- 种子：同合作商前缀收入最高且有二跳的非default offer.ref
+- 写回：预览后再写；resultUrl整链，url仅文章id+ref
+- 自动节奏建议：先跑 P0 半自动；P2 全自动等傍晚整天数据后再定

@@ -1,0 +1,22 @@
+{
+  "code": 200,
+  "data": {
+    "funnelId": "3e5POoixvvOh",
+    "funnelName": "cd-ori-v01",
+    "partnerName": null,
+    "urlName": null,
+    "urlId": null,
+    "offerGroupList": [
+      {
+        "groupId": "3oCGAZ3S1W8Q",
+        "groupName": "cd-ori-v01-default",
+        "geo": "CD"
+      },
+      {
+        "groupId": "3oCFWByJz5Dg",
+        "groupName": "cd-ori-v01-us",
+        "geo": "US"
+      }
+    ]
+  }
+}

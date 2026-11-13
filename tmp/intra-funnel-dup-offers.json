@@ -1,0 +1,685 @@
+{
+  "generatedAt": "2026-11-12T11:34:52.085Z",
+  "funnelWithDupCount": 15,
+  "allowedFunnelWithDupCount": 2,
+  "totalDupOfferPlacements": 29,
+  "reports": [
+    {
+      "funnelId": "3rI0WAnYN9fC",
+      "funnelName": "cd-reader-banner-v01",
+      "allowed": true,
+      "rotatorCount": 2,
+      "duplicateOfferCount": 2,
+      "hits": [
+        {
+          "offerId": "3rHzxc88pwCs",
+          "offerName": "cd-reader-banner-v01-A12-Us-8275192094",
+          "geo": "CD",
+          "categoryName": "骨科 / 关节",
+          "rotators": [
+            {
+              "groupId": "3rI0QOkekGfb",
+              "groupName": "cd-reader-banner-v01-default",
+              "routing": "rotator"
+            },
+            {
+              "groupId": "3rI0K6JkfrzG",
+              "groupName": "cd-reader-banner-v01-us",
+              "routing": "rotator"
+            }
+          ]
+        },
+        {
+          "offerId": "3szxnTr06HKg",
+          "offerName": "cd-reader-banner-v01-A4-Us-9114102876",
+          "geo": "CD",
+          "categoryName": "医疗·皮肤",
+          "rotators": [
+            {
+              "groupId": "3rI0QOkekGfb",
+              "groupName": "cd-reader-banner-v01-default",
+              "routing": "rotator"
+            },
+            {
+              "groupId": "3rI0K6JkfrzG",
+              "groupName": "cd-reader-banner-v01-us",
+              "routing": "rotator"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "funnelId": "3uUfpSpZ3e2U",
+      "funnelName": "Blinkdrama-sign-v01",
+      "allowed": true,
+      "rotatorCount": 2,
+      "duplicateOfferCount": 1,
+      "hits": [
+        {
+          "offerId": "3wsFDZA5jvIB",
+          "offerName": "Blinkdrama-sign-v01-A15-default-2979233422",
+          "geo": "US",
+          "categoryName": "诊断 / 急诊",
+          "rotators": [
+            {
+              "groupId": "3uUfWT9s5zAL",
+              "groupName": "Blinkdrama-sign-v01-default",
+              "routing": "rotator"
+            },
+            {
+              "groupId": "3uUfhkI1FZgv",
+              "groupName": "Blinkdrama-sign-v01-us",
+              "routing": "rotator"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "funnelId": "3O3Sj2gNpkzw",
+      "funnelName": "cd-reader-A4-60",
+      "allowed": false,
+      "rotatorCount": 7,
+      "duplicateOfferCount": 3,
+      "hits": [
+        {
+          "offerId": "3XcFci62Mhsa",
+          "offerName": "cd-read-60-A4-us-4300370257",
+          "geo": "US",
+          "categoryName": "临床研究",
+          "rotators": [
+            {
+              "groupId": "3XcIMLHvTZU9",
+              "groupName": "CD-Reader-A60-default",
+              "routing": "—"
+            },
+            {
+              "groupId": "3XcIJjeaUYOT",
+              "groupName": "CD-Reader-A60-Us",
+              "routing": "rotator"
+            }
+          ]
+        },
+        {
+          "offerId": "3XcHo5KSBEn6",
+          "offerName": "cd-read-60-A7-us-7609117695",
+          "geo": "US",
+          "categoryName": "事故律师",
+          "rotators": [
+            {
+              "groupId": "3XcIMLHvTZU9",
+              "groupName": "CD-Reader-A60-default",
+              "routing": "—"
+            },
+            {
+              "groupId": "3XcIJjeaUYOT",
+              "groupName": "CD-Reader-A60-Us",
+              "routing": "rotator"
+            }
+          ]
+        },
+        {
+          "offerId": "3lWWRRSUGLWj",
+          "offerName": "cd-reader-60-A12-US-2402337368",
+          "geo": "US",
+          "categoryName": "临床研究",
+          "rotators": [
+            {
+              "groupId": "3XcIMLHvTZU9",
+              "groupName": "CD-Reader-A60-default",
+              "routing": "—"
+            },
+            {
+              "groupId": "3XcIJjeaUYOT",
+              "groupName": "CD-Reader-A60-Us",
+              "routing": "rotator"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "funnelId": "3LyxpT9hzzh6",
+      "funnelName": "cd-reader-A5-51",
+      "allowed": false,
+      "rotatorCount": 11,
+      "duplicateOfferCount": 3,
+      "hits": [
+        {
+          "offerId": "3Xc9Vzw0jzjZ",
+          "offerName": "Cd-read-A51-A4-us-7723809864",
+          "geo": "US",
+          "categoryName": "临床研究",
+          "rotators": [
+            {
+              "groupId": "3XcD9PcRqn7h",
+              "groupName": "CD-Reader-A51-default",
+              "routing": "—"
+            },
+            {
+              "groupId": "3XcD45sqqV3C",
+              "groupName": "CD-Reader-A51-Us",
+              "routing": "—"
+            }
+          ]
+        },
+        {
+          "offerId": "3UZHog5J4fnB",
+          "offerName": "Cd-read-A51-A7-us-9508193152",
+          "geo": "US",
+          "categoryName": "事故律师",
+          "rotators": [
+            {
+              "groupId": "3XcD9PcRqn7h",
+              "groupName": "CD-Reader-A51-default",
+              "routing": "—"
+            },
+            {
+              "groupId": "3XcD45sqqV3C",
+              "groupName": "CD-Reader-A51-Us",
+              "routing": "—"
+            }
+          ]
+        },
+        {
+          "offerId": "3nMz3ZfcuXdT",
+          "offerName": "cd-reader-51-A12-us-5132442487",
+          "geo": "US",
+          "categoryName": "临床研究",
+          "rotators": [
+            {
+              "groupId": "3nN4anDcBy5U",
+              "groupName": "CD-Reader-A51-fr",
+              "routing": "—"
+            },
+            {
+              "groupId": "3XcD45sqqV3C",
+              "groupName": "CD-Reader-A51-Us",
+              "routing": "—"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "funnelId": "3LcdpN4mS9hK",
+      "funnelName": "cd-reel-A5-50",
+      "allowed": false,
+      "rotatorCount": 10,
+      "duplicateOfferCount": 3,
+      "hits": [
+        {
+          "offerId": "3XKjdR7V6Qpx",
+          "offerName": "CD-50-A1-US-4677485294",
+          "geo": "US",
+          "categoryName": "事故律师",
+          "rotators": [
+            {
+              "groupId": "3cJcTN0TPfSd",
+              "groupName": "cd-A50-it",
+              "routing": "—"
+            },
+            {
+              "groupId": "3cJcHUkA1y3f",
+              "groupName": "cd-A50-mx",
+              "routing": "—"
+            },
+            {
+              "groupId": "3UYxmnRBarCJ",
+              "groupName": "cd-A50-us",
+              "routing": "rotator"
+            }
+          ]
+        },
+        {
+          "offerId": "3XKk7lQRtvYO",
+          "offerName": "CD-50-A4-US-8671712417",
+          "geo": "US",
+          "categoryName": "临床研究",
+          "rotators": [
+            {
+              "groupId": "3Ymf7lRFdnGv",
+              "groupName": "cd-A50-de",
+              "routing": "—"
+            },
+            {
+              "groupId": "3YmfCrC5CGOV",
+              "groupName": "cd-A50-gb",
+              "routing": "—"
+            },
+            {
+              "groupId": "3UYxmnRBarCJ",
+              "groupName": "cd-A50-us",
+              "routing": "rotator"
+            }
+          ]
+        },
+        {
+          "offerId": "3UYxJwBrc8Yn",
+          "offerName": "Cd-A50-A7-Us-9653496952",
+          "geo": "US",
+          "categoryName": "事故律师",
+          "rotators": [
+            {
+              "groupId": "3Ymf7lRFdnGv",
+              "groupName": "cd-A50-de",
+              "routing": "—"
+            },
+            {
+              "groupId": "3YmfCrC5CGOV",
+              "groupName": "cd-A50-gb",
+              "routing": "—"
+            },
+            {
+              "groupId": "3UYxmnRBarCJ",
+              "groupName": "cd-A50-us",
+              "routing": "rotator"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "funnelId": "3SmbEZti3YSr",
+      "funnelName": "JZ-06",
+      "allowed": false,
+      "rotatorCount": 11,
+      "duplicateOfferCount": 3,
+      "hits": [
+        {
+          "offerId": "3bbvRR5wKGyF",
+          "offerName": "JZ-06-A12-US-6838607522",
+          "geo": "US",
+          "categoryName": "健康保险",
+          "rotators": [
+            {
+              "groupId": "3T9SHEYZyXWf",
+              "groupName": "JZ-06-US",
+              "routing": "—"
+            },
+            {
+              "groupId": "3WduUMD7CwQ8",
+              "groupName": "JZ-06-US-default",
+              "routing": "—"
+            }
+          ]
+        },
+        {
+          "offerId": "3XGvo6EPgTth",
+          "offerName": "JZ-06-A4-US-9259456650",
+          "geo": "US",
+          "categoryName": "肝脏健康",
+          "rotators": [
+            {
+              "groupId": "3T9SHEYZyXWf",
+              "groupName": "JZ-06-US",
+              "routing": "—"
+            },
+            {
+              "groupId": "3WduUMD7CwQ8",
+              "groupName": "JZ-06-US-default",
+              "routing": "—"
+            }
+          ]
+        },
+        {
+          "offerId": "3XGwLN9H7e1e",
+          "offerName": "JZ-06-A7-US-3115809079",
+          "geo": "US",
+          "categoryName": "健康保险",
+          "rotators": [
+            {
+              "groupId": "3T9SHEYZyXWf",
+              "groupName": "JZ-06-US",
+              "routing": "—"
+            },
+            {
+              "groupId": "3WduUMD7CwQ8",
+              "groupName": "JZ-06-US-default",
+              "routing": "—"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "funnelId": "3aXEOxFRbofy",
+      "funnelName": "jz-09",
+      "allowed": false,
+      "rotatorCount": 11,
+      "duplicateOfferCount": 3,
+      "hits": [
+        {
+          "offerId": "3bZ9LsLlkDiW",
+          "offerName": "JZ09-A12-US-9827539423",
+          "geo": "US",
+          "categoryName": "特殊疾病药品",
+          "rotators": [
+            {
+              "groupId": "3bqXAkAbGTMC",
+              "groupName": "JZ09-De",
+              "routing": "—"
+            },
+            {
+              "groupId": "3aXCLwfCh4wo",
+              "groupName": "JZ09-US",
+              "routing": "—"
+            }
+          ]
+        },
+        {
+          "offerId": "3aWvExg2Kawd",
+          "offerName": "JZ09-A4-us-8488653000",
+          "geo": "US",
+          "categoryName": "特殊疾病药品",
+          "rotators": [
+            {
+              "groupId": "3aXEpNAf7UpA",
+              "groupName": "JZ09-default",
+              "routing": "—"
+            },
+            {
+              "groupId": "3aXCLwfCh4wo",
+              "groupName": "JZ09-US",
+              "routing": "—"
+            }
+          ]
+        },
+        {
+          "offerId": "3aX6mEDMfNZo",
+          "offerName": "JZ09-A7-us-1751917633",
+          "geo": "US",
+          "categoryName": "健康保险",
+          "rotators": [
+            {
+              "groupId": "3aXEpNAf7UpA",
+              "groupName": "JZ09-default",
+              "routing": "—"
+            },
+            {
+              "groupId": "3aXCLwfCh4wo",
+              "groupName": "JZ09-US",
+              "routing": "—"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "funnelId": "3h7b2EEEVXm2",
+      "funnelName": "cd-reader-A76",
+      "allowed": false,
+      "rotatorCount": 5,
+      "duplicateOfferCount": 2,
+      "hits": [
+        {
+          "offerId": "3h73zWu11gGM",
+          "offerName": "cd-reader-A76-A12-US-7644399993",
+          "geo": "US",
+          "categoryName": "种牙",
+          "rotators": [
+            {
+              "groupId": "3h7bgIWyjlsX",
+              "groupName": "cd-reader-A76-default",
+              "routing": "rotator"
+            },
+            {
+              "groupId": "3h7bMeWwH4FG",
+              "groupName": "cd-reader-A76-US",
+              "routing": "rotator"
+            }
+          ]
+        },
+        {
+          "offerId": "3h74oUBMfFn7",
+          "offerName": "cd-reader-A76-A14-US-5936631302",
+          "geo": "US",
+          "categoryName": "清洁工招聘",
+          "rotators": [
+            {
+              "groupId": "3h7bgIWyjlsX",
+              "groupName": "cd-reader-A76-default",
+              "routing": "rotator"
+            },
+            {
+              "groupId": "3h7bMeWwH4FG",
+              "groupName": "cd-reader-A76-US",
+              "routing": "rotator"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "funnelId": "3URMYo1qyRLG",
+      "funnelName": "JZ-08",
+      "allowed": false,
+      "rotatorCount": 10,
+      "duplicateOfferCount": 2,
+      "hits": [
+        {
+          "offerId": "3beaQYZ8MNIv",
+          "offerName": "JZ-08-A12-US-4007063078",
+          "geo": "US",
+          "categoryName": "肝脏健康",
+          "rotators": [
+            {
+              "groupId": "3URMfebv48g5",
+              "groupName": "JZ-08-US",
+              "routing": "—"
+            },
+            {
+              "groupId": "3We1YQwbQnzR",
+              "groupName": "JZ-08-US-default",
+              "routing": "—"
+            }
+          ]
+        },
+        {
+          "offerId": "3XHEdoCXtjr7",
+          "offerName": "JZ-08-A4-US-4612213758",
+          "geo": "US",
+          "categoryName": "手机分期",
+          "rotators": [
+            {
+              "groupId": "3URMfebv48g5",
+              "groupName": "JZ-08-US",
+              "routing": "—"
+            },
+            {
+              "groupId": "3We1YQwbQnzR",
+              "groupName": "JZ-08-US-default",
+              "routing": "—"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "funnelId": "3cQE9BUzTVSd",
+      "funnelName": "JZ-15",
+      "allowed": false,
+      "rotatorCount": 6,
+      "duplicateOfferCount": 2,
+      "hits": [
+        {
+          "offerId": "3lpc6u5sdtHC",
+          "offerName": "JZ-15-A12-US-3384596876",
+          "geo": "DEFAULT",
+          "categoryName": "种牙",
+          "rotators": [
+            {
+              "groupId": "3jCePvXg248Z",
+              "groupName": "JZ-15-us",
+              "routing": "—"
+            },
+            {
+              "groupId": "3cQD2PEqVMZj",
+              "groupName": "jz15-default",
+              "routing": "—"
+            }
+          ]
+        },
+        {
+          "offerId": "3hDLLKY8NsMX",
+          "offerName": "JZ-15-A14-SA-9466604782",
+          "geo": "SA",
+          "categoryName": "汽车保险",
+          "rotators": [
+            {
+              "groupId": "3hDTrg3BI02M",
+              "groupName": "JZ-15-SA",
+              "routing": "—"
+            },
+            {
+              "groupId": "3jCePvXg248Z",
+              "groupName": "JZ-15-us",
+              "routing": "—"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "funnelId": "3SqmT5M7rv4d",
+      "funnelName": "JZ-07",
+      "allowed": false,
+      "rotatorCount": 9,
+      "duplicateOfferCount": 1,
+      "hits": [
+        {
+          "offerId": "3XHAoILPCU3U",
+          "offerName": "JZ-07-A4-US-3221603862",
+          "geo": "US",
+          "categoryName": "手机分期",
+          "rotators": [
+            {
+              "groupId": "3VIYR9dEwSMr",
+              "groupName": "JZ-07-Default",
+              "routing": "—"
+            },
+            {
+              "groupId": "3SqmOgqiRg00",
+              "groupName": "JZ-07-US",
+              "routing": "—"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "funnelId": "3aXER1jGKCjP",
+      "funnelName": "jz-10",
+      "allowed": false,
+      "rotatorCount": 10,
+      "duplicateOfferCount": 1,
+      "hits": [
+        {
+          "offerId": "3bZ9Z2537tKs",
+          "offerName": "JZ10-A12-US-5525525852",
+          "geo": "US",
+          "categoryName": "肝脏健康",
+          "rotators": [
+            {
+              "groupId": "3bwhHA7dKnrI",
+              "groupName": "JZ10-de",
+              "routing": "—"
+            },
+            {
+              "groupId": "3bwhlM9aMQvL",
+              "groupName": "JZ10-jp",
+              "routing": "—"
+            },
+            {
+              "groupId": "3aXCiA7oMHuE",
+              "groupName": "JZ10-US",
+              "routing": "—"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "funnelId": "3cQHLR9KPkS9",
+      "funnelName": "JZ-16",
+      "allowed": false,
+      "rotatorCount": 5,
+      "duplicateOfferCount": 1,
+      "hits": [
+        {
+          "offerId": "3fzc7sg3dezR",
+          "offerName": "jz16-A7-br-7690144835",
+          "geo": "DEFAULT",
+          "categoryName": "冰箱分期",
+          "rotators": [
+            {
+              "groupId": "3cQGbfJBpyhD",
+              "groupName": "JZ16-br",
+              "routing": "—"
+            },
+            {
+              "groupId": "3cQGUizUbdaM",
+              "groupName": "JZ16-Default",
+              "routing": "—"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "funnelId": "3cQH1PB9h2cm",
+      "funnelName": "JZ-17",
+      "allowed": false,
+      "rotatorCount": 5,
+      "duplicateOfferCount": 1,
+      "hits": [
+        {
+          "offerId": "3fzbhxQfUjcr",
+          "offerName": "jz17-A7-br-7686803039",
+          "geo": "DEFAULT",
+          "categoryName": "冰箱分期",
+          "rotators": [
+            {
+              "groupId": "3cQGppN7Xjcj",
+              "groupName": "JZ17-br",
+              "routing": "—"
+            },
+            {
+              "groupId": "3cQGk8jcKguu",
+              "groupName": "JZ17-Default",
+              "routing": "—"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "funnelId": "3h7auqpMJMVz",
+      "funnelName": "JZ-18",
+      "allowed": false,
+      "rotatorCount": 7,
+      "duplicateOfferCount": 1,
+      "hits": [
+        {
+          "offerId": "3h73zWvDVVgr",
+          "offerName": "JZ-18-A12-US-2165711172",
+          "geo": "US",
+          "categoryName": "肝脏健康",
+          "rotators": [
+            {
+              "groupId": "3h7c3cbn929Z",
+              "groupName": "JZ-18-default",
+              "routing": "—"
+            },
+            {
+              "groupId": "3h7bldnwkHCX",
+              "groupName": "JZ-18-US",
+              "routing": "—"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

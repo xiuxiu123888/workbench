@@ -1,0 +1,54 @@
+{
+  "code": 200,
+  "data": {
+    "groupId": "3zb2m5GkIItD",
+    "groupName": "moboreels-v04-default",
+    "routing": "rotator",
+    "geo": null,
+    "yesterdayRpm": 0,
+    "yesterdayRev": 0,
+    "yesterdayRpmTrend": 0,
+    "yesterdayRevTrend": 0,
+    "offerList": [
+      {
+        "offerId": "3zb2RxclzOAi",
+        "offerName": "moboreels-v04-A12-default-9598677745",
+        "categoryName": "临床研究",
+        "weight": 1,
+        "channelId": "9598677745",
+        "countryCode": null,
+        "afsSource": "12",
+        "todayRpm": 0,
+        "todayRev": 0
+      },
+      {
+        "offerId": "3zb2OzWzfG2Z",
+        "offerName": "moboreels-v04-A4-default-8836912457",
+        "categoryName": "HIV",
+        "weight": 1,
+        "channelId": "8836912457",
+        "countryCode": null,
+        "afsSource": "4",
+        "todayRpm": 0,
+        "todayRev": 0
+      },
+      {
+        "offerId": "3zb2MFJ17cnO",
+        "offerName": "moboreels-v04-A7-default-10930",
+        "categoryName": "HIV",
+        "weight": 1,
+        "channelId": "10930",
+        "countryCode": null,
+        "afsSource": "7",
+        "todayRpm": 0,
+        "todayRev": 0
+      }
+    ],
+    "funnelId": "3zb3S8BZbPfp",
+    "funnelName": "moboreels-v04",
+    "partnerName": null,
+    "urlName": null,
+    "urlId": null,
+    "platform": "MIS"
+  }
+}

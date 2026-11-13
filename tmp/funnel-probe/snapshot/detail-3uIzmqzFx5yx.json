@@ -1,0 +1,26 @@
+{
+  "code": 200,
+  "data": {
+    "funnelId": "3uIzmqzFx5yx",
+    "funnelName": "cd-reader-pb-v01",
+    "partnerName": "changdu",
+    "urlName": "moboreader",
+    "urlId": 144,
+    "offerGroupList": [
+      {
+        "groupId": "3uIzbCYSCxq2",
+        "groupName": "cd-reader-pb-v01-us",
+        "geo": "US"
+      },
+      {
+        "groupId": "3rI0K6JkfrzG",
+        "groupName": "cd-reader-banner-v01-us",
+        "geo": "US"
+      }
+    ],
+    "platform": "MIS",
+    "status": "active",
+    "autoWeightEnabled": null,
+    "autoWeightRuleType": null
+  }
+}

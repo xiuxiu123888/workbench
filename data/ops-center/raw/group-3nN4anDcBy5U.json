@@ -1,0 +1,43 @@
+{
+  "code": 200,
+  "data": {
+    "groupId": "3nN4anDcBy5U",
+    "groupName": "CD-Reader-A51-fr",
+    "routing": "",
+    "geo": "FR",
+    "yesterdayRpm": 0.2,
+    "yesterdayRev": 0.44,
+    "yesterdayRpmTrend": -81.82,
+    "yesterdayRevTrend": -80.18,
+    "offerList": [
+      {
+        "offerId": "3lplh9BAxsTb",
+        "offerName": "cd-reader-51-A14-FR-9139818649",
+        "categoryName": "附近公寓指南",
+        "weight": 0.02,
+        "channelId": "9139818649",
+        "countryCode": null,
+        "afsSource": null,
+        "todayRpm": 0,
+        "todayRev": 0
+      },
+      {
+        "offerId": "3nMz3ZfcuXdT",
+        "offerName": "cd-reader-51-A12-us-5132442487",
+        "categoryName": "临床研究",
+        "weight": 1,
+        "channelId": "5132442487",
+        "countryCode": null,
+        "afsSource": null,
+        "todayRpm": 0.2,
+        "todayRev": 0.33
+      }
+    ],
+    "funnelId": "3LyxpT9hzzh6",
+    "funnelName": "cd-reader-A5-51",
+    "partnerName": "changdu",
+    "urlName": "moboreader",
+    "urlId": 51,
+    "platform": "FF"
+  }
+}

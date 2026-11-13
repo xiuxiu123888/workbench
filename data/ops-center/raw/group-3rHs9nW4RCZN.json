@@ -1,0 +1,54 @@
+{
+  "code": 200,
+  "data": {
+    "groupId": "3rHs9nW4RCZN",
+    "groupName": "vibeshort-v05-default",
+    "routing": "rotator",
+    "geo": null,
+    "yesterdayRpm": 0,
+    "yesterdayRev": 0,
+    "yesterdayRpmTrend": 0,
+    "yesterdayRevTrend": 0,
+    "offerList": [
+      {
+        "offerId": "3rHr676NAODK",
+        "offerName": "vibeshort-v05-A12-default-8504224551",
+        "categoryName": "自身免疫",
+        "weight": 1,
+        "channelId": "8504224551",
+        "countryCode": null,
+        "afsSource": "12",
+        "todayRpm": 0,
+        "todayRev": 0
+      },
+      {
+        "offerId": "3rHqjtZ4RxWF",
+        "offerName": "vibeshort-v05-A4-default-9147903645",
+        "categoryName": "医疗·偏头痛",
+        "weight": 1,
+        "channelId": "9147903645",
+        "countryCode": null,
+        "afsSource": "4",
+        "todayRpm": 0,
+        "todayRev": 0
+      },
+      {
+        "offerId": "3rHqaXH9QAzQ",
+        "offerName": "vibeshort-v05-A7-default-11747",
+        "categoryName": "骨科 / 关节",
+        "weight": 1,
+        "channelId": "11747",
+        "countryCode": null,
+        "afsSource": "7",
+        "todayRpm": 0,
+        "todayRev": 0
+      }
+    ],
+    "funnelId": "3rHtNAYBcTyF",
+    "funnelName": "Vibeshort-V05",
+    "partnerName": "vibeshort",
+    "urlName": "vibeshort-V05",
+    "urlId": 138,
+    "platform": "MIS"
+  }
+}

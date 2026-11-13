@@ -1,0 +1,27 @@
+{
+  "updatedAt": "2026-11-13T08:54:49.796Z",
+  "batches": [
+    {
+      "id": "opt-cosmetic-20261113",
+      "title": "美妆试词调优 · 2026-11-13",
+      "createdAt": "2026-11-13T08:54:49.785Z",
+      "beforeMetricsDay": "2026-11-13",
+      "afterMetricsDay": null,
+      "harvestedAt": null,
+      "itemCount": 18,
+      "writtenCount": 18,
+      "path": "optimize-batches/opt-cosmetic-20261113.json"
+    },
+    {
+      "id": "opt-p0-20261113",
+      "title": "P0无广告优先换文 · 2026-11-13",
+      "createdAt": "2026-11-13T03:53:28.536Z",
+      "beforeMetricsDay": "2026-11-13",
+      "afterMetricsDay": "2026-11-13",
+      "harvestedAt": "2026-11-13T08:27:26.375Z",
+      "itemCount": 24,
+      "writtenCount": 0,
+      "path": "optimize-batches/opt-p0-20261113.json"
+    }
+  ]
+}

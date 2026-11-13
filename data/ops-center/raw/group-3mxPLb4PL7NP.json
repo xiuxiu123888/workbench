@@ -1,0 +1,43 @@
+{
+  "code": 200,
+  "data": {
+    "groupId": "3mxPLb4PL7NP",
+    "groupName": "JZ-08-de",
+    "routing": "",
+    "geo": "DE",
+    "yesterdayRpm": 0,
+    "yesterdayRev": 0,
+    "yesterdayRpmTrend": 0,
+    "yesterdayRevTrend": 0,
+    "offerList": [
+      {
+        "offerId": "3lMAsjKueRc6",
+        "offerName": "JZ-08-A12-DE-4007063078",
+        "categoryName": "汽车订阅",
+        "weight": 0.77,
+        "channelId": "4007063078",
+        "countryCode": null,
+        "afsSource": null,
+        "todayRpm": 0,
+        "todayRev": 0
+      },
+      {
+        "offerId": "3mxNmNj4j1p2",
+        "offerName": "JZ-08-A1-de-4689191644",
+        "categoryName": "种植牙",
+        "weight": 0.23,
+        "channelId": "4689191644",
+        "countryCode": null,
+        "afsSource": null,
+        "todayRpm": 0,
+        "todayRev": 0
+      }
+    ],
+    "funnelId": "3URMYo1qyRLG",
+    "funnelName": "JZ-08",
+    "partnerName": "shortmax",
+    "urlName": "JZ-08",
+    "urlId": 88,
+    "platform": "FF"
+  }
+}

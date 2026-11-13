@@ -1,0 +1,54 @@
+{
+  "code": 200,
+  "data": {
+    "groupId": "3oIRzRXIlSsM",
+    "groupName": "cd-lock-v01-default",
+    "routing": "",
+    "geo": "CD",
+    "yesterdayRpm": 0,
+    "yesterdayRev": 0,
+    "yesterdayRpmTrend": 0,
+    "yesterdayRevTrend": 0,
+    "offerList": [
+      {
+        "offerId": "3oIOmSJ7UW0l",
+        "offerName": "cd-lock-v01-A4-default-1235223215",
+        "categoryName": "紧急贷款",
+        "weight": 0.34,
+        "channelId": "1235223215",
+        "countryCode": null,
+        "afsSource": null,
+        "todayRpm": 0,
+        "todayRev": 0
+      },
+      {
+        "offerId": "3oIOpevmVZNJ",
+        "offerName": "cd-lock-v01-A7-default-8392386174",
+        "categoryName": "紧急贷款",
+        "weight": 0.33,
+        "channelId": "8392386174",
+        "countryCode": null,
+        "afsSource": null,
+        "todayRpm": 0,
+        "todayRev": 0
+      },
+      {
+        "offerId": "3oIOspq4QpPF",
+        "offerName": "cd-lock-v01-A12-default-7815494570",
+        "categoryName": "紧急贷款",
+        "weight": 0.33,
+        "channelId": "7815494570",
+        "countryCode": null,
+        "afsSource": null,
+        "todayRpm": 0,
+        "todayRev": 0
+      }
+    ],
+    "funnelId": "3oIS6Y7J2ySb",
+    "funnelName": "cd-lock-v01",
+    "partnerName": "changdu",
+    "urlName": "moboreels",
+    "urlId": 127,
+    "platform": "FF"
+  }
+}

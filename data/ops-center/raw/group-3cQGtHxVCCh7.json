@@ -1,0 +1,65 @@
+{
+  "code": 200,
+  "data": {
+    "groupId": "3cQGtHxVCCh7",
+    "groupName": "JZ17-mx",
+    "routing": "",
+    "geo": "MX",
+    "yesterdayRpm": 0,
+    "yesterdayRev": 0,
+    "yesterdayRpmTrend": 0,
+    "yesterdayRevTrend": 0,
+    "offerList": [
+      {
+        "offerId": "3cQG1VFUGhBi",
+        "offerName": "jz17-A12-mx-3057385395",
+        "categoryName": "手机分期",
+        "weight": 0.25,
+        "channelId": "3057385395",
+        "countryCode": null,
+        "afsSource": null,
+        "todayRpm": 0,
+        "todayRev": 0
+      },
+      {
+        "offerId": "3cQGM9NT9SCg",
+        "offerName": "jz17-A4-mx-3299132084",
+        "categoryName": "肝脏健康",
+        "weight": 0.25,
+        "channelId": "3299132084",
+        "countryCode": null,
+        "afsSource": null,
+        "todayRpm": 0,
+        "todayRev": 0
+      },
+      {
+        "offerId": "3fze1eYVC34L",
+        "offerName": "jz17-A7-mx-7686803039",
+        "categoryName": "肝脏健康",
+        "weight": 0.25,
+        "channelId": "7686803039",
+        "countryCode": null,
+        "afsSource": null,
+        "todayRpm": 0,
+        "todayRev": 0
+      },
+      {
+        "offerId": "3jCbvI1PYjwW",
+        "offerName": "JZ-17-A14-mx-1807606615",
+        "categoryName": "汽车贷款",
+        "weight": 0.25,
+        "channelId": "1807606615",
+        "countryCode": null,
+        "afsSource": null,
+        "todayRpm": 0,
+        "todayRev": 0
+      }
+    ],
+    "funnelId": "3cQH1PB9h2cm",
+    "funnelName": "JZ-17",
+    "partnerName": "shortmax",
+    "urlName": "JZ-17",
+    "urlId": 99,
+    "platform": "FF"
+  }
+}

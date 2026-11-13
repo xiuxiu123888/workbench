@@ -1,0 +1,65 @@
+{
+  "code": 200,
+  "data": {
+    "groupId": "3T8fcVlxsJBm",
+    "groupName": "JZ-07-JP",
+    "routing": "",
+    "geo": "JP",
+    "yesterdayRpm": 0,
+    "yesterdayRev": 0,
+    "yesterdayRpmTrend": 0,
+    "yesterdayRevTrend": 0,
+    "offerList": [
+      {
+        "offerId": "3bk44yidqNtx",
+        "offerName": "JZ07-A12-JP-8514457756",
+        "categoryName": "私募信贷",
+        "weight": 0.25,
+        "channelId": "8514457756",
+        "countryCode": null,
+        "afsSource": null,
+        "todayRpm": 0,
+        "todayRev": 0
+      },
+      {
+        "offerId": "3bveSlZodFYI",
+        "offerName": "JZ-07-A1-jp-2550963527",
+        "categoryName": "在线贷款",
+        "weight": 0.25,
+        "channelId": "2550963527",
+        "countryCode": null,
+        "afsSource": null,
+        "todayRpm": 0,
+        "todayRev": 0
+      },
+      {
+        "offerId": "3XHAq52DrgYc",
+        "offerName": "JZ-07-A4-JP-3221603862",
+        "categoryName": "私募信贷",
+        "weight": 0.25,
+        "channelId": "3221603862",
+        "countryCode": null,
+        "afsSource": null,
+        "todayRpm": 0,
+        "todayRev": 0
+      },
+      {
+        "offerId": "3XHCCcCl9YVA",
+        "offerName": "JZ-07-A7-jp-9761308166",
+        "categoryName": "私募信贷",
+        "weight": 0.25,
+        "channelId": "9761308166",
+        "countryCode": null,
+        "afsSource": null,
+        "todayRpm": 0,
+        "todayRev": 0
+      }
+    ],
+    "funnelId": "3SqmT5M7rv4d",
+    "funnelName": "JZ-07",
+    "partnerName": "shortmax",
+    "urlName": "JZ-07",
+    "urlId": 87,
+    "platform": "FF"
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "code": 200,
+  "data": {
+    "groupId": "3h7brphmADaT",
+    "groupName": "JZ-18-JP",
+    "routing": "",
+    "geo": "JP",
+    "yesterdayRpm": 0,
+    "yesterdayRev": 0,
+    "yesterdayRpmTrend": 0,
+    "yesterdayRevTrend": 0,
+    "offerList": [
+      {
+        "offerId": "3h73zWv9VcoW",
+        "offerName": "JZ-18-A12-JP-2165711172",
+        "categoryName": "私募信贷",
+        "weight": 0.5,
+        "channelId": "2165711172",
+        "countryCode": null,
+        "afsSource": null,
+        "todayRpm": 0,
+        "todayRev": 0
+      },
+      {
+        "offerId": "3h74oUCBUBRp",
+        "offerName": "JZ-18-A14-JP-9494524946",
+        "categoryName": "殡葬",
+        "weight": 0.5,
+        "channelId": "9494524946",
+        "countryCode": null,
+        "afsSource": null,
+        "todayRpm": 0,
+        "todayRev": 0
+      }
+    ],
+    "funnelId": "3h7auqpMJMVz",
+    "funnelName": "JZ-18",
+    "partnerName": "shortmax",
+    "urlName": "JZ-18",
+    "urlId": 107,
+    "platform": "FF"
+  }
+}

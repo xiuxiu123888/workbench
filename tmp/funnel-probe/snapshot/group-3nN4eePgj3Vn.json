@@ -1,0 +1,43 @@
+{
+  "code": 200,
+  "data": {
+    "groupId": "3nN4eePgj3Vn",
+    "groupName": "CD-Reader-A51-it",
+    "routing": "",
+    "geo": "IT",
+    "yesterdayRpm": 0.2,
+    "yesterdayRev": 0.23,
+    "yesterdayRpmTrend": -80,
+    "yesterdayRevTrend": -76.77,
+    "offerList": [
+      {
+        "offerId": "3lplh9AXYrXU",
+        "offerName": "cd-reader-51-A14-IT-9139818649",
+        "categoryName": "太阳能储能",
+        "weight": 0.02,
+        "channelId": "9139818649",
+        "countryCode": null,
+        "afsSource": null,
+        "todayRpm": 0,
+        "todayRev": 0
+      },
+      {
+        "offerId": "3lWWRRRezP2H",
+        "offerName": "cd-reader-51-A12-IT-5132442487",
+        "categoryName": "太阳能储能",
+        "weight": 1,
+        "channelId": "5132442487",
+        "countryCode": null,
+        "afsSource": null,
+        "todayRpm": 0.4,
+        "todayRev": 0.29
+      }
+    ],
+    "funnelId": "3LyxpT9hzzh6",
+    "funnelName": "cd-reader-A5-51",
+    "partnerName": "changdu",
+    "urlName": "moboreader",
+    "urlId": 51,
+    "platform": "FF"
+  }
+}

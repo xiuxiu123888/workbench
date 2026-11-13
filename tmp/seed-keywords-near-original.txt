@@ -1,0 +1,68 @@
+# 谷歌投放种子词 · 几乎原样（去重 + 轻纠错）
+# 原则：保留原搜索写法；不改成文章标题腔
+
+## SUV / PHEV
+best phev lease
+best suv incentives right now
+suv that hold their value
+best suv models right now
+best suv to buy right now
+best suv leases right now
+
+## gadgets
+gadgets for wellness
+innovative gadgets
+best new gadgets to buy
+buy gadgets online
+
+## cat litter
+clorox everclean
+best cat litter to keep smell down
+best cat litter reddit
+best non smelling cat litter
+
+## botox / dysport / xeomin
+wowcher botox
+botox dysport and xeomin injectable near me
+botox vs dysport units
+botox vs dysport for brow lift
+replacement for botox
+fillers near me
+
+## skincare / facelift
+voluma face lift
+new skincare treatments
+best wedding skincare products
+jeuveau botox head to head
+best non surgical facelift
+fraxel vs botox
+
+## cancer / oncology  → 可挂 肿瘤 / 生物制剂 (6308)
+new ways to treat cancer
+latest trends and advancements in oncology
+treatments modalities of cancer
+new cancer drugs
+
+## gm / chevrolet hybrid
+new hummers
+gm hybrid vehicles
+Chevrolet hybrid vehicles
+gm hybrid suv
+
+## auto finance（避开数字 0，产文更容易出词）
+hyundai financing deals
+cars for sale with financing
+no interest car finance offers
+lowest apr car financing
+
+## jeep
+jeep wagoneers
+best jeep model
+new jeep suv
+new jeep wagoneer
+
+## buprenorphine / brixadi  → 可挂 心理健康 / 成瘾 (6314)
+long acting buprenorphine
+Buprenorphine everything you need to know
+brixadi market trends
+buprenorphine induction protocol

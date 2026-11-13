@@ -1,0 +1,1602 @@
+{
+  "title": "医疗SEO新词 → 随机挂 offer 产文换链（审阅稿）",
+  "understanding": {
+    "goal": "用 Excel 63 条医疗种子词随机给现有漏斗 offer 产文，并把新链接写回对应 offer（当前先产出任务与新 URL；RuoYi 写入接口仍待确认）",
+    "inventory": {
+      "funnels": 77,
+      "groups": 268,
+      "offersTotal": 1092,
+      "offersWithLandingUrl": 726,
+      "offersWithoutLandingUrl": 366,
+      "offersReadyForRewrite": 698,
+      "usOffersReady": 427,
+      "matchedFlatStatsRows": 555
+    },
+    "seedSource": {
+      "file": "data/医疗SEO新词63条_2026-11-09.xlsx",
+      "sheet": "医疗新词63条",
+      "keywordCount": 63,
+      "allSeedCountries": [
+        "US"
+      ],
+      "domainCategories": [
+        "GLP-1 / 糖尿病",
+        "医疗·偏头痛",
+        "医疗·呼吸与睡眠",
+        "医疗·皮肤",
+        "医疗·肾脏与泌尿",
+        "医疗·自身免疫",
+        "心理健康 / 成瘾",
+        "心血管 / 抗凝",
+        "牙科",
+        "眼科 / 视力",
+        "肿瘤 / 生物制剂",
+        "诊断 / 急诊",
+        "骨科 / 关节"
+      ]
+    },
+    "rulesIHeard": [
+      "种子词 intentKeyword = 表中关键词",
+      "ref = 同一关键词",
+      "编排 category 对齐表中「领域分类」，categoryId 向你要",
+      "新链接 = 现有 offer.url 改文章 ID，并设 subid1=渠道ID、subid2=新文章ID",
+      "文章随机生成后挂进 offer"
+    ],
+    "assumptionsNeedingConfirm": [
+      "默认只处理「有落地 URL + channelId」的 offer；无 URL 的先跳过",
+      "种子表全是 US；若只换 US geo offer，可用池约见 inventory.usOffersReady；若对全部有 URL offer 随机灌词，见 offersReadyForRewrite",
+      "随机策略默认：每个目标 offer 从 63 词中有放回抽 1 条（可改为抽样 N 个 offer）",
+      "ref 查询参数：按你说「只改文章ID + subid1/subid2」，示例里不强制覆盖旧 ref；若要改成关键词请确认",
+      "真正写回 RuoYi offer 仍缺写入 API；本计划先生成 article-job + 新 URL JSON"
+    ]
+  },
+  "blockers": {
+    "categoryIdsNeeded": [
+      {
+        "domainCategory": "GLP-1 / 糖尿病",
+        "categoryId": 6305,
+        "matchedName": "GLP-1 / 糖尿病",
+        "confidence": "exact"
+      },
+      {
+        "domainCategory": "心理健康 / 成瘾",
+        "categoryId": 6314,
+        "matchedName": "心理健康 / 成瘾",
+        "confidence": "exact"
+      },
+      {
+        "domainCategory": "心血管 / 抗凝",
+        "categoryId": 6307,
+        "matchedName": "心血管 / 抗凝",
+        "confidence": "exact"
+      },
+      {
+        "domainCategory": "牙科",
+        "categoryId": 5342,
+        "matchedName": "牙科",
+        "confidence": "exact"
+      },
+      {
+        "domainCategory": "眼科 / 视力",
+        "categoryId": 6311,
+        "matchedName": "眼科 / 视力",
+        "confidence": "exact"
+      },
+      {
+        "domainCategory": "肿瘤 / 生物制剂",
+        "categoryId": 6308,
+        "matchedName": "肿瘤 / 生物制剂",
+        "confidence": "exact"
+      },
+      {
+        "domainCategory": "诊断 / 急诊",
+        "categoryId": 6316,
+        "matchedName": "诊断 / 急诊",
+        "confidence": "exact"
+      },
+      {
+        "domainCategory": "骨科 / 关节",
+        "categoryId": 6310,
+        "matchedName": "骨科 / 关节",
+        "confidence": "exact"
+      },
+      {
+        "domainCategory": "医疗·肾脏与泌尿",
+        "categoryId": 6333,
+        "matchedName": "医疗·泌尿外科",
+        "confidence": "confirmed"
+      },
+      {
+        "domainCategory": "医疗·皮肤",
+        "categoryId": 6453,
+        "matchedName": "医疗·皮肤",
+        "confidence": "user_confirmed"
+      },
+      {
+        "domainCategory": "医疗·偏头痛",
+        "categoryId": 6451,
+        "matchedName": "医疗·偏头痛",
+        "confidence": "user_confirmed"
+      },
+      {
+        "domainCategory": "医疗·呼吸与睡眠",
+        "categoryId": 6452,
+        "matchedName": "呼吸与睡眠",
+        "confidence": "user_confirmed"
+      },
+      {
+        "domainCategory": "医疗·自身免疫",
+        "categoryId": 6454,
+        "matchedName": "自身免疫",
+        "confidence": "user_confirmed"
+      }
+    ],
+    "offerWriteApi": "missing_or_unconfirmed",
+    "categoryMatchSource": {
+      "categoriesUrl": "https://adesmobi.com/admin/back/article/allCategoryNew",
+      "sitesUrl": "https://adesmobi.com/admin/back/site/getAll",
+      "categoryCount": 1360,
+      "siteCount": 156,
+      "uniqueHosts": 156
+    },
+    "categoryIdsComplete": true
+  },
+  "proposedExecution": {
+    "mode": "random_seed_per_offer",
+    "targetPool": "offers_with_url_and_geo_US",
+    "publish": false,
+    "articlesPerDomain": 1,
+    "concurrencyHint": 4,
+    "steps": [
+      "读取 Excel 63 词 + 领域分类",
+      "读取 raw/group-* 全部 offer，并用 flatStats.url 对齐落地链",
+      "向你索取领域分类 → categoryId 映射",
+      "按确认范围随机抽词，为每个 offer 创建 1 个 article-job（targets 从旧 URL 域名反查 site/account）",
+      "轮询完成后，用旧 URL 替换 detail/{id}，写入 subid1/subid2，得到 newLandingUrl",
+      "把 offerId → newLandingUrl / articleId / seed 落盘；写入 RuoYi 等你确认接口"
+    ]
+  },
+  "geoDistributionTop": [
+    [
+      "US",
+      475
+    ],
+    [
+      "（空）",
+      158
+    ],
+    [
+      "BR",
+      98
+    ],
+    [
+      "JP",
+      90
+    ],
+    [
+      "MX",
+      45
+    ],
+    [
+      "CD",
+      40
+    ],
+    [
+      "IT",
+      38
+    ],
+    [
+      "SA",
+      38
+    ],
+    [
+      "FR",
+      36
+    ],
+    [
+      "DE",
+      31
+    ],
+    [
+      "DEFAULT",
+      29
+    ],
+    [
+      "TG",
+      5
+    ],
+    [
+      "GB",
+      4
+    ],
+    [
+      "KR",
+      3
+    ],
+    [
+      "ES",
+      2
+    ]
+  ],
+  "sampleTasks": [
+    {
+      "taskIndex": 1,
+      "offerId": "3ykJDDY2brS0",
+      "offerName": "storyreel-v02-A15-us-4041023911-lstmai.com",
+      "funnelId": "3ykKt2fZxicx",
+      "funnelName": "storyreel-v02",
+      "groupId": "3ykKaXWltNks",
+      "groupName": "storyreel-v02-us",
+      "geo": "US",
+      "channelId": "4041023911",
+      "oldLandingUrl": "https://lstmai.com/detail/231542498616?ref=construction%20accident%20lawyer%20near%20me&channel=4041023911&hit={hit}&rType=2&partner=StoryReel",
+      "oldArticleId": "231542498616",
+      "seed": {
+        "keyword": "Trulicity Cost Without Insurance",
+        "intentKeyword": "Trulicity Cost Without Insurance",
+        "ref": "Trulicity Cost Without Insurance",
+        "domainCategory": "GLP-1 / 糖尿病",
+        "categoryId": null,
+        "countryFromSeed": "US",
+        "regionIdForJob": "US"
+      },
+      "articleJob": {
+        "publish": false,
+        "articlesPerDomain": 1,
+        "languageHint": "en (from old article or EN fallback)",
+        "targetFromOldUrl": true
+      },
+      "newLandingUrlExample": "https://lstmai.com/detail/NEW_ARTICLE_1?ref=construction+accident+lawyer+near+me&channel=4041023911&hit=%7Bhit%7D&rType=2&partner=StoryReel&subid1=4041023911&subid2=NEW_ARTICLE_1",
+      "urlRewriteRule": {
+        "keepHostAndPathBase": true,
+        "replaceArticleIdInPath": true,
+        "setSubid1": "channelId",
+        "setSubid2": "newArticleId",
+        "keepOtherQueryParams": true,
+        "overwriteRefWithKeyword": false
+      }
+    },
+    {
+      "taskIndex": 2,
+      "offerId": "3aWvExg2Kawd",
+      "offerName": "JZ09-A4-us-8488653000",
+      "funnelId": "3aXEOxFRbofy",
+      "funnelName": "jz-09",
+      "groupId": "3aXCLwfCh4wo",
+      "groupName": "JZ09-US",
+      "geo": "US",
+      "channelId": "8488653000",
+      "oldLandingUrl": "https://zestfularcade.com/detail/170491996060?ref=Prep+Hiv+Prevention&channel=8488653000&hit={hit}",
+      "oldArticleId": "170491996060",
+      "seed": {
+        "keyword": "Prostate Surgery Cost",
+        "intentKeyword": "Prostate Surgery Cost",
+        "ref": "Prostate Surgery Cost",
+        "domainCategory": "医疗·肾脏与泌尿",
+        "categoryId": null,
+        "countryFromSeed": "US",
+        "regionIdForJob": "US"
+      },
+      "articleJob": {
+        "publish": false,
+        "articlesPerDomain": 1,
+        "languageHint": "en (from old article or EN fallback)",
+        "targetFromOldUrl": true
+      },
+      "newLandingUrlExample": "https://zestfularcade.com/detail/NEW_ARTICLE_2?ref=Prep+Hiv+Prevention&channel=8488653000&hit=%7Bhit%7D&subid1=8488653000&subid2=NEW_ARTICLE_2",
+      "urlRewriteRule": {
+        "keepHostAndPathBase": true,
+        "replaceArticleIdInPath": true,
+        "setSubid1": "channelId",
+        "setSubid2": "newArticleId",
+        "keepOtherQueryParams": true,
+        "overwriteRefWithKeyword": false
+      }
+    },
+    {
+      "taskIndex": 3,
+      "offerId": "3p0oXuZB0rtp",
+      "offerName": "flare-v03-A4-us-3747055389",
+      "funnelId": "3p0r533ddojY",
+      "funnelName": "ff-reel-v03",
+      "groupId": "3p0ps2lBrKrc",
+      "groupName": "ff-reel-v03-us",
+      "geo": "US",
+      "channelId": "3747055389",
+      "oldLandingUrl": "https://zestfularcade.com/detail/146249841257?ref=accident%20attorney%20fresno%20ca&channel=3747055389&hit={hit}&rType=2&partner=VibeShort",
+      "oldArticleId": "146249841257",
+      "seed": {
+        "keyword": "Repatha Cost Without Insurance",
+        "intentKeyword": "Repatha Cost Without Insurance",
+        "ref": "Repatha Cost Without Insurance",
+        "domainCategory": "心血管 / 抗凝",
+        "categoryId": null,
+        "countryFromSeed": "US",
+        "regionIdForJob": "US"
+      },
+      "articleJob": {
+        "publish": false,
+        "articlesPerDomain": 1,
+        "languageHint": "en (from old article or EN fallback)",
+        "targetFromOldUrl": true
+      },
+      "newLandingUrlExample": "https://zestfularcade.com/detail/NEW_ARTICLE_3?ref=accident+attorney+fresno+ca&channel=3747055389&hit=%7Bhit%7D&rType=2&partner=VibeShort&subid1=3747055389&subid2=NEW_ARTICLE_3",
+      "urlRewriteRule": {
+        "keepHostAndPathBase": true,
+        "replaceArticleIdInPath": true,
+        "setSubid1": "channelId",
+        "setSubid2": "newArticleId",
+        "keepOtherQueryParams": true,
+        "overwriteRefWithKeyword": false
+      }
+    },
+    {
+      "taskIndex": 4,
+      "offerId": "3ywfJgIqgxIR",
+      "offerName": "storyreel-sign-v01-A12-us-8719896953-degreesuccesstips.com",
+      "funnelId": "3p82yVFf1xF9",
+      "funnelName": "storyreel-sign-v01",
+      "groupId": "3p82RzuAnIax",
+      "groupName": "storyreel-sign-us",
+      "geo": "US",
+      "channelId": "8719896953",
+      "oldLandingUrl": "https://degreesuccesstips.com/detail/148677439006?ref=Dental%20Implants%20Cost%202026&channel=8719896953&hit={hit}&rType=2&partner=StoryReel",
+      "oldArticleId": "148677439006",
+      "seed": {
+        "keyword": "Opdivo Cost Without Insurance",
+        "intentKeyword": "Opdivo Cost Without Insurance",
+        "ref": "Opdivo Cost Without Insurance",
+        "domainCategory": "肿瘤 / 生物制剂",
+        "categoryId": null,
+        "countryFromSeed": "US",
+        "regionIdForJob": "US"
+      },
+      "articleJob": {
+        "publish": false,
+        "articlesPerDomain": 1,
+        "languageHint": "en (from old article or EN fallback)",
+        "targetFromOldUrl": true
+      },
+      "newLandingUrlExample": "https://degreesuccesstips.com/detail/NEW_ARTICLE_4?ref=Dental+Implants+Cost+2026&channel=8719896953&hit=%7Bhit%7D&rType=2&partner=StoryReel&subid1=8719896953&subid2=NEW_ARTICLE_4",
+      "urlRewriteRule": {
+        "keepHostAndPathBase": true,
+        "replaceArticleIdInPath": true,
+        "setSubid1": "channelId",
+        "setSubid2": "newArticleId",
+        "keepOtherQueryParams": true,
+        "overwriteRefWithKeyword": false
+      }
+    },
+    {
+      "taskIndex": 5,
+      "offerId": "3ywtFK0N9I0m",
+      "offerName": "vibeshort-v04-A7-us-18646-www.newamc.com",
+      "funnelId": "3rHsTlCL2Fcg",
+      "funnelName": "Vibeshort-V04",
+      "groupId": "3rHrZvVTaaWX",
+      "groupName": "vibeshort-v04-us",
+      "geo": "US",
+      "channelId": "18646",
+      "oldLandingUrl": "https://www.newamc.com/detail/924775368729?ref=birth%20injury%20lawyer%20near%20me&channel=18646&hit={hit}&rType=2&partner=VibeShort",
+      "oldArticleId": "924775368729",
+      "seed": {
+        "keyword": "Dupixent Cost Without Insurance",
+        "intentKeyword": "Dupixent Cost Without Insurance",
+        "ref": "Dupixent Cost Without Insurance",
+        "domainCategory": "医疗·自身免疫",
+        "categoryId": null,
+        "countryFromSeed": "US",
+        "regionIdForJob": "US"
+      },
+      "articleJob": {
+        "publish": false,
+        "articlesPerDomain": 1,
+        "languageHint": "en (from old article or EN fallback)",
+        "targetFromOldUrl": true
+      },
+      "newLandingUrlExample": "https://www.newamc.com/detail/NEW_ARTICLE_5?ref=birth+injury+lawyer+near+me&channel=18646&hit=%7Bhit%7D&rType=2&partner=VibeShort&subid1=18646&subid2=NEW_ARTICLE_5",
+      "urlRewriteRule": {
+        "keepHostAndPathBase": true,
+        "replaceArticleIdInPath": true,
+        "setSubid1": "channelId",
+        "setSubid2": "newArticleId",
+        "keepOtherQueryParams": true,
+        "overwriteRefWithKeyword": false
+      }
+    },
+    {
+      "taskIndex": 6,
+      "offerId": "3yBNeKYY0hRn",
+      "offerName": "vibeshort-v05-A1-us-14816-homeguarddeals.com",
+      "funnelId": "3rHtNAYBcTyF",
+      "funnelName": "Vibeshort-V05",
+      "groupId": "3rHs35dC0FiO",
+      "groupName": "vibeshort-v05-us",
+      "geo": "US",
+      "channelId": "14816",
+      "oldLandingUrl": "https://homeguarddeals.com/detail/283903018521?ref=birth%20injury%20lawyer%20near%20me&channel=14816&hit={hit}&rType=2&partner=VibeShort",
+      "oldArticleId": "283903018521",
+      "seed": {
+        "keyword": "Emgality Cost Without Insurance",
+        "intentKeyword": "Emgality Cost Without Insurance",
+        "ref": "Emgality Cost Without Insurance",
+        "domainCategory": "医疗·偏头痛",
+        "categoryId": null,
+        "countryFromSeed": "US",
+        "regionIdForJob": "US"
+      },
+      "articleJob": {
+        "publish": false,
+        "articlesPerDomain": 1,
+        "languageHint": "en (from old article or EN fallback)",
+        "targetFromOldUrl": true
+      },
+      "newLandingUrlExample": "https://homeguarddeals.com/detail/NEW_ARTICLE_6?ref=birth+injury+lawyer+near+me&channel=14816&hit=%7Bhit%7D&rType=2&partner=VibeShort&subid1=14816&subid2=NEW_ARTICLE_6",
+      "urlRewriteRule": {
+        "keepHostAndPathBase": true,
+        "replaceArticleIdInPath": true,
+        "setSubid1": "channelId",
+        "setSubid2": "newArticleId",
+        "keepOtherQueryParams": true,
+        "overwriteRefWithKeyword": false
+      }
+    },
+    {
+      "taskIndex": 7,
+      "offerId": "3w2POO9le2qX",
+      "offerName": "vibeshort-v03-A1-us-16492-insurance-consulting-nearby.com",
+      "funnelId": "3w2ShcbnMk5i",
+      "funnelName": "Vibeshort-V03",
+      "groupId": "3w2S87Ukx4fB",
+      "groupName": "vibeshort-v03-us",
+      "geo": "US",
+      "channelId": "16492",
+      "oldLandingUrl": "https://insurance-consulting-nearby.com/detail/139525229072?ref=birth%20injury%20lawyer%20near%20me&channel=16492&hit={hit}&rType=2&partner=VibeShort",
+      "oldArticleId": "139525229072",
+      "seed": {
+        "keyword": "Xtandi Cost Without Insurance",
+        "intentKeyword": "Xtandi Cost Without Insurance",
+        "ref": "Xtandi Cost Without Insurance",
+        "domainCategory": "肿瘤 / 生物制剂",
+        "categoryId": null,
+        "countryFromSeed": "US",
+        "regionIdForJob": "US"
+      },
+      "articleJob": {
+        "publish": false,
+        "articlesPerDomain": 1,
+        "languageHint": "en (from old article or EN fallback)",
+        "targetFromOldUrl": true
+      },
+      "newLandingUrlExample": "https://insurance-consulting-nearby.com/detail/NEW_ARTICLE_7?ref=birth+injury+lawyer+near+me&channel=16492&hit=%7Bhit%7D&rType=2&partner=VibeShort&subid1=16492&subid2=NEW_ARTICLE_7",
+      "urlRewriteRule": {
+        "keepHostAndPathBase": true,
+        "replaceArticleIdInPath": true,
+        "setSubid1": "channelId",
+        "setSubid2": "newArticleId",
+        "keepOtherQueryParams": true,
+        "overwriteRefWithKeyword": false
+      }
+    },
+    {
+      "taskIndex": 8,
+      "offerId": "3v8YkFVwW3h9",
+      "offerName": "Novelix-V01-A4-US-1592051092",
+      "funnelId": "3v8e8WW7dTcB",
+      "funnelName": "Novelix-V02",
+      "groupId": "3v8dHsSEDpYC",
+      "groupName": "Novelix-V02-US",
+      "geo": "US",
+      "channelId": "1592051092",
+      "oldLandingUrl": "https://fluxpaid.com/detail/394306699903?channel=1592051092&hit={hit}",
+      "oldArticleId": "394306699903",
+      "seed": {
+        "keyword": "Rinvoq Cost Without Insurance",
+        "intentKeyword": "Rinvoq Cost Without Insurance",
+        "ref": "Rinvoq Cost Without Insurance",
+        "domainCategory": "医疗·自身免疫",
+        "categoryId": null,
+        "countryFromSeed": "US",
+        "regionIdForJob": "US"
+      },
+      "articleJob": {
+        "publish": false,
+        "articlesPerDomain": 1,
+        "languageHint": "en (from old article or EN fallback)",
+        "targetFromOldUrl": true
+      },
+      "newLandingUrlExample": "https://fluxpaid.com/detail/NEW_ARTICLE_8?channel=1592051092&hit=%7Bhit%7D&subid1=1592051092&subid2=NEW_ARTICLE_8",
+      "urlRewriteRule": {
+        "keepHostAndPathBase": true,
+        "replaceArticleIdInPath": true,
+        "setSubid1": "channelId",
+        "setSubid2": "newArticleId",
+        "keepOtherQueryParams": true,
+        "overwriteRefWithKeyword": false
+      }
+    },
+    {
+      "taskIndex": 9,
+      "offerId": "3ywt3aTfM9iR",
+      "offerName": "vibeshort-v04-A1-us-13428-insurance-consulting-nearby.com",
+      "funnelId": "3rHsTlCL2Fcg",
+      "funnelName": "Vibeshort-V04",
+      "groupId": "3rHrZvVTaaWX",
+      "groupName": "vibeshort-v04-us",
+      "geo": "US",
+      "channelId": "13428",
+      "oldLandingUrl": "https://insurance-consulting-nearby.com/detail/993917038110?ref=antivirus%20software&channel=13428&hit={hit}&rType=2&partner=VibeShort",
+      "oldArticleId": "993917038110",
+      "seed": {
+        "keyword": "Enbrel Cost Without Insurance",
+        "intentKeyword": "Enbrel Cost Without Insurance",
+        "ref": "Enbrel Cost Without Insurance",
+        "domainCategory": "医疗·自身免疫",
+        "categoryId": null,
+        "countryFromSeed": "US",
+        "regionIdForJob": "US"
+      },
+      "articleJob": {
+        "publish": false,
+        "articlesPerDomain": 1,
+        "languageHint": "en (from old article or EN fallback)",
+        "targetFromOldUrl": true
+      },
+      "newLandingUrlExample": "https://insurance-consulting-nearby.com/detail/NEW_ARTICLE_9?ref=antivirus+software&channel=13428&hit=%7Bhit%7D&rType=2&partner=VibeShort&subid1=13428&subid2=NEW_ARTICLE_9",
+      "urlRewriteRule": {
+        "keepHostAndPathBase": true,
+        "replaceArticleIdInPath": true,
+        "setSubid1": "channelId",
+        "setSubid2": "newArticleId",
+        "keepOtherQueryParams": true,
+        "overwriteRefWithKeyword": false
+      }
+    },
+    {
+      "taskIndex": 10,
+      "offerId": "3rHpQ18kYD9g",
+      "offerName": "vibeshort-v04-A7-us-11746-algo-cash.com",
+      "funnelId": "3rHsTlCL2Fcg",
+      "funnelName": "Vibeshort-V04",
+      "groupId": "3rHrZvVTaaWX",
+      "groupName": "vibeshort-v04-us",
+      "geo": "US",
+      "channelId": "11746",
+      "oldLandingUrl": "https://bank-flux.com/detail/823521924205?ref=construction%20accident%20lawyer%20near%20me&channel=11746&hit={hit}&rType=2&partner=VibeShort",
+      "oldArticleId": "823521924205",
+      "seed": {
+        "keyword": "Spinal Cord Stimulator Cost",
+        "intentKeyword": "Spinal Cord Stimulator Cost",
+        "ref": "Spinal Cord Stimulator Cost",
+        "domainCategory": "骨科 / 关节",
+        "categoryId": null,
+        "countryFromSeed": "US",
+        "regionIdForJob": "US"
+      },
+      "articleJob": {
+        "publish": false,
+        "articlesPerDomain": 1,
+        "languageHint": "en (from old article or EN fallback)",
+        "targetFromOldUrl": true
+      },
+      "newLandingUrlExample": "https://bank-flux.com/detail/NEW_ARTICLE_10?ref=construction+accident+lawyer+near+me&channel=11746&hit=%7Bhit%7D&rType=2&partner=VibeShort&subid1=11746&subid2=NEW_ARTICLE_10",
+      "urlRewriteRule": {
+        "keepHostAndPathBase": true,
+        "replaceArticleIdInPath": true,
+        "setSubid1": "channelId",
+        "setSubid2": "newArticleId",
+        "keepOtherQueryParams": true,
+        "overwriteRefWithKeyword": false
+      }
+    },
+    {
+      "taskIndex": 11,
+      "offerId": "3v8SmNJ9A0YF",
+      "offerName": "Blinkdrama-v02-A1-Us-15585-insurance-consulting-nearby.com",
+      "funnelId": "3sFDuJeEbeay",
+      "funnelName": "Blinkdrama-v02",
+      "groupId": "3sFDDyfVb4YH",
+      "groupName": "Blinkdrama-v02-us",
+      "geo": "US",
+      "channelId": "15585",
+      "oldLandingUrl": "https://insurance-consulting-nearby.com/detail/236588121583?ref=Buprenorphine%20Market%202026&channel=15585&hit={hit}&rType=2&partner=Blinkdrama",
+      "oldArticleId": "236588121583",
+      "seed": {
+        "keyword": "Nerve Block Cost",
+        "intentKeyword": "Nerve Block Cost",
+        "ref": "Nerve Block Cost",
+        "domainCategory": "骨科 / 关节",
+        "categoryId": null,
+        "countryFromSeed": "US",
+        "regionIdForJob": "US"
+      },
+      "articleJob": {
+        "publish": false,
+        "articlesPerDomain": 1,
+        "languageHint": "en (from old article or EN fallback)",
+        "targetFromOldUrl": true
+      },
+      "newLandingUrlExample": "https://insurance-consulting-nearby.com/detail/NEW_ARTICLE_11?ref=Buprenorphine+Market+2026&channel=15585&hit=%7Bhit%7D&rType=2&partner=Blinkdrama&subid1=15585&subid2=NEW_ARTICLE_11",
+      "urlRewriteRule": {
+        "keepHostAndPathBase": true,
+        "replaceArticleIdInPath": true,
+        "setSubid1": "channelId",
+        "setSubid2": "newArticleId",
+        "keepOtherQueryParams": true,
+        "overwriteRefWithKeyword": false
+      }
+    },
+    {
+      "taskIndex": 12,
+      "offerId": "3ykPjpxON04D",
+      "offerName": "Blinkdrama-v01-A12-us-5661257225-protectlifeplan.com ",
+      "funnelId": "3sFDWWqvNxR9",
+      "funnelName": "Blinkdrama-v01",
+      "groupId": "3sFCVTgYYRkx",
+      "groupName": "Blinkdrama-v01-us",
+      "geo": "US",
+      "channelId": "5661257225",
+      "oldLandingUrl": "https://protectlifeplan.com/detail/662147821723?ref=Cart%C3%A3o%20de%20Cr%C3%A9dito%20para%20Negativado%20Aprovado%20na%20Hora:%20Comparativo%202026&channel=5661257225&hit={hit}&rType=2&partner=Flare",
+      "oldArticleId": "662147821723",
+      "seed": {
+        "keyword": "Nurtec Cost Without Insurance",
+        "intentKeyword": "Nurtec Cost Without Insurance",
+        "ref": "Nurtec Cost Without Insurance",
+        "domainCategory": "医疗·偏头痛",
+        "categoryId": null,
+        "countryFromSeed": "US",
+        "regionIdForJob": "US"
+      },
+      "articleJob": {
+        "publish": false,
+        "articlesPerDomain": 1,
+        "languageHint": "en (from old article or EN fallback)",
+        "targetFromOldUrl": true
+      },
+      "newLandingUrlExample": "https://protectlifeplan.com/detail/NEW_ARTICLE_12?ref=Cart%C3%A3o+de+Cr%C3%A9dito+para+Negativado+Aprovado+na+Hora%3A+Comparativo+2026&channel=5661257225&hit=%7Bhit%7D&rType=2&partner=Flare&subid1=5661257225&subid2=NEW_ARTICLE_12",
+      "urlRewriteRule": {
+        "keepHostAndPathBase": true,
+        "replaceArticleIdInPath": true,
+        "setSubid1": "channelId",
+        "setSubid2": "newArticleId",
+        "keepOtherQueryParams": true,
+        "overwriteRefWithKeyword": false
+      }
+    },
+    {
+      "taskIndex": 13,
+      "offerId": "3yQhAOrPBABm",
+      "offerName": "Blinkdrama-v04-A12-us-2092927125-degreesuccesstips.com",
+      "funnelId": "3uDZt8ImMHUl",
+      "funnelName": "Blinkdrama-v04",
+      "groupId": "3uDZSGOM9tOL",
+      "groupName": "Blinkdrama-v04-us",
+      "geo": "US",
+      "channelId": "2092927125",
+      "oldLandingUrl": "https://aivestorhq.com/detail/133157680934?ref=construction%20accident%20lawyer%20near%20me&channel=2092927125&hit={hit}&rType=2&partner=Blinkdrama",
+      "oldArticleId": "133157680934",
+      "seed": {
+        "keyword": "Skyrizi Cost Without Insurance",
+        "intentKeyword": "Skyrizi Cost Without Insurance",
+        "ref": "Skyrizi Cost Without Insurance",
+        "domainCategory": "医疗·自身免疫",
+        "categoryId": null,
+        "countryFromSeed": "US",
+        "regionIdForJob": "US"
+      },
+      "articleJob": {
+        "publish": false,
+        "articlesPerDomain": 1,
+        "languageHint": "en (from old article or EN fallback)",
+        "targetFromOldUrl": true
+      },
+      "newLandingUrlExample": "https://aivestorhq.com/detail/NEW_ARTICLE_13?ref=construction+accident+lawyer+near+me&channel=2092927125&hit=%7Bhit%7D&rType=2&partner=Blinkdrama&subid1=2092927125&subid2=NEW_ARTICLE_13",
+      "urlRewriteRule": {
+        "keepHostAndPathBase": true,
+        "replaceArticleIdInPath": true,
+        "setSubid1": "channelId",
+        "setSubid2": "newArticleId",
+        "keepOtherQueryParams": true,
+        "overwriteRefWithKeyword": false
+      }
+    },
+    {
+      "taskIndex": 14,
+      "offerId": "3w0OLrDKI0vS",
+      "offerName": "vibeshort-v02-A7-us-11444-www.newamc.com",
+      "funnelId": "3w0aPitAgGtJ",
+      "funnelName": "Vibeshort-v02",
+      "groupId": "3w0ZpXrmJTjL",
+      "groupName": "vibeshort-v02-us",
+      "geo": "US",
+      "channelId": "11444",
+      "oldLandingUrl": "https://bank-flux.com/detail/823521924205?ref=construction%20accident%20lawyer%20near%20me&channel=11444&hit={hit}&rType=2&partner=VibeShort",
+      "oldArticleId": "823521924205",
+      "seed": {
+        "keyword": "Aimovig Cost Without Insurance",
+        "intentKeyword": "Aimovig Cost Without Insurance",
+        "ref": "Aimovig Cost Without Insurance",
+        "domainCategory": "医疗·偏头痛",
+        "categoryId": null,
+        "countryFromSeed": "US",
+        "regionIdForJob": "US"
+      },
+      "articleJob": {
+        "publish": false,
+        "articlesPerDomain": 1,
+        "languageHint": "en (from old article or EN fallback)",
+        "targetFromOldUrl": true
+      },
+      "newLandingUrlExample": "https://bank-flux.com/detail/NEW_ARTICLE_14?ref=construction+accident+lawyer+near+me&channel=11444&hit=%7Bhit%7D&rType=2&partner=VibeShort&subid1=11444&subid2=NEW_ARTICLE_14",
+      "urlRewriteRule": {
+        "keepHostAndPathBase": true,
+        "replaceArticleIdInPath": true,
+        "setSubid1": "channelId",
+        "setSubid2": "newArticleId",
+        "keepOtherQueryParams": true,
+        "overwriteRefWithKeyword": false
+      }
+    },
+    {
+      "taskIndex": 15,
+      "offerId": "3XcgK7t6NMUw",
+      "offerName": "A75-A4-us-8002532881",
+      "funnelId": "3Qi2AaBNTLG6",
+      "funnelName": "cd-reader-A75",
+      "groupId": "3QiWqWjO11tb",
+      "groupName": "CD-Reel-A75-US",
+      "geo": "US",
+      "channelId": "8002532881",
+      "oldLandingUrl": "https://zestfularcade.com/detail/236588121583?ref=Buprenorphine%20Market%202026&channel=8002532881&hit={hit}&rType=2&partner=Blinkdrama",
+      "oldArticleId": "236588121583",
+      "seed": {
+        "keyword": "Opdivo Cost Without Insurance",
+        "intentKeyword": "Opdivo Cost Without Insurance",
+        "ref": "Opdivo Cost Without Insurance",
+        "domainCategory": "肿瘤 / 生物制剂",
+        "categoryId": null,
+        "countryFromSeed": "US",
+        "regionIdForJob": "US"
+      },
+      "articleJob": {
+        "publish": false,
+        "articlesPerDomain": 1,
+        "languageHint": "en (from old article or EN fallback)",
+        "targetFromOldUrl": true
+      },
+      "newLandingUrlExample": "https://zestfularcade.com/detail/NEW_ARTICLE_15?ref=Buprenorphine+Market+2026&channel=8002532881&hit=%7Bhit%7D&rType=2&partner=Blinkdrama&subid1=8002532881&subid2=NEW_ARTICLE_15",
+      "urlRewriteRule": {
+        "keepHostAndPathBase": true,
+        "replaceArticleIdInPath": true,
+        "setSubid1": "channelId",
+        "setSubid2": "newArticleId",
+        "keepOtherQueryParams": true,
+        "overwriteRefWithKeyword": false
+      }
+    },
+    {
+      "taskIndex": 16,
+      "offerId": "3v8ZOriOgSBz",
+      "offerName": "Novelix-V01-A7-US-12439",
+      "funnelId": "3v8eGzq3brlh",
+      "funnelName": "Novelix-V03",
+      "groupId": "3v8dWNyCK4qi",
+      "groupName": "Novelix-V03-US",
+      "geo": "US",
+      "channelId": "12439",
+      "oldLandingUrl": "https://quantify-energy.com/detail/519735212341?channel=12439&hit={hit}",
+      "oldArticleId": "519735212341",
+      "seed": {
+        "keyword": "Dupixent Cost Without Insurance",
+        "intentKeyword": "Dupixent Cost Without Insurance",
+        "ref": "Dupixent Cost Without Insurance",
+        "domainCategory": "医疗·自身免疫",
+        "categoryId": null,
+        "countryFromSeed": "US",
+        "regionIdForJob": "US"
+      },
+      "articleJob": {
+        "publish": false,
+        "articlesPerDomain": 1,
+        "languageHint": "en (from old article or EN fallback)",
+        "targetFromOldUrl": true
+      },
+      "newLandingUrlExample": "https://quantify-energy.com/detail/NEW_ARTICLE_16?channel=12439&hit=%7Bhit%7D&subid1=12439&subid2=NEW_ARTICLE_16",
+      "urlRewriteRule": {
+        "keepHostAndPathBase": true,
+        "replaceArticleIdInPath": true,
+        "setSubid1": "channelId",
+        "setSubid2": "newArticleId",
+        "keepOtherQueryParams": true,
+        "overwriteRefWithKeyword": false
+      }
+    },
+    {
+      "taskIndex": 17,
+      "offerId": "3p6pNKxPxz4O",
+      "offerName": "flare-v05-A12-us-4026765444",
+      "funnelId": "3p0reOSIpMGA",
+      "funnelName": "ff-reel-v05",
+      "groupId": "3p0qJBBXbBdI",
+      "groupName": "ff-reel-v05-us",
+      "geo": "US",
+      "channelId": "4026765444",
+      "oldLandingUrl": "https://protectlifeplan.com/detail/662147821723?ref=Cart%C3%A3o%20de%20Cr%C3%A9dito%20para%20Negativado%20Aprovado%20na%20Hora:%20Comparativo%202026&channel=4026765444&hit={hit}&rType=2&partner=Flare",
+      "oldArticleId": "662147821723",
+      "seed": {
+        "keyword": "Revlimid Cost Without Insurance",
+        "intentKeyword": "Revlimid Cost Without Insurance",
+        "ref": "Revlimid Cost Without Insurance",
+        "domainCategory": "肿瘤 / 生物制剂",
+        "categoryId": null,
+        "countryFromSeed": "US",
+        "regionIdForJob": "US"
+      },
+      "articleJob": {
+        "publish": false,
+        "articlesPerDomain": 1,
+        "languageHint": "en (from old article or EN fallback)",
+        "targetFromOldUrl": true
+      },
+      "newLandingUrlExample": "https://protectlifeplan.com/detail/NEW_ARTICLE_17?ref=Cart%C3%A3o+de+Cr%C3%A9dito+para+Negativado+Aprovado+na+Hora%3A+Comparativo+2026&channel=4026765444&hit=%7Bhit%7D&rType=2&partner=Flare&subid1=4026765444&subid2=NEW_ARTICLE_17",
+      "urlRewriteRule": {
+        "keepHostAndPathBase": true,
+        "replaceArticleIdInPath": true,
+        "setSubid1": "channelId",
+        "setSubid2": "newArticleId",
+        "keepOtherQueryParams": true,
+        "overwriteRefWithKeyword": false
+      }
+    },
+    {
+      "taskIndex": 18,
+      "offerId": "3ywMgU6iMlyL",
+      "offerName": "Blinkdrama-v02-A15-us-5357965274-lstmai.com",
+      "funnelId": "3sFDuJeEbeay",
+      "funnelName": "Blinkdrama-v02",
+      "groupId": "3sFDDyfVb4YH",
+      "groupName": "Blinkdrama-v02-us",
+      "geo": "US",
+      "channelId": "5357965274",
+      "oldLandingUrl": "https://lstmai.com/detail/231542498616?ref=construction%20accident%20lawyer%20near%20me&channel=5357965274&hit={hit}&rType=2&partner=Blinkdrama",
+      "oldArticleId": "231542498616",
+      "seed": {
+        "keyword": "Revlimid Cost Without Insurance",
+        "intentKeyword": "Revlimid Cost Without Insurance",
+        "ref": "Revlimid Cost Without Insurance",
+        "domainCategory": "肿瘤 / 生物制剂",
+        "categoryId": null,
+        "countryFromSeed": "US",
+        "regionIdForJob": "US"
+      },
+      "articleJob": {
+        "publish": false,
+        "articlesPerDomain": 1,
+        "languageHint": "en (from old article or EN fallback)",
+        "targetFromOldUrl": true
+      },
+      "newLandingUrlExample": "https://lstmai.com/detail/NEW_ARTICLE_18?ref=construction+accident+lawyer+near+me&channel=5357965274&hit=%7Bhit%7D&rType=2&partner=Blinkdrama&subid1=5357965274&subid2=NEW_ARTICLE_18",
+      "urlRewriteRule": {
+        "keepHostAndPathBase": true,
+        "replaceArticleIdInPath": true,
+        "setSubid1": "channelId",
+        "setSubid2": "newArticleId",
+        "keepOtherQueryParams": true,
+        "overwriteRefWithKeyword": false
+      }
+    },
+    {
+      "taskIndex": 19,
+      "offerId": "3ywLwZdJd3h4",
+      "offerName": "Blinkdrama-v02-A1-Us-13431-homeguarddeals.com",
+      "funnelId": "3sFDuJeEbeay",
+      "funnelName": "Blinkdrama-v02",
+      "groupId": "3sFDDyfVb4YH",
+      "groupName": "Blinkdrama-v02-us",
+      "geo": "US",
+      "channelId": "13431",
+      "oldLandingUrl": "https://homeguarddeals.com/detail/236588121583?ref=Buprenorphine%20Market%202026&channel=13431&hit={hit}&rType=2&partner=Blinkdrama",
+      "oldArticleId": "236588121583",
+      "seed": {
+        "keyword": "Trulicity Cost Without Insurance",
+        "intentKeyword": "Trulicity Cost Without Insurance",
+        "ref": "Trulicity Cost Without Insurance",
+        "domainCategory": "GLP-1 / 糖尿病",
+        "categoryId": null,
+        "countryFromSeed": "US",
+        "regionIdForJob": "US"
+      },
+      "articleJob": {
+        "publish": false,
+        "articlesPerDomain": 1,
+        "languageHint": "en (from old article or EN fallback)",
+        "targetFromOldUrl": true
+      },
+      "newLandingUrlExample": "https://homeguarddeals.com/detail/NEW_ARTICLE_19?ref=Buprenorphine+Market+2026&channel=13431&hit=%7Bhit%7D&rType=2&partner=Blinkdrama&subid1=13431&subid2=NEW_ARTICLE_19",
+      "urlRewriteRule": {
+        "keepHostAndPathBase": true,
+        "replaceArticleIdInPath": true,
+        "setSubid1": "channelId",
+        "setSubid2": "newArticleId",
+        "keepOtherQueryParams": true,
+        "overwriteRefWithKeyword": false
+      }
+    },
+    {
+      "taskIndex": 20,
+      "offerId": "3ywNzCCRQOoa",
+      "offerName": "Blinkdrama-v03-A1-Us-new-13434-beauty-center-nearby.com",
+      "funnelId": "3uDZjmliiexb",
+      "funnelName": "Blinkdrama-v03",
+      "groupId": "3uDYuFliS9Sl",
+      "groupName": "Blinkdrama-v03-us",
+      "geo": "US",
+      "channelId": "13434",
+      "oldLandingUrl": "https://beauty-center-nearby.com/detail/804575946849?ref=birth%20injury%20lawyer%20near%20me&channel=13434&hit={hit}&rType=2&partner=Blinkdrama",
+      "oldArticleId": "804575946849",
+      "seed": {
+        "keyword": "Echocardiogram Cost",
+        "intentKeyword": "Echocardiogram Cost",
+        "ref": "Echocardiogram Cost",
+        "domainCategory": "诊断 / 急诊",
+        "categoryId": null,
+        "countryFromSeed": "US",
+        "regionIdForJob": "US"
+      },
+      "articleJob": {
+        "publish": false,
+        "articlesPerDomain": 1,
+        "languageHint": "en (from old article or EN fallback)",
+        "targetFromOldUrl": true
+      },
+      "newLandingUrlExample": "https://beauty-center-nearby.com/detail/NEW_ARTICLE_20?ref=birth+injury+lawyer+near+me&channel=13434&hit=%7Bhit%7D&rType=2&partner=Blinkdrama&subid1=13434&subid2=NEW_ARTICLE_20",
+      "urlRewriteRule": {
+        "keepHostAndPathBase": true,
+        "replaceArticleIdInPath": true,
+        "setSubid1": "channelId",
+        "setSubid2": "newArticleId",
+        "keepOtherQueryParams": true,
+        "overwriteRefWithKeyword": false
+      }
+    }
+  ],
+  "seeds": [
+    {
+      "keyword": "Dupixent Cost Without Insurance",
+      "country": "US",
+      "domainCategory": "医疗·自身免疫",
+      "template": "《X Cost Without Insurance》费用对比页",
+      "status": "待用",
+      "intentKeyword": "Dupixent Cost Without Insurance",
+      "ref": "Dupixent Cost Without Insurance",
+      "categoryId": null
+    },
+    {
+      "keyword": "Dupixent Cost Per Month",
+      "country": "US",
+      "domainCategory": "医疗·自身免疫",
+      "template": "《X Cost 2026》费用页",
+      "status": "待用",
+      "intentKeyword": "Dupixent Cost Per Month",
+      "ref": "Dupixent Cost Per Month",
+      "categoryId": null
+    },
+    {
+      "keyword": "Skyrizi Cost Without Insurance",
+      "country": "US",
+      "domainCategory": "医疗·自身免疫",
+      "template": "《X Cost Without Insurance》费用对比页",
+      "status": "待用",
+      "intentKeyword": "Skyrizi Cost Without Insurance",
+      "ref": "Skyrizi Cost Without Insurance",
+      "categoryId": null
+    },
+    {
+      "keyword": "Rinvoq Cost Without Insurance",
+      "country": "US",
+      "domainCategory": "医疗·自身免疫",
+      "template": "《X Cost Without Insurance》费用对比页",
+      "status": "待用",
+      "intentKeyword": "Rinvoq Cost Without Insurance",
+      "ref": "Rinvoq Cost Without Insurance",
+      "categoryId": null
+    },
+    {
+      "keyword": "Enbrel Cost Without Insurance",
+      "country": "US",
+      "domainCategory": "医疗·自身免疫",
+      "template": "《X Cost Without Insurance》费用对比页",
+      "status": "待用",
+      "intentKeyword": "Enbrel Cost Without Insurance",
+      "ref": "Enbrel Cost Without Insurance",
+      "categoryId": null
+    },
+    {
+      "keyword": "Stelara Cost Without Insurance",
+      "country": "US",
+      "domainCategory": "医疗·自身免疫",
+      "template": "《X Cost Without Insurance》费用对比页",
+      "status": "待用",
+      "intentKeyword": "Stelara Cost Without Insurance",
+      "ref": "Stelara Cost Without Insurance",
+      "categoryId": null
+    },
+    {
+      "keyword": "Cosentyx Cost Without Insurance",
+      "country": "US",
+      "domainCategory": "医疗·自身免疫",
+      "template": "《X Cost Without Insurance》费用对比页",
+      "status": "待用",
+      "intentKeyword": "Cosentyx Cost Without Insurance",
+      "ref": "Cosentyx Cost Without Insurance",
+      "categoryId": null
+    },
+    {
+      "keyword": "Xeljanz Cost Without Insurance",
+      "country": "US",
+      "domainCategory": "医疗·自身免疫",
+      "template": "《X Cost Without Insurance》费用对比页",
+      "status": "待用",
+      "intentKeyword": "Xeljanz Cost Without Insurance",
+      "ref": "Xeljanz Cost Without Insurance",
+      "categoryId": null
+    },
+    {
+      "keyword": "Emgality Cost Without Insurance",
+      "country": "US",
+      "domainCategory": "医疗·偏头痛",
+      "template": "《X Cost Without Insurance》费用对比页",
+      "status": "待用",
+      "intentKeyword": "Emgality Cost Without Insurance",
+      "ref": "Emgality Cost Without Insurance",
+      "categoryId": null
+    },
+    {
+      "keyword": "Aimovig Cost Without Insurance",
+      "country": "US",
+      "domainCategory": "医疗·偏头痛",
+      "template": "《X Cost Without Insurance》费用对比页",
+      "status": "待用",
+      "intentKeyword": "Aimovig Cost Without Insurance",
+      "ref": "Aimovig Cost Without Insurance",
+      "categoryId": null
+    },
+    {
+      "keyword": "Ubrelvy Cost Without Insurance",
+      "country": "US",
+      "domainCategory": "医疗·偏头痛",
+      "template": "《X Cost Without Insurance》费用对比页",
+      "status": "待用",
+      "intentKeyword": "Ubrelvy Cost Without Insurance",
+      "ref": "Ubrelvy Cost Without Insurance",
+      "categoryId": null
+    },
+    {
+      "keyword": "Nurtec Cost Without Insurance",
+      "country": "US",
+      "domainCategory": "医疗·偏头痛",
+      "template": "《X Cost Without Insurance》费用对比页",
+      "status": "待用",
+      "intentKeyword": "Nurtec Cost Without Insurance",
+      "ref": "Nurtec Cost Without Insurance",
+      "categoryId": null
+    },
+    {
+      "keyword": "Ajovy Cost Without Insurance",
+      "country": "US",
+      "domainCategory": "医疗·偏头痛",
+      "template": "《X Cost Without Insurance》费用对比页",
+      "status": "待用",
+      "intentKeyword": "Ajovy Cost Without Insurance",
+      "ref": "Ajovy Cost Without Insurance",
+      "categoryId": null
+    },
+    {
+      "keyword": "Botox for Migraine Cost",
+      "country": "US",
+      "domainCategory": "医疗·偏头痛",
+      "template": "《X Cost》费用页",
+      "status": "待用",
+      "intentKeyword": "Botox for Migraine Cost",
+      "ref": "Botox for Migraine Cost",
+      "categoryId": null
+    },
+    {
+      "keyword": "Trelegy Cost Without Insurance",
+      "country": "US",
+      "domainCategory": "医疗·呼吸与睡眠",
+      "template": "《X Cost Without Insurance》费用对比页",
+      "status": "待用",
+      "intentKeyword": "Trelegy Cost Without Insurance",
+      "ref": "Trelegy Cost Without Insurance",
+      "categoryId": null
+    },
+    {
+      "keyword": "Symbicort Cost Without Insurance",
+      "country": "US",
+      "domainCategory": "医疗·呼吸与睡眠",
+      "template": "《X Cost Without Insurance》费用对比页",
+      "status": "待用",
+      "intentKeyword": "Symbicort Cost Without Insurance",
+      "ref": "Symbicort Cost Without Insurance",
+      "categoryId": null
+    },
+    {
+      "keyword": "Breo Ellipta Cost Without Insurance",
+      "country": "US",
+      "domainCategory": "医疗·呼吸与睡眠",
+      "template": "《X Cost Without Insurance》费用对比页",
+      "status": "待用",
+      "intentKeyword": "Breo Ellipta Cost Without Insurance",
+      "ref": "Breo Ellipta Cost Without Insurance",
+      "categoryId": null
+    },
+    {
+      "keyword": "Spiriva Cost Without Insurance",
+      "country": "US",
+      "domainCategory": "医疗·呼吸与睡眠",
+      "template": "《X Cost Without Insurance》费用对比页",
+      "status": "待用",
+      "intentKeyword": "Spiriva Cost Without Insurance",
+      "ref": "Spiriva Cost Without Insurance",
+      "categoryId": null
+    },
+    {
+      "keyword": "CPAP Machine Cost",
+      "country": "US",
+      "domainCategory": "医疗·呼吸与睡眠",
+      "template": "《X Cost》费用页",
+      "status": "待用",
+      "intentKeyword": "CPAP Machine Cost",
+      "ref": "CPAP Machine Cost",
+      "categoryId": null
+    },
+    {
+      "keyword": "Sleep Apnea Treatment Cost",
+      "country": "US",
+      "domainCategory": "医疗·呼吸与睡眠",
+      "template": "《X Cost》费用页",
+      "status": "待用",
+      "intentKeyword": "Sleep Apnea Treatment Cost",
+      "ref": "Sleep Apnea Treatment Cost",
+      "categoryId": null
+    },
+    {
+      "keyword": "Tirzepatide Cost Without Insurance",
+      "country": "US",
+      "domainCategory": "GLP-1 / 糖尿病",
+      "template": "《X Cost Without Insurance》费用对比页",
+      "status": "待用",
+      "intentKeyword": "Tirzepatide Cost Without Insurance",
+      "ref": "Tirzepatide Cost Without Insurance",
+      "categoryId": null
+    },
+    {
+      "keyword": "Semaglutide Cost Without Insurance",
+      "country": "US",
+      "domainCategory": "GLP-1 / 糖尿病",
+      "template": "《X Cost Without Insurance》费用对比页",
+      "status": "待用",
+      "intentKeyword": "Semaglutide Cost Without Insurance",
+      "ref": "Semaglutide Cost Without Insurance",
+      "categoryId": null
+    },
+    {
+      "keyword": "Saxenda Cost Without Insurance",
+      "country": "US",
+      "domainCategory": "GLP-1 / 糖尿病",
+      "template": "《X Cost Without Insurance》费用对比页",
+      "status": "待用",
+      "intentKeyword": "Saxenda Cost Without Insurance",
+      "ref": "Saxenda Cost Without Insurance",
+      "categoryId": null
+    },
+    {
+      "keyword": "Trulicity Cost Without Insurance",
+      "country": "US",
+      "domainCategory": "GLP-1 / 糖尿病",
+      "template": "《X Cost Without Insurance》费用对比页",
+      "status": "待用",
+      "intentKeyword": "Trulicity Cost Without Insurance",
+      "ref": "Trulicity Cost Without Insurance",
+      "categoryId": null
+    },
+    {
+      "keyword": "Contrave Cost Without Insurance",
+      "country": "US",
+      "domainCategory": "GLP-1 / 糖尿病",
+      "template": "《X Cost Without Insurance》费用对比页",
+      "status": "待用",
+      "intentKeyword": "Contrave Cost Without Insurance",
+      "ref": "Contrave Cost Without Insurance",
+      "categoryId": null
+    },
+    {
+      "keyword": "Wegovy vs Zepbound Cost",
+      "country": "US",
+      "domainCategory": "GLP-1 / 糖尿病",
+      "template": "《X vs Y Cost》对比页",
+      "status": "待用",
+      "intentKeyword": "Wegovy vs Zepbound Cost",
+      "ref": "Wegovy vs Zepbound Cost",
+      "categoryId": null
+    },
+    {
+      "keyword": "Vyvanse Cost Without Insurance",
+      "country": "US",
+      "domainCategory": "心理健康 / 成瘾",
+      "template": "《X Cost Without Insurance》费用对比页",
+      "status": "待用",
+      "intentKeyword": "Vyvanse Cost Without Insurance",
+      "ref": "Vyvanse Cost Without Insurance",
+      "categoryId": null
+    },
+    {
+      "keyword": "Concerta Cost Without Insurance",
+      "country": "US",
+      "domainCategory": "心理健康 / 成瘾",
+      "template": "《X Cost Without Insurance》费用对比页",
+      "status": "待用",
+      "intentKeyword": "Concerta Cost Without Insurance",
+      "ref": "Concerta Cost Without Insurance",
+      "categoryId": null
+    },
+    {
+      "keyword": "TMS Therapy Cost",
+      "country": "US",
+      "domainCategory": "心理健康 / 成瘾",
+      "template": "《X Cost》费用页",
+      "status": "待用",
+      "intentKeyword": "TMS Therapy Cost",
+      "ref": "TMS Therapy Cost",
+      "categoryId": null
+    },
+    {
+      "keyword": "Spravato Cost Without Insurance",
+      "country": "US",
+      "domainCategory": "心理健康 / 成瘾",
+      "template": "《X Cost Without Insurance》费用对比页",
+      "status": "待用",
+      "intentKeyword": "Spravato Cost Without Insurance",
+      "ref": "Spravato Cost Without Insurance",
+      "categoryId": null
+    },
+    {
+      "keyword": "Accutane Cost Without Insurance",
+      "country": "US",
+      "domainCategory": "医疗·皮肤",
+      "template": "《X Cost Without Insurance》费用对比页",
+      "status": "待用",
+      "intentKeyword": "Accutane Cost Without Insurance",
+      "ref": "Accutane Cost Without Insurance",
+      "categoryId": null
+    },
+    {
+      "keyword": "Isotretinoin Cost Without Insurance",
+      "country": "US",
+      "domainCategory": "医疗·皮肤",
+      "template": "《X Cost Without Insurance》费用对比页",
+      "status": "待用",
+      "intentKeyword": "Isotretinoin Cost Without Insurance",
+      "ref": "Isotretinoin Cost Without Insurance",
+      "categoryId": null
+    },
+    {
+      "keyword": "Eczema Treatment Cost",
+      "country": "US",
+      "domainCategory": "医疗·皮肤",
+      "template": "《X Cost》费用页",
+      "status": "待用",
+      "intentKeyword": "Eczema Treatment Cost",
+      "ref": "Eczema Treatment Cost",
+      "categoryId": null
+    },
+    {
+      "keyword": "Psoriasis Treatment Cost",
+      "country": "US",
+      "domainCategory": "医疗·皮肤",
+      "template": "《X Cost》费用页",
+      "status": "待用",
+      "intentKeyword": "Psoriasis Treatment Cost",
+      "ref": "Psoriasis Treatment Cost",
+      "categoryId": null
+    },
+    {
+      "keyword": "Hidradenitis Suppurativa Treatment Cost",
+      "country": "US",
+      "domainCategory": "医疗·皮肤",
+      "template": "《X Cost》费用页",
+      "status": "待用",
+      "intentKeyword": "Hidradenitis Suppurativa Treatment Cost",
+      "ref": "Hidradenitis Suppurativa Treatment Cost",
+      "categoryId": null
+    },
+    {
+      "keyword": "Opdivo Cost Without Insurance",
+      "country": "US",
+      "domainCategory": "肿瘤 / 生物制剂",
+      "template": "《X Cost Without Insurance》费用对比页",
+      "status": "待用",
+      "intentKeyword": "Opdivo Cost Without Insurance",
+      "ref": "Opdivo Cost Without Insurance",
+      "categoryId": null
+    },
+    {
+      "keyword": "Tagrisso Cost Without Insurance",
+      "country": "US",
+      "domainCategory": "肿瘤 / 生物制剂",
+      "template": "《X Cost Without Insurance》费用对比页",
+      "status": "待用",
+      "intentKeyword": "Tagrisso Cost Without Insurance",
+      "ref": "Tagrisso Cost Without Insurance",
+      "categoryId": null
+    },
+    {
+      "keyword": "Revlimid Cost Without Insurance",
+      "country": "US",
+      "domainCategory": "肿瘤 / 生物制剂",
+      "template": "《X Cost Without Insurance》费用对比页",
+      "status": "待用",
+      "intentKeyword": "Revlimid Cost Without Insurance",
+      "ref": "Revlimid Cost Without Insurance",
+      "categoryId": null
+    },
+    {
+      "keyword": "Verzenio Cost Without Insurance",
+      "country": "US",
+      "domainCategory": "肿瘤 / 生物制剂",
+      "template": "《X Cost Without Insurance》费用对比页",
+      "status": "待用",
+      "intentKeyword": "Verzenio Cost Without Insurance",
+      "ref": "Verzenio Cost Without Insurance",
+      "categoryId": null
+    },
+    {
+      "keyword": "Xtandi Cost Without Insurance",
+      "country": "US",
+      "domainCategory": "肿瘤 / 生物制剂",
+      "template": "《X Cost Without Insurance》费用对比页",
+      "status": "待用",
+      "intentKeyword": "Xtandi Cost Without Insurance",
+      "ref": "Xtandi Cost Without Insurance",
+      "categoryId": null
+    },
+    {
+      "keyword": "Epidural Steroid Injection Cost",
+      "country": "US",
+      "domainCategory": "骨科 / 关节",
+      "template": "《X Cost》费用页",
+      "status": "待用",
+      "intentKeyword": "Epidural Steroid Injection Cost",
+      "ref": "Epidural Steroid Injection Cost",
+      "categoryId": null
+    },
+    {
+      "keyword": "Cortisone Shot Cost",
+      "country": "US",
+      "domainCategory": "骨科 / 关节",
+      "template": "《X Cost》费用页",
+      "status": "待用",
+      "intentKeyword": "Cortisone Shot Cost",
+      "ref": "Cortisone Shot Cost",
+      "categoryId": null
+    },
+    {
+      "keyword": "PRP Injection Cost",
+      "country": "US",
+      "domainCategory": "骨科 / 关节",
+      "template": "《X Cost》费用页",
+      "status": "待用",
+      "intentKeyword": "PRP Injection Cost",
+      "ref": "PRP Injection Cost",
+      "categoryId": null
+    },
+    {
+      "keyword": "Spinal Cord Stimulator Cost",
+      "country": "US",
+      "domainCategory": "骨科 / 关节",
+      "template": "《X Cost》费用页",
+      "status": "待用",
+      "intentKeyword": "Spinal Cord Stimulator Cost",
+      "ref": "Spinal Cord Stimulator Cost",
+      "categoryId": null
+    },
+    {
+      "keyword": "Nerve Block Cost",
+      "country": "US",
+      "domainCategory": "骨科 / 关节",
+      "template": "《X Cost》费用页",
+      "status": "待用",
+      "intentKeyword": "Nerve Block Cost",
+      "ref": "Nerve Block Cost",
+      "categoryId": null
+    },
+    {
+      "keyword": "Cardiac Ablation Cost",
+      "country": "US",
+      "domainCategory": "心血管 / 抗凝",
+      "template": "《X Cost》费用页",
+      "status": "待用",
+      "intentKeyword": "Cardiac Ablation Cost",
+      "ref": "Cardiac Ablation Cost",
+      "categoryId": null
+    },
+    {
+      "keyword": "Pacemaker Surgery Cost",
+      "country": "US",
+      "domainCategory": "心血管 / 抗凝",
+      "template": "《X Cost》费用页",
+      "status": "待用",
+      "intentKeyword": "Pacemaker Surgery Cost",
+      "ref": "Pacemaker Surgery Cost",
+      "categoryId": null
+    },
+    {
+      "keyword": "Repatha Cost Without Insurance",
+      "country": "US",
+      "domainCategory": "心血管 / 抗凝",
+      "template": "《X Cost Without Insurance》费用对比页",
+      "status": "待用",
+      "intentKeyword": "Repatha Cost Without Insurance",
+      "ref": "Repatha Cost Without Insurance",
+      "categoryId": null
+    },
+    {
+      "keyword": "Entresto Cost Without Insurance",
+      "country": "US",
+      "domainCategory": "心血管 / 抗凝",
+      "template": "《X Cost Without Insurance》费用对比页",
+      "status": "待用",
+      "intentKeyword": "Entresto Cost Without Insurance",
+      "ref": "Entresto Cost Without Insurance",
+      "categoryId": null
+    },
+    {
+      "keyword": "Dialysis Cost Without Insurance",
+      "country": "US",
+      "domainCategory": "医疗·肾脏与泌尿",
+      "template": "《X Cost Without Insurance》费用对比页",
+      "status": "待用",
+      "intentKeyword": "Dialysis Cost Without Insurance",
+      "ref": "Dialysis Cost Without Insurance",
+      "categoryId": null
+    },
+    {
+      "keyword": "Kidney Transplant Cost",
+      "country": "US",
+      "domainCategory": "医疗·肾脏与泌尿",
+      "template": "《X Cost》费用页",
+      "status": "待用",
+      "intentKeyword": "Kidney Transplant Cost",
+      "ref": "Kidney Transplant Cost",
+      "categoryId": null
+    },
+    {
+      "keyword": "Prostate Surgery Cost",
+      "country": "US",
+      "domainCategory": "医疗·肾脏与泌尿",
+      "template": "《X Cost》费用页",
+      "status": "待用",
+      "intentKeyword": "Prostate Surgery Cost",
+      "ref": "Prostate Surgery Cost",
+      "categoryId": null
+    },
+    {
+      "keyword": "Testosterone Replacement Therapy Cost",
+      "country": "US",
+      "domainCategory": "医疗·肾脏与泌尿",
+      "template": "《X Cost》费用页",
+      "status": "待用",
+      "intentKeyword": "Testosterone Replacement Therapy Cost",
+      "ref": "Testosterone Replacement Therapy Cost",
+      "categoryId": null
+    },
+    {
+      "keyword": "Eylea Cost Without Insurance",
+      "country": "US",
+      "domainCategory": "眼科 / 视力",
+      "template": "《X Cost Without Insurance》费用对比页",
+      "status": "待用",
+      "intentKeyword": "Eylea Cost Without Insurance",
+      "ref": "Eylea Cost Without Insurance",
+      "categoryId": null
+    },
+    {
+      "keyword": "Wet AMD Treatment Cost",
+      "country": "US",
+      "domainCategory": "眼科 / 视力",
+      "template": "《X Cost》费用页",
+      "status": "待用",
+      "intentKeyword": "Wet AMD Treatment Cost",
+      "ref": "Wet AMD Treatment Cost",
+      "categoryId": null
+    },
+    {
+      "keyword": "Glaucoma Surgery Cost",
+      "country": "US",
+      "domainCategory": "眼科 / 视力",
+      "template": "《X Cost》费用页",
+      "status": "待用",
+      "intentKeyword": "Glaucoma Surgery Cost",
+      "ref": "Glaucoma Surgery Cost",
+      "categoryId": null
+    },
+    {
+      "keyword": "PET Scan Cost Without Insurance",
+      "country": "US",
+      "domainCategory": "诊断 / 急诊",
+      "template": "《X Cost Without Insurance》费用对比页",
+      "status": "待用",
+      "intentKeyword": "PET Scan Cost Without Insurance",
+      "ref": "PET Scan Cost Without Insurance",
+      "categoryId": null
+    },
+    {
+      "keyword": "Sleep Study Cost Without Insurance",
+      "country": "US",
+      "domainCategory": "诊断 / 急诊",
+      "template": "《X Cost Without Insurance》费用对比页",
+      "status": "待用",
+      "intentKeyword": "Sleep Study Cost Without Insurance",
+      "ref": "Sleep Study Cost Without Insurance",
+      "categoryId": null
+    },
+    {
+      "keyword": "Bone Density Scan Cost",
+      "country": "US",
+      "domainCategory": "诊断 / 急诊",
+      "template": "《X Cost》费用页",
+      "status": "待用",
+      "intentKeyword": "Bone Density Scan Cost",
+      "ref": "Bone Density Scan Cost",
+      "categoryId": null
+    },
+    {
+      "keyword": "Echocardiogram Cost",
+      "country": "US",
+      "domainCategory": "诊断 / 急诊",
+      "template": "《X Cost》费用页",
+      "status": "待用",
+      "intentKeyword": "Echocardiogram Cost",
+      "ref": "Echocardiogram Cost",
+      "categoryId": null
+    },
+    {
+      "keyword": "All-on-4 Dental Implants Cost",
+      "country": "US",
+      "domainCategory": "牙科",
+      "template": "《X Cost》费用页",
+      "status": "待用",
+      "intentKeyword": "All-on-4 Dental Implants Cost",
+      "ref": "All-on-4 Dental Implants Cost",
+      "categoryId": null
+    },
+    {
+      "keyword": "Dental Bone Graft Cost",
+      "country": "US",
+      "domainCategory": "牙科",
+      "template": "《X Cost》费用页",
+      "status": "待用",
+      "intentKeyword": "Dental Bone Graft Cost",
+      "ref": "Dental Bone Graft Cost",
+      "categoryId": null
+    },
+    {
+      "keyword": "Same Day Crown Cost",
+      "country": "US",
+      "domainCategory": "牙科",
+      "template": "《X Cost》费用页",
+      "status": "待用",
+      "intentKeyword": "Same Day Crown Cost",
+      "ref": "Same Day Crown Cost",
+      "categoryId": null
+    }
+  ],
+  "metaResolved": {
+    "fetchedAt": "2026-11-11T09:35:52.019Z",
+    "categoriesUrl": "https://adesmobi.com/admin/back/article/allCategoryNew",
+    "sitesUrl": "https://adesmobi.com/admin/back/site/getAll",
+    "siteHostIndexFile": "tmp/site-host-index.json",
+    "note": "siteId 按 offer 旧落地链 host 在 site-host-index 反查"
+  }
+}

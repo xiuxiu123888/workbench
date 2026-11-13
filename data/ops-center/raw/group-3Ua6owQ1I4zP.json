@@ -1,0 +1,54 @@
+{
+  "code": 200,
+  "data": {
+    "groupId": "3Ua6owQ1I4zP",
+    "groupName": "cd-reel-0825-fan-62-fr",
+    "routing": "",
+    "geo": "FR",
+    "yesterdayRpm": 0.5,
+    "yesterdayRev": 0.43,
+    "yesterdayRpmTrend": 100,
+    "yesterdayRevTrend": 100,
+    "offerList": [
+      {
+        "offerId": "3lplh9bAkC0u",
+        "offerName": "cd-reel-A6fan-62-A14-FR-5006693019",
+        "categoryName": "附近公寓指南",
+        "weight": 0.02,
+        "channelId": "5006693019",
+        "countryCode": null,
+        "afsSource": null,
+        "todayRpm": 0,
+        "todayRev": 0
+      },
+      {
+        "offerId": "3lWWRRcqSn36",
+        "offerName": "cd-reel-A6fan-62-A12-FR-2506279147",
+        "categoryName": "园艺与室外维护",
+        "weight": 1,
+        "channelId": "2506279147",
+        "countryCode": null,
+        "afsSource": null,
+        "todayRpm": 0.8,
+        "todayRev": 0.63
+      },
+      {
+        "offerId": "3oFCQnrHbPMb",
+        "offerName": "Cd-reel-0825-fan-62-A1-fr-3675765944",
+        "categoryName": "荷尔蒙优化",
+        "weight": 0.02,
+        "channelId": "3675765944",
+        "countryCode": null,
+        "afsSource": null,
+        "todayRpm": 0,
+        "todayRev": 0
+      }
+    ],
+    "funnelId": "3O9Vr9Ar6pNC",
+    "funnelName": "cd-reel-A6fan-62",
+    "partnerName": "changdu",
+    "urlName": "moboreels",
+    "urlId": 62,
+    "platform": "FF"
+  }
+}

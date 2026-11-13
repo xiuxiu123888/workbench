@@ -1,0 +1,164 @@
+{
+  "code": 200,
+  "data": {
+    "groupId": "3uDZSGOM9tOL",
+    "groupName": "Blinkdrama-v04-us",
+    "routing": "rotator",
+    "geo": "US",
+    "yesterdayRpm": 56.2,
+    "yesterdayRev": 191.85,
+    "yesterdayRpmTrend": -20.62,
+    "yesterdayRevTrend": -2.51,
+    "offerList": [
+      {
+        "offerId": "3uDYeT5aPPtk",
+        "offerName": "Blinkdrama-v04-A4-Us-2582495292-zestfularcade.com",
+        "categoryName": "其他",
+        "weight": 0.05,
+        "channelId": "2582495292",
+        "countryCode": "US",
+        "afsSource": "4",
+        "todayRpm": 31.3,
+        "todayRev": 1.97
+      },
+      {
+        "offerId": "3uDYkbUyIjd4",
+        "offerName": "Blinkdrama-v04-A7-Us-12152-algo-cash.com",
+        "categoryName": "其他",
+        "weight": 0.05,
+        "channelId": "12152",
+        "countryCode": "US",
+        "afsSource": "7",
+        "todayRpm": 34.2,
+        "todayRev": 6.05
+      },
+      {
+        "offerId": "3v8StjHNuib6",
+        "offerName": "Blinkdrama-v04-A1-Us-15587-homeguarddeals.com",
+        "categoryName": "其他",
+        "weight": 0.06,
+        "channelId": "15587",
+        "countryCode": "US",
+        "afsSource": "1",
+        "todayRpm": 47,
+        "todayRev": 5.59
+      },
+      {
+        "offerId": "3wsFpL1meodv",
+        "offerName": "Blinkdrama-v04-A15-us-4932131851-mpbus.com",
+        "categoryName": "其他",
+        "weight": 0.03,
+        "channelId": "4932131851",
+        "countryCode": "US",
+        "afsSource": "15",
+        "todayRpm": 1,
+        "todayRev": 0.05
+      },
+      {
+        "offerId": "3wsEeZLuKQWU",
+        "offerName": "Blinkdrama-v04-A5-us-1304490452-joyfullplayland.com",
+        "categoryName": "其他",
+        "weight": 0.03,
+        "channelId": "1304490452",
+        "countryCode": "US",
+        "afsSource": "5",
+        "todayRpm": 10.6,
+        "todayRev": 0.74
+      },
+      {
+        "offerId": "3yQhAOrPBABm",
+        "offerName": "Blinkdrama-v04-A12-us-2092927125-degreesuccesstips.com",
+        "categoryName": "临床研究",
+        "weight": 0.05,
+        "channelId": "2092927125",
+        "countryCode": "US",
+        "afsSource": "12",
+        "todayRpm": 29.3,
+        "todayRev": 1.26
+      },
+      {
+        "offerId": "3ywPwkSXwBMK",
+        "offerName": "Blinkdrama-v04-A1-Us-13435-beauty-center-nearby.com",
+        "categoryName": "其他",
+        "weight": 0.46,
+        "channelId": "13435",
+        "countryCode": "US",
+        "afsSource": "1",
+        "todayRpm": 76.5,
+        "todayRev": 50.81
+      },
+      {
+        "offerId": "3ywQ3NAIOhNT",
+        "offerName": "Blinkdrama-v04-A1-Us-13436-insurance-consulting-nearby.com",
+        "categoryName": "其他",
+        "weight": 0.4,
+        "channelId": "13436",
+        "countryCode": "US",
+        "afsSource": "1",
+        "todayRpm": 62.9,
+        "todayRev": 28.55
+      },
+      {
+        "offerId": "3ywQ8jFYryVg",
+        "offerName": "Blinkdrama-v04-A5-us-5282279430-easyfungalaxy.com",
+        "categoryName": "其他",
+        "weight": 0.03,
+        "channelId": "5282279430",
+        "countryCode": "US",
+        "afsSource": "5",
+        "todayRpm": 25.4,
+        "todayRev": 0.99
+      },
+      {
+        "offerId": "3ywQHa5elDYV",
+        "offerName": "Blinkdrama-v04-A7-Us-18654-www.newamc.com",
+        "categoryName": "其他",
+        "weight": 0.3,
+        "channelId": "18654",
+        "countryCode": "US",
+        "afsSource": "7",
+        "todayRpm": 46.3,
+        "todayRev": 18.51
+      },
+      {
+        "offerId": "3ywQK5GtqBQZ",
+        "offerName": "Blinkdrama-v04-A7-Us-18655-bank-flux.com",
+        "categoryName": "其他",
+        "weight": 0.03,
+        "channelId": "18655",
+        "countryCode": "US",
+        "afsSource": "7",
+        "todayRpm": 2.1,
+        "todayRev": 0.1
+      },
+      {
+        "offerId": "3ywQQ3BdmntQ",
+        "offerName": "Blinkdrama-v04-A12-us-4878136127-intodeepdive.com ",
+        "categoryName": "其他",
+        "weight": 0.03,
+        "channelId": "4878136127",
+        "countryCode": "US",
+        "afsSource": "12",
+        "todayRpm": 23.8,
+        "todayRev": 0.95
+      },
+      {
+        "offerId": "3ywQXlD6l6Pu",
+        "offerName": "Blinkdrama-v04-A15-us-6803644972-lstmai.com",
+        "categoryName": "其他",
+        "weight": 0.03,
+        "channelId": "6803644972",
+        "countryCode": "US",
+        "afsSource": "15",
+        "todayRpm": 6.5,
+        "todayRev": 0.26
+      }
+    ],
+    "funnelId": "3uDZt8ImMHUl",
+    "funnelName": "Blinkdrama-v04",
+    "partnerName": "Blinkdrama",
+    "urlName": "Blinkdrama-v04",
+    "urlId": 143,
+    "platform": "MIS"
+  }
+}

@@ -1,0 +1,77 @@
+# 同一漏斗内、不同 rotator 复用同一 offer
+生成时间: 2026-11-12T11:34:52.085Z
+有复用的漏斗: 15（白名单 2）· 复用 offer 条数合计: 29
+
+## cd-reader-banner-v01  · funnelId=3rI0WAnYN9fC
+rotator 数 2 · 跨 rotator 复用的 offer 2 个
+- cd-reader-banner-v01-A12-Us-8275192094 (3rHzxc88pwCs) · geo=CD · 品类=骨科 / 关节 · 出现在 2 个 rotator: cd-reader-banner-v01-default[3rI0QOkekGfb] | cd-reader-banner-v01-us[3rI0K6JkfrzG]
+- cd-reader-banner-v01-A4-Us-9114102876 (3szxnTr06HKg) · geo=CD · 品类=医疗·皮肤 · 出现在 2 个 rotator: cd-reader-banner-v01-default[3rI0QOkekGfb] | cd-reader-banner-v01-us[3rI0K6JkfrzG]
+
+## Blinkdrama-sign-v01  · funnelId=3uUfpSpZ3e2U
+rotator 数 2 · 跨 rotator 复用的 offer 1 个
+- Blinkdrama-sign-v01-A15-default-2979233422 (3wsFDZA5jvIB) · geo=US · 品类=诊断 / 急诊 · 出现在 2 个 rotator: Blinkdrama-sign-v01-default[3uUfWT9s5zAL] | Blinkdrama-sign-v01-us[3uUfhkI1FZgv]
+
+## cd-reader-A4-60（非白名单）  · funnelId=3O3Sj2gNpkzw
+rotator 数 7 · 跨 rotator 复用的 offer 3 个
+- cd-read-60-A4-us-4300370257 (3XcFci62Mhsa) · geo=US · 品类=临床研究 · 出现在 2 个 rotator: CD-Reader-A60-default[3XcIMLHvTZU9] | CD-Reader-A60-Us[3XcIJjeaUYOT]
+- cd-read-60-A7-us-7609117695 (3XcHo5KSBEn6) · geo=US · 品类=事故律师 · 出现在 2 个 rotator: CD-Reader-A60-default[3XcIMLHvTZU9] | CD-Reader-A60-Us[3XcIJjeaUYOT]
+- cd-reader-60-A12-US-2402337368 (3lWWRRSUGLWj) · geo=US · 品类=临床研究 · 出现在 2 个 rotator: CD-Reader-A60-default[3XcIMLHvTZU9] | CD-Reader-A60-Us[3XcIJjeaUYOT]
+
+## cd-reader-A5-51（非白名单）  · funnelId=3LyxpT9hzzh6
+rotator 数 11 · 跨 rotator 复用的 offer 3 个
+- Cd-read-A51-A4-us-7723809864 (3Xc9Vzw0jzjZ) · geo=US · 品类=临床研究 · 出现在 2 个 rotator: CD-Reader-A51-default[3XcD9PcRqn7h] | CD-Reader-A51-Us[3XcD45sqqV3C]
+- Cd-read-A51-A7-us-9508193152 (3UZHog5J4fnB) · geo=US · 品类=事故律师 · 出现在 2 个 rotator: CD-Reader-A51-default[3XcD9PcRqn7h] | CD-Reader-A51-Us[3XcD45sqqV3C]
+- cd-reader-51-A12-us-5132442487 (3nMz3ZfcuXdT) · geo=US · 品类=临床研究 · 出现在 2 个 rotator: CD-Reader-A51-fr[3nN4anDcBy5U] | CD-Reader-A51-Us[3XcD45sqqV3C]
+
+## cd-reel-A5-50（非白名单）  · funnelId=3LcdpN4mS9hK
+rotator 数 10 · 跨 rotator 复用的 offer 3 个
+- CD-50-A1-US-4677485294 (3XKjdR7V6Qpx) · geo=US · 品类=事故律师 · 出现在 3 个 rotator: cd-A50-it[3cJcTN0TPfSd] | cd-A50-mx[3cJcHUkA1y3f] | cd-A50-us[3UYxmnRBarCJ]
+- CD-50-A4-US-8671712417 (3XKk7lQRtvYO) · geo=US · 品类=临床研究 · 出现在 3 个 rotator: cd-A50-de[3Ymf7lRFdnGv] | cd-A50-gb[3YmfCrC5CGOV] | cd-A50-us[3UYxmnRBarCJ]
+- Cd-A50-A7-Us-9653496952 (3UYxJwBrc8Yn) · geo=US · 品类=事故律师 · 出现在 3 个 rotator: cd-A50-de[3Ymf7lRFdnGv] | cd-A50-gb[3YmfCrC5CGOV] | cd-A50-us[3UYxmnRBarCJ]
+
+## JZ-06（非白名单）  · funnelId=3SmbEZti3YSr
+rotator 数 11 · 跨 rotator 复用的 offer 3 个
+- JZ-06-A12-US-6838607522 (3bbvRR5wKGyF) · geo=US · 品类=健康保险 · 出现在 2 个 rotator: JZ-06-US[3T9SHEYZyXWf] | JZ-06-US-default[3WduUMD7CwQ8]
+- JZ-06-A4-US-9259456650 (3XGvo6EPgTth) · geo=US · 品类=肝脏健康 · 出现在 2 个 rotator: JZ-06-US[3T9SHEYZyXWf] | JZ-06-US-default[3WduUMD7CwQ8]
+- JZ-06-A7-US-3115809079 (3XGwLN9H7e1e) · geo=US · 品类=健康保险 · 出现在 2 个 rotator: JZ-06-US[3T9SHEYZyXWf] | JZ-06-US-default[3WduUMD7CwQ8]
+
+## jz-09（非白名单）  · funnelId=3aXEOxFRbofy
+rotator 数 11 · 跨 rotator 复用的 offer 3 个
+- JZ09-A12-US-9827539423 (3bZ9LsLlkDiW) · geo=US · 品类=特殊疾病药品 · 出现在 2 个 rotator: JZ09-De[3bqXAkAbGTMC] | JZ09-US[3aXCLwfCh4wo]
+- JZ09-A4-us-8488653000 (3aWvExg2Kawd) · geo=US · 品类=特殊疾病药品 · 出现在 2 个 rotator: JZ09-default[3aXEpNAf7UpA] | JZ09-US[3aXCLwfCh4wo]
+- JZ09-A7-us-1751917633 (3aX6mEDMfNZo) · geo=US · 品类=健康保险 · 出现在 2 个 rotator: JZ09-default[3aXEpNAf7UpA] | JZ09-US[3aXCLwfCh4wo]
+
+## cd-reader-A76（非白名单）  · funnelId=3h7b2EEEVXm2
+rotator 数 5 · 跨 rotator 复用的 offer 2 个
+- cd-reader-A76-A12-US-7644399993 (3h73zWu11gGM) · geo=US · 品类=种牙 · 出现在 2 个 rotator: cd-reader-A76-default[3h7bgIWyjlsX] | cd-reader-A76-US[3h7bMeWwH4FG]
+- cd-reader-A76-A14-US-5936631302 (3h74oUBMfFn7) · geo=US · 品类=清洁工招聘 · 出现在 2 个 rotator: cd-reader-A76-default[3h7bgIWyjlsX] | cd-reader-A76-US[3h7bMeWwH4FG]
+
+## JZ-08（非白名单）  · funnelId=3URMYo1qyRLG
+rotator 数 10 · 跨 rotator 复用的 offer 2 个
+- JZ-08-A12-US-4007063078 (3beaQYZ8MNIv) · geo=US · 品类=肝脏健康 · 出现在 2 个 rotator: JZ-08-US[3URMfebv48g5] | JZ-08-US-default[3We1YQwbQnzR]
+- JZ-08-A4-US-4612213758 (3XHEdoCXtjr7) · geo=US · 品类=手机分期 · 出现在 2 个 rotator: JZ-08-US[3URMfebv48g5] | JZ-08-US-default[3We1YQwbQnzR]
+
+## JZ-15（非白名单）  · funnelId=3cQE9BUzTVSd
+rotator 数 6 · 跨 rotator 复用的 offer 2 个
+- JZ-15-A12-US-3384596876 (3lpc6u5sdtHC) · geo=DEFAULT · 品类=种牙 · 出现在 2 个 rotator: JZ-15-us[3jCePvXg248Z] | jz15-default[3cQD2PEqVMZj]
+- JZ-15-A14-SA-9466604782 (3hDLLKY8NsMX) · geo=SA · 品类=汽车保险 · 出现在 2 个 rotator: JZ-15-SA[3hDTrg3BI02M] | JZ-15-us[3jCePvXg248Z]
+
+## JZ-07（非白名单）  · funnelId=3SqmT5M7rv4d
+rotator 数 9 · 跨 rotator 复用的 offer 1 个
+- JZ-07-A4-US-3221603862 (3XHAoILPCU3U) · geo=US · 品类=手机分期 · 出现在 2 个 rotator: JZ-07-Default[3VIYR9dEwSMr] | JZ-07-US[3SqmOgqiRg00]
+
+## jz-10（非白名单）  · funnelId=3aXER1jGKCjP
+rotator 数 10 · 跨 rotator 复用的 offer 1 个
+- JZ10-A12-US-5525525852 (3bZ9Z2537tKs) · geo=US · 品类=肝脏健康 · 出现在 3 个 rotator: JZ10-de[3bwhHA7dKnrI] | JZ10-jp[3bwhlM9aMQvL] | JZ10-US[3aXCiA7oMHuE]
+
+## JZ-16（非白名单）  · funnelId=3cQHLR9KPkS9
+rotator 数 5 · 跨 rotator 复用的 offer 1 个
+- jz16-A7-br-7690144835 (3fzc7sg3dezR) · geo=DEFAULT · 品类=冰箱分期 · 出现在 2 个 rotator: JZ16-br[3cQGbfJBpyhD] | JZ16-Default[3cQGUizUbdaM]
+
+## JZ-17（非白名单）  · funnelId=3cQH1PB9h2cm
+rotator 数 5 · 跨 rotator 复用的 offer 1 个
+- jz17-A7-br-7686803039 (3fzbhxQfUjcr) · geo=DEFAULT · 品类=冰箱分期 · 出现在 2 个 rotator: JZ17-br[3cQGppN7Xjcj] | JZ17-Default[3cQGk8jcKguu]
+
+## JZ-18（非白名单）  · funnelId=3h7auqpMJMVz
+rotator 数 7 · 跨 rotator 复用的 offer 1 个
+- JZ-18-A12-US-2165711172 (3h73zWvDVVgr) · geo=US · 品类=肝脏健康 · 出现在 2 个 rotator: JZ-18-default[3h7c3cbn929Z] | JZ-18-US[3h7bldnwkHCX]

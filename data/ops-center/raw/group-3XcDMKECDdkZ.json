@@ -1,0 +1,54 @@
+{
+  "code": 200,
+  "data": {
+    "groupId": "3XcDMKECDdkZ",
+    "groupName": "CD-Reader-A51-jp",
+    "routing": "",
+    "geo": "JP",
+    "yesterdayRpm": 0.1,
+    "yesterdayRev": 0.3,
+    "yesterdayRpmTrend": 100,
+    "yesterdayRevTrend": 87.5,
+    "offerList": [
+      {
+        "offerId": "3i2aPrxV6t3a",
+        "offerName": "Cd-read-A51-A12-JP-5132442487",
+        "categoryName": "殡葬",
+        "weight": 0,
+        "channelId": "5132442487",
+        "countryCode": null,
+        "afsSource": null,
+        "todayRpm": 0,
+        "todayRev": 0
+      },
+      {
+        "offerId": "3Xc9XnHmqWbj",
+        "offerName": "Cd-read-A51-A4-jp-7723809864",
+        "categoryName": "私募信贷",
+        "weight": 1,
+        "channelId": "7723809864",
+        "countryCode": null,
+        "afsSource": null,
+        "todayRpm": 0.1,
+        "todayRev": 0.05
+      },
+      {
+        "offerId": "3XcC3RVmwy6i",
+        "offerName": "Cd-read-A51-A7-jp-9508193152",
+        "categoryName": "私募信贷",
+        "weight": 0,
+        "channelId": "9508193152",
+        "countryCode": null,
+        "afsSource": null,
+        "todayRpm": 0,
+        "todayRev": 0
+      }
+    ],
+    "funnelId": "3LyxpT9hzzh6",
+    "funnelName": "cd-reader-A5-51",
+    "partnerName": "changdu",
+    "urlName": "moboreader",
+    "urlId": 51,
+    "platform": "FF"
+  }
+}

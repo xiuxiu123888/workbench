@@ -1,0 +1,23 @@
+# 词条双跳排查 2026-11-13
+白名单非 default · 按 url.ref 聚合
+字段体检: clicks>0 的 offer=140/340 · conversion>0=210 · cvr1>0=140 · cvr2>0=140
+疑似无广告/二跳断 (visits≥20 且 funnelClicks≥5 且 revenue≈0 且 conversion=0): 0 个词
+
+## 疑似无广告词条 TOP
+
+## 有收入对照 TOP
+- jeuveau botox head to head | visits=2007 funnelClicks=23632 keywordCtr=34.38% conv=368 rev=$149 visitCVR=18.34% cvr1=4.2637 cvr2=2.5007
+- Chevrolet hybrid vehicles | visits=2468 funnelClicks=16441 keywordCtr=37.34% conv=355 rev=$110.5 visitCVR=14.38% cvr1=13.0754 cvr2=3.0018
+- buprenorphine induction protocol | visits=903 funnelClicks=13097 keywordCtr=38.44% conv=40 rev=$74.2 visitCVR=4.43% cvr1=0.7607 cvr2=0.2873
+- new hummers | visits=756 funnelClicks=12282 keywordCtr=30.06% conv=122 rev=$48.16 visitCVR=16.14% cvr1=2.062 cvr2=0.6312
+- fillers near me | visits=294 funnelClicks=12094 keywordCtr=38.5% conv=42 rev=$27.42 visitCVR=14.29% cvr1=13.5381 cvr2=5.8784
+- hyundai 0 financing | visits=366 funnelClicks=10547 keywordCtr=23.71% conv=0 rev=$24.77 visitCVR=0% cvr1=2.1757 cvr2=0.6661
+- best wedding skincare products | visits=3247 funnelClicks=9826 keywordCtr=34.01% conv=387 rev=$95.18 visitCVR=11.92% cvr1=4.0512 cvr2=1.0083
+- long acting buprenorphine | visits=5682 funnelClicks=8562 keywordCtr=32.86% conv=621 rev=$385.03 visitCVR=10.93% cvr1=10.4884 cvr2=2.704
+- Buprenorphine everything you need to know | visits=461 funnelClicks=7607 keywordCtr=27.51% conv=71 rev=$65.08 visitCVR=15.4% cvr1=14.2205 cvr2=2.9005
+- voluma face lift | visits=1487 funnelClicks=7140 keywordCtr=20.24% conv=111 rev=$41.55 visitCVR=7.46% cvr1=17.1916 cvr2=4.3049
+- hyundai financing deals | visits=722 funnelClicks=6037 keywordCtr=17.23% conv=68 rev=$52.76 visitCVR=9.42% cvr1=9.5117 cvr2=1.377
+- cars with 0 apr | visits=1813 funnelClicks=5438 keywordCtr=17.8% conv=0 rev=$17.56 visitCVR=0% cvr1=1.4486 cvr2=0.2575
+- best jeep model | visits=2136 funnelClicks=5356 keywordCtr=27.69% conv=162 rev=$118.77 visitCVR=7.58% cvr1=24.9221 cvr2=4.8642
+- jeep wagoneers | visits=812 funnelClicks=5336 keywordCtr=31.57% conv=137 rev=$113.91 visitCVR=16.87% cvr1=16.7039 cvr2=5.5201
+- best suv to buy right now | visits=2346 funnelClicks=5263 keywordCtr=27.36% conv=232 rev=$148.41 visitCVR=9.89% cvr1=35.4101 cvr2=8.7947

@@ -1,0 +1,54 @@
+{
+  "code": 200,
+  "data": {
+    "groupId": "3XcDY2Sa1OlW",
+    "groupName": "CD-Reader-A51-br",
+    "routing": "",
+    "geo": "BR",
+    "yesterdayRpm": 0.2,
+    "yesterdayRev": 1.29,
+    "yesterdayRpmTrend": 0,
+    "yesterdayRevTrend": 22.86,
+    "offerList": [
+      {
+        "offerId": "3lWWRRRG9Dsu",
+        "offerName": "cd-reader-51-A12-BR-5132442487",
+        "categoryName": "健康保险",
+        "weight": 1,
+        "channelId": "5132442487",
+        "countryCode": null,
+        "afsSource": null,
+        "todayRpm": 0.2,
+        "todayRev": 0.28
+      },
+      {
+        "offerId": "3Xc9fDjPR0H1",
+        "offerName": "Cd-read-A51-A4-br-7723809864",
+        "categoryName": "冰箱分期",
+        "weight": 0.11,
+        "channelId": "7723809864",
+        "countryCode": null,
+        "afsSource": null,
+        "todayRpm": 0.1,
+        "todayRev": 0.14
+      },
+      {
+        "offerId": "3XcCP5lb8oKY",
+        "offerName": "Cd-read-A51-A7-br-9508193152",
+        "categoryName": "冰箱分期",
+        "weight": 0.14,
+        "channelId": "9508193152",
+        "countryCode": null,
+        "afsSource": null,
+        "todayRpm": 0.1,
+        "todayRev": 0.14
+      }
+    ],
+    "funnelId": "3LyxpT9hzzh6",
+    "funnelName": "cd-reader-A5-51",
+    "partnerName": "changdu",
+    "urlName": "moboreader",
+    "urlId": 51,
+    "platform": "FF"
+  }
+}

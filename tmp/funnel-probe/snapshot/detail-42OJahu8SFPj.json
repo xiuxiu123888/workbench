@@ -1,0 +1,26 @@
+{
+  "code": 200,
+  "data": {
+    "funnelId": "42OJahu8SFPj",
+    "funnelName": "Dramaticreel-v02",
+    "partnerName": null,
+    "urlName": null,
+    "urlId": null,
+    "offerGroupList": [
+      {
+        "groupId": "42OIhaXx4Be7",
+        "groupName": "Dramaticreel-v02-default",
+        "geo": null
+      },
+      {
+        "groupId": "42OIeWm1Vaat",
+        "groupName": "Dramaticreel-v02-us",
+        "geo": "US"
+      }
+    ],
+    "platform": "MIS",
+    "status": "active",
+    "autoWeightEnabled": null,
+    "autoWeightRuleType": null
+  }
+}

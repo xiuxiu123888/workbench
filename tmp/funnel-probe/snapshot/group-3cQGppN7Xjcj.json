@@ -1,0 +1,65 @@
+{
+  "code": 200,
+  "data": {
+    "groupId": "3cQGppN7Xjcj",
+    "groupName": "JZ17-br",
+    "routing": "",
+    "geo": "BR",
+    "yesterdayRpm": 0,
+    "yesterdayRev": 0,
+    "yesterdayRpmTrend": 0,
+    "yesterdayRevTrend": 0,
+    "offerList": [
+      {
+        "offerId": "3cQG5oblQ8x2",
+        "offerName": "jz17-A12-br-3057385395",
+        "categoryName": "汽车保险",
+        "weight": 0.25,
+        "channelId": "3057385395",
+        "countryCode": null,
+        "afsSource": null,
+        "todayRpm": 0,
+        "todayRev": 0
+      },
+      {
+        "offerId": "3cQGJ6jTOoba",
+        "offerName": "jz17-A4-br-3299132084",
+        "categoryName": "冰箱分期",
+        "weight": 0.25,
+        "channelId": "3299132084",
+        "countryCode": null,
+        "afsSource": null,
+        "todayRpm": 0,
+        "todayRev": 0
+      },
+      {
+        "offerId": "3fzbhxQfUjcr",
+        "offerName": "jz17-A7-br-7686803039",
+        "categoryName": "冰箱分期",
+        "weight": 0.25,
+        "channelId": "7686803039",
+        "countryCode": null,
+        "afsSource": null,
+        "todayRpm": 0,
+        "todayRev": 0
+      },
+      {
+        "offerId": "3hDLLKYevPBe",
+        "offerName": "JZ-17-A14-BR-1807606615",
+        "categoryName": "分期购买手机",
+        "weight": 0.25,
+        "channelId": "1807606615",
+        "countryCode": null,
+        "afsSource": null,
+        "todayRpm": 0,
+        "todayRev": 0
+      }
+    ],
+    "funnelId": "3cQH1PB9h2cm",
+    "funnelName": "JZ-17",
+    "partnerName": "shortmax",
+    "urlName": "JZ-17",
+    "urlId": 99,
+    "platform": "FF"
+  }
+}

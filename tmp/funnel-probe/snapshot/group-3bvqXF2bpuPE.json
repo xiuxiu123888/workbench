@@ -1,0 +1,65 @@
+{
+  "code": 200,
+  "data": {
+    "groupId": "3bvqXF2bpuPE",
+    "groupName": "Jiu-0912-MX",
+    "routing": "",
+    "geo": "MX",
+    "yesterdayRpm": 0.8,
+    "yesterdayRev": 0.64,
+    "yesterdayRpmTrend": 33.33,
+    "yesterdayRevTrend": 68.42,
+    "offerList": [
+      {
+        "offerId": "3bvqMHwYXQNQ",
+        "offerName": "A7-mx-7868532178",
+        "categoryName": "肝脏健康",
+        "weight": 0.02,
+        "channelId": "7868532178",
+        "countryCode": null,
+        "afsSource": null,
+        "todayRpm": 0,
+        "todayRev": 0
+      },
+      {
+        "offerId": "3fig06u8t6uY",
+        "offerName": "A4-MX-7474002238",
+        "categoryName": "肝脏健康",
+        "weight": 1,
+        "channelId": "7474002238",
+        "countryCode": null,
+        "afsSource": null,
+        "todayRpm": 0.9,
+        "todayRev": 0.42
+      },
+      {
+        "offerId": "3lMAsjR4KWra",
+        "offerName": "Jiu-reel-0912-A12-MX-1898762721",
+        "categoryName": "种牙",
+        "weight": 0.02,
+        "channelId": "1898762721",
+        "countryCode": null,
+        "afsSource": null,
+        "todayRpm": 0,
+        "todayRev": 0
+      },
+      {
+        "offerId": "3oegVPvTj3sR",
+        "offerName": "A1-mx-6172506158",
+        "categoryName": "汽车贷款",
+        "weight": 0.02,
+        "channelId": "6172506158",
+        "countryCode": null,
+        "afsSource": null,
+        "todayRpm": 0,
+        "todayRev": 0
+      }
+    ],
+    "funnelId": "3PZNC9XTyfXp",
+    "funnelName": "Jiu-reel-0912",
+    "partnerName": "shortmax",
+    "urlName": "Jiu-reel-0912",
+    "urlId": 68,
+    "platform": "FF"
+  }
+}

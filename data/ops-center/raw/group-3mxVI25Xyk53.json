@@ -1,0 +1,54 @@
+{
+  "code": 200,
+  "data": {
+    "groupId": "3mxVI25Xyk53",
+    "groupName": "JZ-18-de",
+    "routing": "",
+    "geo": "DE",
+    "yesterdayRpm": 0,
+    "yesterdayRev": 0,
+    "yesterdayRpmTrend": 0,
+    "yesterdayRevTrend": 0,
+    "offerList": [
+      {
+        "offerId": "3lM5vNPa8hoS",
+        "offerName": "JZ-18-A14-DE-9494524946",
+        "categoryName": "汽车订阅",
+        "weight": 0,
+        "channelId": "9494524946",
+        "countryCode": null,
+        "afsSource": null,
+        "todayRpm": 0,
+        "todayRev": 0
+      },
+      {
+        "offerId": "3lMAsj7tTRdQ",
+        "offerName": "JZ-18-A12-DE-2165711172",
+        "categoryName": "汽车订阅",
+        "weight": 0.32,
+        "channelId": "2165711172",
+        "countryCode": null,
+        "afsSource": null,
+        "todayRpm": 0,
+        "todayRev": 0
+      },
+      {
+        "offerId": "3mxUCxU4l8Ln",
+        "offerName": "JZ-18-A1-de-16517",
+        "categoryName": "种植牙",
+        "weight": 0.68,
+        "channelId": "16517",
+        "countryCode": null,
+        "afsSource": null,
+        "todayRpm": 0,
+        "todayRev": 0
+      }
+    ],
+    "funnelId": "3h7auqpMJMVz",
+    "funnelName": "JZ-18",
+    "partnerName": "shortmax",
+    "urlName": "JZ-18",
+    "urlId": 107,
+    "platform": "FF"
+  }
+}

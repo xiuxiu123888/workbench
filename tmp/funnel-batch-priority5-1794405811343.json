@@ -1,0 +1,95 @@
+﻿{
+    "title":  "优先5漏斗产文",
+    "startedAt":  "2026-11-11T14:03:31.3526017Z",
+    "funnels":  [
+                    {
+                        "funnelId":  "3wxQUAbsGb0e",
+                        "funnelName":  "storyreel-v04"
+                    },
+                    {
+                        "funnelId":  "3ws8SMf82B2C",
+                        "funnelName":  "ShortMax-v06"
+                    },
+                    {
+                        "funnelId":  "3wxMhS6zF2m4",
+                        "funnelName":  "storyreel-v03"
+                    },
+                    {
+                        "funnelId":  "3uIzmqzFx5yx",
+                        "funnelName":  "cd-reader-pb-v01"
+                    },
+                    {
+                        "funnelId":  "3wxU24LWkWif",
+                        "funnelName":  "storyreel-v05"
+                    }
+                ],
+    "results":  [
+                    {
+                        "funnelId":  "3wxQUAbsGb0e",
+                        "funnelName":  "storyreel-v04",
+                        "startedAt":  "2026-11-11T14:03:31.4897541Z",
+                        "finishedAt":  "2026-11-11T14:19:07.0510386Z",
+                        "exitCode":  0,
+                        "summary":  {
+                                        "total":  19,
+                                        "success":  19,
+                                        "failed":  0
+                                    },
+                        "runPath":  "tmp/funnel-3wxQUAbsGb0e-generate-run.json"
+                    },
+                    {
+                        "funnelId":  "3ws8SMf82B2C",
+                        "funnelName":  "ShortMax-v06",
+                        "startedAt":  "2026-11-11T14:19:07.1147241Z",
+                        "finishedAt":  "2026-11-11T14:25:18.0464941Z",
+                        "exitCode":  0,
+                        "summary":  {
+                                        "total":  8,
+                                        "success":  8,
+                                        "failed":  0
+                                    },
+                        "runPath":  "tmp/funnel-3ws8SMf82B2C-generate-run.json"
+                    },
+                    {
+                        "funnelId":  "3wxMhS6zF2m4",
+                        "funnelName":  "storyreel-v03",
+                        "startedAt":  "2026-11-11T14:25:18.0524965Z",
+                        "finishedAt":  "2026-11-11T14:40:17.1175128Z",
+                        "exitCode":  0,
+                        "summary":  {
+                                        "total":  19,
+                                        "success":  18,
+                                        "failed":  1
+                                    },
+                        "runPath":  "tmp/funnel-3wxMhS6zF2m4-generate-run.json"
+                    },
+                    {
+                        "funnelId":  "3uIzmqzFx5yx",
+                        "funnelName":  "cd-reader-pb-v01",
+                        "startedAt":  "2026-11-11T14:40:17.1233288Z",
+                        "finishedAt":  "2026-11-11T14:43:23.2188300Z",
+                        "exitCode":  0,
+                        "summary":  {
+                                        "total":  4,
+                                        "success":  4,
+                                        "failed":  0
+                                    },
+                        "runPath":  "tmp/funnel-3uIzmqzFx5yx-generate-run.json"
+                    },
+                    {
+                        "funnelId":  "3wxU24LWkWif",
+                        "funnelName":  "storyreel-v05",
+                        "startedAt":  "2026-11-11T14:43:23.2238338Z",
+                        "finishedAt":  "2026-11-11T14:59:44.4040166Z",
+                        "exitCode":  0,
+                        "summary":  {
+                                        "total":  19,
+                                        "success":  19,
+                                        "failed":  0
+                                    },
+                        "runPath":  "tmp/funnel-3wxU24LWkWif-generate-run.json"
+                    }
+                ],
+    "updatedAt":  "2026-11-11T14:59:44.4040166Z",
+    "finishedAt":  "2026-11-11T14:59:44.4100174Z"
+}

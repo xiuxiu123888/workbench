@@ -1,0 +1,76 @@
+{
+  "code": 200,
+  "data": {
+    "groupId": "3n2z2OlRrXL0",
+    "groupName": "jz-signin-v01-A1-de",
+    "routing": "",
+    "geo": "DE",
+    "yesterdayRpm": 1.9,
+    "yesterdayRev": 1.7,
+    "yesterdayRpmTrend": -45.71,
+    "yesterdayRevTrend": -42.37,
+    "offerList": [
+      {
+        "offerId": "3n2xwheVwAp4",
+        "offerName": "jz-signin-v01-A1-de-16519",
+        "categoryName": "牙科保险",
+        "weight": 0.42,
+        "channelId": "16519",
+        "countryCode": null,
+        "afsSource": null,
+        "todayRpm": 0,
+        "todayRev": 0
+      },
+      {
+        "offerId": "3n3zoxoAviUr",
+        "offerName": "jz-signin-v01-A12-de",
+        "categoryName": "牙科保险",
+        "weight": 0.13,
+        "channelId": "2811035782",
+        "countryCode": null,
+        "afsSource": null,
+        "todayRpm": 7.7,
+        "todayRev": 2.36
+      },
+      {
+        "offerId": "3pbQwMI46iQV",
+        "offerName": "jz-signin-v01-A4-de-9278969426",
+        "categoryName": "牙科保险",
+        "weight": 0.15,
+        "channelId": "9278969426",
+        "countryCode": null,
+        "afsSource": null,
+        "todayRpm": 0.1,
+        "todayRev": 0.02
+      },
+      {
+        "offerId": "3pbQyudsvmo6",
+        "offerName": "jz-signin-v01-A7-de-11260",
+        "categoryName": "牙科保险",
+        "weight": 0.3,
+        "channelId": "11260",
+        "countryCode": null,
+        "afsSource": null,
+        "todayRpm": 0,
+        "todayRev": 0
+      },
+      {
+        "offerId": "3pbR0g8khrZy",
+        "offerName": "jz-signin-v01-A14-de-2573893371",
+        "categoryName": "牙科保险",
+        "weight": 0,
+        "channelId": "2573893371",
+        "countryCode": null,
+        "afsSource": null,
+        "todayRpm": 0,
+        "todayRev": 0
+      }
+    ],
+    "funnelId": "3n2yw0I2LZD4",
+    "funnelName": "jz-signin-v01",
+    "partnerName": "shortmax",
+    "urlName": "jz-signin-v01",
+    "urlId": 121,
+    "platform": "FF"
+  }
+}

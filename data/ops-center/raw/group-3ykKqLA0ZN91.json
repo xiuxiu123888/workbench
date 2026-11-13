@@ -1,0 +1,76 @@
+{
+  "code": 200,
+  "data": {
+    "groupId": "3ykKqLA0ZN91",
+    "groupName": "storyreel-v02-default",
+    "routing": "rotator",
+    "geo": null,
+    "yesterdayRpm": 0,
+    "yesterdayRev": 0,
+    "yesterdayRpmTrend": 0,
+    "yesterdayRevTrend": 0,
+    "offerList": [
+      {
+        "offerId": "3yk3DtoQHTSo",
+        "offerName": "storyreel-v02-A5-default-2994227363",
+        "categoryName": "骨科 / 关节",
+        "weight": 1,
+        "channelId": "2994227363",
+        "countryCode": null,
+        "afsSource": "5",
+        "todayRpm": 0,
+        "todayRev": 0
+      },
+      {
+        "offerId": "3yk36vcCPRjx",
+        "offerName": "storyreel-v02-A15-default-3709841686",
+        "categoryName": "呼吸与睡眠",
+        "weight": 1,
+        "channelId": "3709841686",
+        "countryCode": null,
+        "afsSource": "15",
+        "todayRpm": 0,
+        "todayRev": 0
+      },
+      {
+        "offerId": "3yk2rNfo33el",
+        "offerName": "storyreel-v02-A12-default-9128576243",
+        "categoryName": "心理健康 / 成瘾",
+        "weight": 1,
+        "channelId": "9128576243",
+        "countryCode": null,
+        "afsSource": "12",
+        "todayRpm": 0,
+        "todayRev": 0
+      },
+      {
+        "offerId": "3yk2nI1oQ4cF",
+        "offerName": "storyreel-v02-A7-default-8320760644",
+        "categoryName": "医疗·泌尿外科",
+        "weight": 1,
+        "channelId": "8320760644",
+        "countryCode": null,
+        "afsSource": "7",
+        "todayRpm": 0,
+        "todayRev": 0
+      },
+      {
+        "offerId": "3yk2atVnU7a4",
+        "offerName": "storyreel-v02-A4-default-8236490346",
+        "categoryName": "GLP-1 / 糖尿病",
+        "weight": 1,
+        "channelId": "8236490346",
+        "countryCode": null,
+        "afsSource": "4",
+        "todayRpm": 0,
+        "todayRev": 0
+      }
+    ],
+    "funnelId": "3ykKt2fZxicx",
+    "funnelName": "storyreel-v02",
+    "partnerName": "storyreel",
+    "urlName": "storyreel-v02",
+    "urlId": 126,
+    "platform": "MIS"
+  }
+}

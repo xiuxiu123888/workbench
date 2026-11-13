@@ -1,0 +1,43 @@
+{
+  "code": 200,
+  "data": {
+    "groupId": "3mbL0NkVzH1F",
+    "groupName": "JZ12-default",
+    "routing": "",
+    "geo": "DEFAULT",
+    "yesterdayRpm": 0,
+    "yesterdayRev": 0,
+    "yesterdayRpmTrend": 0,
+    "yesterdayRevTrend": 0,
+    "offerList": [
+      {
+        "offerId": "3lMAsjEf112y",
+        "offerName": "JZ-12-A12-DE-8107026938",
+        "categoryName": "种牙",
+        "weight": 0.5,
+        "channelId": "8107026938",
+        "countryCode": null,
+        "afsSource": null,
+        "todayRpm": 0,
+        "todayRev": 0
+      },
+      {
+        "offerId": "3lMEEzHbARHb",
+        "offerName": "JZ-12-A4-US-1569345262",
+        "categoryName": "汽车租购",
+        "weight": 0.5,
+        "channelId": "1569345262",
+        "countryCode": null,
+        "afsSource": null,
+        "todayRpm": 0,
+        "todayRev": 0
+      }
+    ],
+    "funnelId": "3cOoCWdspR91",
+    "funnelName": "JZ-12",
+    "partnerName": "shortmax",
+    "urlName": "JZ-12",
+    "urlId": 94,
+    "platform": "FF"
+  }
+}

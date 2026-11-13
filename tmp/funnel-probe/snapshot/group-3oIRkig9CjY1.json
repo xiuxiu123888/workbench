@@ -1,0 +1,65 @@
+{
+  "code": 200,
+  "data": {
+    "groupId": "3oIRkig9CjY1",
+    "groupName": "cd-task-v01-us",
+    "routing": "",
+    "geo": "US",
+    "yesterdayRpm": 19.4,
+    "yesterdayRev": 10.06,
+    "yesterdayRpmTrend": -58.1,
+    "yesterdayRevTrend": -60.06,
+    "offerList": [
+      {
+        "offerId": "3oIPxgfdXgFh",
+        "offerName": "cd-task-v01-A1-us-16491",
+        "categoryName": "HIV",
+        "weight": 0.27,
+        "channelId": "16491",
+        "countryCode": null,
+        "afsSource": null,
+        "todayRpm": 77.5,
+        "todayRev": 9.07
+      },
+      {
+        "offerId": "3oIQJSqxaTgU",
+        "offerName": "cd-task-v01-A4-us-1208907710",
+        "categoryName": "药品配送",
+        "weight": 0,
+        "channelId": "1208907710",
+        "countryCode": null,
+        "afsSource": null,
+        "todayRpm": 0,
+        "todayRev": 0
+      },
+      {
+        "offerId": "3oIQOCYeK4gO",
+        "offerName": "cd-task-v01-A7-us-9914848263",
+        "categoryName": "HIV",
+        "weight": 0.5,
+        "channelId": "9914848263",
+        "countryCode": null,
+        "afsSource": null,
+        "todayRpm": 8.8,
+        "todayRev": 1.99
+      },
+      {
+        "offerId": "3oIQRcXNRXrO",
+        "offerName": "cd-task-v01-A12-us-1441657916",
+        "categoryName": "药品配送",
+        "weight": 0.23,
+        "channelId": "1441657916",
+        "countryCode": null,
+        "afsSource": null,
+        "todayRpm": 30.5,
+        "todayRev": 3.42
+      }
+    ],
+    "funnelId": "3oIS9CuG2tEq",
+    "funnelName": "cd-task-v01",
+    "partnerName": "changdu",
+    "urlName": "moboreels",
+    "urlId": 128,
+    "platform": "FF"
+  }
+}

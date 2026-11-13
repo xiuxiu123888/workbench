@@ -1,0 +1,43 @@
+{
+  "code": 200,
+  "data": {
+    "groupId": "3nMqRddvl7lg",
+    "groupName": "cd-reel-0825-fan-62-de",
+    "routing": "",
+    "geo": "DE",
+    "yesterdayRpm": 0,
+    "yesterdayRev": 0,
+    "yesterdayRpmTrend": -100,
+    "yesterdayRevTrend": -100,
+    "offerList": [
+      {
+        "offerId": "3lplh9az09AH",
+        "offerName": "cd-reel-A6fan-62-A14-DE-5006693019",
+        "categoryName": "分期购买手机",
+        "weight": 1,
+        "channelId": "5006693019",
+        "countryCode": null,
+        "afsSource": null,
+        "todayRpm": 0,
+        "todayRev": 0
+      },
+      {
+        "offerId": "3lWWRRbnTRva",
+        "offerName": "cd-reel-A6fan-62-A12-DE-2506279147",
+        "categoryName": "移民律师",
+        "weight": 1,
+        "channelId": "2506279147",
+        "countryCode": null,
+        "afsSource": null,
+        "todayRpm": 0,
+        "todayRev": 0
+      }
+    ],
+    "funnelId": "3O9Vr9Ar6pNC",
+    "funnelName": "cd-reel-A6fan-62",
+    "partnerName": "changdu",
+    "urlName": "moboreels",
+    "urlId": 62,
+    "platform": "FF"
+  }
+}

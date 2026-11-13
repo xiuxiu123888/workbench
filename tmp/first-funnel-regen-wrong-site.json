@@ -1,0 +1,91 @@
+{
+  "startedAt": "2026-11-11T11:21:18.769Z",
+  "reason": "wrong_site_from_channel_match",
+  "count": 7,
+  "items": [
+    {
+      "offerId": "3sF8IOP57Geg",
+      "offerName": "Blinkdrama-v01-A4-Us-9111267282-zestfularcade.com",
+      "previousTaskId": "job_a7a1b725eb124efe937f0f788f644828",
+      "previousArticleId": "679883145653",
+      "previousHost": "zestfularcade.com",
+      "status": "success",
+      "taskId": "job_5e27401e6e574395944e217303897286",
+      "newArticleId": "849092230200",
+      "host": "zestfularcade.com",
+      "newLandingUrl": "https://zestfularcade.com/detail/849092230200?ref=Opdivo+Cost+Without+Insurance&channel=9111267282&hit=%7Bhit%7D&rType=2&partner=Blinkdrama&subid1=9111267282&subid2=849092230200"
+    },
+    {
+      "offerId": "3sFC6AG3G1XY",
+      "offerName": "Blinkdrama-v01-A7-Us-11849-quantify-energy.com",
+      "previousTaskId": "job_ebe84e4604294ded8bd48c9556dd9654",
+      "previousArticleId": "676872356431",
+      "previousHost": "quantify-energy.com",
+      "status": "success",
+      "taskId": "job_52960409edc949bd9835d05a6fc895ac",
+      "newArticleId": "201380898714",
+      "host": "quantify-energy.com",
+      "newLandingUrl": "https://quantify-energy.com/detail/201380898714?ref=Sleep+Study+Cost+Without+Insurance&channel=11849&hit=%7Bhit%7D&rType=2&partner=Blinkdrama&subid1=11849&subid2=201380898714"
+    },
+    {
+      "offerId": "3wsFVLlbyKi7",
+      "offerName": "Blinkdrama-v01-A15-us-5914041032-mpbus.com",
+      "previousTaskId": "job_8794b342f8ed43c28833b12f3f3ca6aa",
+      "previousArticleId": "745671667962",
+      "previousHost": "mpbus.com",
+      "status": "success",
+      "taskId": "job_806f7b87250648808daa8da3462130a7",
+      "newArticleId": "169500117861",
+      "host": "mpbus.com",
+      "newLandingUrl": "https://mpbus.com/detail/169500117861?ref=PRP+Injection+Cost&channel=5914041032&hit=%7Bhit%7D&rType=2&partner=Blinkdrama&subid1=5914041032&subid2=169500117861"
+    },
+    {
+      "offerId": "3wsEOTo1vk4N",
+      "offerName": "Blinkdrama-v01-A5-us-5003814895-funfillgames.com",
+      "previousTaskId": "job_223e55ba52684286ba2a781adb139a7a",
+      "previousArticleId": "780203890580",
+      "previousHost": "funfillgames.com",
+      "status": "success",
+      "taskId": "job_71ca84e7ffe8468fa977dbcf37391212",
+      "newArticleId": "140459210171",
+      "host": "funfillgames.com",
+      "newLandingUrl": "https://funfillgames.com/detail/140459210171?ref=Rinvoq+Cost+Without+Insurance&channel=5003814895&hit=%7Bhit%7D&rType=2&partner=Blinkdrama&subid1=5003814895&subid2=140459210171"
+    },
+    {
+      "offerId": "3yQgoSyy0tEe",
+      "offerName": "Blinkdrama-v01-A12-us-7345253802-degreesuccesstips.com",
+      "previousTaskId": "job_cbac26d8f7a94e27a16f466bded4e08c",
+      "previousArticleId": "781751844641",
+      "previousHost": "degreesuccesstips.com",
+      "status": "success",
+      "taskId": "job_a58d488fedd549a7a5d4e730bab76b0b",
+      "newArticleId": "734766204741",
+      "host": "degreesuccesstips.com",
+      "newLandingUrl": "https://degreesuccesstips.com/detail/734766204741?ref=Trulicity+Cost+Without+Insurance&channel=7345253802&hit=%7Bhit%7D&rType=2&partner=Blinkdrama&subid1=7345253802&subid2=734766204741"
+    },
+    {
+      "offerId": "3ykPiJsMz7UB",
+      "offerName": "Blinkdrama-v01-A12-us-4212444181-aivestorhq.com",
+      "previousTaskId": "job_c6fab6bdd9f0433c843c7726b33f3b23",
+      "previousArticleId": "107617287895",
+      "previousHost": "aivestorhq.com",
+      "status": "success",
+      "taskId": "job_f0c2dc085a294b94976beb28734d34e9",
+      "newArticleId": "836853833097",
+      "host": "aivestorhq.com",
+      "newLandingUrl": "https://aivestorhq.com/detail/836853833097?ref=Enbrel+Cost+Without+Insurance&channel=4212444181&hit=%7Bhit%7D&rType=2&partner=Blinkdrama&subid1=4212444181&subid2=836853833097"
+    },
+    {
+      "offerId": "3ykPjpxON04D",
+      "offerName": "Blinkdrama-v01-A12-us-5661257225-protectlifeplan.com ",
+      "previousTaskId": "job_824b161b3a7345aaa462c95fad6d131f",
+      "previousArticleId": "736917798798",
+      "previousHost": "degreesuccesstips.com",
+      "status": "success",
+      "taskId": "job_c57fd77d29b742eaadd61d6f46687f8b",
+      "newArticleId": "990001987733",
+      "host": "degreesuccesstips.com",
+      "newLandingUrl": "https://degreesuccesstips.com/detail/990001987733?ref=Symbicort+Cost+Without+Insurance&channel=5661257225&hit=%7Bhit%7D&rType=2&partner=Blinkdrama&subid1=5661257225&subid2=990001987733"
+    }
+  ]
+}

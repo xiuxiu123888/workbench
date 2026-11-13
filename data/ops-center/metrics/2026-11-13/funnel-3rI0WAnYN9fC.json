@@ -1,0 +1,147 @@
+{
+  "funnelId": "3rI0WAnYN9fC",
+  "funnelName": "cd-reader-banner-v01",
+  "day": "2026-11-13",
+  "query": {
+    "day": "2026-11-13",
+    "startTime": "2026-11-13 00:00:00",
+    "endTime": "2026-11-13 23:59:59"
+  },
+  "data": {
+    "categoryList": [
+      {
+        "categoryId": "42VsAfi6nqYx",
+        "categoryName": "interactive",
+        "categoryType": "offer"
+      },
+      {
+        "categoryId": "3rHyoiswJQQa",
+        "categoryName": "cd-reel-banner-v01",
+        "categoryType": "offer"
+      }
+    ],
+    "statsList": [
+      {
+        "id": "43qKWsZjIeWH",
+        "name": "cd-reader-pb-v01-A17-us-9426786653-seekmoon.ai",
+        "categoryId": "42VsAfi6nqYx",
+        "visits": 0,
+        "views": 0,
+        "conversion": 0,
+        "category": "interactive",
+        "offerSource": "Offer Source Not Set",
+        "revenue": "0",
+        "funnelImpressions": 0,
+        "funnelClicks": 0,
+        "clicks": 0,
+        "funnelRpm": "0",
+        "rpc": "0",
+        "funnelCtr": "0",
+        "cvr1": "0",
+        "cvr2": "0",
+        "url": "https://seekmoon.ai/detail/814396860881?subid1=9426786653&subid2=814396860881&channel=9426786653&rType=2&ref=Best+Beauty+Products+for+Mature+Skin&hit={hit}",
+        "countryInfos": []
+      },
+      {
+        "id": "3szxnTr06HKg",
+        "name": "cd-reader-banner-v01-A4-Us-9114102876",
+        "categoryId": "3rHyoiswJQQa",
+        "visits": 0,
+        "views": 0,
+        "conversion": 0,
+        "category": "cd-reel-banner-v01",
+        "offerSource": "moboreel-hit",
+        "revenue": "0.00",
+        "funnelImpressions": 41,
+        "funnelClicks": 7,
+        "clicks": 0,
+        "funnelRpm": "0.00",
+        "rpc": "0",
+        "funnelCtr": "17.073170731707318",
+        "cvr1": "0.0",
+        "cvr2": "0.0",
+        "url": "https://playfulviibes.com/detail/181505940572?channel=9114102876&hit={hit}&rType=2&partner=Moboreel&subid1=9114102876&subid2=181505940572&subid3=%7Bdata-subid3%7D&subid4=%7Bdata-subid4%7D&ref=new+cancer+drugs",
+        "countryInfos": [
+          {
+            "countryCode": "GB",
+            "revenue": "0.00",
+            "impressions": 4,
+            "rpm": "0.00",
+            "funnelClicks": 4,
+            "clicks": 0
+          },
+          {
+            "countryCode": "RU",
+            "revenue": "0.00",
+            "impressions": 0,
+            "rpm": "0",
+            "funnelClicks": 0,
+            "clicks": 0
+          },
+          {
+            "countryCode": "SG",
+            "revenue": "0.00",
+            "impressions": 3,
+            "rpm": "0.00",
+            "funnelClicks": 0,
+            "clicks": 0
+          },
+          {
+            "countryCode": "US",
+            "revenue": "0.00",
+            "impressions": 34,
+            "rpm": "0.00",
+            "funnelClicks": 3,
+            "clicks": 0
+          }
+        ]
+      },
+      {
+        "id": "3rHzxc88pwCs",
+        "name": "cd-reader-banner-v01-A12-Us-8275192094",
+        "categoryId": "3rHyoiswJQQa",
+        "visits": 0,
+        "views": 0,
+        "conversion": 0,
+        "category": "cd-reel-banner-v01",
+        "offerSource": "moboreel-hit",
+        "revenue": "0.45",
+        "funnelImpressions": 20,
+        "funnelClicks": 1,
+        "clicks": 0,
+        "funnelRpm": "22.50",
+        "rpc": "0",
+        "funnelCtr": "5.0",
+        "cvr1": "0.0",
+        "cvr2": "0.0",
+        "url": "https://intodeepdive.com/detail/853749899418?ref=best+cat+litter+reddit&channel=8275192094&hit={hit}&rType=2&partner=Moboreel&subid1=8275192094&subid2=853749899418&subid3=%7Bdata-subid3%7D&subid4=%7Bdata-subid4%7D",
+        "countryInfos": [
+          {
+            "countryCode": "US",
+            "revenue": "0.45",
+            "impressions": 18,
+            "rpm": "25.00",
+            "funnelClicks": 1,
+            "clicks": 0
+          },
+          {
+            "countryCode": "RU",
+            "revenue": "0.00",
+            "impressions": 0,
+            "rpm": "0",
+            "funnelClicks": 0,
+            "clicks": 0
+          },
+          {
+            "countryCode": "SG",
+            "revenue": "0.00",
+            "impressions": 2,
+            "rpm": "0.00",
+            "funnelClicks": 0,
+            "clicks": 0
+          }
+        ]
+      }
+    ]
+  }
+}

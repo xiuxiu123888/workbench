@@ -1,0 +1,43 @@
+{
+  "code": 200,
+  "data": {
+    "groupId": "3vpOYjlFAE1g",
+    "groupName": "web-v01",
+    "routing": "rotator",
+    "geo": null,
+    "yesterdayRpm": 0,
+    "yesterdayRev": 0,
+    "yesterdayRpmTrend": 0,
+    "yesterdayRevTrend": 0,
+    "offerList": [
+      {
+        "offerId": "3vpHVeP9NEjq",
+        "offerName": "web-v01-A12-8084394483",
+        "categoryName": "渐开线齿轮刀具品牌",
+        "weight": 1,
+        "channelId": "8084394483",
+        "countryCode": null,
+        "afsSource": "12",
+        "todayRpm": 0,
+        "todayRev": 0
+      },
+      {
+        "offerId": "3vpH8ajxGntg",
+        "offerName": "web-v01-A5-9909491361",
+        "categoryName": "丁丙诺啡市场",
+        "weight": 1,
+        "channelId": "9909491361",
+        "countryCode": null,
+        "afsSource": "5",
+        "todayRpm": 0,
+        "todayRev": 0
+      }
+    ],
+    "funnelId": "3vpOnm1eAKRw",
+    "funnelName": "web-v01",
+    "partnerName": "changdu",
+    "urlName": "moboreaderweb",
+    "urlId": 147,
+    "platform": "MIS"
+  }
+}

@@ -1,0 +1,65 @@
+{
+  "code": 200,
+  "data": {
+    "groupId": "3zb2m5GkIItD",
+    "groupName": "moboreels-v04-default",
+    "routing": "rotator",
+    "geo": "US",
+    "yesterdayRpm": 2.5,
+    "yesterdayRev": 0.46,
+    "yesterdayRpmTrend": -68.75,
+    "yesterdayRevTrend": -72.12,
+    "offerList": [
+      {
+        "offerId": "3zb2RxclzOAi",
+        "offerName": "moboreels-v04-A12-default-9598677745",
+        "categoryName": "宠物产品",
+        "weight": 1,
+        "channelId": "9598677745",
+        "countryCode": null,
+        "afsSource": "12",
+        "todayRpm": 0,
+        "todayRev": 0
+      },
+      {
+        "offerId": "3zb2OzWzfG2Z",
+        "offerName": "moboreels-v04-A4-default-8836912457",
+        "categoryName": "面部提拉",
+        "weight": 1,
+        "channelId": "8836912457",
+        "countryCode": null,
+        "afsSource": "4",
+        "todayRpm": 0,
+        "todayRev": 0
+      },
+      {
+        "offerId": "3zb2MFJ17cnO",
+        "offerName": "moboreels-v04-A7-default-10930",
+        "categoryName": "汽车金融",
+        "weight": 1,
+        "channelId": "10930",
+        "countryCode": null,
+        "afsSource": "7",
+        "todayRpm": 0,
+        "todayRev": 0
+      },
+      {
+        "offerId": "43qOSfTnWlj6",
+        "offerName": "moboreels-v04-A17-us-1346629420-seekmoon.ai",
+        "categoryName": null,
+        "weight": 1,
+        "channelId": "1346629420",
+        "countryCode": "US",
+        "afsSource": "17",
+        "todayRpm": 0,
+        "todayRev": 0
+      }
+    ],
+    "funnelId": "3zb3S8BZbPfp",
+    "funnelName": "moboreels-v04",
+    "partnerName": null,
+    "urlName": null,
+    "urlId": null,
+    "platform": "MIS"
+  }
+}

@@ -1,0 +1,65 @@
+{
+  "code": 200,
+  "data": {
+    "groupId": "3cQGk8jcKguu",
+    "groupName": "JZ17-Default",
+    "routing": "",
+    "geo": "DEFAULT",
+    "yesterdayRpm": 0,
+    "yesterdayRev": 0,
+    "yesterdayRpmTrend": 0,
+    "yesterdayRevTrend": 0,
+    "offerList": [
+      {
+        "offerId": "3cQG353PlgQJ",
+        "offerName": "jz17-A12-us-3057385395",
+        "categoryName": "手机分期",
+        "weight": 0.25,
+        "channelId": "3057385395",
+        "countryCode": null,
+        "afsSource": null,
+        "todayRpm": 0,
+        "todayRev": 0
+      },
+      {
+        "offerId": "3cQGE8LDD2Xo",
+        "offerName": "jz17-A4-us-3299132084",
+        "categoryName": "酒驾交通事故律师",
+        "weight": 0.25,
+        "channelId": "3299132084",
+        "countryCode": null,
+        "afsSource": null,
+        "todayRpm": 0,
+        "todayRev": 0
+      },
+      {
+        "offerId": "3fzbhxQfUjcr",
+        "offerName": "jz17-A7-br-7686803039",
+        "categoryName": "冰箱分期",
+        "weight": 0.25,
+        "channelId": "7686803039",
+        "countryCode": null,
+        "afsSource": null,
+        "todayRpm": 0,
+        "todayRev": 0
+      },
+      {
+        "offerId": "3lM5vNQFmh5F",
+        "offerName": "JZ-17-A14-US-1807606615",
+        "categoryName": "手机分期",
+        "weight": 0.25,
+        "channelId": "1807606615",
+        "countryCode": null,
+        "afsSource": null,
+        "todayRpm": 0,
+        "todayRev": 0
+      }
+    ],
+    "funnelId": "3cQH1PB9h2cm",
+    "funnelName": "JZ-17",
+    "partnerName": "shortmax",
+    "urlName": "JZ-17",
+    "urlId": 99,
+    "platform": "FF"
+  }
+}

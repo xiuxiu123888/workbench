@@ -1,0 +1,26 @@
+{
+  "code": 200,
+  "data": {
+    "funnelId": "3z7d1Vmn8Fku",
+    "funnelName": "ShortMax-v04",
+    "partnerName": null,
+    "urlName": null,
+    "urlId": null,
+    "offerGroupList": [
+      {
+        "groupId": "3z7cqxRQpfcL",
+        "groupName": "shortmax-v04-default",
+        "geo": null
+      },
+      {
+        "groupId": "3z7cydgOCSmO",
+        "groupName": "shortmax-v04-us",
+        "geo": "US"
+      }
+    ],
+    "platform": "MIS",
+    "status": "active",
+    "autoWeightEnabled": 1,
+    "autoWeightRuleType": "TODAY_RPM"
+  }
+}

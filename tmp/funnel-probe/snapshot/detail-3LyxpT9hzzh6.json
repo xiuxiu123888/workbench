@@ -1,0 +1,71 @@
+{
+  "code": 200,
+  "data": {
+    "funnelId": "3LyxpT9hzzh6",
+    "funnelName": "cd-reader-A5-51",
+    "partnerName": "changdu",
+    "urlName": "moboreader",
+    "urlId": 51,
+    "offerGroupList": [
+      {
+        "groupId": "3WWjnOSCtgJk",
+        "groupName": "hard-news",
+        "geo": null
+      },
+      {
+        "groupId": "3XcD45sqqV3C",
+        "groupName": "CD-Reader-A51-Us",
+        "geo": "US"
+      },
+      {
+        "groupId": "3XcD9PcRqn7h",
+        "groupName": "CD-Reader-A51-default",
+        "geo": "CD"
+      },
+      {
+        "groupId": "3XcDMKECDdkZ",
+        "groupName": "CD-Reader-A51-jp",
+        "geo": "JP"
+      },
+      {
+        "groupId": "3XcDY2Sa1OlW",
+        "groupName": "CD-Reader-A51-br",
+        "geo": "BR"
+      },
+      {
+        "groupId": "3fma3gXIdcQj",
+        "groupName": "BlockPage",
+        "geo": null
+      },
+      {
+        "groupId": "3k23xwVs5sSm",
+        "groupName": "ailuxovex.com",
+        "geo": null
+      },
+      {
+        "groupId": "3nN4eePgj3Vn",
+        "groupName": "CD-Reader-A51-it",
+        "geo": "IT"
+      },
+      {
+        "groupId": "3nN4clsEENkx",
+        "groupName": "CD-Reader-A51-de",
+        "geo": "DE"
+      },
+      {
+        "groupId": "3nN4anDcBy5U",
+        "groupName": "CD-Reader-A51-fr",
+        "geo": "FR"
+      },
+      {
+        "groupId": "3njArvFYuY9n",
+        "groupName": "adsense-send",
+        "geo": null
+      }
+    ],
+    "platform": "FF",
+    "status": "active",
+    "autoWeightEnabled": 1,
+    "autoWeightRuleType": "TODAY_RPM"
+  }
+}

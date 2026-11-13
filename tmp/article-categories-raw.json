@@ -1,0 +1,8162 @@
+[
+  {
+    "alias": "Finance",
+    "id": 5000,
+    "name": "金融",
+    "parentId": null
+  },
+  {
+    "alias": "Insurance",
+    "id": 5001,
+    "name": "保险",
+    "parentId": null
+  },
+  {
+    "alias": "Health",
+    "id": 5002,
+    "name": "健康",
+    "parentId": null
+  },
+  {
+    "alias": "Beauty",
+    "id": 5003,
+    "name": "美容",
+    "parentId": null
+  },
+  {
+    "alias": "Auto",
+    "id": 5004,
+    "name": "汽车",
+    "parentId": null
+  },
+  {
+    "alias": "Pet",
+    "id": 5005,
+    "name": "宠物",
+    "parentId": null
+  },
+  {
+    "alias": "Software",
+    "id": 5006,
+    "name": "软件",
+    "parentId": null
+  },
+  {
+    "alias": "Digital Marketing",
+    "id": 5007,
+    "name": "数字营销",
+    "parentId": null
+  },
+  {
+    "alias": "Education",
+    "id": 5008,
+    "name": "教育",
+    "parentId": null
+  },
+  {
+    "alias": "AI",
+    "id": 5009,
+    "name": "AI",
+    "parentId": null
+  },
+  {
+    "alias": "Home",
+    "id": 5010,
+    "name": "生活家居",
+    "parentId": null
+  },
+  {
+    "alias": "Jobs",
+    "id": 5011,
+    "name": "工作",
+    "parentId": null
+  },
+  {
+    "alias": "Constellation",
+    "id": 5012,
+    "name": "星座",
+    "parentId": 5839
+  },
+  {
+    "alias": "AI Image",
+    "id": 5013,
+    "name": "AI Image",
+    "parentId": 5910
+  },
+  {
+    "alias": "Tech",
+    "id": 5014,
+    "name": "科技",
+    "parentId": null
+  },
+  {
+    "alias": "Money Management",
+    "id": 5015,
+    "name": "理财",
+    "parentId": 5846
+  },
+  {
+    "alias": "Car Insurance",
+    "id": 5016,
+    "name": "汽车保险",
+    "parentId": 5873
+  },
+  {
+    "alias": "Health Insurance",
+    "id": 5017,
+    "name": "健康保险",
+    "parentId": 5872
+  },
+  {
+    "alias": "Travel Insurance",
+    "id": 5018,
+    "name": "旅游保险",
+    "parentId": 5873
+  },
+  {
+    "alias": "Home Insurance",
+    "id": 5019,
+    "name": "家庭保险",
+    "parentId": 5873
+  },
+  {
+    "alias": "Dental Implants",
+    "id": 5020,
+    "name": "牙齿种植",
+    "parentId": 5342
+  },
+  {
+    "alias": "Fitness & Exercise",
+    "id": 5021,
+    "name": "运动健身",
+    "parentId": 5002
+  },
+  {
+    "alias": "Nutrition & Diet",
+    "id": 5022,
+    "name": "营养与饮食",
+    "parentId": 5002
+  },
+  {
+    "alias": "Chronic Disease Management",
+    "id": 5023,
+    "name": "慢性病管理",
+    "parentId": 5002
+  },
+  {
+    "alias": "Sleep Health",
+    "id": 5024,
+    "name": "睡眠健康",
+    "parentId": 5002
+  },
+  {
+    "alias": "Weight Management",
+    "id": 5025,
+    "name": "体重管理",
+    "parentId": 5002
+  },
+  {
+    "alias": "Mental Health",
+    "id": 5026,
+    "name": "心理健康",
+    "parentId": 5002
+  },
+  {
+    "alias": "Medical & Healthcare",
+    "id": 5027,
+    "name": "医疗健康",
+    "parentId": 5002
+  },
+  {
+    "alias": "Child & Adolescent Health",
+    "id": 5028,
+    "name": "儿童与青少年健康",
+    "parentId": 5840
+  },
+  {
+    "alias": "Senior Health",
+    "id": 5029,
+    "name": "老年人健康",
+    "parentId": 5840
+  },
+  {
+    "alias": "Women's Health",
+    "id": 5030,
+    "name": "女性健康",
+    "parentId": 5840
+  },
+  {
+    "alias": "Men's Health",
+    "id": 5031,
+    "name": "男性健康",
+    "parentId": 5840
+  },
+  {
+    "alias": "Alternative Medicine",
+    "id": 5032,
+    "name": "替代与补充医学",
+    "parentId": 5002
+  },
+  {
+    "alias": "Vehicle Types",
+    "id": 5033,
+    "name": "车辆类型",
+    "parentId": 5871
+  },
+  {
+    "alias": "Auto Parts & Accessories",
+    "id": 5034,
+    "name": "汽车配件与改装",
+    "parentId": 5004
+  },
+  {
+    "alias": "Auto Services",
+    "id": 5035,
+    "name": "汽车服务",
+    "parentId": 5870
+  },
+  {
+    "alias": "Used Cars",
+    "id": 5036,
+    "name": "二手车",
+    "parentId": 5004
+  },
+  {
+    "alias": "Pet Types",
+    "id": 5037,
+    "name": "宠物类型",
+    "parentId": 5005
+  },
+  {
+    "alias": "Pet Food",
+    "id": 5038,
+    "name": "宠物食品",
+    "parentId": 5884
+  },
+  {
+    "alias": "Pet Supplies",
+    "id": 5039,
+    "name": "宠物用品",
+    "parentId": 5884
+  },
+  {
+    "alias": "Pet Grooming",
+    "id": 5040,
+    "name": "宠物美容",
+    "parentId": 5885
+  },
+  {
+    "alias": "Pet Services",
+    "id": 5041,
+    "name": "宠物服务",
+    "parentId": 5885
+  },
+  {
+    "alias": "Pet Tech",
+    "id": 5042,
+    "name": "宠物科技",
+    "parentId": 5005
+  },
+  {
+    "alias": "Pet Fashion & Accessories",
+    "id": 5043,
+    "name": "宠物服饰与配饰",
+    "parentId": 5884
+  },
+  {
+    "alias": "Pet Insurance",
+    "id": 5044,
+    "name": "宠物保险",
+    "parentId": 5005
+  },
+  {
+    "alias": "Other pet industry related",
+    "id": 5045,
+    "name": "宠物行业其他相关",
+    "parentId": 5005
+  },
+  {
+    "alias": "SEM & SEO",
+    "id": 5046,
+    "name": "搜索引擎营销",
+    "parentId": 5874
+  },
+  {
+    "alias": "Social Media Marketing",
+    "id": 5047,
+    "name": "社交媒体营销",
+    "parentId": 5874
+  },
+  {
+    "alias": "Email Marketing",
+    "id": 5048,
+    "name": "电子邮件营销",
+    "parentId": 5874
+  },
+  {
+    "alias": "Mobile Marketing",
+    "id": 5049,
+    "name": "移动营销",
+    "parentId": 5874
+  },
+  {
+    "alias": "Humanities and Social Sciences",
+    "id": 5050,
+    "name": "人文社科",
+    "parentId": 5008
+  },
+  {
+    "alias": "Home Improvement",
+    "id": 5051,
+    "name": "家庭装修",
+    "parentId": 5010
+  },
+  {
+    "alias": "Garden Design",
+    "id": 5052,
+    "name": "庭院设计",
+    "parentId": 5010
+  },
+  {
+    "alias": "Emerging",
+    "id": 5053,
+    "name": "AI新兴技术与综合评测",
+    "parentId": 5878
+  },
+  {
+    "alias": "Productivity",
+    "id": 5054,
+    "name": "AI通用生产力工具",
+    "parentId": 5879
+  },
+  {
+    "alias": "Creativity",
+    "id": 5055,
+    "name": "AI创意与内容创作工具",
+    "parentId": 5057
+  },
+  {
+    "alias": "Vertical",
+    "id": 5056,
+    "name": "AI垂直行业专用工具",
+    "parentId": 5911
+  },
+  {
+    "alias": "Image",
+    "id": 5057,
+    "name": "AI图像与视频处理工具",
+    "parentId": 5910
+  },
+  {
+    "alias": "Technologies",
+    "id": 5058,
+    "name": "前沿技术与金融创新",
+    "parentId": 5848
+  },
+  {
+    "alias": "Green Finance",
+    "id": 5059,
+    "name": "绿色金融与ESG",
+    "parentId": 5848
+  },
+  {
+    "alias": "Digital Currency",
+    "id": 5060,
+    "name": "数字货币与金融科技",
+    "parentId": 5848
+  },
+  {
+    "alias": "Financial Market",
+    "id": 5061,
+    "name": "金融市场与投资策略",
+    "parentId": 5849
+  },
+  {
+    "alias": "Global macroeconomics",
+    "id": 5062,
+    "name": "全球宏观经济与货币政策",
+    "parentId": 5849
+  },
+  {
+    "alias": "Skin Management",
+    "id": 5063,
+    "name": "皮肤管理与护理",
+    "parentId": 5003
+  },
+  {
+    "alias": "Plastic Surgery",
+    "id": 5064,
+    "name": "整形手术",
+    "parentId": 5003
+  },
+  {
+    "alias": "Body Shaping",
+    "id": 5065,
+    "name": "身体塑型与减脂",
+    "parentId": 5881
+  },
+  {
+    "alias": "Hair Transplantation",
+    "id": 5066,
+    "name": "毛发移植与修复",
+    "parentId": 5852
+  },
+  {
+    "alias": "Anti-Aging",
+    "id": 5067,
+    "name": "抗衰老与再生医学",
+    "parentId": 5583
+  },
+  {
+    "alias": "Fire Sign",
+    "id": 5068,
+    "name": "火象星座",
+    "parentId": 5012
+  },
+  {
+    "alias": "Earth Sign",
+    "id": 5069,
+    "name": "土象星座",
+    "parentId": 5012
+  },
+  {
+    "alias": "Air Sign",
+    "id": 5070,
+    "name": "风象星座",
+    "parentId": 5012
+  },
+  {
+    "alias": "Water Sign",
+    "id": 5071,
+    "name": "水象星座",
+    "parentId": 5012
+  },
+  {
+    "alias": "Digital Asset",
+    "id": 5072,
+    "name": "数字资产管理",
+    "parentId": 5848
+  },
+  {
+    "alias": "Wealth Technology",
+    "id": 5073,
+    "name": "财富科技",
+    "parentId": 5848
+  },
+  {
+    "alias": "Private Credit",
+    "id": 5074,
+    "name": "私募信贷",
+    "parentId": 5848
+  },
+  {
+    "alias": "Private Debt",
+    "id": 5075,
+    "name": "私人债务",
+    "parentId": 5844
+  },
+  {
+    "alias": "Cybersecurity",
+    "id": 5076,
+    "name": "网络安全保险",
+    "parentId": 5873
+  },
+  {
+    "alias": "Climate & Disaster",
+    "id": 5077,
+    "name": "气候与灾害保险",
+    "parentId": 5873
+  },
+  {
+    "alias": "Microinjection",
+    "id": 5078,
+    "name": "微创注射美容",
+    "parentId": 5901
+  },
+  {
+    "alias": "Private Beauty Care",
+    "id": 5079,
+    "name": "私密美容",
+    "parentId": 5003
+  },
+  {
+    "alias": "Oral beauty treatment",
+    "id": 5080,
+    "name": "口腔美容",
+    "parentId": 5342
+  },
+  {
+    "alias": "Higher Education",
+    "id": 5081,
+    "name": "高等教育",
+    "parentId": 5875
+  },
+  {
+    "alias": "Early  Education",
+    "id": 5082,
+    "name": "早期教育",
+    "parentId": 5875
+  },
+  {
+    "alias": "Vocational  Education",
+    "id": 5083,
+    "name": "职业教育",
+    "parentId": 5875
+  },
+  {
+    "alias": "Smart Home",
+    "id": 5084,
+    "name": "智能家居",
+    "parentId": 5856
+  },
+  {
+    "alias": "Environmentally",
+    "id": 5085,
+    "name": "环保家居",
+    "parentId": 5085
+  },
+  {
+    "alias": "Small Spaces",
+    "id": 5086,
+    "name": "小空间优化",
+    "parentId": 5010
+  },
+  {
+    "alias": "Home decoration",
+    "id": 5087,
+    "name": "家居家装",
+    "parentId": 5010
+  },
+  {
+    "alias": "Constellation Personality",
+    "id": 5088,
+    "name": "星座人格",
+    "parentId": 5012
+  },
+  {
+    "alias": "Constellation Romance",
+    "id": 5089,
+    "name": "星座情缘",
+    "parentId": 5012
+  },
+  {
+    "alias": "Horoscope",
+    "id": 5090,
+    "name": "星座运势",
+    "parentId": 5012
+  },
+  {
+    "alias": "Constellation Career",
+    "id": 5091,
+    "name": "星座事业",
+    "parentId": 5012
+  },
+  {
+    "alias": "Deep Horoscope",
+    "id": 5092,
+    "name": "深度星盘",
+    "parentId": 5012
+  },
+  {
+    "alias": "Intelligent Elimination",
+    "id": 5093,
+    "name": "智能消除",
+    "parentId": 5013
+  },
+  {
+    "alias": "Background Editing",
+    "id": 5094,
+    "name": "背景编辑",
+    "parentId": 5013
+  },
+  {
+    "alias": "Portrait Processing",
+    "id": 5095,
+    "name": "人像处理",
+    "parentId": 5013
+  },
+  {
+    "alias": "Quality Enhancement",
+    "id": 5096,
+    "name": "画质增强",
+    "parentId": 5013
+  },
+  {
+    "alias": "Text To Image",
+    "id": 5097,
+    "name": "文生图",
+    "parentId": 5013
+  },
+  {
+    "alias": "Text To Speech",
+    "id": 5098,
+    "name": "文生语音",
+    "parentId": 5013
+  },
+  {
+    "alias": "Image To Image",
+    "id": 5099,
+    "name": "图生图",
+    "parentId": 5013
+  },
+  {
+    "alias": "Image TO Video",
+    "id": 5100,
+    "name": "图生视频",
+    "parentId": 5013
+  },
+  {
+    "alias": "AI Chat",
+    "id": 5101,
+    "name": "AI聊天",
+    "parentId": 5013
+  },
+  {
+    "alias": "Image Tools",
+    "id": 5102,
+    "name": "图像工具",
+    "parentId": 5013
+  },
+  {
+    "alias": "AI Workflow",
+    "id": 5103,
+    "name": "AI 工作流",
+    "parentId": 5013
+  },
+  {
+    "alias": "AI Model",
+    "id": 5104,
+    "name": "AI模型",
+    "parentId": 5013
+  },
+  {
+    "alias": "Common Health",
+    "id": 5105,
+    "name": "常见健康",
+    "parentId": 5841
+  },
+  {
+    "alias": "Personal Finance",
+    "id": 5106,
+    "name": "个人财务管理",
+    "parentId": 5015
+  },
+  {
+    "alias": "Commission-Free",
+    "id": 5107,
+    "name": "免佣金股票",
+    "parentId": 5015
+  },
+  {
+    "alias": "ETF Investment",
+    "id": 5108,
+    "name": "ETF投资",
+    "parentId": 5015
+  },
+  {
+    "alias": "Crypto Coin",
+    "id": 5109,
+    "name": "加密货币",
+    "parentId": 5015
+  },
+  {
+    "alias": "clinical study",
+    "id": 5110,
+    "name": "临床研究",
+    "parentId": 5843
+  },
+  {
+    "alias": "Lung Cancer Targeted Therapy",
+    "id": 5111,
+    "name": "肺癌靶向治疗",
+    "parentId": 5842
+  },
+  {
+    "alias": "Targeted therapy for immune-inflammatory diseases",
+    "id": 5112,
+    "name": "免疫炎症疾病靶向治疗",
+    "parentId": 5842
+  },
+  {
+    "alias": "Follicular Lymphoma Treatment",
+    "id": 5113,
+    "name": "滤泡性淋巴瘤治疗",
+    "parentId": 5842
+  },
+  {
+    "alias": "Private Krankenversicherungsvergleich",
+    "id": 5114,
+    "name": "私人医疗保险比较",
+    "parentId": 5872
+  },
+  {
+    "alias": "Blepharoplasty",
+    "id": 5115,
+    "name": "眼睑成形术",
+    "parentId": 5230
+  },
+  {
+    "alias": "Roofing",
+    "id": 5116,
+    "name": "屋顶工程",
+    "parentId": 5855
+  },
+  {
+    "alias": "commercial",
+    "id": 5117,
+    "name": "商业",
+    "parentId": null
+  },
+  {
+    "alias": "Fertility Health Consultation",
+    "id": 5118,
+    "name": "生育健康咨询",
+    "parentId": 5139
+  },
+  {
+    "alias": "lawyer",
+    "id": 5119,
+    "name": "律师",
+    "parentId": 5011
+  },
+  {
+    "alias": "Labor Law Attorney",
+    "id": 5120,
+    "name": "劳动法律师",
+    "parentId": 5119
+  },
+  {
+    "alias": "device",
+    "id": 5121,
+    "name": "设备",
+    "parentId": 5014
+  },
+  {
+    "alias": "Equipment Lifting",
+    "id": 5122,
+    "name": "设备吊装",
+    "parentId": 5121
+  },
+  {
+    "alias": "housekeeping",
+    "id": 5123,
+    "name": "家政",
+    "parentId": null
+  },
+  {
+    "alias": "Stock Trading Beginner's Guide",
+    "id": 5124,
+    "name": "股票交易入门指南",
+    "parentId": 5846
+  },
+  {
+    "alias": "Debt Consolidation Loans",
+    "id": 5125,
+    "name": "债务合并贷款",
+    "parentId": 5844
+  },
+  {
+    "alias": "Eyelid surgery",
+    "id": 5126,
+    "name": "眼睑手术",
+    "parentId": 5230
+  },
+  {
+    "alias": "dental implant",
+    "id": 5127,
+    "name": "牙齿植入",
+    "parentId": 5342
+  },
+  {
+    "alias": "Formación Profesional",
+    "id": 5128,
+    "name": "专业培训",
+    "parentId": 5858
+  },
+  {
+    "alias": "Tax Consulting",
+    "id": 5129,
+    "name": "税务咨询",
+    "parentId": 5015
+  },
+  {
+    "alias": "Technology and Communications",
+    "id": 5130,
+    "name": "科技与通信",
+    "parentId": 5014
+  },
+  {
+    "alias": "cell phone plans",
+    "id": 5131,
+    "name": "手机套餐",
+    "parentId": 5130
+  },
+  {
+    "alias": "Buy a mobile phone in installments",
+    "id": 5132,
+    "name": "分期购买手机",
+    "parentId": 5904
+  },
+  {
+    "alias": "Personal Loans",
+    "id": 5133,
+    "name": "个人贷款",
+    "parentId": 5844
+  },
+  {
+    "alias": "Emergency Loans",
+    "id": 5134,
+    "name": "紧急贷款",
+    "parentId": 5844
+  },
+  {
+    "alias": "Online Loans",
+    "id": 5135,
+    "name": "在线贷款",
+    "parentId": 5844
+  },
+  {
+    "alias": "Mobile phone installment - plan",
+    "id": 5136,
+    "name": "手机分期",
+    "parentId": 5904
+  },
+  {
+    "alias": "Laser beauty",
+    "id": 5137,
+    "name": "激光美容",
+    "parentId": 5027
+  },
+  {
+    "alias": "hair removal",
+    "id": 5138,
+    "name": "脱毛",
+    "parentId": 5003
+  },
+  {
+    "alias": "Obstetrics and Gynecology",
+    "id": 5139,
+    "name": "妇产科",
+    "parentId": 5840
+  },
+  {
+    "alias": "Cleaning Staff Recruitment",
+    "id": 5140,
+    "name": "清洁工招聘",
+    "parentId": 5866
+  },
+  {
+    "alias": "Lip injections",
+    "id": 5141,
+    "name": "唇部注射",
+    "parentId": 5901
+  },
+  {
+    "alias": "laser hair removal terminology",
+    "id": 5142,
+    "name": "激光脱毛",
+    "parentId": 5027
+  },
+  {
+    "alias": "dental treatment options",
+    "id": 5143,
+    "name": "牙齿治疗选择",
+    "parentId": 5342
+  },
+  {
+    "alias": "same-day dental implants / teeth in a day",
+    "id": 5144,
+    "name": "当日种牙／当日修复",
+    "parentId": 5342
+  },
+  {
+    "alias": "root canal treatment / endodontic therapy",
+    "id": 5145,
+    "name": "根管治疗",
+    "parentId": 5342
+  },
+  {
+    "alias": "cavity filling / tooth filling",
+    "id": 5146,
+    "name": "补牙/龋齿填充",
+    "parentId": 5342
+  },
+  {
+    "alias": "job interview / interview tips",
+    "id": 5147,
+    "name": "求职与兼职",
+    "parentId": 5853
+  },
+  {
+    "alias": "how to avoid job scams / job search safety tips",
+    "id": 5148,
+    "name": "求职避坑",
+    "parentId": 5853
+  },
+  {
+    "alias": "Apartment rental",
+    "id": 5149,
+    "name": "公寓租赁",
+    "parentId": 5857
+  },
+  {
+    "alias": "prepaid phone plans",
+    "id": 5150,
+    "name": "预付费手机套餐",
+    "parentId": 5130
+  },
+  {
+    "alias": "Housing Resilience Investment",
+    "id": 5151,
+    "name": "住房抗灾投资",
+    "parentId": 5848
+  },
+  {
+    "alias": "Car rental",
+    "id": 5152,
+    "name": "租车",
+    "parentId": 5869
+  },
+  {
+    "alias": "Vocational training courses",
+    "id": 5153,
+    "name": "职业培训课程",
+    "parentId": 5008
+  },
+  {
+    "alias": "divorce attorney",
+    "id": 5154,
+    "name": "离婚律师",
+    "parentId": 5119
+  },
+  {
+    "alias": "Personal Injury attorney",
+    "id": 5155,
+    "name": "人身伤害辩护律师",
+    "parentId": 5119
+  },
+  {
+    "alias": "Nursing homes/nursing centers",
+    "id": 5156,
+    "name": "养老院/护理中心",
+    "parentId": 5511
+  },
+  {
+    "alias": "Truck rental",
+    "id": 5157,
+    "name": "卡车租赁",
+    "parentId": 5869
+  },
+  {
+    "alias": "Driver jobs",
+    "id": 5158,
+    "name": "司机岗位",
+    "parentId": 5854
+  },
+  {
+    "alias": "Anti-hair loss treatment",
+    "id": 5159,
+    "name": "防脱发治疗",
+    "parentId": 5842
+  },
+  {
+    "alias": "Private nursing services",
+    "id": 5160,
+    "name": "私人护理服务",
+    "parentId": 5511
+  },
+  {
+    "alias": "lawyer services",
+    "id": 5161,
+    "name": "律师服务",
+    "parentId": 5119
+  },
+  {
+    "alias": "Face lift",
+    "id": 5162,
+    "name": "面部提拉",
+    "parentId": 5003
+  },
+  {
+    "alias": "Dental insurance for seniors",
+    "id": 5163,
+    "name": "牙科保险",
+    "parentId": 5342
+  },
+  {
+    "alias": "AI trends H2 2025",
+    "id": 5164,
+    "name": "2025下半年AI总体趋势",
+    "parentId": 5878
+  },
+  {
+    "alias": "One person builds an AI team",
+    "id": 5165,
+    "name": "一人组建AI团队",
+    "parentId": 5878
+  },
+  {
+    "alias": "Laser Skin Rejuvenation Treatment",
+    "id": 5166,
+    "name": "激光皮肤治疗",
+    "parentId": 5027
+  },
+  {
+    "alias": " AI Image 5",
+    "id": 5167,
+    "name": " AI Image 5",
+    "parentId": 5013
+  },
+  {
+    "alias": "deliveryman",
+    "id": 5168,
+    "name": "送货员",
+    "parentId": 5908
+  },
+  {
+    "alias": "Credit Cards",
+    "id": 5169,
+    "name": "信用卡",
+    "parentId": 5847
+  },
+  {
+    "alias": "Home Loans",
+    "id": 5170,
+    "name": "房屋贷款",
+    "parentId": 5844
+  },
+  {
+    "alias": "work from home",
+    "id": 5171,
+    "name": "远程与居家办公",
+    "parentId": 5011
+  },
+  {
+    "alias": "delivery jobs",
+    "id": 5172,
+    "name": "送货工作",
+    "parentId": 5908
+  },
+  {
+    "alias": "best AI tools",
+    "id": 5173,
+    "name": "AI工具推荐",
+    "parentId": 5911
+  },
+  {
+    "alias": "AI content trend forecasting",
+    "id": 5174,
+    "name": "AI内容趋势预测",
+    "parentId": 5878
+  },
+  {
+    "alias": "Non-surgical facial rejuvenation",
+    "id": 5175,
+    "name": "非手术面部年轻化",
+    "parentId": 5583
+  },
+  {
+    "alias": "Botulinum toxin injections",
+    "id": 5176,
+    "name": "肉毒杆菌注射",
+    "parentId": 5901
+  },
+  {
+    "alias": "plumber",
+    "id": 5177,
+    "name": "水管工",
+    "parentId": 5907
+  },
+  {
+    "alias": "Nursing Recruitment",
+    "id": 5178,
+    "name": "护工招聘",
+    "parentId": 5909
+  },
+  {
+    "alias": "Construction Worker Recruitment",
+    "id": 5179,
+    "name": "建筑工人招聘",
+    "parentId": 5907
+  },
+  {
+    "alias": "Warehouse worker job",
+    "id": 5180,
+    "name": "仓库与拣货",
+    "parentId": 5908
+  },
+  {
+    "alias": "car loan",
+    "id": 5181,
+    "name": "汽车贷款",
+    "parentId": 5844
+  },
+  {
+    "alias": "Immigration Lawyer",
+    "id": 5182,
+    "name": "移民律师",
+    "parentId": 5119
+  },
+  {
+    "alias": "Online Courses",
+    "id": 5183,
+    "name": "在线课程",
+    "parentId": 5008
+  },
+  {
+    "alias": "Cancer treatment",
+    "id": 5184,
+    "name": "癌症治疗",
+    "parentId": 5842
+  },
+  {
+    "alias": "carro seminovo",
+    "id": 5185,
+    "name": "准新车/半新车",
+    "parentId": 5871
+  },
+  {
+    "alias": "Loans in One Hour Without a Paycheck",
+    "id": 5186,
+    "name": "无收入贷款",
+    "parentId": 5844
+  },
+  {
+    "alias": "electrician",
+    "id": 5187,
+    "name": "电工",
+    "parentId": 5907
+  },
+  {
+    "alias": "best-selling health and wellness products online",
+    "id": 5188,
+    "name": "线上健康与保健产品热销",
+    "parentId": 5292
+  },
+  {
+    "alias": "avoid scams and safety guide for health products online",
+    "id": 5189,
+    "name": "线上保健产品避坑与安全指南",
+    "parentId": 5292
+  },
+  {
+    "alias": "sleep aids and sleep improvement products online",
+    "id": 5190,
+    "name": "睡眠辅助与改善产品",
+    "parentId": 5024
+  },
+  {
+    "alias": "free AI tools",
+    "id": 5191,
+    "name": "免费AI工具",
+    "parentId": 5879
+  },
+  {
+    "alias": "free AI tools France",
+    "id": 5192,
+    "name": "法国免费AI工具",
+    "parentId": 5879
+  },
+  {
+    "alias": "free AI image generators",
+    "id": 5193,
+    "name": "免费生成图片AI",
+    "parentId": 5879
+  },
+  {
+    "alias": "free AI text generators",
+    "id": 5194,
+    "name": "免费文本生成AI",
+    "parentId": 5879
+  },
+  {
+    "alias": "Roof Repair",
+    "id": 5195,
+    "name": "屋顶修复",
+    "parentId": 5855
+  },
+  {
+    "alias": "Computer installment purchase",
+    "id": 5196,
+    "name": "电脑分期购买",
+    "parentId": 5904
+  },
+  {
+    "alias": "Home renovation installment purchase",
+    "id": 5197,
+    "name": "家装分期购买",
+    "parentId": 5906
+  },
+  {
+    "alias": "Visa processing",
+    "id": 5198,
+    "name": "签证办理",
+    "parentId": 5011
+  },
+  {
+    "alias": "Making money online",
+    "id": 5199,
+    "name": "网上赚钱",
+    "parentId": 5846
+  },
+  {
+    "alias": "Esplora i prestiti online",
+    "id": 5200,
+    "name": "探索在线贷款",
+    "parentId": 5844
+  },
+  {
+    "alias": "AI and US Tech Leadership",
+    "id": 5201,
+    "name": "AI与美国科技领导力",
+    "parentId": 5878
+  },
+  {
+    "alias": "Leadership in Generative AI",
+    "id": 5202,
+    "name": "生成式AI领导力",
+    "parentId": 5878
+  },
+  {
+    "alias": "Computing Power Demand",
+    "id": 5203,
+    "name": "算力需求",
+    "parentId": 5878
+  },
+  {
+    "alias": "AI Unicorn Companies",
+    "id": 5204,
+    "name": "AI独角兽公司",
+    "parentId": 5878
+  },
+  {
+    "alias": "AI Technology Challenges",
+    "id": 5205,
+    "name": "AI技术挑战",
+    "parentId": 5878
+  },
+  {
+    "alias": "Making money online",
+    "id": 5206,
+    "name": "在网上赚钱",
+    "parentId": 5846
+  },
+  {
+    "alias": "Sector AI",
+    "id": 5207,
+    "name": "Sector AI",
+    "parentId": 5912
+  },
+  {
+    "alias": "AI and healthcare",
+    "id": 5208,
+    "name": "AI与医疗",
+    "parentId": 5207
+  },
+  {
+    "alias": "AI and Finance",
+    "id": 5209,
+    "name": "AI与金融",
+    "parentId": 5207
+  },
+  {
+    "alias": "AI and the law",
+    "id": 5210,
+    "name": "AI与法律",
+    "parentId": 5207
+  },
+  {
+    "alias": "AI and Manufacturing",
+    "id": 5211,
+    "name": "AI与制造",
+    "parentId": 5207
+  },
+  {
+    "alias": "AI Image 6 ",
+    "id": 5212,
+    "name": "AI Image 6 ",
+    "parentId": 5013
+  },
+  {
+    "alias": "Motorcycle installment plans",
+    "id": 5213,
+    "name": "摩托车分期",
+    "parentId": 5905
+  },
+  {
+    "alias": "Motorcycle insurance",
+    "id": 5214,
+    "name": "摩托车保险",
+    "parentId": 5851
+  },
+  {
+    "alias": "Clothes",
+    "id": 5215,
+    "name": "衣服",
+    "parentId": 5860
+  },
+  {
+    "alias": "AI FANCY ART",
+    "id": 5216,
+    "name": "AI FANCY ART",
+    "parentId": 5879
+  },
+  {
+    "alias": "AI Product",
+    "id": 5217,
+    "name": "AI产品",
+    "parentId": 5216
+  },
+  {
+    "alias": "AI News",
+    "id": 5218,
+    "name": "AI新闻",
+    "parentId": 5216
+  },
+  {
+    "alias": "Home appliances",
+    "id": 5219,
+    "name": "家电",
+    "parentId": 5010
+  },
+  {
+    "alias": "Projector Deals and Reviews",
+    "id": 5220,
+    "name": "投影仪优惠与评测",
+    "parentId": 5219
+  },
+  {
+    "alias": "Travel",
+    "id": 5221,
+    "name": "旅行",
+    "parentId": null
+  },
+  {
+    "alias": "cruises for seniors",
+    "id": 5222,
+    "name": "老年人邮轮",
+    "parentId": 5877
+  },
+  {
+    "alias": "Microloans",
+    "id": 5223,
+    "name": "小额贷款",
+    "parentId": 5844
+  },
+  {
+    "alias": "rent a house",
+    "id": 5224,
+    "name": "租房",
+    "parentId": 5857
+  },
+  {
+    "alias": "telecommunications",
+    "id": 5225,
+    "name": "电信",
+    "parentId": 5130
+  },
+  {
+    "alias": "摩托车",
+    "id": 5226,
+    "name": "摩托车",
+    "parentId": 5871
+  },
+  {
+    "alias": "Financial Management",
+    "id": 5227,
+    "name": "财务管理",
+    "parentId": 5846
+  },
+  {
+    "alias": "Start a business",
+    "id": 5228,
+    "name": "创建企业",
+    "parentId": 5848
+  },
+  {
+    "alias": "Venture Capital",
+    "id": 5229,
+    "name": "风险投资",
+    "parentId": 5848
+  },
+  {
+    "alias": "ophthalmology",
+    "id": 5230,
+    "name": "眼科",
+    "parentId": 5002
+  },
+  {
+    "alias": "Telemedicine",
+    "id": 5231,
+    "name": "远程医疗",
+    "parentId": 5027
+  },
+  {
+    "alias": "Video consultation",
+    "id": 5232,
+    "name": "视频问诊",
+    "parentId": 5231
+  },
+  {
+    "alias": "Medical consultation",
+    "id": 5233,
+    "name": "医疗咨询",
+    "parentId": 5231
+  },
+  {
+    "alias": "Disease Management",
+    "id": 5234,
+    "name": "疾病管理",
+    "parentId": 5231
+  },
+  {
+    "alias": "Drug delivery",
+    "id": 5235,
+    "name": "药品配送",
+    "parentId": 5231
+  },
+  {
+    "alias": "Remote consultation",
+    "id": 5236,
+    "name": "远程会诊",
+    "parentId": 5231
+  },
+  {
+    "alias": "Intelligent Recruitment Tools",
+    "id": 5237,
+    "name": "招聘智能化工具",
+    "parentId": 5853
+  },
+  {
+    "alias": "AI source tracing",
+    "id": 5238,
+    "name": "AI寻源",
+    "parentId": 5237
+  },
+  {
+    "alias": "Intelligent screening",
+    "id": 5239,
+    "name": "智能筛评",
+    "parentId": 5237
+  },
+  {
+    "alias": "Process Automation",
+    "id": 5240,
+    "name": "流程自动化",
+    "parentId": 5237
+  },
+  {
+    "alias": "Talent pool activation",
+    "id": 5241,
+    "name": "人才库激活",
+    "parentId": 5237
+  },
+  {
+    "alias": "Salary Analysis",
+    "id": 5242,
+    "name": "薪酬分析",
+    "parentId": 5237
+  },
+  {
+    "alias": "WardrobeAI",
+    "id": 5243,
+    "name": "WardrobeAI",
+    "parentId": 5879
+  },
+  {
+    "alias": "blog",
+    "id": 5244,
+    "name": "穿搭blog",
+    "parentId": 5243
+  },
+  {
+    "alias": "Weight Loss",
+    "id": 5245,
+    "name": "减肥",
+    "parentId": 5025
+  },
+  {
+    "alias": "new energy vehicles",
+    "id": 5246,
+    "name": "新能源汽车",
+    "parentId": 5871
+  },
+  {
+    "alias": "online payment",
+    "id": 5247,
+    "name": "线上支付",
+    "parentId": 5847
+  },
+  {
+    "alias": "Dress up news",
+    "id": 5248,
+    "name": "Outfit news",
+    "parentId": 5243
+  },
+  {
+    "alias": "Medical advice",
+    "id": 5249,
+    "name": "诊疗意见",
+    "parentId": 5231
+  },
+  {
+    "alias": "AI Industry Applications",
+    "id": 5250,
+    "name": "AI行业应用",
+    "parentId": 5839
+  },
+  {
+    "alias": "AI Financial Technology",
+    "id": 5251,
+    "name": "AI金融科技",
+    "parentId": 5250
+  },
+  {
+    "alias": "Smart manufacturing",
+    "id": 5252,
+    "name": "智能制造",
+    "parentId": 5250
+  },
+  {
+    "alias": "Content generation",
+    "id": 5253,
+    "name": "内容生成",
+    "parentId": 5250
+  },
+  {
+    "alias": "Creative Media",
+    "id": 5254,
+    "name": "创意媒体",
+    "parentId": 5250
+  },
+  {
+    "alias": "AI Automation",
+    "id": 5255,
+    "name": "AI自动化",
+    "parentId": 5911
+  },
+  {
+    "alias": "Intelligent process automation",
+    "id": 5256,
+    "name": "智能流程自动化",
+    "parentId": 5255
+  },
+  {
+    "alias": "AI Assistant",
+    "id": 5257,
+    "name": "AI助手",
+    "parentId": 5255
+  },
+  {
+    "alias": "AI content generation",
+    "id": 5258,
+    "name": "AI内容生成",
+    "parentId": 5255
+  },
+  {
+    "alias": "AI Creativity",
+    "id": 5259,
+    "name": "AI创意",
+    "parentId": 5255
+  },
+  {
+    "alias": "AI Industrial Automation",
+    "id": 5260,
+    "name": "AI工业自动化",
+    "parentId": 5255
+  },
+  {
+    "alias": "Digital payments",
+    "id": 5261,
+    "name": "数字支付",
+    "parentId": 5847
+  },
+  {
+    "alias": "Digital wallet payments",
+    "id": 5262,
+    "name": "数字钱包支付",
+    "parentId": 5261
+  },
+  {
+    "alias": "Remittance payment",
+    "id": 5263,
+    "name": "汇款支付",
+    "parentId": 5261
+  },
+  {
+    "alias": "Crypto payments",
+    "id": 5264,
+    "name": "加密支付",
+    "parentId": 5261
+  },
+  {
+    "alias": "Money Forms",
+    "id": 5265,
+    "name": "货币形态",
+    "parentId": 5261
+  },
+  {
+    "alias": "Beauty & Hair Coloring ",
+    "id": 5266,
+    "name": "美妆染发",
+    "parentId": 5852
+  },
+  {
+    "alias": "AI in healthcare",
+    "id": 5267,
+    "name": "AI医疗",
+    "parentId": 5912
+  },
+  {
+    "alias": "AI treatment plan",
+    "id": 5268,
+    "name": "AI治疗方案",
+    "parentId": 5267
+  },
+  {
+    "alias": "AI Analysis of Images",
+    "id": 5269,
+    "name": "AI分析影像",
+    "parentId": 5267
+  },
+  {
+    "alias": "AI surgical robot",
+    "id": 5270,
+    "name": "AI手术机器人",
+    "parentId": 5267
+  },
+  {
+    "alias": "AI Health Management",
+    "id": 5271,
+    "name": "AI健康管理",
+    "parentId": 5267
+  },
+  {
+    "alias": "Recruitment Technology",
+    "id": 5272,
+    "name": "招聘科技",
+    "parentId": 5853
+  },
+  {
+    "alias": "Intelligent recruitment management",
+    "id": 5273,
+    "name": "智能化招聘管理",
+    "parentId": 5272
+  },
+  {
+    "alias": "AI assessment tools",
+    "id": 5274,
+    "name": "AI评估工具",
+    "parentId": 5272
+  },
+  {
+    "alias": "Recruitment Marketing",
+    "id": 5275,
+    "name": "招聘营销",
+    "parentId": 5272
+  },
+  {
+    "alias": "Recruitment Decision Platform",
+    "id": 5276,
+    "name": "招聘决策平台",
+    "parentId": 5272
+  },
+  {
+    "alias": "Talent Pool",
+    "id": 5277,
+    "name": "人才库",
+    "parentId": 5272
+  },
+  {
+    "alias": "hotel",
+    "id": 5278,
+    "name": "酒店",
+    "parentId": 5861
+  },
+  {
+    "alias": "Digital products",
+    "id": 5279,
+    "name": "数码产品",
+    "parentId": 5876
+  },
+  {
+    "alias": "Brightening & Spot Removal",
+    "id": 5280,
+    "name": "祛斑美白",
+    "parentId": 5903
+  },
+  {
+    "alias": "Clothing",
+    "id": 5281,
+    "name": "服装",
+    "parentId": 5860
+  },
+  {
+    "alias": "Perfume",
+    "id": 5282,
+    "name": "香水",
+    "parentId": 5003
+  },
+  {
+    "alias": "Auxiliary diagnosis",
+    "id": 5283,
+    "name": "辅助诊断",
+    "parentId": 5250
+  },
+  {
+    "alias": "Fitness",
+    "id": 5284,
+    "name": "健身",
+    "parentId": 5021
+  },
+  {
+    "alias": "Insurtech",
+    "id": 5285,
+    "name": "保险科技",
+    "parentId": 5001
+  },
+  {
+    "alias": "Price comparison tools",
+    "id": 5286,
+    "name": "比价工具",
+    "parentId": 5285
+  },
+  {
+    "alias": "Automated claims processing",
+    "id": 5287,
+    "name": "自动化理赔",
+    "parentId": 5285
+  },
+  {
+    "alias": "New insurance products",
+    "id": 5288,
+    "name": "新型保险产品",
+    "parentId": 5285
+  },
+  {
+    "alias": "Insurance Compliance Technology",
+    "id": 5289,
+    "name": "保险合规科技",
+    "parentId": 5285
+  },
+  {
+    "alias": "Vehicle Maintenance",
+    "id": 5290,
+    "name": "汽车维护",
+    "parentId": 5870
+  },
+  {
+    "alias": "Digital Device Financing",
+    "id": 5291,
+    "name": "数码分期",
+    "parentId": 5904
+  },
+  {
+    "alias": "pharmaceutical e-commerce",
+    "id": 5292,
+    "name": "医药电商",
+    "parentId": 5027
+  },
+  {
+    "alias": "B2C pharmacy",
+    "id": 5293,
+    "name": "B2C药房",
+    "parentId": 5292
+  },
+  {
+    "alias": "Prescription circulation platform",
+    "id": 5294,
+    "name": "处方流转平台",
+    "parentId": 5292
+  },
+  {
+    "alias": "Nearby pharmacies",
+    "id": 5295,
+    "name": "附近药店",
+    "parentId": 5292
+  },
+  {
+    "alias": "Special disease drugs",
+    "id": 5296,
+    "name": "特殊疾病药品",
+    "parentId": 5292
+  },
+  {
+    "alias": "Medication guidance",
+    "id": 5297,
+    "name": "用药指导",
+    "parentId": 5292
+  },
+  {
+    "alias": "Trade Finance",
+    "id": 5298,
+    "name": "贸易金融",
+    "parentId": 5848
+  },
+  {
+    "alias": "Supply chain financing",
+    "id": 5299,
+    "name": "供应链融资",
+    "parentId": 5298
+  },
+  {
+    "alias": "letter of credit",
+    "id": 5300,
+    "name": "信用证",
+    "parentId": 5298
+  },
+  {
+    "alias": "Trade settlement",
+    "id": 5301,
+    "name": "贸易结算",
+    "parentId": 5298
+  },
+  {
+    "alias": "Digital trade platform",
+    "id": 5302,
+    "name": "数字贸易平台",
+    "parentId": 5298
+  },
+  {
+    "alias": "International trade",
+    "id": 5303,
+    "name": "国际贸易",
+    "parentId": 5298
+  },
+  {
+    "alias": "Medical tourism",
+    "id": 5304,
+    "name": "医疗旅游",
+    "parentId": 5027
+  },
+  {
+    "alias": "Intensive Care Unit",
+    "id": 5305,
+    "name": "重症诊疗中心",
+    "parentId": 5304
+  },
+  {
+    "alias": "Specialist treatment",
+    "id": 5306,
+    "name": "专科治疗",
+    "parentId": 5304
+  },
+  {
+    "alias": "Health assessment",
+    "id": 5307,
+    "name": "健康评估",
+    "parentId": 5304
+  },
+  {
+    "alias": "Postoperative rehabilitation",
+    "id": 5308,
+    "name": "术后康复",
+    "parentId": 5304
+  },
+  {
+    "alias": "Hot Spring Rehabilitation",
+    "id": 5309,
+    "name": "温泉康复",
+    "parentId": 5304
+  },
+  {
+    "alias": "Talent Market",
+    "id": 5310,
+    "name": "人才市场",
+    "parentId": 5853
+  },
+  {
+    "alias": "freelancers",
+    "id": 5311,
+    "name": "自由职业者",
+    "parentId": 5310
+  },
+  {
+    "alias": "Remote priority work platform",
+    "id": 5312,
+    "name": "远程优先工作平台",
+    "parentId": 5310
+  },
+  {
+    "alias": "Entry-level talent pathway",
+    "id": 5313,
+    "name": "初级人才通道",
+    "parentId": 5310
+  },
+  {
+    "alias": "Comprehensive skills",
+    "id": 5314,
+    "name": "综合技能",
+    "parentId": 5310
+  },
+  {
+    "alias": "Remote jobs",
+    "id": 5315,
+    "name": "远程职位",
+    "parentId": 5310
+  },
+  {
+    "alias": "Capital Dynamics",
+    "id": 5316,
+    "name": "资本动态",
+    "parentId": 5848
+  },
+  {
+    "alias": "Mergers and Acquisitions",
+    "id": 5317,
+    "name": "兼并与收购",
+    "parentId": 5316
+  },
+  {
+    "alias": "Investment trend judgment",
+    "id": 5318,
+    "name": "投资趋势判断",
+    "parentId": 5316
+  },
+  {
+    "alias": "Portfolio Adjustment",
+    "id": 5319,
+    "name": "资产组合调整",
+    "parentId": 5316
+  },
+  {
+    "alias": "Financing activities",
+    "id": 5320,
+    "name": "融资活动",
+    "parentId": 5316
+  },
+  {
+    "alias": "Financial data analysis",
+    "id": 5321,
+    "name": "金融数据分析",
+    "parentId": 5849
+  },
+  {
+    "alias": "Alternative Data Analysis",
+    "id": 5322,
+    "name": "另类数据分析",
+    "parentId": 5321
+  },
+  {
+    "alias": "Transaction cost analysis",
+    "id": 5323,
+    "name": "交易成本分析",
+    "parentId": 5321
+  },
+  {
+    "alias": "Climate risk analysis",
+    "id": 5324,
+    "name": "气候风险分析",
+    "parentId": 5321
+  },
+  {
+    "alias": "Cyber ​​risks",
+    "id": 5325,
+    "name": "网络风险",
+    "parentId": 5321
+  },
+  {
+    "alias": "Risk refinement",
+    "id": 5326,
+    "name": "风险精细化",
+    "parentId": 5321
+  },
+  {
+    "alias": "plumbing",
+    "id": 5327,
+    "name": "管道维修",
+    "parentId": 5867
+  },
+  {
+    "alias": "Hospital Operations Management",
+    "id": 5328,
+    "name": "医院运营管理",
+    "parentId": 5027
+  },
+  {
+    "alias": "Intelligent resource scheduling",
+    "id": 5329,
+    "name": "智能资源调度",
+    "parentId": 5328
+  },
+  {
+    "alias": "Medical payment platform",
+    "id": 5330,
+    "name": "医疗支付平台",
+    "parentId": 5328
+  },
+  {
+    "alias": "Clinical workflow optimization",
+    "id": 5331,
+    "name": "临床工作流优化",
+    "parentId": 5328
+  },
+  {
+    "alias": "Medical Human Resources",
+    "id": 5332,
+    "name": "医疗人力资源",
+    "parentId": 5328
+  },
+  {
+    "alias": "Patient journey management",
+    "id": 5333,
+    "name": "患者旅程管理",
+    "parentId": 5328
+  },
+  {
+    "alias": "Phone",
+    "id": 5334,
+    "name": "手机",
+    "parentId": 5876
+  },
+  {
+    "alias": "Phone Repair",
+    "id": 5335,
+    "name": "手机维修",
+    "parentId": 5334
+  },
+  {
+    "alias": "Teeth cleaning",
+    "id": 5336,
+    "name": "洗牙",
+    "parentId": 5342
+  },
+  {
+    "alias": "rodent control",
+    "id": 5337,
+    "name": "鼠害防治",
+    "parentId": 5855
+  },
+  {
+    "alias": "SUV",
+    "id": 5338,
+    "name": "SUV",
+    "parentId": 5871
+  },
+  {
+    "alias": " Car Installment Plan",
+    "id": 5339,
+    "name": "汽车分期",
+    "parentId": 5905
+  },
+  {
+    "alias": "Energy",
+    "id": 5340,
+    "name": "能源切换",
+    "parentId": 5085
+  },
+  {
+    "alias": "Solar Energy",
+    "id": 5341,
+    "name": "太阳能",
+    "parentId": 5014
+  },
+  {
+    "alias": "Dental",
+    "id": 5342,
+    "name": "牙科",
+    "parentId": 5002
+  },
+  {
+    "alias": "Invisalign ",
+    "id": 5343,
+    "name": "牙齿矫正器",
+    "parentId": 5364
+  },
+  {
+    "alias": "Online Eyewear Fitting",
+    "id": 5344,
+    "name": "在线配镜",
+    "parentId": 5230
+  },
+  {
+    "alias": "First Aid Kit",
+    "id": 5345,
+    "name": "急救箱",
+    "parentId": 5841
+  },
+  {
+    "alias": "Makeup Recommendations",
+    "id": 5346,
+    "name": "美妆推荐",
+    "parentId": 5860
+  },
+  {
+    "alias": "Dental Veneers",
+    "id": 5347,
+    "name": "牙贴片",
+    "parentId": 5342
+  },
+  {
+    "alias": "Job search strategies",
+    "id": 5348,
+    "name": "求职策略",
+    "parentId": 5853
+  },
+  {
+    "alias": "Phone Tracking",
+    "id": 5349,
+    "name": "追踪电话",
+    "parentId": 5130
+  },
+  {
+    "alias": "Glasses",
+    "id": 5350,
+    "name": "眼镜",
+    "parentId": 5860
+  },
+  {
+    "alias": "Wig",
+    "id": 5351,
+    "name": "假发",
+    "parentId": 5852
+  },
+  {
+    "alias": "Wardrobe installment",
+    "id": 5352,
+    "name": "衣柜分期",
+    "parentId": 5906
+  },
+  {
+    "alias": "camera",
+    "id": 5353,
+    "name": "摄像头",
+    "parentId": 5279
+  },
+  {
+    "alias": "translator",
+    "id": 5354,
+    "name": "翻译器",
+    "parentId": 5279
+  },
+  {
+    "alias": "Cloud Storage",
+    "id": 5355,
+    "name": "手机云储存",
+    "parentId": 5130
+  },
+  {
+    "alias": "Pre-purchase vehicle inspection",
+    "id": 5356,
+    "name": "购车前车辆检查",
+    "parentId": 5870
+  },
+  {
+    "alias": "Car air freshener",
+    "id": 5357,
+    "name": "汽车香薰",
+    "parentId": 5034
+  },
+  {
+    "alias": "Online English courses",
+    "id": 5358,
+    "name": "在线英语课程",
+    "parentId": 5183
+  },
+  {
+    "alias": "Purchase a coffee machine on installment",
+    "id": 5359,
+    "name": "分期购买咖啡机",
+    "parentId": 5219
+  },
+  {
+    "alias": "Vehicle Tracking Device",
+    "id": 5360,
+    "name": "车辆追踪",
+    "parentId": 5870
+  },
+  {
+    "alias": "Cruise travel",
+    "id": 5361,
+    "name": "邮轮旅行",
+    "parentId": 5877
+  },
+  {
+    "alias": "Mobile Phone Recycling",
+    "id": 5362,
+    "name": "手机回收",
+    "parentId": 5860
+  },
+  {
+    "alias": "Cleaning services",
+    "id": 5363,
+    "name": "清洁服务",
+    "parentId": 5883
+  },
+  {
+    "alias": "Orthodontics",
+    "id": 5364,
+    "name": "牙齿矫正",
+    "parentId": 5342
+  },
+  {
+    "alias": "freezer",
+    "id": 5365,
+    "name": "冰箱",
+    "parentId": 5219
+  },
+  {
+    "alias": "RenewedPhone",
+    "id": 5366,
+    "name": "翻新手机（二手机）",
+    "parentId": 5334
+  },
+  {
+    "alias": "2025 Q4 AI Technology",
+    "id": 5367,
+    "name": "2025 Q4 AI科技",
+    "parentId": 5243
+  },
+  {
+    "alias": "Tooth Whitening",
+    "id": 5368,
+    "name": "牙齿美白",
+    "parentId": 5342
+  },
+  {
+    "alias": "Orthodontics",
+    "id": 5369,
+    "name": "整牙",
+    "parentId": 5342
+  },
+  {
+    "alias": "Broadband packages",
+    "id": 5370,
+    "name": "宽带套餐",
+    "parentId": 5130
+  },
+  {
+    "alias": "Drone Instruction",
+    "id": 5371,
+    "name": "无人机教学",
+    "parentId": 5008
+  },
+  {
+    "alias": "衣物分期",
+    "id": 5372,
+    "name": "衣物分期",
+    "parentId": 5860
+  },
+  {
+    "alias": "blood pressure measurement",
+    "id": 5373,
+    "name": "血压测量",
+    "parentId": 5841
+  },
+  {
+    "alias": "Yoga",
+    "id": 5374,
+    "name": "瑜伽",
+    "parentId": 5021
+  },
+  {
+    "alias": "Real estate investment",
+    "id": 5375,
+    "name": "房产投资",
+    "parentId": 5846
+  },
+  {
+    "alias": "Smartwatch",
+    "id": 5376,
+    "name": "智能手表",
+    "parentId": 5860
+  },
+  {
+    "alias": "Whole House Customization",
+    "id": 5377,
+    "name": "全屋定制",
+    "parentId": 5051
+  },
+  {
+    "alias": "Towingservice",
+    "id": 5378,
+    "name": "拖车服务",
+    "parentId": 5870
+  },
+  {
+    "alias": "individual housing loan",
+    "id": 5379,
+    "name": "住宅贷款",
+    "parentId": 5844
+  },
+  {
+    "alias": "Hyaluronic acid injection",
+    "id": 5380,
+    "name": "玻尿酸注射",
+    "parentId": 5901
+  },
+  {
+    "alias": "houses",
+    "id": 5381,
+    "name": "房屋",
+    "parentId": 5859
+  },
+  {
+    "alias": "House renovation",
+    "id": 5382,
+    "name": "房屋翻新",
+    "parentId": 5381
+  },
+  {
+    "alias": "Childcare",
+    "id": 5383,
+    "name": "儿童托管",
+    "parentId": 5886
+  },
+  {
+    "alias": "Stock Investment",
+    "id": 5384,
+    "name": "股票投资",
+    "parentId": 5846
+  },
+  {
+    "alias": "Traffic Fine Inquiry",
+    "id": 5385,
+    "name": "交通罚款查询",
+    "parentId": 5850
+  },
+  {
+    "alias": "E-bike Transaction",
+    "id": 5386,
+    "name": "电单车交易",
+    "parentId": 5004
+  },
+  {
+    "alias": "Dentistry",
+    "id": 5387,
+    "name": "牙科分期",
+    "parentId": 5905
+  },
+  {
+    "alias": "Christmas present",
+    "id": 5388,
+    "name": "圣诞礼物",
+    "parentId": 5860
+  },
+  {
+    "alias": "Employee loan",
+    "id": 5389,
+    "name": "职工贷款",
+    "parentId": 5844
+  },
+  {
+    "alias": "Zahnimplantate",
+    "id": 5390,
+    "name": "种植牙",
+    "parentId": 5020
+  },
+  {
+    "alias": "Mini-Implantate",
+    "id": 5391,
+    "name": "迷你种植牙",
+    "parentId": 5020
+  },
+  {
+    "alias": "All-on-4 Zahnimplantate",
+    "id": 5392,
+    "name": "All-on-4种植牙",
+    "parentId": 5020
+  },
+  {
+    "alias": "komplette Zahnimplantation / Vollprothese auf Implantaten",
+    "id": 5393,
+    "name": "全口种植牙",
+    "parentId": 5020
+  },
+  {
+    "alias": "Nachsorge nach Zahnimplantation",
+    "id": 5394,
+    "name": "种植牙术后",
+    "parentId": 5020
+  },
+  {
+    "alias": "Ablauf der Zahnimplantation / Implantationsprozess",
+    "id": 5395,
+    "name": "种植牙过程",
+    "parentId": 5020
+  },
+  {
+    "alias": "Solarstromspeicher",
+    "id": 5396,
+    "name": "太阳能储能",
+    "parentId": 5341
+  },
+  {
+    "alias": "Cuidados com a pele",
+    "id": 5397,
+    "name": "护肤",
+    "parentId": 5063
+  },
+  {
+    "alias": "Máscara facial",
+    "id": 5398,
+    "name": "面膜",
+    "parentId": 5063
+  },
+  {
+    "alias": "Protetor solar",
+    "id": 5399,
+    "name": "防晒",
+    "parentId": 5063
+  },
+  {
+    "alias": "Hidratação",
+    "id": 5400,
+    "name": "保湿",
+    "parentId": 5063
+  },
+  {
+    "alias": "Anti-idade",
+    "id": 5401,
+    "name": "抗衰老",
+    "parentId": 5063
+  },
+  {
+    "alias": "Limpeza facial",
+    "id": 5402,
+    "name": "洁面",
+    "parentId": 5063
+  },
+  {
+    "alias": "Tratamento para acne",
+    "id": 5403,
+    "name": "祛痘",
+    "parentId": 5063
+  },
+  {
+    "alias": "Clareamento da pele",
+    "id": 5404,
+    "name": "美白",
+    "parentId": 5063
+  },
+  {
+    "alias": "Sérum",
+    "id": 5405,
+    "name": "精华",
+    "parentId": 5063
+  },
+  {
+    "alias": "Creme para os olhos",
+    "id": 5406,
+    "name": "眼霜",
+    "parentId": 5063
+  },
+  {
+    "alias": "Brinquedos para pets",
+    "id": 5407,
+    "name": "宠物玩具",
+    "parentId": 5039
+  },
+  {
+    "alias": "Camas para pets",
+    "id": 5408,
+    "name": "宠物床",
+    "parentId": 5039
+  },
+  {
+    "alias": "Coleiras e guias",
+    "id": 5409,
+    "name": "牵引绳与项圈",
+    "parentId": 5039
+  },
+  {
+    "alias": "Produtos de higiene para pets",
+    "id": 5410,
+    "name": "宠物清洁护理",
+    "parentId": 5039
+  },
+  {
+    "alias": "Caixa de areia para gatos",
+    "id": 5411,
+    "name": "猫砂/猫砂盆",
+    "parentId": 5039
+  },
+  {
+    "alias": "Transportadoras para pets",
+    "id": 5412,
+    "name": "宠物运输箱",
+    "parentId": 5039
+  },
+  {
+    "alias": "Petiscos para pets",
+    "id": 5413,
+    "name": "宠物零食",
+    "parentId": 5039
+  },
+  {
+    "alias": "Ração para gatos",
+    "id": 5414,
+    "name": "猫粮",
+    "parentId": 5039
+  },
+  {
+    "alias": "Ração para cães",
+    "id": 5415,
+    "name": "狗粮",
+    "parentId": 5039
+  },
+  {
+    "alias": "Tire",
+    "id": 5416,
+    "name": "轮胎",
+    "parentId": 5034
+  },
+  {
+    "alias": "Car Subscription",
+    "id": 5417,
+    "name": "汽车租购",
+    "parentId": 5868
+  },
+  {
+    "alias": "funeral parlor",
+    "id": 5418,
+    "name": "殡仪馆",
+    "parentId": 5864
+  },
+  {
+    "alias": "SofaCleaning",
+    "id": 5419,
+    "name": "沙发清洁",
+    "parentId": 5883
+  },
+  {
+    "alias": "SelectionMethod",
+    "id": 5420,
+    "name": "选机方式",
+    "parentId": 5334
+  },
+  {
+    "alias": "PipeDredging",
+    "id": 5421,
+    "name": "管道疏通",
+    "parentId": 5867
+  },
+  {
+    "alias": "smart socket",
+    "id": 5422,
+    "name": "智能插座",
+    "parentId": 5856
+  },
+  {
+    "alias": "smart light",
+    "id": 5423,
+    "name": "智能灯",
+    "parentId": 5856
+  },
+  {
+    "alias": "IP camera",
+    "id": 5424,
+    "name": "网络摄像头",
+    "parentId": 5010
+  },
+  {
+    "alias": "Ski Holidays",
+    "id": 5425,
+    "name": "滑雪旅行",
+    "parentId": 5877
+  },
+  {
+    "alias": "Heating maintenance",
+    "id": 5426,
+    "name": "供暖维修",
+    "parentId": 5855
+  },
+  {
+    "alias": "Packaging work",
+    "id": 5427,
+    "name": "包装工作",
+    "parentId": 5908
+  },
+  {
+    "alias": "Laser eye surgery",
+    "id": 5428,
+    "name": "激光眼科手术",
+    "parentId": 5230
+  },
+  {
+    "alias": "buy a laptop pay later",
+    "id": 5429,
+    "name": "分期购买笔记本电脑",
+    "parentId": 5904
+  },
+  {
+    "alias": "AGA hair transplant treatment",
+    "id": 5430,
+    "name": "AGA植发治疗",
+    "parentId": 5842
+  },
+  {
+    "alias": "Usedfurniture",
+    "id": 5431,
+    "name": "二手家具",
+    "parentId": 5882
+  },
+  {
+    "alias": "Japan solar power and policy",
+    "id": 5432,
+    "name": "日本太阳能发电与政策",
+    "parentId": 5341
+  },
+  {
+    "alias": "Laser Eyelid Rejuvenation",
+    "id": 5433,
+    "name": "激光眼睑年轻化",
+    "parentId": 5166
+  },
+  {
+    "alias": "Laser Skin Rejuvenation",
+    "id": 5434,
+    "name": "激光嫩肤/换肤",
+    "parentId": 5166
+  },
+  {
+    "alias": "Laser for Wrinkles",
+    "id": 5435,
+    "name": "激光除皱/抗衰",
+    "parentId": 5166
+  },
+  {
+    "alias": "Laser Scar Treatment",
+    "id": 5436,
+    "name": "激光祛疤/修复",
+    "parentId": 5166
+  },
+  {
+    "alias": "Laser Treatment",
+    "id": 5437,
+    "name": "激光治疗",
+    "parentId": 5027
+  },
+  {
+    "alias": "Laser Treatment Face",
+    "id": 5438,
+    "name": "激光面部治疗",
+    "parentId": 5437
+  },
+  {
+    "alias": "Used Car Financing",
+    "id": 5439,
+    "name": "二手车分期",
+    "parentId": 5905
+  },
+  {
+    "alias": "Truck ",
+    "id": 5440,
+    "name": "卡车",
+    "parentId": 5871
+  },
+  {
+    "alias": "used car finance",
+    "id": 5441,
+    "name": "分期购买二手车",
+    "parentId": 5036
+  },
+  {
+    "alias": "hire purchase (HP) for used cars",
+    "id": 5442,
+    "name": "二手车分期付款",
+    "parentId": 5036
+  },
+  {
+    "alias": "personal contract purchase (PCP) for used cars",
+    "id": 5443,
+    "name": "二手车个人合同购买",
+    "parentId": 5036
+  },
+  {
+    "alias": "used car loan",
+    "id": 5444,
+    "name": "二手车贷款",
+    "parentId": 5036
+  },
+  {
+    "alias": "dealer finance for used cars",
+    "id": 5445,
+    "name": "经销商二手车贷款",
+    "parentId": 5036
+  },
+  {
+    "alias": "bank loan for used car",
+    "id": 5446,
+    "name": "银行二手车贷款",
+    "parentId": 5036
+  },
+  {
+    "alias": "bad credit used car finance",
+    "id": 5447,
+    "name": "信用不良二手车分期",
+    "parentId": 5036
+  },
+  {
+    "alias": "zero deposit used car finance",
+    "id": 5448,
+    "name": "零首付二手车分期",
+    "parentId": 5036
+  },
+  {
+    "alias": "used car finance interest rates",
+    "id": 5449,
+    "name": "二手车分期利率",
+    "parentId": 5036
+  },
+  {
+    "alias": "PCP deals for used cars",
+    "id": 5450,
+    "name": "二手车PCP优惠",
+    "parentId": 5036
+  },
+  {
+    "alias": "Fleet insurance",
+    "id": 5451,
+    "name": "车队保险",
+    "parentId": 5035
+  },
+  {
+    "alias": "Short-term car insurance",
+    "id": 5452,
+    "name": "短期汽车保险",
+    "parentId": 5035
+  },
+  {
+    "alias": "Fully comprehensive car insurance",
+    "id": 5453,
+    "name": "全险",
+    "parentId": 5035
+  },
+  {
+    "alias": "Third party car insurance",
+    "id": 5454,
+    "name": "第三方责任险",
+    "parentId": 5035
+  },
+  {
+    "alias": "Boiler service",
+    "id": 5455,
+    "name": "锅炉服务",
+    "parentId": 5855
+  },
+  {
+    "alias": "Non-Surgical Double Chin Reduction",
+    "id": 5456,
+    "name": "非手术去双下巴",
+    "parentId": 5583
+  },
+  {
+    "alias": "Weddingplanning",
+    "id": 5457,
+    "name": "婚礼策划",
+    "parentId": 5863
+  },
+  {
+    "alias": "Cosmetics",
+    "id": 5458,
+    "name": "化妆品",
+    "parentId": 5003
+  },
+  {
+    "alias": "FacialBeauty",
+    "id": 5459,
+    "name": "面部美容",
+    "parentId": 5583
+  },
+  {
+    "alias": "Pet Adoption",
+    "id": 5460,
+    "name": "宠物领养",
+    "parentId": 5885
+  },
+  {
+    "alias": "Employment",
+    "id": 5461,
+    "name": "招聘",
+    "parentId": 5853
+  },
+  {
+    "alias": "pet ownership",
+    "id": 5462,
+    "name": "宠物饲养",
+    "parentId": 5885
+  },
+  {
+    "alias": "Emergency Plumbing Services",
+    "id": 5463,
+    "name": "紧急水管维修",
+    "parentId": 5867
+  },
+  {
+    "alias": "Driver's license training",
+    "id": 5464,
+    "name": "驾照培训",
+    "parentId": 5008
+  },
+  {
+    "alias": "Gaming Devices",
+    "id": 5465,
+    "name": "游戏设备",
+    "parentId": 5279
+  },
+  {
+    "alias": "Pension Insurance",
+    "id": 5466,
+    "name": "养老保险",
+    "parentId": 5872
+  },
+  {
+    "alias": "Facial Rejuvenation",
+    "id": 5467,
+    "name": "激光面部年轻化",
+    "parentId": 5166
+  },
+  {
+    "alias": "Developers wrote",
+    "id": 5468,
+    "name": "开发者编写",
+    "parentId": 5173
+  },
+  {
+    "alias": "Intelligent Customer Service",
+    "id": 5469,
+    "name": "智能客服",
+    "parentId": 5173
+  },
+  {
+    "alias": "Ad script",
+    "id": 5470,
+    "name": "广告脚本",
+    "parentId": 5173
+  },
+  {
+    "alias": "Design materials",
+    "id": 5471,
+    "name": "设计素材",
+    "parentId": 5173
+  },
+  {
+    "alias": "Email Classification",
+    "id": 5472,
+    "name": "邮件分类",
+    "parentId": 5173
+  },
+  {
+    "alias": "Cloned voice",
+    "id": 5473,
+    "name": "克隆语音",
+    "parentId": 5255
+  },
+  {
+    "alias": "AI programming debugging",
+    "id": 5474,
+    "name": "AI编程调试",
+    "parentId": 5255
+  },
+  {
+    "alias": "Code fix",
+    "id": 5475,
+    "name": "修复代码",
+    "parentId": 5255
+  },
+  {
+    "alias": "Collaboration tools",
+    "id": 5476,
+    "name": "协作工具",
+    "parentId": 5255
+  },
+  {
+    "alias": "AI Music",
+    "id": 5477,
+    "name": "AI音乐",
+    "parentId": 5255
+  },
+  {
+    "alias": "Strategic investment",
+    "id": 5478,
+    "name": "战略性投资",
+    "parentId": 5229
+  },
+  {
+    "alias": "Financial returns",
+    "id": 5479,
+    "name": "财务回报",
+    "parentId": 5229
+  },
+  {
+    "alias": "Value-added services",
+    "id": 5480,
+    "name": "增值服务",
+    "parentId": 5229
+  },
+  {
+    "alias": "Asset allocation",
+    "id": 5481,
+    "name": "资产配置",
+    "parentId": 5229
+  },
+  {
+    "alias": "Investment Platform",
+    "id": 5482,
+    "name": "投资平台",
+    "parentId": 5229
+  },
+  {
+    "alias": "Advanced Therapies",
+    "id": 5483,
+    "name": "先进疗法",
+    "parentId": 5304
+  },
+  {
+    "alias": "Health Resort",
+    "id": 5484,
+    "name": "健康度假村",
+    "parentId": 5304
+  },
+  {
+    "alias": "Hormone optimization",
+    "id": 5485,
+    "name": "荷尔蒙优化",
+    "parentId": 5304
+  },
+  {
+    "alias": "Postpartum recovery",
+    "id": 5486,
+    "name": "产后康复",
+    "parentId": 5304
+  },
+  {
+    "alias": "Medical consultant accompaniment",
+    "id": 5487,
+    "name": "医疗顾问陪诊",
+    "parentId": 5304
+  },
+  {
+    "alias": "Professional Investment",
+    "id": 5488,
+    "name": "专业投资",
+    "parentId": 5846
+  },
+  {
+    "alias": "Value Investing",
+    "id": 5489,
+    "name": "价值投资",
+    "parentId": 5488
+  },
+  {
+    "alias": "Growth investing",
+    "id": 5490,
+    "name": "成长型投资",
+    "parentId": 5488
+  },
+  {
+    "alias": "Quantitative Investment",
+    "id": 5491,
+    "name": "量化投资",
+    "parentId": 5488
+  },
+  {
+    "alias": "Hedge fund strategies",
+    "id": 5492,
+    "name": "对冲基金策略",
+    "parentId": 5488
+  },
+  {
+    "alias": "Alternative Investments",
+    "id": 5493,
+    "name": "另类投资",
+    "parentId": 5488
+  },
+  {
+    "alias": "e-commerce training course",
+    "id": 5494,
+    "name": "电商培训课",
+    "parentId": 5128
+  },
+  {
+    "alias": "Real Estate",
+    "id": 5495,
+    "name": "房地产",
+    "parentId": 5859
+  },
+  {
+    "alias": "Property Sales",
+    "id": 5496,
+    "name": "房地产买卖",
+    "parentId": 5495
+  },
+  {
+    "alias": "Property Rental",
+    "id": 5497,
+    "name": "房地产租赁",
+    "parentId": 5495
+  },
+  {
+    "alias": "Real Estate Investment",
+    "id": 5498,
+    "name": "房地产投资",
+    "parentId": 5495
+  },
+  {
+    "alias": "Apartment Manager",
+    "id": 5499,
+    "name": "公寓管理",
+    "parentId": 5495
+  },
+  {
+    "alias": "Formations en soins infirmiers",
+    "id": 5500,
+    "name": "护理课程",
+    "parentId": 5160
+  },
+  {
+    "alias": "Diplôme d'État d'infirmier (DEI)",
+    "id": 5501,
+    "name": "护理学学位",
+    "parentId": 5160
+  },
+  {
+    "alias": "Formation pour devenir infirmier diplômé d'État",
+    "id": 5502,
+    "name": "注册护士课程",
+    "parentId": 5160
+  },
+  {
+    "alias": "Formation en soins aux adultes",
+    "id": 5503,
+    "name": "成人护理课程",
+    "parentId": 5160
+  },
+  {
+    "alias": "Formation en soins infirmiers pédiatriques",
+    "id": 5504,
+    "name": "儿科护理课程",
+    "parentId": 5160
+  },
+  {
+    "alias": "Formation en soins gériatriques",
+    "id": 5505,
+    "name": "老年护理课程",
+    "parentId": 5160
+  },
+  {
+    "alias": "Formation en soins d'urgence",
+    "id": 5506,
+    "name": "急救护理课程",
+    "parentId": 5160
+  },
+  {
+    "alias": "Formation IBODE (infirmier de bloc opératoire)",
+    "id": 5507,
+    "name": "手术室护理课程",
+    "parentId": 5160
+  },
+  {
+    "alias": "Formation en soins psychiatriques / psychiatrie infirmière",
+    "id": 5508,
+    "name": "精神科护理课程",
+    "parentId": 5160
+  },
+  {
+    "alias": "Formation continue pour infirmiers",
+    "id": 5509,
+    "name": "护理继续教育",
+    "parentId": 5160
+  },
+  {
+    "alias": "Nursing training programs",
+    "id": 5510,
+    "name": "护理培训课程",
+    "parentId": 5511
+  },
+  {
+    "alias": "nurse",
+    "id": 5511,
+    "name": "护理",
+    "parentId": 5027
+  },
+  {
+    "alias": "formation infirmière (diplôme d'État)",
+    "id": 5512,
+    "name": "护理专业课程",
+    "parentId": 5511
+  },
+  {
+    "alias": "formation d'aide-soignant",
+    "id": 5513,
+    "name": "助理护理课程",
+    "parentId": 5511
+  },
+  {
+    "alias": "stage clinique en soins infirmiers",
+    "id": 5514,
+    "name": "临床护理实习",
+    "parentId": 5511
+  },
+  {
+    "alias": "cours de compétences infirmières (gestes techniques)",
+    "id": 5515,
+    "name": "护理技能培训",
+    "parentId": 5511
+  },
+  {
+    "alias": "formation en soins palliatifs",
+    "id": 5516,
+    "name": "临终关怀护理课程",
+    "parentId": 5511
+  },
+  {
+    "alias": "hair loss",
+    "id": 5517,
+    "name": "脱发治疗",
+    "parentId": 5842
+  },
+  {
+    "alias": "Medical Logistics",
+    "id": 5518,
+    "name": "医疗后勤",
+    "parentId": 5027
+  },
+  {
+    "alias": "Surgical instruments",
+    "id": 5519,
+    "name": "手术器械",
+    "parentId": 5518
+  },
+  {
+    "alias": "Medical supply chain",
+    "id": 5520,
+    "name": "医疗供应链",
+    "parentId": 5518
+  },
+  {
+    "alias": "Infection prevention",
+    "id": 5521,
+    "name": "感染预防",
+    "parentId": 5518
+  },
+  {
+    "alias": "Hospital building facilities",
+    "id": 5522,
+    "name": "医院建筑设施",
+    "parentId": 5518
+  },
+  {
+    "alias": "Patient transfer",
+    "id": 5523,
+    "name": "患者转运",
+    "parentId": 5518
+  },
+  {
+    "alias": "AI security",
+    "id": 5524,
+    "name": "AI安全",
+    "parentId": 5880
+  },
+  {
+    "alias": "Safety-critical systems",
+    "id": 5525,
+    "name": "安全关键系统",
+    "parentId": 5524
+  },
+  {
+    "alias": "Audit tools",
+    "id": 5526,
+    "name": "审计工具",
+    "parentId": 5524
+  },
+  {
+    "alias": "Software Bill of Materials",
+    "id": 5527,
+    "name": "软件物料清单",
+    "parentId": 5524
+  },
+  {
+    "alias": "Privacy protection",
+    "id": 5528,
+    "name": "隐私保护",
+    "parentId": 5524
+  },
+  {
+    "alias": "Application risks",
+    "id": 5529,
+    "name": "应用风险",
+    "parentId": 5524
+  },
+  {
+    "alias": "Financial institutions",
+    "id": 5530,
+    "name": "金融机构",
+    "parentId": 5000
+  },
+  {
+    "alias": "Investment Bank",
+    "id": 5531,
+    "name": "投资银行",
+    "parentId": 5530
+  },
+  {
+    "alias": "Securities underwriting",
+    "id": 5532,
+    "name": "证券承销",
+    "parentId": 5530
+  },
+  {
+    "alias": "asset management company",
+    "id": 5533,
+    "name": "资产管理公司",
+    "parentId": 5530
+  },
+  {
+    "alias": "Trust services",
+    "id": 5534,
+    "name": "信托服务",
+    "parentId": 5530
+  },
+  {
+    "alias": "Leveraged buyout",
+    "id": 5535,
+    "name": "杠杆收购",
+    "parentId": 5530
+  },
+  {
+    "alias": "Modern Facelift Options in the U.S. for Natural-Looking Results",
+    "id": 5536,
+    "name": "面部提拉1",
+    "parentId": 5162
+  },
+  {
+    "alias": "E-commerce warehouse packaging",
+    "id": 5537,
+    "name": "电商仓库打包",
+    "parentId": 5908
+  },
+  {
+    "alias": "AI视频",
+    "id": 5538,
+    "name": "AI视频",
+    "parentId": 5796
+  },
+  {
+    "alias": "Making money with AI Tik Tok shorts",
+    "id": 5539,
+    "name": "AI制作短视频",
+    "parentId": 5910
+  },
+  {
+    "alias": "E-commerce platform courses",
+    "id": 5540,
+    "name": "电商与平台课程",
+    "parentId": 5183
+  },
+  {
+    "alias": "Digital devices",
+    "id": 5541,
+    "name": "数码设备",
+    "parentId": 5279
+  },
+  {
+    "alias": "Hotel services",
+    "id": 5542,
+    "name": "酒店岗位",
+    "parentId": 5861
+  },
+  {
+    "alias": "Pro Bono Immigration Agent",
+    "id": 5543,
+    "name": "移民律师服务",
+    "parentId": 5011
+  },
+  {
+    "alias": "Physical Therapy Clinics",
+    "id": 5544,
+    "name": "理疗诊所",
+    "parentId": 5032
+  },
+  {
+    "alias": "Ipad",
+    "id": 5545,
+    "name": "ipad分期",
+    "parentId": 5845
+  },
+  {
+    "alias": "Backpack",
+    "id": 5546,
+    "name": "背包",
+    "parentId": 5281
+  },
+  {
+    "alias": "Self-Employed Loan",
+    "id": 5547,
+    "name": "自雇贷款",
+    "parentId": 5844
+  },
+  {
+    "alias": "Annual Vehicle Inspection",
+    "id": 5548,
+    "name": "车检",
+    "parentId": 5870
+  },
+  {
+    "alias": "Locksmith Services",
+    "id": 5549,
+    "name": "锁匠服务",
+    "parentId": 5867
+  },
+  {
+    "alias": "mortgageLoan",
+    "id": 5550,
+    "name": "抵押咨询",
+    "parentId": 5844
+  },
+  {
+    "alias": "Soins à domicile",
+    "id": 5551,
+    "name": "上门护理",
+    "parentId": 5011
+  },
+  {
+    "alias": "Aide à domicile pour personnes âgées",
+    "id": 5552,
+    "name": "居家老人照护",
+    "parentId": 5865
+  },
+  {
+    "alias": "Garde d'enfants à domicile",
+    "id": 5553,
+    "name": "保姆/育儿看护",
+    "parentId": 5886
+  },
+  {
+    "alias": "Ménage et repassage",
+    "id": 5554,
+    "name": "清洁与熨烫",
+    "parentId": 5866
+  },
+  {
+    "alias": "Cours particuliers / Soutien scolaire",
+    "id": 5555,
+    "name": "家庭教师/辅导",
+    "parentId": 5008
+  },
+  {
+    "alias": "Garde d'animaux (pet-sitting)",
+    "id": 5556,
+    "name": "宠物看护",
+    "parentId": 5885
+  },
+  {
+    "alias": "Massage à domicile / Soins de bien-être à domicile",
+    "id": 5557,
+    "name": "上门按摩与理疗",
+    "parentId": 5003
+  },
+  {
+    "alias": "Jardinage à domicile / Entretien extérieur",
+    "id": 5558,
+    "name": "园艺与室外维护",
+    "parentId": 5123
+  },
+  {
+    "alias": "storehouse",
+    "id": 5559,
+    "name": "仓库",
+    "parentId": 5862
+  },
+  {
+    "alias": "Centro di distribuzione",
+    "id": 5560,
+    "name": "配送中心",
+    "parentId": 5559
+  },
+  {
+    "alias": "Magazzino refrigerato",
+    "id": 5561,
+    "name": "冷藏仓库",
+    "parentId": 5559
+  },
+  {
+    "alias": "Self storage",
+    "id": 5562,
+    "name": "自助仓/自存仓",
+    "parentId": 5559
+  },
+  {
+    "alias": "Magazzino automatizzato",
+    "id": 5563,
+    "name": "自动化仓库",
+    "parentId": 5559
+  },
+  {
+    "alias": "Magazzino doganale",
+    "id": 5564,
+    "name": "保税仓",
+    "parentId": 5559
+  },
+  {
+    "alias": "Magazzino temporaneo",
+    "id": 5565,
+    "name": "临时仓库",
+    "parentId": 5559
+  },
+  {
+    "alias": "Magazzino automatico a scaffalature",
+    "id": 5566,
+    "name": "立体库",
+    "parentId": 5559
+  },
+  {
+    "alias": "Magazzino per merci pericolose",
+    "id": 5567,
+    "name": "危险品仓库",
+    "parentId": 5559
+  },
+  {
+    "alias": "Magazzino logistico",
+    "id": 5568,
+    "name": "物流仓库/物流园区仓库",
+    "parentId": 5559
+  },
+  {
+    "alias": "Private services",
+    "id": 5569,
+    "name": "私人服务",
+    "parentId": 5011
+  },
+  {
+    "alias": "Laser liposuction price",
+    "id": 5570,
+    "name": "激光吸脂价格",
+    "parentId": 5245
+  },
+  {
+    "alias": "Refrigerator installment plan",
+    "id": 5571,
+    "name": "冰箱分期",
+    "parentId": 5906
+  },
+  {
+    "alias": "Electronics Installment Plan",
+    "id": 5572,
+    "name": "电子产品分期",
+    "parentId": 5904
+  },
+  {
+    "alias": "Oberlidstraffung",
+    "id": 5573,
+    "name": "上睑成形术",
+    "parentId": 5902
+  },
+  {
+    "alias": "Unterlidstraffung",
+    "id": 5574,
+    "name": "下睑成形术",
+    "parentId": 5902
+  },
+  {
+    "alias": "Entfernung von Tränensäcken",
+    "id": 5575,
+    "name": "眼袋去除",
+    "parentId": 5902
+  },
+  {
+    "alias": "Asiatische Lidplastik (Doppelte Lidfalte)",
+    "id": 5576,
+    "name": "双眼皮手术",
+    "parentId": 5902
+  },
+  {
+    "alias": "Minimalinvasive Blepharoplastik",
+    "id": 5577,
+    "name": "微创眼睑手术",
+    "parentId": 5902
+  },
+  {
+    "alias": "Kosten der Blepharoplastik",
+    "id": 5578,
+    "name": "眼睑整形费用",
+    "parentId": 5902
+  },
+  {
+    "alias": "Heilungsdauer nach Blepharoplastik",
+    "id": 5579,
+    "name": "眼睑整形恢复期",
+    "parentId": 5902
+  },
+  {
+    "alias": "Blepharoplastik-Chirurg in Deutschland",
+    "id": 5580,
+    "name": "眼睑整形医生（德国）",
+    "parentId": 5902
+  },
+  {
+    "alias": "Implantación inmediata",
+    "id": 5581,
+    "name": "即刻种植",
+    "parentId": 5020
+  },
+  {
+    "alias": "Prótesis sobre implantes / Corona sobre implante",
+    "id": 5582,
+    "name": "种植牙修复/牙冠",
+    "parentId": 5020
+  },
+  {
+    "alias": "Cosmetic medicine",
+    "id": 5583,
+    "name": "医美",
+    "parentId": 5003
+  },
+  {
+    "alias": "Chirurgie esthétique",
+    "id": 5584,
+    "name": "整形",
+    "parentId": 5902
+  },
+  {
+    "alias": "Injections d'acide hyaluronique",
+    "id": 5585,
+    "name": "玻尿酸填充",
+    "parentId": 5901
+  },
+  {
+    "alias": "Soins dermatologiques",
+    "id": 5586,
+    "name": "皮肤护理",
+    "parentId": 5903
+  },
+  {
+    "alias": "Lifting du visage",
+    "id": 5587,
+    "name": "面部提升",
+    "parentId": 5903
+  },
+  {
+    "alias": "Liposuccion",
+    "id": 5588,
+    "name": "脂肪抽吸",
+    "parentId": 5903
+  },
+  {
+    "alias": "Augmentation mammaire",
+    "id": 5589,
+    "name": "隆胸",
+    "parentId": 5903
+  },
+  {
+    "alias": "Dentisterie esthétique",
+    "id": 5590,
+    "name": "牙齿美容",
+    "parentId": 5583
+  },
+  {
+    "alias": "Injections anti-rides (Botox)",
+    "id": 5591,
+    "name": "注射除皱",
+    "parentId": 5901
+  },
+  {
+    "alias": "WatchInstallment",
+    "id": 5592,
+    "name": "腕表分期",
+    "parentId": 5906
+  },
+  {
+    "alias": "GoldInstallment",
+    "id": 5593,
+    "name": "金饰分期",
+    "parentId": 5845
+  },
+  {
+    "alias": "PhoneTradein",
+    "id": 5594,
+    "name": "以旧换新",
+    "parentId": 5334
+  },
+  {
+    "alias": "MarketGifts",
+    "id": 5595,
+    "name": "营销礼品",
+    "parentId": 5007
+  },
+  {
+    "alias": "Vision Correction",
+    "id": 5596,
+    "name": "视力矫正",
+    "parentId": 5230
+  },
+  {
+    "alias": "HeatPump",
+    "id": 5597,
+    "name": "热泵",
+    "parentId": 5219
+  },
+  {
+    "alias": "Air conditioner",
+    "id": 5598,
+    "name": "空调",
+    "parentId": 5219
+  },
+  {
+    "alias": "invisible aligners",
+    "id": 5599,
+    "name": "隐形牙套",
+    "parentId": 5342
+  },
+  {
+    "alias": "personal de limpieza",
+    "id": 5600,
+    "name": "清洁工",
+    "parentId": 5909
+  },
+  {
+    "alias": "Affordable apartment rental",
+    "id": 5601,
+    "name": "实惠公寓租赁",
+    "parentId": 5857
+  },
+  {
+    "alias": "How to rent an apartment near me",
+    "id": 5602,
+    "name": "附近公寓指南",
+    "parentId": 5859
+  },
+  {
+    "alias": "Pintor",
+    "id": 5603,
+    "name": "油漆工",
+    "parentId": 5907
+  },
+  {
+    "alias": "Lifting facial",
+    "id": 5604,
+    "name": "面部拉皮",
+    "parentId": 5583
+  },
+  {
+    "alias": "shampoo anticaída",
+    "id": 5605,
+    "name": "防脱洗发水",
+    "parentId": 5852
+  },
+  {
+    "alias": "productos para el crecimiento del cabello",
+    "id": 5606,
+    "name": "生发产品",
+    "parentId": 5852
+  },
+  {
+    "alias": "trasplante capilar",
+    "id": 5607,
+    "name": "头发移植",
+    "parentId": 5852
+  },
+  {
+    "alias": "trasplante de folículos pilosos",
+    "id": 5608,
+    "name": "毛囊移植",
+    "parentId": 5852
+  },
+  {
+    "alias": "clínica de trasplante capilar",
+    "id": 5609,
+    "name": "植发诊所",
+    "parentId": 5852
+  },
+  {
+    "alias": "minoxidil",
+    "id": 5610,
+    "name": "米诺地尔",
+    "parentId": 5852
+  },
+  {
+    "alias": "finasterida",
+    "id": 5611,
+    "name": "非那雄胺",
+    "parentId": 5852
+  },
+  {
+    "alias": "terapia láser capilar",
+    "id": 5612,
+    "name": "激光生发治疗",
+    "parentId": 5852
+  },
+  {
+    "alias": "microneedling capilar",
+    "id": 5613,
+    "name": "头皮微针治疗",
+    "parentId": 5852
+  },
+  {
+    "alias": "Laser treatment",
+    "id": 5614,
+    "name": "激光治疗（皮肤/祛斑/医美等）",
+    "parentId": 5027
+  },
+  {
+    "alias": "Liver Health",
+    "id": 5615,
+    "name": "肝脏健康",
+    "parentId": 5842
+  },
+  {
+    "alias": "Personal Investing",
+    "id": 5616,
+    "name": "个人投资",
+    "parentId": 5846
+  },
+  {
+    "alias": "Joint Investment Account",
+    "id": 5617,
+    "name": "支票账户",
+    "parentId": 5847
+  },
+  {
+    "alias": "Cuidado privado de personas mayores",
+    "id": 5618,
+    "name": "私人护理（照顾老人）",
+    "parentId": 5865
+  },
+  {
+    "alias": "Atención domiciliaria",
+    "id": 5619,
+    "name": "家庭护理",
+    "parentId": 5865
+  },
+  {
+    "alias": "Cuidador/a",
+    "id": 5620,
+    "name": "护理员",
+    "parentId": 5011
+  },
+  {
+    "alias": "Cuidado de personas mayores",
+    "id": 5621,
+    "name": "老人看护",
+    "parentId": 5011
+  },
+  {
+    "alias": "Servicios de atención a personas mayores",
+    "id": 5622,
+    "name": "老年护理服务",
+    "parentId": 5865
+  },
+  {
+    "alias": "Cuidados paliativos",
+    "id": 5623,
+    "name": "临终关怀",
+    "parentId": 5865
+  },
+  {
+    "alias": "Asistencia 24 horas",
+    "id": 5624,
+    "name": "住家护理",
+    "parentId": 5865
+  },
+  {
+    "alias": "Centro de día para personas mayores",
+    "id": 5625,
+    "name": "日间护理",
+    "parentId": 5865
+  },
+  {
+    "alias": "Atención a personas con demencia",
+    "id": 5626,
+    "name": "记忆护理",
+    "parentId": 5865
+  },
+  {
+    "alias": "Enfermería a domicilio",
+    "id": 5627,
+    "name": "医疗护理上门",
+    "parentId": 5865
+  },
+  {
+    "alias": "Financial regulation",
+    "id": 5628,
+    "name": "金融监管",
+    "parentId": 5000
+  },
+  {
+    "alias": "Regulatory agencies",
+    "id": 5629,
+    "name": "监管机构",
+    "parentId": 5628
+  },
+  {
+    "alias": "Anti-money laundering",
+    "id": 5630,
+    "name": "反洗钱",
+    "parentId": 5628
+  },
+  {
+    "alias": "Financial consumers",
+    "id": 5631,
+    "name": "金融消费者",
+    "parentId": 5628
+  },
+  {
+    "alias": "Financial Intelligence Center",
+    "id": 5632,
+    "name": "金融情报中心",
+    "parentId": 5628
+  },
+  {
+    "alias": "Financial protection",
+    "id": 5633,
+    "name": "金融保护",
+    "parentId": 5628
+  },
+  {
+    "alias": "Financial information service institutions",
+    "id": 5634,
+    "name": "金融信息服务机构",
+    "parentId": 5849
+  },
+  {
+    "alias": "Financial Data Market",
+    "id": 5635,
+    "name": "金融数据市场",
+    "parentId": 5634
+  },
+  {
+    "alias": "Financial instruments",
+    "id": 5636,
+    "name": "金融工具",
+    "parentId": 5634
+  },
+  {
+    "alias": "cloud analytics platform",
+    "id": 5637,
+    "name": "云分析平台",
+    "parentId": 5634
+  },
+  {
+    "alias": "Portfolio",
+    "id": 5638,
+    "name": "投资组合",
+    "parentId": 5634
+  },
+  {
+    "alias": "Trading Quotes",
+    "id": 5639,
+    "name": "交易行情",
+    "parentId": 5634
+  },
+  {
+    "alias": "AI Knowledge Base",
+    "id": 5640,
+    "name": "AI知识库",
+    "parentId": 5839
+  },
+  {
+    "alias": "Code Knowledge Base",
+    "id": 5641,
+    "name": "代码知识库",
+    "parentId": 5640
+  },
+  {
+    "alias": "Enterprise Private Knowledge Base",
+    "id": 5642,
+    "name": "企业私有知识库",
+    "parentId": 5640
+  },
+  {
+    "alias": "Academic paper training",
+    "id": 5643,
+    "name": "学术论文训练",
+    "parentId": 5640
+  },
+  {
+    "alias": "Technical Manual",
+    "id": 5644,
+    "name": "技术手册",
+    "parentId": 5640
+  },
+  {
+    "alias": "programming language",
+    "id": 5645,
+    "name": "编程语言",
+    "parentId": 5640
+  },
+  {
+    "alias": "AI risks",
+    "id": 5646,
+    "name": "AI风险",
+    "parentId": 5880
+  },
+  {
+    "alias": "Medical AI Misdiagnosis",
+    "id": 5647,
+    "name": "医疗AI误诊",
+    "parentId": 5646
+  },
+  {
+    "alias": "Automated network attacks",
+    "id": 5648,
+    "name": "自动化网络攻击",
+    "parentId": 5646
+  },
+  {
+    "alias": "Personal privacy leaks",
+    "id": 5649,
+    "name": "个人隐私泄露",
+    "parentId": 5646
+  },
+  {
+    "alias": "Model stealing",
+    "id": 5650,
+    "name": "模型窃取",
+    "parentId": 5646
+  },
+  {
+    "alias": "Data privacy",
+    "id": 5651,
+    "name": "数据隐私",
+    "parentId": 5646
+  },
+  {
+    "alias": "Corporate Recruitment",
+    "id": 5652,
+    "name": "企业招聘",
+    "parentId": 5853
+  },
+  {
+    "alias": "Recruitment Budget Management",
+    "id": 5653,
+    "name": "招聘预算管理",
+    "parentId": 5652
+  },
+  {
+    "alias": "Interview Coordination",
+    "id": 5654,
+    "name": "面试协调",
+    "parentId": 5652
+  },
+  {
+    "alias": "Transconjunctival Orbital Septum Fat Repositioning",
+    "id": 5655,
+    "name": "眶隔脂肪释放术",
+    "parentId": 5583
+  },
+  {
+    "alias": "Professional website building",
+    "id": 5656,
+    "name": "职业网站建设",
+    "parentId": 5652
+  },
+  {
+    "alias": "Recruitment process",
+    "id": 5657,
+    "name": "招聘流程",
+    "parentId": 5652
+  },
+  {
+    "alias": "eye bag removal",
+    "id": 5658,
+    "name": "祛眼袋",
+    "parentId": 5903
+  },
+  {
+    "alias": "Sofa and sofa bed",
+    "id": 5659,
+    "name": "沙发与沙发床",
+    "parentId": 5882
+  },
+  {
+    "alias": "Lid Crease Creation",
+    "id": 5660,
+    "name": "睑皱襞成形术",
+    "parentId": 5583
+  },
+  {
+    "alias": "Health Check",
+    "id": 5661,
+    "name": "体检",
+    "parentId": 5841
+  },
+  {
+    "alias": "Psychological Counseling",
+    "id": 5662,
+    "name": "心理咨询",
+    "parentId": 5026
+  },
+  {
+    "alias": "WaterHeater",
+    "id": 5663,
+    "name": "热水器分期",
+    "parentId": 5905
+  },
+  {
+    "alias": "Complete Bed Set",
+    "id": 5664,
+    "name": "全套床具",
+    "parentId": 5906
+  },
+  {
+    "alias": "Washing Machine",
+    "id": 5665,
+    "name": "洗衣机",
+    "parentId": 5219
+  },
+  {
+    "alias": "CarSubscription",
+    "id": 5666,
+    "name": "汽车订阅",
+    "parentId": 5868
+  },
+  {
+    "alias": "Car Trade-in",
+    "id": 5667,
+    "name": "汽车置换分期",
+    "parentId": 5868
+  },
+  {
+    "alias": "PrivateRental",
+    "id": 5668,
+    "name": "私人租赁",
+    "parentId": 5152
+  },
+  {
+    "alias": "Security Equipment",
+    "id": 5669,
+    "name": "安防设备",
+    "parentId": 5121
+  },
+  {
+    "alias": "Appliances",
+    "id": 5670,
+    "name": "家电分期",
+    "parentId": 5906
+  },
+  {
+    "alias": "Spas",
+    "id": 5671,
+    "name": "水疗",
+    "parentId": 5003
+  },
+  {
+    "alias": "Visa para nómadas digitales en España",
+    "id": 5672,
+    "name": "西班牙数字游民签证",
+    "parentId": 5543
+  },
+  {
+    "alias": "Excavator operator",
+    "id": 5673,
+    "name": "挖掘机操作员",
+    "parentId": 5907
+  },
+  {
+    "alias": "Specialty drugs",
+    "id": 5674,
+    "name": "专科药",
+    "parentId": 5843
+  },
+  {
+    "alias": "Oncology drugs",
+    "id": 5675,
+    "name": "肿瘤专科药",
+    "parentId": 5674
+  },
+  {
+    "alias": "Rare diseases",
+    "id": 5676,
+    "name": "罕见疾病",
+    "parentId": 5674
+  },
+  {
+    "alias": "Complex generic drugs",
+    "id": 5677,
+    "name": "复杂仿制药",
+    "parentId": 5674
+  },
+  {
+    "alias": "Nervous system diseases",
+    "id": 5678,
+    "name": "神经系统疾病",
+    "parentId": 5674
+  },
+  {
+    "alias": "Vaccine program",
+    "id": 5679,
+    "name": "疫苗方案",
+    "parentId": 5674
+  },
+  {
+    "alias": "Disease field",
+    "id": 5680,
+    "name": "疾病领域",
+    "parentId": 5842
+  },
+  {
+    "alias": "Infectious diseases",
+    "id": 5681,
+    "name": "传染性疾病",
+    "parentId": 5680
+  },
+  {
+    "alias": "Innovative Therapies",
+    "id": 5682,
+    "name": "创新疗法",
+    "parentId": 5680
+  },
+  {
+    "alias": "depression",
+    "id": 5683,
+    "name": "抑郁症",
+    "parentId": 5680
+  },
+  {
+    "alias": "Inflammatory diseases",
+    "id": 5684,
+    "name": "炎症性疾病",
+    "parentId": 5680
+  },
+  {
+    "alias": "Congenital diseases",
+    "id": 5685,
+    "name": "先天性疾病",
+    "parentId": 5680
+  },
+  {
+    "alias": "Home disaster prevention investment",
+    "id": 5686,
+    "name": "家庭防灾投资",
+    "parentId": 5846
+  },
+  {
+    "alias": "dishwasher",
+    "id": 5687,
+    "name": "洗碗工",
+    "parentId": 5909
+  },
+  {
+    "alias": "nanny",
+    "id": 5688,
+    "name": "保姆",
+    "parentId": 5886
+  },
+  {
+    "alias": "electric welder",
+    "id": 5689,
+    "name": "电焊工",
+    "parentId": 5907
+  },
+  {
+    "alias": "Drug development",
+    "id": 5690,
+    "name": "药物研发",
+    "parentId": 5843
+  },
+  {
+    "alias": "Healthcare decision",
+    "id": 5691,
+    "name": "医保决策",
+    "parentId": 5690
+  },
+  {
+    "alias": "Formulation development",
+    "id": 5692,
+    "name": "制剂开发",
+    "parentId": 5690
+  },
+  {
+    "alias": "Pricing and Reimbursement",
+    "id": 5693,
+    "name": "定价与报销",
+    "parentId": 5690
+  },
+  {
+    "alias": "Consumer protection",
+    "id": 5694,
+    "name": "消费者保护",
+    "parentId": 5117
+  },
+  {
+    "alias": "Digital rights protection",
+    "id": 5695,
+    "name": "数字权利保护",
+    "parentId": 5694
+  },
+  {
+    "alias": "Marketing Conduct Guidelines",
+    "id": 5696,
+    "name": "营销行为规范",
+    "parentId": 5694
+  },
+  {
+    "alias": "Consumer Education",
+    "id": 5697,
+    "name": "消费者教育",
+    "parentId": 5694
+  },
+  {
+    "alias": "Risk Warning",
+    "id": 5698,
+    "name": "风险警示",
+    "parentId": 5694
+  },
+  {
+    "alias": "Food and Drug Supervision",
+    "id": 5699,
+    "name": "食品药品监督",
+    "parentId": 5694
+  },
+  {
+    "alias": "Air conditioner cleaning",
+    "id": 5700,
+    "name": "空调清洗",
+    "parentId": 5363
+  },
+  {
+    "alias": " agriculture",
+    "id": 5701,
+    "name": "农业",
+    "parentId": 5010
+  },
+  {
+    "alias": "Ganadería",
+    "id": 5702,
+    "name": "畜牧业",
+    "parentId": 5701
+  },
+  {
+    "alias": "Treatment of lower back pain",
+    "id": 5703,
+    "name": "下背部疼痛的治疗",
+    "parentId": 5023
+  },
+  {
+    "alias": "Electricity Bill",
+    "id": 5704,
+    "name": "电费",
+    "parentId": 5850
+  },
+  {
+    "alias": "Pest control agencies",
+    "id": 5705,
+    "name": "害虫防治",
+    "parentId": 5855
+  },
+  {
+    "alias": "Motorcycle accident",
+    "id": 5706,
+    "name": "摩托车事故",
+    "parentId": 5119
+  },
+  {
+    "alias": "data Plan",
+    "id": 5707,
+    "name": "数据套餐",
+    "parentId": 5130
+  },
+  {
+    "alias": "drunk driving accident lawyer",
+    "id": 5708,
+    "name": "酒驾交通事故律师",
+    "parentId": 5119
+  },
+  {
+    "alias": "SMELoans",
+    "id": 5709,
+    "name": "企业贷款",
+    "parentId": 5844
+  },
+  {
+    "alias": "Cabinet",
+    "id": 5710,
+    "name": "橱柜",
+    "parentId": 5882
+  },
+  {
+    "alias": "MassageChair",
+    "id": 5711,
+    "name": "按摩椅分期",
+    "parentId": 5906
+  },
+  {
+    "alias": "Gas Combi Boiler",
+    "id": 5712,
+    "name": "燃气挂壁炉",
+    "parentId": 5219
+  },
+  {
+    "alias": "Energy supplier",
+    "id": 5713,
+    "name": "能源供应商",
+    "parentId": 5123
+  },
+  {
+    "alias": "Intra-City Delivery",
+    "id": 5714,
+    "name": "同城配送",
+    "parentId": 5168
+  },
+  {
+    "alias": "GamingPartner",
+    "id": 5715,
+    "name": "游戏陪玩",
+    "parentId": 5909
+  },
+  {
+    "alias": "Rhinoplasty",
+    "id": 5716,
+    "name": "鼻整形",
+    "parentId": 5902
+  },
+  {
+    "alias": "Plumbing and Electrical Repair",
+    "id": 5717,
+    "name": "水电维修",
+    "parentId": 5855
+  },
+  {
+    "alias": "SecurityGuard",
+    "id": 5718,
+    "name": "保安",
+    "parentId": 5011
+  },
+  {
+    "alias": "AI wear",
+    "id": 5719,
+    "name": "AI穿搭",
+    "parentId": 5243
+  },
+  {
+    "alias": "Accident Lawyer",
+    "id": 5720,
+    "name": "事故律师",
+    "parentId": 5119
+  },
+  {
+    "alias": "Second-hand market",
+    "id": 5721,
+    "name": "二手市场",
+    "parentId": 5860
+  },
+  {
+    "alias": "yacht rental",
+    "id": 5722,
+    "name": "游艇租赁",
+    "parentId": 5861
+  },
+  {
+    "alias": "desert safari",
+    "id": 5723,
+    "name": "沙漠探险",
+    "parentId": 5877
+  },
+  {
+    "alias": "Road Repair Services",
+    "id": 5724,
+    "name": "道路修补服务",
+    "parentId": 5867
+  },
+  {
+    "alias": "luxury apartment",
+    "id": 5725,
+    "name": "豪华公寓",
+    "parentId": 5495
+  },
+  {
+    "alias": "Restaurant",
+    "id": 5726,
+    "name": "餐厅",
+    "parentId": 5861
+  },
+  {
+    "alias": "RestaurantRecommendations",
+    "id": 5727,
+    "name": "餐厅推荐",
+    "parentId": 5861
+  },
+  {
+    "alias": "Unemployment Insurance",
+    "id": 5728,
+    "name": "失业保险",
+    "parentId": 5872
+  },
+  {
+    "alias": "LeakDetection",
+    "id": 5729,
+    "name": "漏水检测",
+    "parentId": 5855
+  },
+  {
+    "alias": "Laundry",
+    "id": 5730,
+    "name": "洗衣取送",
+    "parentId": 5883
+  },
+  {
+    "alias": "House Cleaning",
+    "id": 5731,
+    "name": "保洁",
+    "parentId": 5866
+  },
+  {
+    "alias": "AI model industry chain",
+    "id": 5732,
+    "name": "AI模型产业链",
+    "parentId": 5913
+  },
+  {
+    "alias": "AI Customized Services",
+    "id": 5733,
+    "name": "AI定制服务",
+    "parentId": 5732
+  },
+  {
+    "alias": "AI Model Evaluation",
+    "id": 5734,
+    "name": "AI模型评估",
+    "parentId": 5732
+  },
+  {
+    "alias": "AI Model Market",
+    "id": 5735,
+    "name": "AI模型市场",
+    "parentId": 5732
+  },
+  {
+    "alias": "AI open-source model community",
+    "id": 5736,
+    "name": "AI开源模型社区",
+    "parentId": 5732
+  },
+  {
+    "alias": "Funeral",
+    "id": 5737,
+    "name": "殡葬",
+    "parentId": 5864
+  },
+  {
+    "alias": "Men’s Grooming",
+    "id": 5738,
+    "name": "男士理容",
+    "parentId": 5003
+  },
+  {
+    "alias": "AI robot",
+    "id": 5739,
+    "name": "AI机器人",
+    "parentId": 5912
+  },
+  {
+    "alias": "Logistics robots",
+    "id": 5740,
+    "name": "物流机器人",
+    "parentId": 5739
+  },
+  {
+    "alias": "Medical Assistive Robots",
+    "id": 5741,
+    "name": "医疗辅助机器人",
+    "parentId": 5739
+  },
+  {
+    "alias": "autonomous vehicles",
+    "id": 5742,
+    "name": "自动驾驶载具",
+    "parentId": 5739
+  },
+  {
+    "alias": "drone delivery",
+    "id": 5743,
+    "name": "无人机配送",
+    "parentId": 5739
+  },
+  {
+    "alias": "Rehabilitation training robot",
+    "id": 5744,
+    "name": "康复训练机器人",
+    "parentId": 5739
+  },
+  {
+    "alias": "Appliance Repair",
+    "id": 5745,
+    "name": "家电维修",
+    "parentId": 5855
+  },
+  {
+    "alias": "autonomous driving",
+    "id": 5746,
+    "name": "自动驾驶",
+    "parentId": 5739
+  },
+  {
+    "alias": "Pet Robot",
+    "id": 5747,
+    "name": "宠物机器人",
+    "parentId": 5739
+  },
+  {
+    "alias": "Company Registration",
+    "id": 5748,
+    "name": "公司注册",
+    "parentId": 5858
+  },
+  {
+    "alias": "Virtual Health Assistant",
+    "id": 5749,
+    "name": "虚拟健康助手",
+    "parentId": 5267
+  },
+  {
+    "alias": "Remote patient monitoring",
+    "id": 5750,
+    "name": "远程患者监护",
+    "parentId": 5267
+  },
+  {
+    "alias": "pharmacovigilance",
+    "id": 5751,
+    "name": "药物警戒",
+    "parentId": 5267
+  },
+  {
+    "alias": "Furniture Setup",
+    "id": 5752,
+    "name": "家具安装",
+    "parentId": 5867
+  },
+  {
+    "alias": "Arthritis",
+    "id": 5753,
+    "name": "关节炎",
+    "parentId": 5023
+  },
+  {
+    "alias": "AI Education Technology",
+    "id": 5754,
+    "name": "AI教育科技",
+    "parentId": 5912
+  },
+  {
+    "alias": "AI tutoring",
+    "id": 5755,
+    "name": "AI辅导",
+    "parentId": 5754
+  },
+  {
+    "alias": "Intelligent content creation",
+    "id": 5756,
+    "name": "智能内容创建",
+    "parentId": 5754
+  },
+  {
+    "alias": "Course Development Tools",
+    "id": 5757,
+    "name": "课程开发工具",
+    "parentId": 5754
+  },
+  {
+    "alias": "Virtual Laboratory",
+    "id": 5758,
+    "name": "虚拟实验室",
+    "parentId": 5754
+  },
+  {
+    "alias": "Lifelong Learning Navigation",
+    "id": 5759,
+    "name": "终身学习导航",
+    "parentId": 5754
+  },
+  {
+    "alias": "AI network security",
+    "id": 5760,
+    "name": "AI网络安全",
+    "parentId": 5913
+  },
+  {
+    "alias": "Fraud detection",
+    "id": 5761,
+    "name": "欺诈检测",
+    "parentId": 5760
+  },
+  {
+    "alias": "Cloud security configuration",
+    "id": 5762,
+    "name": "云安全配置",
+    "parentId": 5760
+  },
+  {
+    "alias": "Access Management",
+    "id": 5763,
+    "name": "访问管理",
+    "parentId": 5760
+  },
+  {
+    "alias": "AI Industry",
+    "id": 5764,
+    "name": "AI工业",
+    "parentId": 5913
+  },
+  {
+    "alias": "Intelligent visual quality inspection",
+    "id": 5765,
+    "name": "智能视觉质检",
+    "parentId": 5764
+  },
+  {
+    "alias": "Predictive maintenance",
+    "id": 5766,
+    "name": "预测性维护",
+    "parentId": 5764
+  },
+  {
+    "alias": "Intelligent logistics",
+    "id": 5767,
+    "name": "物流智能化",
+    "parentId": 5764
+  },
+  {
+    "alias": "Energy Management and Optimization",
+    "id": 5768,
+    "name": "能源管理与优化",
+    "parentId": 5764
+  },
+  {
+    "alias": "Industrial safety",
+    "id": 5769,
+    "name": "工业安全",
+    "parentId": 5764
+  },
+  {
+    "alias": "Varicose Veins",
+    "id": 5770,
+    "name": "非手术静脉曲张移除",
+    "parentId": 5583
+  },
+  {
+    "alias": "Hidden hearing aids",
+    "id": 5771,
+    "name": "隐藏式助听器",
+    "parentId": 5027
+  },
+  {
+    "alias": "Air Fryer",
+    "id": 5772,
+    "name": "空气炸锅",
+    "parentId": 5219
+  },
+  {
+    "alias": "Food Processors",
+    "id": 5773,
+    "name": "破壁机",
+    "parentId": 5219
+  },
+  {
+    "alias": "Air Purifier",
+    "id": 5774,
+    "name": "空气净化器",
+    "parentId": 5219
+  },
+  {
+    "alias": "Food Science and Technology",
+    "id": 5775,
+    "name": "食品科技",
+    "parentId": 5022
+  },
+  {
+    "alias": "Intelligent food processing",
+    "id": 5776,
+    "name": "智能食品加工",
+    "parentId": 5775
+  },
+  {
+    "alias": "Food safety",
+    "id": 5777,
+    "name": "食品安全",
+    "parentId": 5775
+  },
+  {
+    "alias": "Personalized nutrition",
+    "id": 5778,
+    "name": "个性化营养",
+    "parentId": 5775
+  },
+  {
+    "alias": "Food research and development",
+    "id": 5779,
+    "name": "食品研发",
+    "parentId": 5775
+  },
+  {
+    "alias": "Smart Farm",
+    "id": 5780,
+    "name": "智慧农场",
+    "parentId": 5775
+  },
+  {
+    "alias": "AI Operations",
+    "id": 5781,
+    "name": "AI运营",
+    "parentId": 5911
+  },
+  {
+    "alias": "Creative Generation",
+    "id": 5782,
+    "name": "创意生成",
+    "parentId": 5781
+  },
+  {
+    "alias": "Transaction monitoring",
+    "id": 5783,
+    "name": "交易监控",
+    "parentId": 5781
+  },
+  {
+    "alias": "Cross-border logistics",
+    "id": 5784,
+    "name": "跨境物流",
+    "parentId": 5862
+  },
+  {
+    "alias": "Overseas warehouses",
+    "id": 5785,
+    "name": "海外仓",
+    "parentId": 5784
+  },
+  {
+    "alias": "Smart Warehouse Network",
+    "id": 5786,
+    "name": "智能仓储网络",
+    "parentId": 5784
+  },
+  {
+    "alias": "Cross-border cold chain logistics",
+    "id": 5787,
+    "name": "跨境冷链物流",
+    "parentId": 5784
+  },
+  {
+    "alias": "Diversified delivery",
+    "id": 5788,
+    "name": "多元化配送",
+    "parentId": 5784
+  },
+  {
+    "alias": "Postal cooperation",
+    "id": 5789,
+    "name": "邮政合作",
+    "parentId": 5784
+  },
+  {
+    "alias": "AI Environment",
+    "id": 5790,
+    "name": "AI环境",
+    "parentId": 5913
+  },
+  {
+    "alias": "Environmental monitoring",
+    "id": 5791,
+    "name": "环境监测",
+    "parentId": 5790
+  },
+  {
+    "alias": "Climate change analysis",
+    "id": 5792,
+    "name": "气候变化分析",
+    "parentId": 5790
+  },
+  {
+    "alias": "Smart Energy",
+    "id": 5793,
+    "name": "智慧能源",
+    "parentId": 5790
+  },
+  {
+    "alias": "Pollution control",
+    "id": 5794,
+    "name": "污染治理",
+    "parentId": 5790
+  },
+  {
+    "alias": "Ecological protection",
+    "id": 5795,
+    "name": "生态保护",
+    "parentId": 5790
+  },
+  {
+    "alias": "AI Entertainment",
+    "id": 5796,
+    "name": "AI娱乐",
+    "parentId": 5910
+  },
+  {
+    "alias": "AI game development",
+    "id": 5797,
+    "name": "AI游戏开发",
+    "parentId": 5796
+  },
+  {
+    "alias": "AI Movies",
+    "id": 5798,
+    "name": "AI影视",
+    "parentId": 5796
+  },
+  {
+    "alias": "Short video AI",
+    "id": 5799,
+    "name": "短视频AI",
+    "parentId": 5796
+  },
+  {
+    "alias": "AI Retail",
+    "id": 5800,
+    "name": "AI零售",
+    "parentId": 5912
+  },
+  {
+    "alias": "Demand Forecast",
+    "id": 5801,
+    "name": "需求预测",
+    "parentId": 5800
+  },
+  {
+    "alias": "Personalized Marketing Automation",
+    "id": 5802,
+    "name": "个性化营销自动化",
+    "parentId": 5800
+  },
+  {
+    "alias": "Sales Assistant",
+    "id": 5803,
+    "name": "销售助手",
+    "parentId": 5800
+  },
+  {
+    "alias": "Dynamic pricing",
+    "id": 5804,
+    "name": "动态定价",
+    "parentId": 5800
+  },
+  {
+    "alias": "Passenger flow statistics",
+    "id": 5805,
+    "name": "客流统计",
+    "parentId": 5800
+  },
+  {
+    "alias": "Online French courses",
+    "id": 5806,
+    "name": "在线法语课程",
+    "parentId": 5183
+  },
+  {
+    "alias": "Online Italian courses",
+    "id": 5807,
+    "name": "在线意大利语课程",
+    "parentId": 5183
+  },
+  {
+    "alias": "AI scientific research",
+    "id": 5808,
+    "name": "AI科学研究",
+    "parentId": 5839
+  },
+  {
+    "alias": "Scientific literature mining",
+    "id": 5809,
+    "name": "科学文献挖掘",
+    "parentId": 5808
+  },
+  {
+    "alias": "Multiscale simulation",
+    "id": 5810,
+    "name": "多尺度模拟",
+    "parentId": 5808
+  },
+  {
+    "alias": "Automated Experiment",
+    "id": 5811,
+    "name": "自动化实验",
+    "parentId": 5808
+  },
+  {
+    "alias": "Robot Scientists",
+    "id": 5812,
+    "name": "机器人科学家",
+    "parentId": 5808
+  },
+  {
+    "alias": "Scientific data management",
+    "id": 5813,
+    "name": "科研数据管理",
+    "parentId": 5808
+  },
+  {
+    "alias": "AI Marketing",
+    "id": 5814,
+    "name": "AI营销",
+    "parentId": 5911
+  },
+  {
+    "alias": "AI Market Insights",
+    "id": 5815,
+    "name": "AI市场洞察",
+    "parentId": 5814
+  },
+  {
+    "alias": "Generative Creativity",
+    "id": 5816,
+    "name": "生成式创意",
+    "parentId": 5814
+  },
+  {
+    "alias": "Intelligent delivery optimization",
+    "id": 5817,
+    "name": "智能投放优化",
+    "parentId": 5814
+  },
+  {
+    "alias": "Conversational Marketing",
+    "id": 5818,
+    "name": "对话式营销",
+    "parentId": 5814
+  },
+  {
+    "alias": "Marketing resource allocation",
+    "id": 5819,
+    "name": "营销资源分配",
+    "parentId": 5814
+  },
+  {
+    "alias": "AI sentiment analysis",
+    "id": 5820,
+    "name": "AI情感分析",
+    "parentId": 5814
+  },
+  {
+    "alias": "Brand health monitoring",
+    "id": 5821,
+    "name": "品牌健康度监控",
+    "parentId": 5814
+  },
+  {
+    "alias": "Cross-channel attribution",
+    "id": 5822,
+    "name": "跨渠道归因",
+    "parentId": 5814
+  },
+  {
+    "alias": "Hybrid Marketing Modeling",
+    "id": 5823,
+    "name": "混合营销建模",
+    "parentId": 5814
+  },
+  {
+    "alias": "Promotion optimization",
+    "id": 5824,
+    "name": "促销优化",
+    "parentId": 5814
+  },
+  {
+    "alias": "AI games",
+    "id": 5825,
+    "name": "AI游戏",
+    "parentId": 5912
+  },
+  {
+    "alias": "AI-assisted game development",
+    "id": 5826,
+    "name": "AI辅助游戏开发",
+    "parentId": 5825
+  },
+  {
+    "alias": "Intelligent NPC",
+    "id": 5827,
+    "name": "智能NPC",
+    "parentId": 5825
+  },
+  {
+    "alias": "Player Behavior Analysis",
+    "id": 5828,
+    "name": "玩家行为分析",
+    "parentId": 5825
+  },
+  {
+    "alias": "Personalized experience",
+    "id": 5829,
+    "name": "个性化体验",
+    "parentId": 5825
+  },
+  {
+    "alias": "Large Language Model",
+    "id": 5830,
+    "name": "大语言模型",
+    "parentId": 5173
+  },
+  {
+    "alias": "Image and Multimodal Generation",
+    "id": 5831,
+    "name": "图像与多模态生成",
+    "parentId": 5173
+  },
+  {
+    "alias": "Code and Development Assistance",
+    "id": 5832,
+    "name": "代码与开发辅助",
+    "parentId": 5173
+  },
+  {
+    "alias": "Vertical domain-specific AI",
+    "id": 5833,
+    "name": "垂直领域专用AI",
+    "parentId": 5173
+  },
+  {
+    "alias": "AI infrastructure",
+    "id": 5834,
+    "name": "AI基础设施",
+    "parentId": 5173
+  },
+  {
+    "alias": "AI Data Analysis",
+    "id": 5835,
+    "name": "AI数据分析",
+    "parentId": 5173
+  },
+  {
+    "alias": "housing rental",
+    "id": 5836,
+    "name": "房屋购置",
+    "parentId": 5381
+  },
+  {
+    "alias": "Eyebrow tattoo",
+    "id": 5837,
+    "name": "纹眉",
+    "parentId": 5583
+  },
+  {
+    "alias": "Company formation",
+    "id": 5838,
+    "name": "商业注册",
+    "parentId": 5858
+  },
+  {
+    "alias": "Other",
+    "id": 5839,
+    "name": "其他",
+    "parentId": null
+  },
+  {
+    "alias": "Gender Health",
+    "id": 5840,
+    "name": "性别健康",
+    "parentId": 5002
+  },
+  {
+    "alias": "Health Check & Monitoring",
+    "id": 5841,
+    "name": "健康检测",
+    "parentId": 5002
+  },
+  {
+    "alias": "Disease Treatment",
+    "id": 5842,
+    "name": "疾病治疗",
+    "parentId": 5002
+  },
+  {
+    "alias": "Pharmaceutical R&D",
+    "id": 5843,
+    "name": "医药研发",
+    "parentId": 5002
+  },
+  {
+    "alias": "Lending Services",
+    "id": 5844,
+    "name": "贷款服务",
+    "parentId": 5000
+  },
+  {
+    "alias": "Installment Plans",
+    "id": 5845,
+    "name": "分期付款",
+    "parentId": 5000
+  },
+  {
+    "alias": "Investment & Wealth",
+    "id": 5846,
+    "name": "投资理财",
+    "parentId": 5000
+  },
+  {
+    "alias": "Payment Services",
+    "id": 5847,
+    "name": "支付服务",
+    "parentId": 5000
+  },
+  {
+    "alias": "Corporate Finance",
+    "id": 5848,
+    "name": "企业金融",
+    "parentId": 5000
+  },
+  {
+    "alias": "Financial Analytics",
+    "id": 5849,
+    "name": "金融分析",
+    "parentId": 5000
+  },
+  {
+    "alias": "Utilities & Bills",
+    "id": 5850,
+    "name": "公用事业缴费",
+    "parentId": 5000
+  },
+  {
+    "alias": "Insurance Services",
+    "id": 5851,
+    "name": "保险服务",
+    "parentId": 5000
+  },
+  {
+    "alias": "Hair Care",
+    "id": 5852,
+    "name": "毛发护理",
+    "parentId": 5003
+  },
+  {
+    "alias": "Recruitment Services",
+    "id": 5853,
+    "name": "招聘服务",
+    "parentId": 5011
+  },
+  {
+    "alias": "Manual Labor",
+    "id": 5854,
+    "name": "劳务工作",
+    "parentId": 5011
+  },
+  {
+    "alias": "Home Repair",
+    "id": 5855,
+    "name": "家居维修",
+    "parentId": 5010
+  },
+  {
+    "alias": "Smart Home",
+    "id": 5856,
+    "name": "智能家居",
+    "parentId": 5010
+  },
+  {
+    "alias": "Home Rental",
+    "id": 5857,
+    "name": "房屋租赁",
+    "parentId": 5010
+  },
+  {
+    "alias": "Corporate Services",
+    "id": 5858,
+    "name": "企业服务",
+    "parentId": 5117
+  },
+  {
+    "alias": "Real Estate Services",
+    "id": 5859,
+    "name": "房产服务",
+    "parentId": 5117
+  },
+  {
+    "alias": "Retail & Consumer",
+    "id": 5860,
+    "name": "零售/消费品",
+    "parentId": 5117
+  },
+  {
+    "alias": "Hospitality",
+    "id": 5861,
+    "name": "餐饮住宿",
+    "parentId": 5117
+  },
+  {
+    "alias": "Logistics & Warehousing",
+    "id": 5862,
+    "name": "物流仓储",
+    "parentId": 5117
+  },
+  {
+    "alias": "Wedding & Events",
+    "id": 5863,
+    "name": "婚礼活动",
+    "parentId": 5117
+  },
+  {
+    "alias": "Funeral Services",
+    "id": 5864,
+    "name": "殡葬服务",
+    "parentId": 5117
+  },
+  {
+    "alias": "Elderly Care",
+    "id": 5865,
+    "name": "养老照护",
+    "parentId": 5123
+  },
+  {
+    "alias": "Cleaning Services",
+    "id": 5866,
+    "name": "清洁服务",
+    "parentId": 5123
+  },
+  {
+    "alias": "Home Repair Services",
+    "id": 5867,
+    "name": "家庭维修",
+    "parentId": 5123
+  },
+  {
+    "alias": "Auto Finance",
+    "id": 5868,
+    "name": "汽车金融",
+    "parentId": 5004
+  },
+  {
+    "alias": "Auto Rental",
+    "id": 5869,
+    "name": "汽车租赁",
+    "parentId": 5004
+  },
+  {
+    "alias": "Auto After-sales Service",
+    "id": 5870,
+    "name": "汽车售后服务",
+    "parentId": 5004
+  },
+  {
+    "alias": "Vehicle Types",
+    "id": 5871,
+    "name": "车型分类",
+    "parentId": 5004
+  },
+  {
+    "alias": "Personal Insurance",
+    "id": 5872,
+    "name": "人身保险",
+    "parentId": 5001
+  },
+  {
+    "alias": "Property Insurance",
+    "id": 5873,
+    "name": "财产保险",
+    "parentId": 5001
+  },
+  {
+    "alias": "Marketing Channels",
+    "id": 5874,
+    "name": "营销渠道",
+    "parentId": 5007
+  },
+  {
+    "alias": "Education Stage",
+    "id": 5875,
+    "name": "教育阶段",
+    "parentId": 5008
+  },
+  {
+    "alias": "Consumer Electronics",
+    "id": 5876,
+    "name": "消费电子",
+    "parentId": 5014
+  },
+  {
+    "alias": "Travel Types",
+    "id": 5877,
+    "name": "旅行方式",
+    "parentId": 5221
+  },
+  {
+    "alias": "AI Trends & Research",
+    "id": 5878,
+    "name": "AI趋势与研究",
+    "parentId": 5839
+  },
+  {
+    "alias": "AI Tools",
+    "id": 5879,
+    "name": "AI工具",
+    "parentId": 5839
+  },
+  {
+    "alias": "AI Safety & Risk",
+    "id": 5880,
+    "name": "AI安全与风险",
+    "parentId": 5839
+  },
+  {
+    "alias": "Body Sculpting",
+    "id": 5881,
+    "name": "身体塑形",
+    "parentId": 5003
+  },
+  {
+    "alias": "Furniture",
+    "id": 5882,
+    "name": "家具",
+    "parentId": 5010
+  },
+  {
+    "alias": "Home Services",
+    "id": 5883,
+    "name": "家政服务",
+    "parentId": 5010
+  },
+  {
+    "alias": "Pet Products",
+    "id": 5884,
+    "name": "宠物产品",
+    "parentId": 5005
+  },
+  {
+    "alias": "Pet Services",
+    "id": 5885,
+    "name": "宠物服务",
+    "parentId": 5005
+  },
+  {
+    "alias": "Childcare Services",
+    "id": 5886,
+    "name": "儿童看护",
+    "parentId": 5011
+  },
+  {
+    "alias": "Software Types",
+    "id": 5887,
+    "name": "软件类型",
+    "parentId": 5006
+  },
+  {
+    "alias": "System Software",
+    "id": 5888,
+    "name": "系统软件",
+    "parentId": 5887
+  },
+  {
+    "alias": "Application Software",
+    "id": 5889,
+    "name": "应用软件",
+    "parentId": 5887
+  },
+  {
+    "alias": "Dating Software",
+    "id": 5890,
+    "name": "交友软件",
+    "parentId": 5887
+  },
+  {
+    "alias": "Travel",
+    "id": 5891,
+    "name": "旅游",
+    "parentId": 5221
+  },
+  {
+    "alias": "Travel Visa",
+    "id": 5892,
+    "name": "旅游签证",
+    "parentId": 5221
+  },
+  {
+    "alias": "Auto Culture",
+    "id": 5893,
+    "name": "汽车文化",
+    "parentId": 5870
+  },
+  {
+    "alias": "Racing & Sports",
+    "id": 5894,
+    "name": "赛车与运动",
+    "parentId": 5871
+  },
+  {
+    "alias": "Import Car Business",
+    "id": 5895,
+    "name": "进口车业务",
+    "parentId": 5871
+  },
+  {
+    "alias": "Auto Recycling",
+    "id": 5896,
+    "name": "汽车回收",
+    "parentId": 5870
+  },
+  {
+    "alias": "Auto Dismantling",
+    "id": 5897,
+    "name": "汽车拆解",
+    "parentId": 5870
+  },
+  {
+    "alias": "Automotive Technology",
+    "id": 5898,
+    "name": "汽车技术",
+    "parentId": 5876
+  },
+  {
+    "alias": "License Revocation",
+    "id": 5899,
+    "name": "驾照吊销",
+    "parentId": 5011
+  },
+  {
+    "alias": "Used Car Trading & Services",
+    "id": 5900,
+    "name": "二手车交易与服务",
+    "parentId": 5036
+  },
+  {
+    "alias": "Injection Beauty",
+    "id": 5901,
+    "name": "注射美容",
+    "parentId": 5583
+  },
+  {
+    "alias": "Surgical Beauty",
+    "id": 5902,
+    "name": "手术美容",
+    "parentId": 5583
+  },
+  {
+    "alias": "Skin Care",
+    "id": 5903,
+    "name": "皮肤美容",
+    "parentId": 5583
+  },
+  {
+    "alias": "3C Installment",
+    "id": 5904,
+    "name": "3C数码分期",
+    "parentId": 5845
+  },
+  {
+    "alias": "Auto Installment",
+    "id": 5905,
+    "name": "交通分期",
+    "parentId": 5845
+  },
+  {
+    "alias": "Home Installment",
+    "id": 5906,
+    "name": "家电家居分期",
+    "parentId": 5845
+  },
+  {
+    "alias": "Construction Labor",
+    "id": 5907,
+    "name": "建筑劳务",
+    "parentId": 5854
+  },
+  {
+    "alias": "Logistics Labor",
+    "id": 5908,
+    "name": "物流仓储",
+    "parentId": 5854
+  },
+  {
+    "alias": "Home Services Labor",
+    "id": 5909,
+    "name": "家政劳务",
+    "parentId": 5854
+  },
+  {
+    "alias": "AI Creative",
+    "id": 5910,
+    "name": "AI创意工具",
+    "parentId": 5009
+  },
+  {
+    "alias": "AI Productivity",
+    "id": 5911,
+    "name": "AI效率工具",
+    "parentId": 5009
+  },
+  {
+    "alias": "AI by Sector",
+    "id": 5912,
+    "name": "AI行业应用",
+    "parentId": 5009
+  },
+  {
+    "alias": "AI Infrastructure",
+    "id": 5913,
+    "name": "AI基础设施",
+    "parentId": 5009
+  },
+  {
+    "alias": "Operation Configuration",
+    "id": 6000,
+    "name": "运营配置",
+    "parentId": null
+  },
+  {
+    "alias": "AI-generated poster design",
+    "id": 6002,
+    "name": "AI生成式海报设计",
+    "parentId": 6000
+  },
+  {
+    "alias": "Smart suggestion words",
+    "id": 6003,
+    "name": "智能提示词",
+    "parentId": 6002
+  },
+  {
+    "alias": "Brand elements fusion generation",
+    "id": 6004,
+    "name": "品牌元素融合生成",
+    "parentId": 6002
+  },
+  {
+    "alias": "Coloring and Refining the Line Art",
+    "id": 6005,
+    "name": "线稿上色与完善",
+    "parentId": 6002
+  },
+  {
+    "alias": "Rapid iteration of multiple solutions",
+    "id": 6006,
+    "name": "多方案快速迭代",
+    "parentId": 6002
+  },
+  {
+    "alias": "Personalized promotional posters",
+    "id": 6007,
+    "name": "个性化促销海报",
+    "parentId": 6002
+  },
+  {
+    "alias": "Anime Prompt Ideas",
+    "id": 6008,
+    "name": "动漫创作灵感",
+    "parentId": 6000
+  },
+  {
+    "alias": "VTuber Prompt Collection",
+    "id": 6009,
+    "name": "VTuber 提示集",
+    "parentId": 6008
+  },
+  {
+    "alias": "Kawaii Character Prompts",
+    "id": 6010,
+    "name": "可爱角色提示",
+    "parentId": 6008
+  },
+  {
+    "alias": "Cyberpunk Anime Prompts",
+    "id": 6011,
+    "name": "赛博朋克动漫主题",
+    "parentId": 6008
+  },
+  {
+    "alias": "AI Idol Poster Prompts",
+    "id": 6012,
+    "name": "AI偶像海报主题",
+    "parentId": 6008
+  },
+  {
+    "alias": "Reaction Meme Prompts",
+    "id": 6013,
+    "name": "表情包提示",
+    "parentId": 6008
+  },
+  {
+    "alias": "Medical image analysis",
+    "id": 6014,
+    "name": "医疗影像分析",
+    "parentId": 6000
+  },
+  {
+    "alias": "Disease testing",
+    "id": 6015,
+    "name": "疾病检测",
+    "parentId": 6014
+  },
+  {
+    "alias": "Auxiliary diagnosis",
+    "id": 6016,
+    "name": "辅助诊断",
+    "parentId": 6014
+  },
+  {
+    "alias": "Image enhancement and reconstruction",
+    "id": 6017,
+    "name": "影像增强与重建",
+    "parentId": 6014
+  },
+  {
+    "alias": "efficacy assessment",
+    "id": 6018,
+    "name": "疗效评估",
+    "parentId": 6014
+  },
+  {
+    "alias": "Tumor localization",
+    "id": 6019,
+    "name": "肿瘤定位",
+    "parentId": 6014
+  },
+  {
+    "alias": "Voice technology",
+    "id": 6020,
+    "name": "语音技术",
+    "parentId": 6000
+  },
+  {
+    "alias": "Automatic speech recognition",
+    "id": 6021,
+    "name": "自动语音识别",
+    "parentId": 6020
+  },
+  {
+    "alias": "Speech Synthesis",
+    "id": 6022,
+    "name": "语音合成",
+    "parentId": 6020
+  },
+  {
+    "alias": "Voiceprint recognition",
+    "id": 6023,
+    "name": "声纹识别",
+    "parentId": 6020
+  },
+  {
+    "alias": "Voice sentiment analysis",
+    "id": 6024,
+    "name": "语音情感分析",
+    "parentId": 6020
+  },
+  {
+    "alias": "Speech enhancement and separation",
+    "id": 6025,
+    "name": "语音增强与分离",
+    "parentId": 6020
+  },
+  {
+    "alias": "AI Industry",
+    "id": 6026,
+    "name": "AI工业",
+    "parentId": 6000
+  },
+  {
+    "alias": "Smart manufacturing",
+    "id": 6027,
+    "name": "智能生产",
+    "parentId": 6026
+  },
+  {
+    "alias": "Predictive maintenance",
+    "id": 6028,
+    "name": "预测性维护",
+    "parentId": 6026
+  },
+  {
+    "alias": "Equipment Management",
+    "id": 6029,
+    "name": "设备管理",
+    "parentId": 6026
+  },
+  {
+    "alias": "supply chain",
+    "id": 6030,
+    "name": "供应链",
+    "parentId": 6026
+  },
+  {
+    "alias": "Intelligent quality inspection",
+    "id": 6031,
+    "name": "智能质检",
+    "parentId": 6026
+  },
+  {
+    "alias": "AI Defense",
+    "id": 6032,
+    "name": "AI国防",
+    "parentId": 6000
+  },
+  {
+    "alias": "Command and Control",
+    "id": 6033,
+    "name": "指挥控制",
+    "parentId": 6032
+  },
+  {
+    "alias": "Decision support",
+    "id": 6034,
+    "name": "辅助决策",
+    "parentId": 6032
+  },
+  {
+    "alias": "Autonomous and unmanned systems",
+    "id": 6035,
+    "name": "自主与无人系统",
+    "parentId": 6032
+  },
+  {
+    "alias": "Cyber ​​and Information Warfare",
+    "id": 6036,
+    "name": "网络与信息作战",
+    "parentId": 6032
+  },
+  {
+    "alias": "Training and simulation",
+    "id": 6037,
+    "name": "训练与模拟",
+    "parentId": 6032
+  },
+  {
+    "alias": "Shop",
+    "id": 6038,
+    "name": "购物",
+    "parentId": null
+  },
+  {
+    "alias": "Types Deep Dive",
+    "id": 6039,
+    "name": "人格图鉴",
+    "parentId": 6000
+  },
+  {
+    "alias": "INFP personality traits",
+    "id": 6040,
+    "name": "INFP personality traits",
+    "parentId": 6039
+  },
+  {
+    "alias": "10 signs you are an INTJ",
+    "id": 6041,
+    "name": "10个迹象表明你是INTJ",
+    "parentId": 6039
+  },
+  {
+    "alias": "Is INFJ the rarest personality",
+    "id": 6042,
+    "name": "INFJ是最稀有的性格吗",
+    "parentId": 6039
+  },
+  {
+    "alias": "ENFP strengths and weaknesses",
+    "id": 6043,
+    "name": "ENFP的优点和缺点",
+    "parentId": 6039
+  },
+  {
+    "alias": "INFP and ENTJ relationship compatibility",
+    "id": 6044,
+    "name": "INFP和INTEJ关系兼容性",
+    "parentId": 6039
+  },
+  {
+    "alias": "7 weird signs of high IQ",
+    "id": 6045,
+    "name": "高智商的7个奇特迹象",
+    "parentId": 6039
+  },
+  {
+    "alias": "Shadow work prompts for anxiety / jealousy",
+    "id": 6046,
+    "name": "用于焦虑/嫉妒的阴影工作提示",
+    "parentId": 6039
+  },
+  {
+    "alias": "All 27 SBTI types list",
+    "id": 6047,
+    "name": "All 27 SBTI types list 互联网 27 种隐性人格大全",
+    "parentId": 6039
+  },
+  {
+    "alias": "Fake [MBTI] Real [SBTI]",
+    "id": 6048,
+    "name": "表面社恐实际发疯",
+    "parentId": 6039
+  },
+  {
+    "alias": "Electronic pet",
+    "id": 6049,
+    "name": "电子宠物",
+    "parentId": 6000
+  },
+  {
+    "alias": "Desktop Virtual Pet",
+    "id": 6050,
+    "name": "桌面虚拟宠物",
+    "parentId": 6049
+  },
+  {
+    "alias": "Robot Pet",
+    "id": 6051,
+    "name": "机器人宠物",
+    "parentId": 6049
+  },
+  {
+    "alias": "Smart plush toys",
+    "id": 6052,
+    "name": "智能毛绒玩具",
+    "parentId": 6049
+  },
+  {
+    "alias": "Raising pets in games",
+    "id": 6053,
+    "name": "养成游戏宠物",
+    "parentId": 6049
+  },
+  {
+    "alias": "Holographic projection pet",
+    "id": 6054,
+    "name": "全息投影宠物",
+    "parentId": 6049
+  },
+  {
+    "alias": "Zodiac Compatibility and Relationship Guide",
+    "id": 6055,
+    "name": "星座匹配与情感指南 ",
+    "parentId": 6000
+  },
+  {
+    "alias": "Analysis of personality depth and hidden aspects",
+    "id": 6056,
+    "name": "性格深度与隐秘解析 ",
+    "parentId": 6000
+  },
+  {
+    "alias": "Astrological Lifestyle and the Laws of Luck",
+    "id": 6057,
+    "name": "星象生活方式与幸运法则",
+    "parentId": 6000
+  },
+  {
+    "alias": "Astrological Science and Mercury Retrograde Guide",
+    "id": 6058,
+    "name": "星象科普与水逆指南",
+    "parentId": 6000
+  },
+  {
+    "alias": "AI Resume",
+    "id": 6059,
+    "name": "AI简历",
+    "parentId": 6000
+  },
+  {
+    "alias": "Intelligent Format Design",
+    "id": 6060,
+    "name": "智能格式设计",
+    "parentId": 6059
+  },
+  {
+    "alias": "Personalized customization",
+    "id": 6061,
+    "name": "个性化定制",
+    "parentId": 6059
+  },
+  {
+    "alias": "Skills Gap Analysis",
+    "id": 6062,
+    "name": "技能缺口分析",
+    "parentId": 6059
+  },
+  {
+    "alias": "Resume Inquiry Prediction",
+    "id": 6063,
+    "name": "简历问询预测",
+    "parentId": 6059
+  },
+  {
+    "alias": "Career path simulation",
+    "id": 6064,
+    "name": "职业路径模拟",
+    "parentId": 6059
+  },
+  {
+    "alias": "Mock Interview",
+    "id": 6065,
+    "name": "模拟面试",
+    "parentId": 6000
+  },
+  {
+    "alias": "Virtual interviewer",
+    "id": 6066,
+    "name": "虚拟面试官",
+    "parentId": 6065
+  },
+  {
+    "alias": "Coding Interview Simulation",
+    "id": 6067,
+    "name": "编码面试模拟",
+    "parentId": 6065
+  },
+  {
+    "alias": "Situational Interview Question Bank Training",
+    "id": 6068,
+    "name": "情境面试题库训练",
+    "parentId": 6065
+  },
+  {
+    "alias": "Stress interview",
+    "id": 6069,
+    "name": "压力面试",
+    "parentId": 6065
+  },
+  {
+    "alias": "Company Customized Simulation",
+    "id": 6070,
+    "name": "公司定制化模拟",
+    "parentId": 6065
+  },
+  {
+    "alias": "AI Idol Poster",
+    "id": 6071,
+    "name": "AI偶像海报",
+    "parentId": 6000
+  },
+  {
+    "alias": "Cyberpunk City",
+    "id": 6072,
+    "name": "赛博朋克都市",
+    "parentId": 6071
+  },
+  {
+    "alias": "Virtual World Travel",
+    "id": 6073,
+    "name": "虚拟世界穿越",
+    "parentId": 6071
+  },
+  {
+    "alias": "Chinese style fantasy",
+    "id": 6074,
+    "name": "国风仙侠",
+    "parentId": 6071
+  },
+  {
+    "alias": "Future Functions",
+    "id": 6075,
+    "name": "未来机能",
+    "parentId": 6071
+  },
+  {
+    "alias": "Interactive Poster",
+    "id": 6076,
+    "name": "互动式海报",
+    "parentId": 6071
+  },
+  {
+    "alias": "AI-generated poster",
+    "id": 6077,
+    "name": "ai生成海报",
+    "parentId": 6000
+  },
+  {
+    "alias": "Technology Trends and Digital Reviews",
+    "id": 6078,
+    "name": "科技趋势与数码评测",
+    "parentId": 6077
+  },
+  {
+    "alias": "Career Advancement and Skills Tips",
+    "id": 6079,
+    "name": "职场进阶与技能干货",
+    "parentId": 6077
+  },
+  {
+    "alias": "Personal growth and psychological healing",
+    "id": 6080,
+    "name": "个人成长与心理疗愈",
+    "parentId": 6077
+  },
+  {
+    "alias": "Modern parenting and family education",
+    "id": 6081,
+    "name": "现代育儿与家庭教育",
+    "parentId": 6077
+  },
+  {
+    "alias": "Travel guides and niche travel companions",
+    "id": 6082,
+    "name": "旅游攻略与小众搭子",
+    "parentId": 6077
+  },
+  {
+    "alias": "AI character",
+    "id": 6083,
+    "name": "ai角色",
+    "parentId": 6000
+  },
+  {
+    "alias": "Historical figures",
+    "id": 6084,
+    "name": "历史名人",
+    "parentId": 6083
+  },
+  {
+    "alias": "Workplace Coach",
+    "id": 6085,
+    "name": "职场教练",
+    "parentId": 6083
+  },
+  {
+    "alias": "NPCs in science fiction scripts",
+    "id": 6086,
+    "name": "科幻剧本NPC",
+    "parentId": 6083
+  },
+  {
+    "alias": "Cross-language all-round private tutor",
+    "id": 6087,
+    "name": "跨语言全能私教",
+    "parentId": 6083
+  },
+  {
+    "alias": "Business Consultant",
+    "id": 6088,
+    "name": "商业顾问",
+    "parentId": 6083
+  },
+  {
+    "alias": "Personalized posters",
+    "id": 6089,
+    "name": "个性化海报",
+    "parentId": 6000
+  },
+  {
+    "alias": "Sound wave lyrics poster",
+    "id": 6090,
+    "name": "声波歌词海报",
+    "parentId": 6089
+  },
+  {
+    "alias": "Pet portrait poster",
+    "id": 6091,
+    "name": "宠物肖像海报",
+    "parentId": 6089
+  },
+  {
+    "alias": "Game and Anime Posters",
+    "id": 6092,
+    "name": "游戏动漫海报",
+    "parentId": 6089
+  },
+  {
+    "alias": "Commemorative Starry Sky Poster",
+    "id": 6093,
+    "name": "纪念星空海报",
+    "parentId": 6089
+  },
+  {
+    "alias": "Minimalist Line Art Poster",
+    "id": 6094,
+    "name": "极简线条海报",
+    "parentId": 6089
+  },
+  {
+    "alias": "AI Photo Restoration",
+    "id": 6095,
+    "name": "AI照片修复",
+    "parentId": 6000
+  },
+  {
+    "alias": "Photo restoration of the deceased",
+    "id": 6096,
+    "name": "逝者照片修复",
+    "parentId": 6095
+  },
+  {
+    "alias": "Low-resolution HD restoration",
+    "id": 6097,
+    "name": "低画质高清修复",
+    "parentId": 6095
+  },
+  {
+    "alias": "Intelligent restoration of ID photos",
+    "id": 6098,
+    "name": "证件照智能修复",
+    "parentId": 6095
+  },
+  {
+    "alias": "Debris removal",
+    "id": 6099,
+    "name": "杂物消除",
+    "parentId": 6095
+  },
+  {
+    "alias": "Repair of damaged tickets",
+    "id": 6100,
+    "name": "破损票据修复",
+    "parentId": 6095
+  },
+  {
+    "alias": "AI prompt words",
+    "id": 6101,
+    "name": "ai提示词",
+    "parentId": 6000
+  },
+  {
+    "alias": "Productivity tool tips",
+    "id": 6102,
+    "name": "效率工具提示词",
+    "parentId": 6101
+  },
+  {
+    "alias": "Tips for viral copywriting",
+    "id": 6103,
+    "name": "爆款文案提示词",
+    "parentId": 6101
+  },
+  {
+    "alias": "Advertising copy prompts",
+    "id": 6104,
+    "name": "广告文案提示词",
+    "parentId": 6101
+  },
+  {
+    "alias": "Visual Arts Cue",
+    "id": 6105,
+    "name": "视觉艺术提示词",
+    "parentId": 6101
+  },
+  {
+    "alias": "Debug prompts",
+    "id": 6106,
+    "name": "代码Debug提示词",
+    "parentId": 6101
+  },
+  {
+    "alias": "AI-generated prompts for commercial illustration",
+    "id": 6107,
+    "name": "商业插画AI提示词",
+    "parentId": 6000
+  },
+  {
+    "alias": "Product App Illustration",
+    "id": 6108,
+    "name": "产品APP插画",
+    "parentId": 6107
+  },
+  {
+    "alias": "Outdoor advertising illustrations",
+    "id": 6109,
+    "name": "户外广告插画",
+    "parentId": 6107
+  },
+  {
+    "alias": "Clothing Print Illustration",
+    "id": 6110,
+    "name": "服装印花插画",
+    "parentId": 6107
+  },
+  {
+    "alias": "Food packaging illustration",
+    "id": 6111,
+    "name": "餐饮包装插画",
+    "parentId": 6107
+  },
+  {
+    "alias": "Business financial report illustrations",
+    "id": 6112,
+    "name": "商业财报插画",
+    "parentId": 6107
+  },
+  {
+    "alias": "Selfie and Photography Tips",
+    "id": 6113,
+    "name": "自拍与摄影技巧",
+    "parentId": 6000
+  },
+  {
+    "alias": "Store visit selfie tips",
+    "id": 6114,
+    "name": "探店自拍技巧",
+    "parentId": 6113
+  },
+  {
+    "alias": "Home atmosphere photography",
+    "id": 6115,
+    "name": "居家氛围感摄影",
+    "parentId": 6113
+  },
+  {
+    "alias": "Retro film-style photography",
+    "id": 6116,
+    "name": "复古胶片感摄影",
+    "parentId": 6113
+  },
+  {
+    "alias": "Minimalist photography",
+    "id": 6117,
+    "name": "极简风格摄影",
+    "parentId": 6113
+  },
+  {
+    "alias": "Selfie composition",
+    "id": 6118,
+    "name": "自拍构图",
+    "parentId": 6113
+  },
+  {
+    "alias": "AI games",
+    "id": 6119,
+    "name": "AI游戏",
+    "parentId": 6000
+  },
+  {
+    "alias": "AI drawing and word guessing game",
+    "id": 6120,
+    "name": "AI画图猜词游戏",
+    "parentId": 6119
+  },
+  {
+    "alias": "AI dating simulation game",
+    "id": 6121,
+    "name": "AI恋爱模拟游戏",
+    "parentId": 6119
+  },
+  {
+    "alias": "AI strategy battle game",
+    "id": 6122,
+    "name": "AI策略对战游戏",
+    "parentId": 6119
+  },
+  {
+    "alias": "AI Decryption Detective Game",
+    "id": 6123,
+    "name": "AI解密侦探游戏",
+    "parentId": 6119
+  },
+  {
+    "alias": "AI pet raising game",
+    "id": 6124,
+    "name": "AI宠物养成游戏",
+    "parentId": 6119
+  },
+  {
+    "alias": "AI Anime",
+    "id": 6125,
+    "name": "ai动漫",
+    "parentId": 6000
+  },
+  {
+    "alias": "Cyberpunk Anime",
+    "id": 6126,
+    "name": "赛博朋克动漫",
+    "parentId": 6125
+  },
+  {
+    "alias": "Steampunk Anime",
+    "id": 6127,
+    "name": "蒸汽朋克动漫",
+    "parentId": 6125
+  },
+  {
+    "alias": "Wasteland punk anime",
+    "id": 6128,
+    "name": "废土朋克动漫",
+    "parentId": 6125
+  },
+  {
+    "alias": "Ancient style punk anime",
+    "id": 6129,
+    "name": "古风朋克动漫",
+    "parentId": 6125
+  },
+  {
+    "alias": "Space Punk Anime",
+    "id": 6130,
+    "name": "太空朋克动漫",
+    "parentId": 6125
+  },
+  {
+    "alias": "Image processing",
+    "id": 6131,
+    "name": "图片处理",
+    "parentId": 6000
+  },
+  {
+    "alias": "Commercial portrait retouching",
+    "id": 6132,
+    "name": "商业人像精修",
+    "parentId": 6131
+  },
+  {
+    "alias": "Restoration of old photos",
+    "id": 6133,
+    "name": "老照片修复",
+    "parentId": 6131
+  },
+  {
+    "alias": "Frame expansion",
+    "id": 6134,
+    "name": "画幅拓展",
+    "parentId": 6131
+  },
+  {
+    "alias": "ID photo processing",
+    "id": 6135,
+    "name": "证件照处理",
+    "parentId": 6131
+  },
+  {
+    "alias": "Film and television historical data restoration",
+    "id": 6136,
+    "name": "影视历史资料修复",
+    "parentId": 6131
+  },
+  {
+    "alias": "AI Anime",
+    "id": 6137,
+    "name": "AI动漫",
+    "parentId": 6000
+  },
+  {
+    "alias": "AI Cyberpunk Anime",
+    "id": 6138,
+    "name": "AI赛博朋克动漫",
+    "parentId": 6137
+  },
+  {
+    "alias": "AI Steampunk AnimeAI Steampunk Anime",
+    "id": 6139,
+    "name": "AI蒸汽朋克动漫",
+    "parentId": 6137
+  },
+  {
+    "alias": "AI-generated wasteland punk anime",
+    "id": 6140,
+    "name": "AI废土朋克动漫",
+    "parentId": 6137
+  },
+  {
+    "alias": "AI Neon-Punk Anime",
+    "id": 6141,
+    "name": "AI霓虹朋克动漫",
+    "parentId": 6137
+  },
+  {
+    "alias": "AI-punk band anime",
+    "id": 6142,
+    "name": "AI朋克乐队动漫",
+    "parentId": 6137
+  },
+  {
+    "alias": "AI Retro-Punk",
+    "id": 6143,
+    "name": "AI复古朋克",
+    "parentId": 6137
+  },
+  {
+    "alias": "AI-generated images",
+    "id": 6144,
+    "name": "AI生图",
+    "parentId": 6000
+  },
+  {
+    "alias": "Tips for Generating Wallpaper Images",
+    "id": 6145,
+    "name": "壁纸图片生成技巧",
+    "parentId": 6144
+  },
+  {
+    "alias": "Avatar generation recipe",
+    "id": 6146,
+    "name": "头像图片生成配方",
+    "parentId": 6144
+  },
+  {
+    "alias": "Tutorial on Generating Images in Traditional Chinese Style",
+    "id": 6147,
+    "name": "国风图片生成教学",
+    "parentId": 6144
+  },
+  {
+    "alias": "Realistic portrait image generation",
+    "id": 6148,
+    "name": "写实人像图片生成",
+    "parentId": 6144
+  },
+  {
+    "alias": "Anime-style image generation",
+    "id": 6149,
+    "name": "二次元图片生成",
+    "parentId": 6144
+  },
+  {
+    "alias": "Operational Copy",
+    "id": 6150,
+    "name": "运营文案",
+    "parentId": 6000
+  },
+  {
+    "alias": "Viral Script & Copywriting Generator",
+    "id": 6151,
+    "name": "爆款脚本文案生成",
+    "parentId": 6150
+  },
+  {
+    "alias": "Copywriting Generation for Independent Websites",
+    "id": 6152,
+    "name": "独立站文案生成",
+    "parentId": 6150
+  },
+  {
+    "alias": "Ad Creative Copy Generation",
+    "id": 6153,
+    "name": "广告创意文案生成",
+    "parentId": 6150
+  },
+  {
+    "alias": "Visual Copywriting Generation for Product Recommendations",
+    "id": 6154,
+    "name": "种草视觉文案生成",
+    "parentId": 6150
+  },
+  {
+    "alias": "Brand Story Copywriting Generation",
+    "id": 6155,
+    "name": "品牌故事文案生成",
+    "parentId": 6150
+  },
+  {
+    "alias": "apkfunny",
+    "id": 6156,
+    "name": "apkfunny",
+    "parentId": 6000
+  },
+  {
+    "alias": "Game App",
+    "id": 6157,
+    "name": "游戏APP",
+    "parentId": 6156
+  },
+  {
+    "alias": "Casual Puzzle Game App",
+    "id": 6158,
+    "name": "休闲益智游戏APP",
+    "parentId": 6157
+  },
+  {
+    "alias": "Competitive Tactical Shooter App",
+    "id": 6159,
+    "name": "竞技战术射击游戏APP",
+    "parentId": 6157
+  },
+  {
+    "alias": "Operating a survival game app",
+    "id": 6160,
+    "name": "经营生存游戏APP",
+    "parentId": 6157
+  },
+  {
+    "alias": "AI image restoration",
+    "id": 6161,
+    "name": "ai图片修复",
+    "parentId": 6000
+  },
+  {
+    "alias": "Old photos restoration",
+    "id": 6162,
+    "name": "老照片翻新修复",
+    "parentId": 6161
+  },
+  {
+    "alias": "Blurry photo sharpening and restoration",
+    "id": 6163,
+    "name": "模糊照片清晰化修复",
+    "parentId": 6161
+  },
+  {
+    "alias": "Fine portrait restoration",
+    "id": 6164,
+    "name": "人像精细修复",
+    "parentId": 6161
+  },
+  {
+    "alias": "Film damage and stain repair",
+    "id": 6165,
+    "name": "胶片残损污点修复",
+    "parentId": 6161
+  },
+  {
+    "alias": "Image quality enhancement and restoration",
+    "id": 6166,
+    "name": "画质提升修复",
+    "parentId": 6161
+  },
+  {
+    "alias": "AI games",
+    "id": 6167,
+    "name": "AI游戏",
+    "parentId": 6000
+  },
+  {
+    "alias": "AI Text Adventure Game",
+    "id": 6168,
+    "name": "AI文字冒险游戏",
+    "parentId": 6167
+  },
+  {
+    "alias": "AI-powered NPC interaction",
+    "id": 6169,
+    "name": "AI智能NPC互动",
+    "parentId": 6167
+  },
+  {
+    "alias": "AI drawing and word guessing game",
+    "id": 6170,
+    "name": "AI画图猜词游戏",
+    "parentId": 6167
+  },
+  {
+    "alias": "AI Sandbox Strategy Game",
+    "id": 6171,
+    "name": "AI沙盒策略游戏",
+    "parentId": 6167
+  },
+  {
+    "alias": "AI reasoning and puzzle game",
+    "id": 6172,
+    "name": "AI推理解密游戏",
+    "parentId": 6167
+  },
+  {
+    "alias": "AI Anime",
+    "id": 6173,
+    "name": "ai动漫",
+    "parentId": 6000
+  },
+  {
+    "alias": "Neon punk anime night scene",
+    "id": 6174,
+    "name": "霓虹朋克动漫夜景",
+    "parentId": 6173
+  },
+  {
+    "alias": "Mechapter anime battle",
+    "id": 6175,
+    "name": "机甲朋克动漫战斗",
+    "parentId": 6173
+  },
+  {
+    "alias": "Street punk anime graffiti",
+    "id": 6176,
+    "name": "街头朋克动漫涂鸦",
+    "parentId": 6173
+  },
+  {
+    "alias": "Diesel Punk Anime Vehicles",
+    "id": 6177,
+    "name": "柴油朋克动漫载具",
+    "parentId": 6173
+  },
+  {
+    "alias": "Magical punk anime scene",
+    "id": 6178,
+    "name": "魔法朋克动漫场景",
+    "parentId": 6173
+  },
+  {
+    "alias": "AI-generated avatar",
+    "id": 6179,
+    "name": "ai头像",
+    "parentId": 6000
+  },
+  {
+    "alias": "Anime-style AI avatar generation",
+    "id": 6180,
+    "name": "动漫风格AI头像生成",
+    "parentId": 6179
+  },
+  {
+    "alias": "Cyberpunk AI Avatar Generator",
+    "id": 6181,
+    "name": "赛博朋克AI头像生成",
+    "parentId": 6179
+  },
+  {
+    "alias": "Minimalist line-art AI avatar",
+    "id": 6182,
+    "name": "极简线条AI头像",
+    "parentId": 6179
+  },
+  {
+    "alias": "American Retro-Style AI Avatar Generator",
+    "id": 6183,
+    "name": "美式复古AI头像生成",
+    "parentId": 6179
+  },
+  {
+    "alias": "Pixel Art Game AI Avatar Generator",
+    "id": 6184,
+    "name": "像素游戏AI头像生成",
+    "parentId": 6179
+  },
+  {
+    "alias": "AI Deduction Game",
+    "id": 6185,
+    "name": "AI推理游戏",
+    "parentId": 6000
+  },
+  {
+    "alias": "Detective Mystery-Solving AI Deduction Game",
+    "id": 6186,
+    "name": "侦探破案AI推理游戏",
+    "parentId": 6185
+  },
+  {
+    "alias": "AI-Powered Escape Room Deduction Game",
+    "id": 6187,
+    "name": "密室逃脱AI推理游戏",
+    "parentId": 6185
+  },
+  {
+    "alias": "AI Character Generation",
+    "id": 6188,
+    "name": "AI角色生成",
+    "parentId": 6000
+  },
+  {
+    "alias": "AI text adventure game",
+    "id": 6189,
+    "name": "ai文字冒险游戏",
+    "parentId": 6000
+  },
+  {
+    "alias": "AI Game Interaction",
+    "id": 6190,
+    "name": "ai游戏互动",
+    "parentId": 6000
+  },
+  {
+    "alias": "AI tools",
+    "id": 6191,
+    "name": "ai工具",
+    "parentId": 6000
+  },
+  {
+    "alias": "AI music generation",
+    "id": 6192,
+    "name": "ai音乐生成",
+    "parentId": 6000
+  },
+  {
+    "alias": "AI search",
+    "id": 6193,
+    "name": "ai搜索",
+    "parentId": 6000
+  },
+  {
+    "alias": "AI Operations Template",
+    "id": 6194,
+    "name": "ai运营模板",
+    "parentId": 6000
+  },
+  {
+    "alias": "AI-Generated Templates for New Media Layouts",
+    "id": 6195,
+    "name": "新媒体排版AI模板生成",
+    "parentId": 6194
+  },
+  {
+    "alias": "AI-Generated Event Planning Templates",
+    "id": 6196,
+    "name": "活动策划AI模板生成",
+    "parentId": 6194
+  },
+  {
+    "alias": "AI-Generated User Persona Templates",
+    "id": 6197,
+    "name": "用户画像AI模板生成",
+    "parentId": 6194
+  },
+  {
+    "alias": "Anime Character Generation",
+    "id": 6198,
+    "name": "动漫角色生成",
+    "parentId": 6000
+  },
+  {
+    "alias": "Characters from high-octane action anime",
+    "id": 6199,
+    "name": "热血战斗动漫角色",
+    "parentId": 6198
+  },
+  {
+    "alias": "Cyberpunk anime character",
+    "id": 6200,
+    "name": "赛博朋克动漫角色",
+    "parentId": 6198
+  },
+  {
+    "alias": "Magical fantasy anime characters",
+    "id": 6201,
+    "name": "魔法奇幻动漫角色",
+    "parentId": 6198
+  },
+  {
+    "alias": "AI interview",
+    "id": 6202,
+    "name": "ai面试",
+    "parentId": 6000
+  },
+  {
+    "alias": "AI Text Writing Tools",
+    "id": 6203,
+    "name": "AI文本写作工具",
+    "parentId": 6191
+  },
+  {
+    "alias": "AI-Generated Conversion Funnel Templates",
+    "id": 6204,
+    "name": "转化漏斗AI模板生成",
+    "parentId": 6194
+  },
+  {
+    "alias": "Trendy streetwear anime character",
+    "id": 6205,
+    "name": "潮流街头动漫角色",
+    "parentId": 6198
+  },
+  {
+    "alias": "AI Mock Interviews",
+    "id": 6206,
+    "name": "AI模拟面试练习",
+    "parentId": 6202
+  },
+  {
+    "alias": "AI Resume Screening & Matching",
+    "id": 6207,
+    "name": "AI简历匹配评估",
+    "parentId": 6202
+  },
+  {
+    "alias": "AI Interview Question Generation",
+    "id": 6208,
+    "name": "AI面试题库生成",
+    "parentId": 6202
+  },
+  {
+    "alias": "AI Interview Experience Summaries",
+    "id": 6209,
+    "name": "AI面经提炼总结",
+    "parentId": 6202
+  },
+  {
+    "alias": "AI Interactive Story Game",
+    "id": 6210,
+    "name": "AI 互动故事游戏",
+    "parentId": 6000
+  },
+  {
+    "alias": "Sci-Fi Interstellar AI Interactive Story",
+    "id": 6211,
+    "name": "科幻星际AI互动故事",
+    "parentId": 6210
+  },
+  {
+    "alias": "Interactive AI Mystery-Detective Story",
+    "id": 6212,
+    "name": "悬疑侦探AI互动故事",
+    "parentId": 6210
+  },
+  {
+    "alias": "AI-Powered Interactive Romance Simulation Story",
+    "id": 6213,
+    "name": "恋爱模拟AI互动故事",
+    "parentId": 6210
+  },
+  {
+    "alias": "Interactive AI Horror-Puzzle Story",
+    "id": 6214,
+    "name": "恐怖解谜AI互动故事",
+    "parentId": 6210
+  },
+  {
+    "alias": "AI Wallpaper Generation",
+    "id": 6215,
+    "name": "ai壁纸生成",
+    "parentId": 6000
+  },
+  {
+    "alias": "Traditional-style AI wallpapers",
+    "id": 6216,
+    "name": "古风AI壁纸",
+    "parentId": 6215
+  },
+  {
+    "alias": "AI-Generated Nature Scenery Wallpapers",
+    "id": 6217,
+    "name": "自然风光AI壁纸",
+    "parentId": 6215
+  },
+  {
+    "alias": "Minimalist Abstract AI Wallpapers",
+    "id": 6218,
+    "name": "极简抽象AI壁纸",
+    "parentId": 6215
+  },
+  {
+    "alias": "Mecha Sci-Fi AI Wallpapers",
+    "id": 6219,
+    "name": "机甲科幻AI壁纸",
+    "parentId": 6215
+  },
+  {
+    "alias": "Anime-style emoticons",
+    "id": 6220,
+    "name": "动漫表情",
+    "parentId": 6000
+  },
+  {
+    "alias": "Wallpaper Generation",
+    "id": 6221,
+    "name": "壁纸生成",
+    "parentId": 6000
+  },
+  {
+    "alias": "Avatar Generation Recipe",
+    "id": 6222,
+    "name": "头像生成配方",
+    "parentId": 6000
+  },
+  {
+    "alias": "AI-generated memes",
+    "id": 6223,
+    "name": "ai生成表情包",
+    "parentId": 6000
+  },
+  {
+    "alias": "ID Photo Generator",
+    "id": 6224,
+    "name": "证件照生成",
+    "parentId": 6000
+  },
+  {
+    "alias": "Generate character portraits",
+    "id": 6225,
+    "name": "生成人物肖像",
+    "parentId": 6000
+  },
+  {
+    "alias": "Image generation prompts",
+    "id": 6226,
+    "name": "图片生成提示词",
+    "parentId": 6000
+  },
+  {
+    "alias": "Optimize Prompts",
+    "id": 6227,
+    "name": "优化提示词",
+    "parentId": 6000
+  },
+  {
+    "alias": "Public Health",
+    "id": 6228,
+    "name": "公共卫生",
+    "parentId": 6000
+  },
+  {
+    "alias": "Pet food",
+    "id": 6229,
+    "name": "宠物食品",
+    "parentId": 6000
+  },
+  {
+    "alias": "Body Shaping",
+    "id": 6230,
+    "name": "塑形",
+    "parentId": 6000
+  },
+  {
+    "alias": "Weight Management",
+    "id": 6231,
+    "name": "体重管理",
+    "parentId": 6000
+  },
+  {
+    "alias": "Contraceptive Formula",
+    "id": 6232,
+    "name": "避孕药方",
+    "parentId": 5027
+  },
+  {
+    "alias": "Buprenorphine Market",
+    "id": 6233,
+    "name": "丁丙诺啡市场",
+    "parentId": 5027
+  },
+  {
+    "alias": "HIV",
+    "id": 6234,
+    "name": "HIV",
+    "parentId": 5027
+  },
+  {
+    "alias": "E-Commerce",
+    "id": 6235,
+    "name": "电商",
+    "parentId": 5117
+  },
+  {
+    "alias": "Involute Gear Cutting Tool",
+    "id": 6236,
+    "name": "渐开线齿轮刀具品牌",
+    "parentId": 6235
+  },
+  {
+    "alias": "AI Marketing Copy",
+    "id": 6237,
+    "name": "人工智能营销文案",
+    "parentId": 6194
+  },
+  {
+    "alias": "AI Social Content",
+    "id": 6238,
+    "name": "人工智能社交内容",
+    "parentId": 6194
+  },
+  {
+    "alias": "AI Product Copy",
+    "id": 6239,
+    "name": "人工智能产品副本",
+    "parentId": 6194
+  },
+  {
+    "alias": "AI Writing Tips",
+    "id": 6240,
+    "name": "人工智能写作技巧",
+    "parentId": 6194
+  },
+  {
+    "alias": "landing page copy template",
+    "id": 6241,
+    "name": "landing page copy template",
+    "parentId": 6194
+  },
+  {
+    "alias": "email marketing copy / CTA headline formulas",
+    "id": 6242,
+    "name": "email marketing copy / CTA headline formulas",
+    "parentId": 6194
+  },
+  {
+    "alias": "ai marketing copilot",
+    "id": 6243,
+    "name": "人工智能营销副驾驶",
+    "parentId": 6000
+  },
+  {
+    "alias": "conversational marketing ai",
+    "id": 6244,
+    "name": "对话式营销人工智能",
+    "parentId": 6000
+  },
+  {
+    "alias": "ai marketing content generator",
+    "id": 6245,
+    "name": "人工智能营销内容生成器",
+    "parentId": 6000
+  },
+  {
+    "alias": "ai copywriting assistant",
+    "id": 6246,
+    "name": "人工智能文案助手",
+    "parentId": 6000
+  },
+  {
+    "alias": "AI VTuber generator",
+    "id": 6247,
+    "name": "AI虚拟主播生成器",
+    "parentId": 6000
+  },
+  {
+    "alias": "VTuber角色创建器",
+    "id": 6248,
+    "name": "VTuber persona maker",
+    "parentId": 6000
+  },
+  {
+    "alias": "VTuber persona maker",
+    "id": 6249,
+    "name": "VTuber角色创建器",
+    "parentId": 6000
+  },
+  {
+    "alias": "AI VTuber character creator",
+    "id": 6250,
+    "name": "AI虚拟主播角色创建器",
+    "parentId": 6000
+  },
+  {
+    "alias": "create VTuber online free",
+    "id": 6251,
+    "name": "免费在线创建VTuber",
+    "parentId": 6000
+  },
+  {
+    "alias": "how to answer ",
+    "id": 6252,
+    "name": "如何回答",
+    "parentId": 6000
+  },
+  {
+    "alias": "follow-up questions",
+    "id": 6253,
+    "name": "后续问题",
+    "parentId": 6000
+  },
+  {
+    "alias": "pressure interview tips",
+    "id": 6254,
+    "name": "压力面试技巧",
+    "parentId": 6000
+  },
+  {
+    "alias": "mock interview practice online",
+    "id": 6255,
+    "name": "在线模拟面试练习",
+    "parentId": 6000
+  },
+  {
+    "alias": "career forum interview prep",
+    "id": 6256,
+    "name": "职业论坛面试准备",
+    "parentId": 6000
+  },
+  {
+    "alias": "AI passport photo generator",
+    "id": 6257,
+    "name": "AI 护照照片生成器",
+    "parentId": 6000
+  },
+  {
+    "alias": "AI visa photo maker",
+    "id": 6258,
+    "name": "AI 签证照片制作工具",
+    "parentId": 6000
+  },
+  {
+    "alias": "online ID photo generator",
+    "id": 6259,
+    "name": "在线证件照生成器",
+    "parentId": 6000
+  },
+  {
+    "alias": "passport photo online free",
+    "id": 6260,
+    "name": "免费在线制作护照照片",
+    "parentId": 6000
+  },
+  {
+    "alias": "ai marketing copilot",
+    "id": 6261,
+    "name": "人工智能营销副驾驶",
+    "parentId": 6000
+  },
+  {
+    "alias": "conversational marketing ai",
+    "id": 6262,
+    "name": "对话式营销人工智能",
+    "parentId": 6000
+  },
+  {
+    "alias": "ai marketing content generator",
+    "id": 6263,
+    "name": "人工智能营销内容生成器",
+    "parentId": 6000
+  },
+  {
+    "alias": "ai copywriting assistant",
+    "id": 6264,
+    "name": "人工智能文案助手",
+    "parentId": 6000
+  },
+  {
+    "alias": "frontend / PM / analytics mock ",
+    "id": 6265,
+    "name": "前端/产品经理/分析模拟",
+    "parentId": 6000
+  },
+  {
+    "alias": "frontend / PM / analytics mock interview questions",
+    "id": 6266,
+    "name": "前端/产品经理/数据分析模拟面试题",
+    "parentId": 6000
+  },
+  {
+    "alias": "how to handle follow-up questions",
+    "id": 6267,
+    "name": "如何处理后续问题",
+    "parentId": 6000
+  },
+  {
+    "alias": "tech interview prep frameworks",
+    "id": 6268,
+    "name": "技术面试准备框架",
+    "parentId": 6000
+  },
+  {
+    "alias": "Mock Interview",
+    "id": 6269,
+    "name": "模拟面试",
+    "parentId": 6000
+  },
+  {
+    "alias": "old photo restoration ",
+    "id": 6270,
+    "name": "旧照片修复",
+    "parentId": 6000
+  },
+  {
+    "alias": "vintage photo upscaling ",
+    "id": 6271,
+    "name": "复古照片升级",
+    "parentId": 6000
+  },
+  {
+    "alias": "family archive photo repair",
+    "id": 6272,
+    "name": "家庭相册修复场景",
+    "parentId": 6000
+  },
+  {
+    "alias": "photo colorization ",
+    "id": 6273,
+    "name": "黑白上色",
+    "parentId": 6000
+  },
+  {
+    "alias": "AI health assistant tips",
+    "id": 6274,
+    "name": "人工智能健康助手提示",
+    "parentId": 6000
+  },
+  {
+    "alias": "BMI calculator guide",
+    "id": 6275,
+    "name": "BMI计算器指南",
+    "parentId": 6000
+  },
+  {
+    "alias": "sleep and wellness assessment",
+    "id": 6276,
+    "name": "睡眠和健康评估",
+    "parentId": 6000
+  },
+  {
+    "alias": "blood pressure self check ",
+    "id": 6277,
+    "name": "血压自我检查",
+    "parentId": 6000
+  },
+  {
+    "alias": "passport photo requirements ",
+    "id": 6278,
+    "name": "各国证件照尺寸、背景、表情规范",
+    "parentId": 6224
+  },
+  {
+    "alias": "LinkedIn headshot tips",
+    "id": 6279,
+    "name": "职场头像怎么拍",
+    "parentId": 6224
+  },
+  {
+    "alias": "visa application photo guide ",
+    "id": 6280,
+    "name": "签证/居留照常见拒因与自检清单",
+    "parentId": 6224
+  },
+  {
+    "alias": "AI headshot vs studio portrait",
+    "id": 6281,
+    "name": "自拍转正式照 vs 照相馆，成本与效果",
+    "parentId": 6224
+  },
+  {
+    "alias": "professional ID photo at home ",
+    "id": 6282,
+    "name": "在家用手机拍",
+    "parentId": 6224
+  },
+  {
+    "alias": "VTuber persona design",
+    "id": 6283,
+    "name": "虚拟主播人设怎么从零搭",
+    "parentId": 6000
+  },
+  {
+    "alias": "anime OC character creator",
+    "id": 6284,
+    "name": "原创角色（OC）设定与参考图思路",
+    "parentId": 6000
+  },
+  {
+    "alias": "anime character traits guide ",
+    "id": 6285,
+    "name": "发色、瞳色、服装等 trait 怎么组合不撞脸",
+    "parentId": 6000
+  },
+  {
+    "alias": "AI anime portrait prompt tips",
+    "id": 6286,
+    "name": "怎么描述才能得到稳定二次元脸",
+    "parentId": 6000
+  },
+  {
+    "alias": "birthday project fan edit",
+    "id": 6287,
+    "name": "爱豆生日应援图/九宫格常见做法",
+    "parentId": 6002
+  },
+  {
+    "alias": "K-pop concert support poster",
+    "id": 6288,
+    "name": "演唱会应援海报尺寸与排版",
+    "parentId": 6002
+  },
+  {
+    "alias": "fan lock screen wallpaper ",
+    "id": 6289,
+    "name": "追星向手机壁纸比例与清晰度",
+    "parentId": 6002
+  },
+  {
+    "alias": "idol fan art for Instagram",
+    "id": 6290,
+    "name": "饭拍修图、杂志风排版发 IG/微博",
+    "parentId": 6002
+  },
+  {
+    "alias": "AI photo to Ghibli style ",
+    "id": 6291,
+    "name": "照片转吉卜力风教程与注意点",
+    "parentId": 6215
+  },
+  {
+    "alias": "phone wallpaper size guide",
+    "id": 6292,
+    "name": "9:16 锁屏、4K 桌面常用尺寸",
+    "parentId": 6215
+  },
+  {
+    "alias": "lock screen aesthetic ideas ",
+    "id": 6293,
+    "name": "锁屏壁纸选题（人像/宠物/风景）",
+    "parentId": 6215
+  },
+  {
+    "alias": "cyberpunk portrait filter ",
+    "id": 6294,
+    "name": "赛博朋克人像滤镜怎么出片",
+    "parentId": 6215
+  },
+  {
+    "alias": "Blog Length",
+    "id": 6295,
+    "name": "Blog Length",
+    "parentId": 6194
+  },
+  {
+    "alias": "SEO ",
+    "id": 6296,
+    "name": "SEO ",
+    "parentId": 6194
+  },
+  {
+    "alias": "Social Media",
+    "id": 6297,
+    "name": "Social Media",
+    "parentId": 6194
+  },
+  {
+    "alias": "Email ",
+    "id": 6298,
+    "name": "Email ",
+    "parentId": 6194
+  },
+  {
+    "alias": "Readability",
+    "id": 6299,
+    "name": "Readability",
+    "parentId": 6194
+  },
+  {
+    "alias": "Zodiac",
+    "id": 6300,
+    "name": "星座",
+    "parentId": 6000
+  },
+  {
+    "alias": "Zodiac Signs",
+    "id": 6301,
+    "name": "星座",
+    "parentId": 6000
+  },
+  {
+    "alias": "Compatibility",
+    "id": 6302,
+    "name": "合盘",
+    "parentId": 6000
+  },
+  {
+    "alias": "Birth Chart",
+    "id": 6303,
+    "name": "本命盘",
+    "parentId": 6000
+  },
+  {
+    "alias": "Transits",
+    "id": 6304,
+    "name": "行运",
+    "parentId": 6000
+  },
+  {
+    "alias": "GLP-1 / Diabetes",
+    "id": 6305,
+    "name": "GLP-1 / 糖尿病",
+    "parentId": 5843
+  },
+  {
+    "alias": "Insulin / Blood Glucose",
+    "id": 6306,
+    "name": "胰岛素 / 血糖",
+    "parentId": 5843
+  },
+  {
+    "alias": "Cardiovascular / Anticoagulation",
+    "id": 6307,
+    "name": "心血管 / 抗凝",
+    "parentId": 5843
+  },
+  {
+    "alias": "Tumor / Biologics",
+    "id": 6308,
+    "name": "肿瘤 / 生物制剂",
+    "parentId": 5843
+  },
+  {
+    "alias": "Fertility / IVF",
+    "id": 6309,
+    "name": "生育 / IVF",
+    "parentId": 5843
+  },
+  {
+    "alias": "Orthopedics / Joint Surgery",
+    "id": 6310,
+    "name": "骨科 / 关节",
+    "parentId": 5843
+  },
+  {
+    "alias": "Ophthalmology / Vision",
+    "id": 6311,
+    "name": "眼科 / 视力",
+    "parentId": 5843
+  },
+  {
+    "alias": "Plastic Surgery / Medical Aesthetics",
+    "id": 6312,
+    "name": "整形 / 医美",
+    "parentId": 5843
+  },
+  {
+    "alias": "Weight Loss Surgery",
+    "id": 6313,
+    "name": "减肥手术",
+    "parentId": 5843
+  },
+  {
+    "alias": "Mental health / Addiction",
+    "id": 6314,
+    "name": "心理健康 / 成瘾",
+    "parentId": 5843
+  },
+  {
+    "alias": "Vaccine / Prevention",
+    "id": 6315,
+    "name": "疫苗 / 预防",
+    "parentId": 5843
+  },
+  {
+    "alias": "Diagnosis / Emergency",
+    "id": 6316,
+    "name": "诊断 / 急诊",
+    "parentId": 5843
+  },
+  {
+    "alias": "Color Profiles",
+    "id": 6321,
+    "name": "四色人格",
+    "parentId": 6000
+  },
+  {
+    "alias": "At Work",
+    "id": 6322,
+    "name": "职场",
+    "parentId": 6000
+  },
+  {
+    "alias": "Team Dynamics",
+    "id": 6323,
+    "name": "团队",
+    "parentId": 6000
+  },
+  {
+    "alias": "Communication",
+    "id": 6324,
+    "name": "沟通",
+    "parentId": 6000
+  },
+  {
+    "alias": "Plot Ideas",
+    "id": 6325,
+    "name": "剧情灵感",
+    "parentId": 6185
+  },
+  {
+    "alias": "Worldbuilding",
+    "id": 6326,
+    "name": "世界构建",
+    "parentId": 6185
+  },
+  {
+    "alias": "Characters",
+    "id": 6327,
+    "name": "角色创作",
+    "parentId": 6185
+  },
+  {
+    "alias": "Story Game",
+    "id": 6328,
+    "name": "故事玩法",
+    "parentId": 6185
+  },
+  {
+    "alias": "SBTI Types",
+    "id": 6329,
+    "name": "SBTI 阴影人格",
+    "parentId": 6056
+  },
+  {
+    "alias": "MBTI Types",
+    "id": 6330,
+    "name": "MBTI 十六型",
+    "parentId": 6056
+  },
+  {
+    "alias": "IQ & Logic",
+    "id": 6331,
+    "name": "IQ 逻辑测评",
+    "parentId": 6056
+  },
+  {
+    "alias": "Test Guides",
+    "id": 6332,
+    "name": "测验指南",
+    "parentId": 6056
+  },
+  {
+    "alias": "Medical · Urology Department",
+    "id": 6333,
+    "name": "医疗·泌尿外科",
+    "parentId": 5002
+  },
+  {
+    "alias": "Medical · Rare Diseases",
+    "id": 6334,
+    "name": "医疗·罕见病",
+    "parentId": 5002
+  },
+  {
+    "alias": "Law · Labor Law",
+    "id": 6335,
+    "name": "法律·劳动法",
+    "parentId": 5119
+  },
+  {
+    "alias": "Advertising Technology · Traffic Monetization",
+    "id": 6336,
+    "name": "广告技术·流量变现",
+    "parentId": 5117
+  },
+  {
+    "alias": "B2B SaaS · Global Employment",
+    "id": 6337,
+    "name": "B2B SaaS·全球雇佣",
+    "parentId": 5117
+  },
+  {
+    "alias": "B2B SaaS · Energy Technology",
+    "id": 6338,
+    "name": "B2B SaaS·能源科技",
+    "parentId": 5117
+  },
+  {
+    "alias": "Finance · Taxation",
+    "id": 6339,
+    "name": "金融·税务",
+    "parentId": 5000
+  },
+  {
+    "alias": "Finance · Payment",
+    "id": 6340,
+    "name": "金融·支付",
+    "parentId": 5000
+  },
+  {
+    "alias": "Compound & Growth",
+    "id": 6341,
+    "name": "复利与增长",
+    "parentId": 6000
+  },
+  {
+    "alias": "Saving & Budget",
+    "id": 6342,
+    "name": "储蓄与预算",
+    "parentId": 6000
+  },
+  {
+    "alias": "Rates & Inflation",
+    "id": 6343,
+    "name": "利率与通胀",
+    "parentId": 6000
+  },
+  {
+    "alias": "Guides & Tools",
+    "id": 6344,
+    "name": "指南与工具",
+    "parentId": 6000
+  },
+  {
+    "alias": "Daily Habits",
+    "id": 6345,
+    "name": "日常习惯",
+    "parentId": 6000
+  },
+  {
+    "alias": "Gum & Sensitivity",
+    "id": 6346,
+    "name": "牙龈与敏感",
+    "parentId": 6000
+  },
+  {
+    "alias": "Treatments Explained",
+    "id": 6347,
+    "name": "治疗科普",
+    "parentId": 6000
+  },
+  {
+    "alias": "Guides & Tools",
+    "id": 6348,
+    "name": "指南与工具",
+    "parentId": 6000
+  },
+  {
+    "alias": "Quoting & Money",
+    "id": 6349,
+    "name": "报价与定价",
+    "parentId": 6000
+  },
+  {
+    "alias": "Client Talk",
+    "id": 6350,
+    "name": "客户沟通",
+    "parentId": 6000
+  },
+  {
+    "alias": "Field Habits",
+    "id": 6351,
+    "name": "现场习惯",
+    "parentId": 6000
+  },
+  {
+    "alias": "Guides & Tools",
+    "id": 6352,
+    "name": "工具与指南",
+    "parentId": 6000
+  },
+  {
+    "alias": "Laser Basics",
+    "id": 6353,
+    "name": "激光入门",
+    "parentId": 6000
+  },
+  {
+    "alias": "Common Concerns",
+    "id": 6354,
+    "name": "常见困扰",
+    "parentId": 6000
+  },
+  {
+    "alias": "Recovery Notes",
+    "id": 6355,
+    "name": "恢复须知",
+    "parentId": 6000
+  },
+  {
+    "alias": "Clinic Questions",
+    "id": 6356,
+    "name": "问诊准备",
+    "parentId": 6000
+  },
+  {
+    "alias": "Interview Prep",
+    "id": 6357,
+    "name": "面试准备",
+    "parentId": 6000
+  },
+  {
+    "alias": "Job Types",
+    "id": 6358,
+    "name": "工种与活法",
+    "parentId": 6000
+  },
+  {
+    "alias": "Site Habits",
+    "id": 6359,
+    "name": "现场习惯",
+    "parentId": 6000
+  },
+  {
+    "alias": "Career Notes",
+    "id": 6360,
+    "name": "求职路径",
+    "parentId": 6000
+  },
+  {
+    "alias": "Portfolio Craft",
+    "id": 6361,
+    "name": "作品集技巧",
+    "parentId": 6000
+  },
+  {
+    "alias": "Style Briefs",
+    "id": 6362,
+    "name": "风格简报",
+    "parentId": 6000
+  },
+  {
+    "alias": "Yard Talk",
+    "id": 6363,
+    "name": "庭院沟通",
+    "parentId": 6000
+  },
+  {
+    "alias": "Job Hunt Notes",
+    "id": 6364,
+    "name": "求职笔记",
+    "parentId": 6000
+  },
+  {
+    "alias": "Outfit Formulas",
+    "id": 6365,
+    "name": "穿搭公式",
+    "parentId": 6000
+  },
+  {
+    "alias": "Mood Briefs",
+    "id": 6366,
+    "name": "造型简报",
+    "parentId": 6000
+  },
+  {
+    "alias": "Photo Tips",
+    "id": 6367,
+    "name": "拍照笔记",
+    "parentId": 6000
+  },
+  {
+    "alias": "Lookbook Craft",
+    "id": 6368,
+    "name": "Lookbook 技巧",
+    "parentId": 6000
+  },
+  {
+    "alias": "Character Charts",
+    "id": 6369,
+    "name": "角色星图",
+    "parentId": 6185
+  },
+  {
+    "alias": "World Atlas",
+    "id": 6370,
+    "name": "星域设定",
+    "parentId": 6185
+  },
+  {
+    "alias": "Branching Arcs",
+    "id": 6371,
+    "name": "分支航线",
+    "parentId": 6185
+  },
+  {
+    "alias": "Portrait Craft",
+    "id": 6372,
+    "name": "造像技法",
+    "parentId": 6185
+  },
+  {
+    "alias": "Prompt Craft",
+    "id": 6373,
+    "name": "提示词写法",
+    "parentId": 6101
+  },
+  {
+    "alias": "Frame Ratios",
+    "id": 6374,
+    "name": "构图与比例",
+    "parentId": 6101
+  },
+  {
+    "alias": "Look Studies",
+    "id": 6375,
+    "name": "风格练习",
+    "parentId": 6101
+  },
+  {
+    "alias": "Studio Tips",
+    "id": 6376,
+    "name": "工作台技巧",
+    "parentId": 6101
+  },
+  {
+    "alias": "Finish Moods",
+    "id": 6377,
+    "name": "改造风格",
+    "parentId": 6144
+  },
+  {
+    "alias": "Room Prep",
+    "id": 6378,
+    "name": "拍照准备",
+    "parentId": 6144
+  },
+  {
+    "alias": "Before After",
+    "id": 6379,
+    "name": "对比技巧",
+    "parentId": 6144
+  },
+  {
+    "alias": "Studio Tips",
+    "id": 6380,
+    "name": "工作台技巧",
+    "parentId": 6144
+  },
+  {
+    "alias": "Day Trips",
+    "id": 6381,
+    "name": "当日往返",
+    "parentId": 6000
+  },
+  {
+    "alias": "Half-Day Boards",
+    "id": 6382,
+    "name": "半日行程",
+    "parentId": 6000
+  },
+  {
+    "alias": "Museum Trails",
+    "id": 6383,
+    "name": "博物馆动线",
+    "parentId": 6000
+  },
+  {
+    "alias": "Rain Plans",
+    "id": 6384,
+    "name": "雨天备选",
+    "parentId": 6000
+  },
+  {
+    "alias": "Walkthrough Checklists",
+    "id": 6385,
+    "name": "看房清单",
+    "parentId": 6000
+  },
+  {
+    "alias": "Red Flags",
+    "id": 6386,
+    "name": "危险信号",
+    "parentId": 6000
+  },
+  {
+    "alias": "Questions to Ask",
+    "id": 6387,
+    "name": "该问什么",
+    "parentId": 6000
+  },
+  {
+    "alias": "After the Tour",
+    "id": 6388,
+    "name": "看房之后",
+    "parentId": 6000
+  },
+  {
+    "alias": "Law",
+    "id": 6389,
+    "name": "法律",
+    "parentId": null
+  },
+  {
+    "alias": "Personal Injury",
+    "id": 6390,
+    "name": "人身伤害",
+    "parentId": 6389
+  },
+  {
+    "alias": "Labour",
+    "id": 6391,
+    "name": "劳动",
+    "parentId": 6389
+  },
+  {
+    "alias": "Social Security",
+    "id": 6392,
+    "name": "社保",
+    "parentId": 6389
+  },
+  {
+    "alias": "Tax Administration",
+    "id": 6393,
+    "name": "税务",
+    "parentId": 6389
+  },
+  {
+    "alias": "Inherit",
+    "id": 6394,
+    "name": "继承",
+    "parentId": 6389
+  },
+  {
+    "alias": "Consumer",
+    "id": 6395,
+    "name": "消费者",
+    "parentId": 6389
+  },
+  {
+    "alias": "Medical Dispute",
+    "id": 6396,
+    "name": "医疗纠纷",
+    "parentId": 6389
+  },
+  {
+    "alias": "Pay",
+    "id": 6397,
+    "name": "支付",
+    "parentId": 5000
+  },
+  {
+    "alias": "Corporate Finance",
+    "id": 6398,
+    "name": "企业融资",
+    "parentId": 5000
+  },
+  {
+    "alias": "Reproduction",
+    "id": 6399,
+    "name": "生殖",
+    "parentId": 5027
+  },
+  {
+    "alias": "Recovery",
+    "id": 6400,
+    "name": "康复",
+    "parentId": 5027
+  },
+  {
+    "alias": "Rare Diseases",
+    "id": 6401,
+    "name": "罕见病",
+    "parentId": 5027
+  },
+  {
+    "alias": "Health Insurance",
+    "id": 6402,
+    "name": "医保",
+    "parentId": 5027
+  },
+  {
+    "alias": "Advertising Technology",
+    "id": 6403,
+    "name": "广告技术",
+    "parentId": 5014
+  },
+  {
+    "alias": "Live",
+    "id": 6404,
+    "name": "生活",
+    "parentId": null
+  },
+  {
+    "alias": "Government",
+    "id": 6405,
+    "name": "政府",
+    "parentId": null
+  },
+  {
+    "alias": "Travel",
+    "id": 6406,
+    "name": "旅游",
+    "parentId": 6404
+  },
+  {
+    "alias": "Business Information Inquiry",
+    "id": 6407,
+    "name": "工商查询",
+    "parentId": 6405
+  },
+  {
+    "alias": "Drug Price",
+    "id": 6408,
+    "name": "药品价格",
+    "parentId": 5027
+  },
+  {
+    "alias": "Medical Tourism",
+    "id": 6409,
+    "name": "医疗旅游",
+    "parentId": 5027
+  },
+  {
+    "alias": "Installment Payments",
+    "id": 6410,
+    "name": "消费分期",
+    "parentId": 5845
+  },
+  {
+    "alias": "Taxation and Compliance",
+    "id": 6411,
+    "name": "财税与合规",
+    "parentId": 5014
+  },
+  {
+    "alias": "Weight loss & Metabolism",
+    "id": 6412,
+    "name": "减重与代谢",
+    "parentId": 5027
+  },
+  {
+    "alias": "Immigrant",
+    "id": 6413,
+    "name": "移民",
+    "parentId": 6389
+  },
+  {
+    "alias": "Hormones & Anti-Aging",
+    "id": 6414,
+    "name": "荷尔蒙与抗衰",
+    "parentId": 5002
+  },
+  {
+    "alias": "Equipment Leasing",
+    "id": 6415,
+    "name": "设备分期",
+    "parentId": 5845
+  },
+  {
+    "alias": "Online Degree",
+    "id": 6416,
+    "name": "在线学位",
+    "parentId": 5008
+  },
+  {
+    "alias": "Traffic",
+    "id": 6417,
+    "name": "交通",
+    "parentId": 6389
+  },
+  {
+    "alias": "Loans & Financing",
+    "id": 6418,
+    "name": "贷款与融资",
+    "parentId": 5844
+  },
+  {
+    "alias": "Cards &Credit",
+    "id": 6419,
+    "name": "卡与信贷",
+    "parentId": 5844
+  },
+  {
+    "alias": "Species",
+    "id": 6420,
+    "name": "物种选择",
+    "parentId": 6049
+  },
+  {
+    "alias": "Look & Coat",
+    "id": 6421,
+    "name": "外观毛色",
+    "parentId": 6049
+  },
+  {
+    "alias": "Style & Mood",
+    "id": 6422,
+    "name": "风格情绪",
+    "parentId": 6049
+  },
+  {
+    "alias": "Habitats",
+    "id": 6423,
+    "name": "栖息地",
+    "parentId": 6049
+  },
+  {
+    "alias": "Support Posters",
+    "id": 6424,
+    "name": "应援海报",
+    "parentId": 6000
+  },
+  {
+    "alias": "Concert Banners",
+    "id": 6425,
+    "name": "应援横幅",
+    "parentId": 6000
+  },
+  {
+    "alias": "Birthday Drops",
+    "id": 6426,
+    "name": "生日应援",
+    "parentId": 6000
+  },
+  {
+    "alias": "Wallpapers & Crops",
+    "id": 6427,
+    "name": "壁纸裁切",
+    "parentId": 6000
+  },
+  {
+    "alias": "Anime Styles",
+    "id": 6428,
+    "name": "动漫插画",
+    "parentId": 6000
+  },
+  {
+    "alias": "Fine Art Styles",
+    "id": 6429,
+    "name": "古典绘画",
+    "parentId": 6000
+  },
+  {
+    "alias": "Cinematic Looks",
+    "id": 6430,
+    "name": "电影质感",
+    "parentId": 6000
+  },
+  {
+    "alias": "Retro & Fun",
+    "id": 6431,
+    "name": "复古趣味",
+    "parentId": 6000
+  },
+  {
+    "alias": "dental",
+    "id": 6432,
+    "name": "牙齿",
+    "parentId": 6000
+  },
+  {
+    "alias": "Oral Hygiene",
+    "id": 6433,
+    "name": "口腔卫生",
+    "parentId": 6432
+  },
+  {
+    "alias": "Dental Conditions",
+    "id": 6434,
+    "name": "牙科常见问题",
+    "parentId": 6432
+  },
+  {
+    "alias": "Dental Procedures",
+    "id": 6435,
+    "name": "牙科治疗项目",
+    "parentId": 6432
+  },
+  {
+    "alias": "Costs & Insurance",
+    "id": 6436,
+    "name": "费用与保险",
+    "parentId": 6432
+  },
+  {
+    "alias": "Cleaning Jobs",
+    "id": 6437,
+    "name": "清洁工作",
+    "parentId": 6000
+  },
+  {
+    "alias": "Pay & Benefits",
+    "id": 6438,
+    "name": "薪酬福利",
+    "parentId": 6000
+  },
+  {
+    "alias": "Resume & Interviews",
+    "id": 6439,
+    "name": "简历与面试",
+    "parentId": 6000
+  },
+  {
+    "alias": "Getting Started",
+    "id": 6440,
+    "name": "入门指南",
+    "parentId": 6000
+  },
+  {
+    "alias": "Laser Treatment Guides",
+    "id": 6441,
+    "name": "治疗知识",
+    "parentId": 6000
+  },
+  {
+    "alias": "Costs & Recovery",
+    "id": 6442,
+    "name": "费用和恢复",
+    "parentId": 6000
+  },
+  {
+    "alias": "Finding a Provider",
+    "id": 6443,
+    "name": "如何选择服务提供者",
+    "parentId": 6000
+  },
+  {
+    "alias": "AI Laser Treatment Guide",
+    "id": 6444,
+    "name": "AI 问答指南",
+    "parentId": 6000
+  },
+  {
+    "alias": "Electrician Careers",
+    "id": 6445,
+    "name": "电工职业",
+    "parentId": 6000
+  },
+  {
+    "alias": "Apprenticeships & Training",
+    "id": 6446,
+    "name": "学徒培训",
+    "parentId": 6000
+  },
+  {
+    "alias": "Resumes & Interviews",
+    "id": 6447,
+    "name": "简历与面试",
+    "parentId": 6000
+  },
+  {
+    "alias": "Pay & Advancement",
+    "id": 6448,
+    "name": "薪资与发展",
+    "parentId": 6000
+  },
+  {
+    "alias": "Ai Agent",
+    "id": 6449,
+    "name": "ai agent",
+    "parentId": 6000
+  },
+  {
+    "alias": "AI Short",
+    "id": 6450,
+    "name": "AI短剧",
+    "parentId": 6000
+  }
+]

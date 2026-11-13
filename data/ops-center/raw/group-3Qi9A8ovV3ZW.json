@@ -1,0 +1,76 @@
+{
+  "code": 200,
+  "data": {
+    "groupId": "3Qi9A8ovV3ZW",
+    "groupName": "CD-Reel-A71-JP",
+    "routing": "",
+    "geo": "JP",
+    "yesterdayRpm": 0,
+    "yesterdayRev": 0,
+    "yesterdayRpmTrend": 0,
+    "yesterdayRevTrend": -100,
+    "offerList": [
+      {
+        "offerId": "3i2aPs0XTwWR",
+        "offerName": "cd-reel-A71-A12-JP-9598677745",
+        "categoryName": "住房抗灾投资",
+        "weight": 0,
+        "channelId": "9598677745",
+        "countryCode": null,
+        "afsSource": null,
+        "todayRpm": 0,
+        "todayRev": 0
+      },
+      {
+        "offerId": "3lplh9fC1xuL",
+        "offerName": "cd-reel-A71-A14-JP-5938423316",
+        "categoryName": "宠物保险",
+        "weight": 0,
+        "channelId": "5938423316",
+        "countryCode": null,
+        "afsSource": null,
+        "todayRpm": 0,
+        "todayRev": 0
+      },
+      {
+        "offerId": "3XcTjIFnOvUN",
+        "offerName": "A71-A7-jp-10930",
+        "categoryName": "私募信贷",
+        "weight": 0.22,
+        "channelId": "10930",
+        "countryCode": null,
+        "afsSource": null,
+        "todayRpm": 0,
+        "todayRev": 0
+      },
+      {
+        "offerId": "3XcTKgcuXTBh",
+        "offerName": "A71-A4-jp-8836912457",
+        "categoryName": "私募信贷",
+        "weight": 0.78,
+        "channelId": "8836912457",
+        "countryCode": null,
+        "afsSource": null,
+        "todayRpm": 0,
+        "todayRev": 0
+      },
+      {
+        "offerId": "3XcUGx4NVhaA",
+        "offerName": "A71-A6-jp-4727453113",
+        "categoryName": null,
+        "weight": 0,
+        "channelId": "4727453113",
+        "countryCode": null,
+        "afsSource": null,
+        "todayRpm": 0,
+        "todayRev": 0
+      }
+    ],
+    "funnelId": "3Qi1G0Basd3l",
+    "funnelName": "cd-reel-A71",
+    "partnerName": "changdu",
+    "urlName": "moboreels",
+    "urlId": 72,
+    "platform": "FF"
+  }
+}

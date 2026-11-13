@@ -1,0 +1,186 @@
+{
+  "code": 200,
+  "data": {
+    "groupId": "3rHs35dC0FiO",
+    "groupName": "vibeshort-v05-us",
+    "routing": "rotator",
+    "geo": "US",
+    "yesterdayRpm": 42.8,
+    "yesterdayRev": 151,
+    "yesterdayRpmTrend": -35.35,
+    "yesterdayRevTrend": 3.75,
+    "offerList": [
+      {
+        "offerId": "3rHqsP91Hz3Q",
+        "offerName": "vibeshort-v05-A4-us-9147903645-zestfularcade.com",
+        "categoryName": "SUV",
+        "weight": 0.34,
+        "channelId": "9147903645",
+        "countryCode": "US",
+        "afsSource": "4",
+        "todayRpm": 63.6,
+        "todayRev": 29.89
+      },
+      {
+        "offerId": "3rHqT7qERZ9s",
+        "offerName": "vibeshort-v05-A7-us-11747-algo-cash.com",
+        "categoryName": "心理健康 / 成瘾",
+        "weight": 0.03,
+        "channelId": "11747",
+        "countryCode": "US",
+        "afsSource": "7",
+        "todayRpm": 27.1,
+        "todayRev": 5.04
+      },
+      {
+        "offerId": "3rHqKJZBkZu7",
+        "offerName": "vibeshort-v05-A12-us-8504224551-degreesuccesstips.com",
+        "categoryName": "注射除皱",
+        "weight": 0.03,
+        "channelId": "8504224551",
+        "countryCode": "US",
+        "afsSource": "12",
+        "todayRpm": 13.5,
+        "todayRev": 0.88
+      },
+      {
+        "offerId": "3yBNeKYY0hRn",
+        "offerName": "vibeshort-v05-A1-us-14816-homeguarddeals.com",
+        "categoryName": "面部提拉",
+        "weight": 0.39,
+        "channelId": "14816",
+        "countryCode": "US",
+        "afsSource": "1",
+        "todayRpm": 70.7,
+        "todayRev": 52.85
+      },
+      {
+        "offerId": "3yBO5ZdzwSmW",
+        "offerName": "Vibeshort-V05-A5-us-5243735467-funfillgames.com",
+        "categoryName": "SUV",
+        "weight": 0.29,
+        "channelId": "5243735467",
+        "countryCode": "US",
+        "afsSource": "5",
+        "todayRpm": 53.6,
+        "todayRev": 7.02
+      },
+      {
+        "offerId": "3ywu88UgRs9I",
+        "offerName": "vibeshort-v05-A1-us-13429-insurance-consulting-nearby.com",
+        "categoryName": "消费电子",
+        "weight": 0.05,
+        "channelId": "13429",
+        "countryCode": "US",
+        "afsSource": "1",
+        "todayRpm": 33.3,
+        "todayRev": 6
+      },
+      {
+        "offerId": "3ywuC9ftYGoa",
+        "offerName": "vibeshort-v05-A1-us-13430-beauty-center-nearby.com",
+        "categoryName": "注射除皱",
+        "weight": 0.04,
+        "channelId": "13430",
+        "countryCode": "US",
+        "afsSource": "1",
+        "todayRpm": 69.5,
+        "todayRev": 4.45
+      },
+      {
+        "offerId": "3ywuIyCG7rGY",
+        "offerName": "vibeshort-v05-A4-us-9473195525-fluxpaid.com",
+        "categoryName": "肿瘤 / 生物制剂",
+        "weight": 0.03,
+        "channelId": "9473195525",
+        "countryCode": "US",
+        "afsSource": "4",
+        "todayRpm": 32.5,
+        "todayRev": 1.56
+      },
+      {
+        "offerId": "3ywuYA6RiW5u",
+        "offerName": "vibeshort-v05-A7-us-18648-www.newamc.com",
+        "categoryName": "SUV",
+        "weight": 0.23,
+        "channelId": "18648",
+        "countryCode": "US",
+        "afsSource": "7",
+        "todayRpm": 40.6,
+        "todayRev": 12.33
+      },
+      {
+        "offerId": "3ywucI7vDClb",
+        "offerName": "vibeshort-v05-A7-us-18649-xveluxai.com",
+        "categoryName": "面部提拉",
+        "weight": 0.03,
+        "channelId": "18649",
+        "countryCode": "US",
+        "afsSource": "7",
+        "todayRpm": 14.2,
+        "todayRev": 0.74
+      },
+      {
+        "offerId": "3ywuPhkIUVF1",
+        "offerName": "Vibeshort-V05-A5-us-7908442773-joyfullplayland.com",
+        "categoryName": "SUV",
+        "weight": 0.05,
+        "channelId": "7908442773",
+        "countryCode": "US",
+        "afsSource": "5",
+        "todayRpm": 34.1,
+        "todayRev": 11.04
+      },
+      {
+        "offerId": "3ywuhEJz43DT",
+        "offerName": "vibeshort-v05-A12-us-9270650584-aivestorhq.com",
+        "categoryName": "肿瘤 / 生物制剂",
+        "weight": 0.02,
+        "channelId": "9270650584",
+        "countryCode": "US",
+        "afsSource": "12",
+        "todayRpm": 16.8,
+        "todayRev": 3.35
+      },
+      {
+        "offerId": "3ywupEK9I5YX",
+        "offerName": "Vibeshort-V05-A15-us-6508131504-51jiejue.com",
+        "categoryName": "宠物产品",
+        "weight": 0.01,
+        "channelId": "7788687495",
+        "countryCode": "US",
+        "afsSource": "15",
+        "todayRpm": 12,
+        "todayRev": 1.97
+      },
+      {
+        "offerId": "3ywut0qjqEWA",
+        "offerName": "Vibeshort-V05-A15-us-9597329276-lstmai.com",
+        "categoryName": "宠物产品",
+        "weight": 0.03,
+        "channelId": "9597329276",
+        "countryCode": "US",
+        "afsSource": "15",
+        "todayRpm": 17.6,
+        "todayRev": 0.81
+      },
+      {
+        "offerId": "43qPM6jR3LUG",
+        "offerName": "Vibeshort-V05-A17-us-4100785272-seekmoon.ai",
+        "categoryName": null,
+        "weight": 0.18,
+        "channelId": "4100785272",
+        "countryCode": "US",
+        "afsSource": "17",
+        "todayRpm": 0,
+        "todayRev": 0
+      }
+    ],
+    "funnelId": "3rHtNAYBcTyF",
+    "funnelName": "Vibeshort-V05",
+    "partnerName": "vibeshort",
+    "urlName": "vibeshort-V05",
+    "urlId": 138,
+    "platform": "MIS"
+  }
+}

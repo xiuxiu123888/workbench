@@ -1,0 +1,32 @@
+{
+  "code": 200,
+  "data": {
+    "groupId": "3WWk2hF6tDMJ",
+    "groupName": "hard-news",
+    "routing": "rotator",
+    "geo": null,
+    "yesterdayRpm": 0,
+    "yesterdayRev": 0,
+    "yesterdayRpmTrend": 0,
+    "yesterdayRevTrend": 0,
+    "offerList": [
+      {
+        "offerId": "3WWjgmSHrm8f",
+        "offerName": "hard-news",
+        "categoryName": null,
+        "weight": 1,
+        "channelId": null,
+        "countryCode": null,
+        "afsSource": null,
+        "todayRpm": 0,
+        "todayRev": 0
+      }
+    ],
+    "funnelId": "3Qi1gJ9jSk2n",
+    "funnelName": "cd-reader-A73",
+    "partnerName": "changdu",
+    "urlName": "moboreader",
+    "urlId": 74,
+    "platform": "FF"
+  }
+}

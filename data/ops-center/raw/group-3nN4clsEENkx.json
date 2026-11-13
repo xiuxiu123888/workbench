@@ -1,0 +1,43 @@
+{
+  "code": 200,
+  "data": {
+    "groupId": "3nN4clsEENkx",
+    "groupName": "CD-Reader-A51-de",
+    "routing": "",
+    "geo": "DE",
+    "yesterdayRpm": 0.8,
+    "yesterdayRev": 1.38,
+    "yesterdayRpmTrend": 166.67,
+    "yesterdayRevTrend": 176,
+    "offerList": [
+      {
+        "offerId": "3lplh9ByqgKz",
+        "offerName": "cd-reader-51-A14-DE-9139818649",
+        "categoryName": "分期购买手机",
+        "weight": 0.02,
+        "channelId": "9139818649",
+        "countryCode": null,
+        "afsSource": null,
+        "todayRpm": 0,
+        "todayRev": 0
+      },
+      {
+        "offerId": "3lWWRRRUb8pd",
+        "offerName": "cd-reader-51-A12-DE-5132442487",
+        "categoryName": "移民律师",
+        "weight": 1,
+        "channelId": "5132442487",
+        "countryCode": null,
+        "afsSource": null,
+        "todayRpm": 1,
+        "todayRev": 1.27
+      }
+    ],
+    "funnelId": "3LyxpT9hzzh6",
+    "funnelName": "cd-reader-A5-51",
+    "partnerName": "changdu",
+    "urlName": "moboreader",
+    "urlId": 51,
+    "platform": "FF"
+  }
+}

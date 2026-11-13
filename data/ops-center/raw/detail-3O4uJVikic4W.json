@@ -1,0 +1,42 @@
+{
+  "code": 200,
+  "data": {
+    "funnelId": "3O4uJVikic4W",
+    "funnelName": "cd-reel-A4-61",
+    "partnerName": "changdu",
+    "urlName": "moboreels",
+    "urlId": 61,
+    "offerGroupList": [
+      {
+        "groupId": "3XKq2S5lIjec",
+        "groupName": "cd-reel-A61-us",
+        "geo": "US"
+      },
+      {
+        "groupId": "3XKqGQYDlrCH",
+        "groupName": "cd-reel-A61-jp",
+        "geo": "JP"
+      },
+      {
+        "groupId": "3XKqN5EGpmu8",
+        "groupName": "cd-reel-A61-br",
+        "geo": "BR"
+      },
+      {
+        "groupId": "3XKr4p6nJzyz",
+        "groupName": "cd-reel-A61-default",
+        "geo": "CD"
+      },
+      {
+        "groupId": "3nMveSJRRlZ2",
+        "groupName": "cd-reel-A61-it",
+        "geo": "IT"
+      },
+      {
+        "groupId": "3nMvcSG46zRn",
+        "groupName": "cd-reel-A61-de",
+        "geo": "DE"
+      }
+    ]
+  }
+}

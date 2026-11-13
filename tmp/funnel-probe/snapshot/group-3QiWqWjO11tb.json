@@ -1,0 +1,65 @@
+{
+  "code": 200,
+  "data": {
+    "groupId": "3QiWqWjO11tb",
+    "groupName": "CD-Reel-A75-US",
+    "routing": "",
+    "geo": "US",
+    "yesterdayRpm": 58.4,
+    "yesterdayRev": 288.7,
+    "yesterdayRpmTrend": -11.52,
+    "yesterdayRevTrend": 2.07,
+    "offerList": [
+      {
+        "offerId": "3lpdddJLyoTZ",
+        "offerName": "cd-reader-A75-A12-US-1109787320",
+        "categoryName": "临床研究",
+        "weight": 0.25,
+        "channelId": "1109787320",
+        "countryCode": null,
+        "afsSource": null,
+        "todayRpm": 0,
+        "todayRev": 0
+      },
+      {
+        "offerId": "3lppqhtkhsg1",
+        "offerName": "cd-reader-A75-A14-US-8073632069",
+        "categoryName": "临床研究",
+        "weight": 0.25,
+        "channelId": "8073632069",
+        "countryCode": null,
+        "afsSource": null,
+        "todayRpm": 0,
+        "todayRev": 0
+      },
+      {
+        "offerId": "3XcgK7t6NMUw",
+        "offerName": "A75-A4-us-8002532881",
+        "categoryName": "肝脏健康",
+        "weight": 0.25,
+        "channelId": "8002532881",
+        "countryCode": null,
+        "afsSource": null,
+        "todayRpm": 75.1,
+        "todayRev": 364.87
+      },
+      {
+        "offerId": "3Xch7GOHIOB3",
+        "offerName": "A75-A7-us-10938",
+        "categoryName": "肝脏健康",
+        "weight": 0.25,
+        "channelId": "10938",
+        "countryCode": null,
+        "afsSource": null,
+        "todayRpm": 0,
+        "todayRev": 0
+      }
+    ],
+    "funnelId": "3Qi2AaBNTLG6",
+    "funnelName": "cd-reader-A75",
+    "partnerName": "changdu",
+    "urlName": "moboreader",
+    "urlId": 76,
+    "platform": "FF"
+  }
+}

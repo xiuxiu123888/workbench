@@ -1,0 +1,15 @@
+{
+  "enabled": false,
+  "intervalHours": 3,
+  "maxPerRun": 10,
+  "priorities": [
+    "P0"
+  ],
+  "excludeDefault": true,
+  "samePartnerBorrow": true,
+  "requirePreview": true,
+  "lastPlannedAt": null,
+  "lastRunAt": null,
+  "notes": "每3小时P0优先；写回前预览。调度下一阶段接通。",
+  "updatedAt": "2026-11-13T03:58:27.346Z"
+}

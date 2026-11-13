@@ -1,0 +1,43 @@
+{
+  "code": 200,
+  "data": {
+    "groupId": "3p0qBB069XOE",
+    "groupName": "ff-reel-v04-default",
+    "routing": "rotator",
+    "geo": null,
+    "yesterdayRpm": 0,
+    "yesterdayRev": 0,
+    "yesterdayRpmTrend": 0,
+    "yesterdayRevTrend": 0,
+    "offerList": [
+      {
+        "offerId": "3p0pCQ7CTQuz",
+        "offerName": "flare-v04-A4-default-6233251331",
+        "categoryName": "药品配送",
+        "weight": 1,
+        "channelId": "6233251331",
+        "countryCode": null,
+        "afsSource": "4",
+        "todayRpm": 0,
+        "todayRev": 0
+      },
+      {
+        "offerId": "3p1bXCgwvOOo",
+        "offerName": "flare-v04-A12-default-5661257225",
+        "categoryName": "个人贷款",
+        "weight": 1,
+        "channelId": "5661257225",
+        "countryCode": null,
+        "afsSource": "12",
+        "todayRpm": 0,
+        "todayRev": 0
+      }
+    ],
+    "funnelId": "3p0rRj7GzSgd",
+    "funnelName": "ff-reel-v04",
+    "partnerName": null,
+    "urlName": null,
+    "urlId": null,
+    "platform": "MIS"
+  }
+}

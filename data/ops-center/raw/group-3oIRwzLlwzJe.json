@@ -1,0 +1,65 @@
+{
+  "code": 200,
+  "data": {
+    "groupId": "3oIRwzLlwzJe",
+    "groupName": "cd-lock-v01-us",
+    "routing": "",
+    "geo": "US",
+    "yesterdayRpm": 0,
+    "yesterdayRev": 0,
+    "yesterdayRpmTrend": 0,
+    "yesterdayRevTrend": 0,
+    "offerList": [
+      {
+        "offerId": "3oIO3wkteKzX",
+        "offerName": "cd-lock-v01-A1-us-16510",
+        "categoryName": "药品配送",
+        "weight": 0.25,
+        "channelId": "16510",
+        "countryCode": null,
+        "afsSource": null,
+        "todayRpm": 0,
+        "todayRev": 0
+      },
+      {
+        "offerId": "3oIOBqTVmy5A",
+        "offerName": "cd-lock-v01-A4-us-1235223215",
+        "categoryName": "药品配送",
+        "weight": 0.25,
+        "channelId": "1235223215",
+        "countryCode": null,
+        "afsSource": null,
+        "todayRpm": 0,
+        "todayRev": 0
+      },
+      {
+        "offerId": "3oIOGUJvAibh",
+        "offerName": "cd-lock-v01-A7-us-9973061155",
+        "categoryName": "药品配送",
+        "weight": 0.25,
+        "channelId": "9973061155",
+        "countryCode": null,
+        "afsSource": null,
+        "todayRpm": 0,
+        "todayRev": 0
+      },
+      {
+        "offerId": "3oIOQIoDO5Fy",
+        "offerName": "cd-lock-v01-A12-us-6576610694",
+        "categoryName": "药品配送",
+        "weight": 0.25,
+        "channelId": "6576610694",
+        "countryCode": null,
+        "afsSource": null,
+        "todayRpm": 0,
+        "todayRev": 0
+      }
+    ],
+    "funnelId": "3oIS6Y7J2ySb",
+    "funnelName": "cd-lock-v01",
+    "partnerName": "changdu",
+    "urlName": "moboreels",
+    "urlId": 127,
+    "platform": "FF"
+  }
+}

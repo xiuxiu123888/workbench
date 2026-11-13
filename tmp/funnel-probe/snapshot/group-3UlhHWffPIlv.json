@@ -1,0 +1,43 @@
+{
+  "code": 200,
+  "data": {
+    "groupId": "3UlhHWffPIlv",
+    "groupName": "A79-A7-Us-9265748052",
+    "routing": "",
+    "geo": "US",
+    "yesterdayRpm": 137.5,
+    "yesterdayRev": 98.06,
+    "yesterdayRpmTrend": 15.35,
+    "yesterdayRevTrend": 11.66,
+    "offerList": [
+      {
+        "offerId": "3g0Sq727NmJ2",
+        "offerName": "A79-A4-Us-8364590656",
+        "categoryName": "HIV",
+        "weight": 0.5,
+        "channelId": "8364590656",
+        "countryCode": null,
+        "afsSource": null,
+        "todayRpm": 67.5,
+        "todayRev": 34.28
+      },
+      {
+        "offerId": "3Ulgnod37w76",
+        "offerName": "A79-A7-Us-9265748052",
+        "categoryName": "手机套餐",
+        "weight": 0.5,
+        "channelId": "9265748052",
+        "countryCode": null,
+        "afsSource": null,
+        "todayRpm": 0,
+        "todayRev": 0
+      }
+    ],
+    "funnelId": "3UlhCblNbzAu",
+    "funnelName": "cd-reader-A79",
+    "partnerName": "changdu",
+    "urlName": "moboreader",
+    "urlId": 89,
+    "platform": "FF"
+  }
+}

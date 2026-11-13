@@ -1,0 +1,47 @@
+{
+  "code": 200,
+  "data": {
+    "funnelId": "3Qi1gJ9jSk2n",
+    "funnelName": "cd-reader-A73",
+    "partnerName": "changdu",
+    "urlName": "moboreader",
+    "urlId": 74,
+    "offerGroupList": [
+      {
+        "groupId": "3QiOHMSMR1v4",
+        "groupName": "CD-Reel-A73-BR",
+        "geo": "BR"
+      },
+      {
+        "groupId": "3QiOQcNvJ0Tz",
+        "groupName": "CD-Reel-A73-US",
+        "geo": "US"
+      },
+      {
+        "groupId": "3QiOVtctKKmR",
+        "groupName": "CD-Reel-A73-JP",
+        "geo": "JP"
+      },
+      {
+        "groupId": "3QiOQcNvJ0Tz",
+        "groupName": "CD-Reel-A73-US",
+        "geo": "US"
+      },
+      {
+        "groupId": "3WWk2hF6tDMJ",
+        "groupName": "hard-news",
+        "geo": null
+      },
+      {
+        "groupId": "3fmb4nWUTYOg",
+        "groupName": "BlockPage",
+        "geo": null
+      },
+      {
+        "groupId": "3k24GxdzjZhF",
+        "groupName": "alphahqai.com",
+        "geo": null
+      }
+    ]
+  }
+}

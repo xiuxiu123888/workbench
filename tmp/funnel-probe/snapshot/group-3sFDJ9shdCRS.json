@@ -1,0 +1,76 @@
+{
+  "code": 200,
+  "data": {
+    "groupId": "3sFDJ9shdCRS",
+    "groupName": "Blinkdrama-v02-default",
+    "routing": "rotator",
+    "geo": null,
+    "yesterdayRpm": 0,
+    "yesterdayRev": 0,
+    "yesterdayRpmTrend": 0,
+    "yesterdayRevTrend": 0,
+    "offerList": [
+      {
+        "offerId": "3sFD08iWgJDo",
+        "offerName": "Blinkdrama-v02-A7-default-11850",
+        "categoryName": "个人贷款",
+        "weight": 1,
+        "channelId": "11850",
+        "countryCode": null,
+        "afsSource": "7",
+        "todayRpm": 0,
+        "todayRev": 0
+      },
+      {
+        "offerId": "3sFCnknCM1PX",
+        "offerName": "Blinkdrama-v02-A4-default-8895922786",
+        "categoryName": "个人贷款",
+        "weight": 1,
+        "channelId": "8895922786",
+        "countryCode": null,
+        "afsSource": "4",
+        "todayRpm": 0,
+        "todayRev": 0
+      },
+      {
+        "offerId": "3wsF2cGWhdT9",
+        "offerName": "Blinkdrama-v02-A15-default-3619050185",
+        "categoryName": "医疗健康",
+        "weight": 1,
+        "channelId": "3619050185",
+        "countryCode": null,
+        "afsSource": "15",
+        "todayRpm": 0,
+        "todayRev": 0
+      },
+      {
+        "offerId": "3wsDgNW9KMqx",
+        "offerName": "Blinkdrama-v02-A5-default-8412824288",
+        "categoryName": "疾病治疗",
+        "weight": 1,
+        "channelId": "8412824288",
+        "countryCode": null,
+        "afsSource": "5",
+        "todayRpm": 0,
+        "todayRev": 0
+      },
+      {
+        "offerId": "3wsD5Jq90LXc",
+        "offerName": "Blinkdrama-v02-A12-default-7191142882",
+        "categoryName": "移民律师",
+        "weight": 1,
+        "channelId": "7191142882",
+        "countryCode": null,
+        "afsSource": "12",
+        "todayRpm": 0,
+        "todayRev": 0
+      }
+    ],
+    "funnelId": "3sFDuJeEbeay",
+    "funnelName": "Blinkdrama-v02",
+    "partnerName": "Blinkdrama",
+    "urlName": "Blinkdrama-v02",
+    "urlId": 141,
+    "platform": "MIS"
+  }
+}

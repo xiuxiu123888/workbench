@@ -1,0 +1,65 @@
+{
+  "code": 200,
+  "data": {
+    "groupId": "3cQGbfJBpyhD",
+    "groupName": "JZ16-br",
+    "routing": "",
+    "geo": "BR",
+    "yesterdayRpm": 0,
+    "yesterdayRev": 0,
+    "yesterdayRpmTrend": 0,
+    "yesterdayRevTrend": 0,
+    "offerList": [
+      {
+        "offerId": "3cQFSEwGohgh",
+        "offerName": "jz16-A4-br-3236326320",
+        "categoryName": "冰箱分期",
+        "weight": 0.25,
+        "channelId": "3236326320",
+        "countryCode": null,
+        "afsSource": null,
+        "todayRpm": 0,
+        "todayRev": 0
+      },
+      {
+        "offerId": "3cQFtvBh233H",
+        "offerName": "jz16-A12-br-8227937129",
+        "categoryName": "冰箱分期",
+        "weight": 0.25,
+        "channelId": "8227937129",
+        "countryCode": null,
+        "afsSource": null,
+        "todayRpm": 0,
+        "todayRev": 0
+      },
+      {
+        "offerId": "3fzc7sg3dezR",
+        "offerName": "jz16-A7-br-7690144835",
+        "categoryName": "冰箱分期",
+        "weight": 0.25,
+        "channelId": "7690144835",
+        "countryCode": null,
+        "afsSource": null,
+        "todayRpm": 0,
+        "todayRev": 0
+      },
+      {
+        "offerId": "3hDLLKY21ksV",
+        "offerName": "JZ-16-A14-BR-1779686454",
+        "categoryName": "分期购买手机",
+        "weight": 0.25,
+        "channelId": "1779686454",
+        "countryCode": null,
+        "afsSource": null,
+        "todayRpm": 0,
+        "todayRev": 0
+      }
+    ],
+    "funnelId": "3cQHLR9KPkS9",
+    "funnelName": "JZ-16",
+    "partnerName": "shortmax",
+    "urlName": "JZ-16",
+    "urlId": 98,
+    "platform": "FF"
+  }
+}

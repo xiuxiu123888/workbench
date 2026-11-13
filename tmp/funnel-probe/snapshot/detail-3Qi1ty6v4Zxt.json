@@ -1,0 +1,46 @@
+{
+  "code": 200,
+  "data": {
+    "funnelId": "3Qi1ty6v4Zxt",
+    "funnelName": "cd-reader-A74",
+    "partnerName": "changdu",
+    "urlName": "moboreader",
+    "urlId": 75,
+    "offerGroupList": [
+      {
+        "groupId": "3QiVuvTPgLnU",
+        "groupName": "CD-Reel-A74-BR",
+        "geo": "BR"
+      },
+      {
+        "groupId": "3QiW0wfsSHdL",
+        "groupName": "CD-Reel-A74-US",
+        "geo": "US"
+      },
+      {
+        "groupId": "3QiW0wfsSHdL",
+        "groupName": "CD-Reel-A74-US",
+        "geo": "US"
+      },
+      {
+        "groupId": "3QiW7YsY6l6J",
+        "groupName": "CD-Reel-A74-JP",
+        "geo": "JP"
+      },
+      {
+        "groupId": "3WpYbiC9GtaM",
+        "groupName": "hard-news",
+        "geo": null
+      },
+      {
+        "groupId": "3h5jI2N8rJhQ",
+        "groupName": "ailuxovex.com",
+        "geo": null
+      }
+    ],
+    "platform": "FF",
+    "status": "active",
+    "autoWeightEnabled": null,
+    "autoWeightRuleType": null
+  }
+}

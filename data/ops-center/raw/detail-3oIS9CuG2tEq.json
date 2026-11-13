@@ -1,0 +1,22 @@
+{
+  "code": 200,
+  "data": {
+    "funnelId": "3oIS9CuG2tEq",
+    "funnelName": "cd-task-v01",
+    "partnerName": "changdu",
+    "urlName": "moboreels",
+    "urlId": 128,
+    "offerGroupList": [
+      {
+        "groupId": "3oIRoDikU78X",
+        "groupName": "cd-task-v01-default",
+        "geo": "CD"
+      },
+      {
+        "groupId": "3oIRkig9CjY1",
+        "groupName": "cd-task-v01-us",
+        "geo": "US"
+      }
+    ]
+  }
+}

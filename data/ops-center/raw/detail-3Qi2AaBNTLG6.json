@@ -1,0 +1,37 @@
+{
+  "code": 200,
+  "data": {
+    "funnelId": "3Qi2AaBNTLG6",
+    "funnelName": "cd-reader-A75",
+    "partnerName": "changdu",
+    "urlName": "moboreader",
+    "urlId": 76,
+    "offerGroupList": [
+      {
+        "groupId": "3QiWk96oJYu3",
+        "groupName": "CD-Reel-A75-BR",
+        "geo": "BR"
+      },
+      {
+        "groupId": "3QiWqWjO11tb",
+        "groupName": "CD-Reel-A75-US",
+        "geo": "US"
+      },
+      {
+        "groupId": "3QiWqWjO11tb",
+        "groupName": "CD-Reel-A75-US",
+        "geo": "US"
+      },
+      {
+        "groupId": "3QiWx3cYI54D",
+        "groupName": "CD-Reel-A75-JP",
+        "geo": "JP"
+      },
+      {
+        "groupId": "3hJC1uJjTjNq",
+        "groupName": "alphahqai.com",
+        "geo": null
+      }
+    ]
+  }
+}

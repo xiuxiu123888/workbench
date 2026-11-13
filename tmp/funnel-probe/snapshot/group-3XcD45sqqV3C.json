@@ -1,0 +1,65 @@
+{
+  "code": 200,
+  "data": {
+    "groupId": "3XcD45sqqV3C",
+    "groupName": "CD-Reader-A51-Us",
+    "routing": "",
+    "geo": "US",
+    "yesterdayRpm": 6.7,
+    "yesterdayRev": 19.23,
+    "yesterdayRpmTrend": 8.06,
+    "yesterdayRevTrend": -15.06,
+    "offerList": [
+      {
+        "offerId": "3nMz3ZfcuXdT",
+        "offerName": "cd-reader-51-A12-us-5132442487",
+        "categoryName": "临床研究",
+        "weight": 0.72,
+        "channelId": "5132442487",
+        "countryCode": null,
+        "afsSource": null,
+        "todayRpm": 4.1,
+        "todayRev": 2.46
+      },
+      {
+        "offerId": "3OMRoVYSxIWC",
+        "offerName": "Cd-Reader-A51-A5-us-2549909544",
+        "categoryName": "HIV",
+        "weight": 0.04,
+        "channelId": "2549909544",
+        "countryCode": null,
+        "afsSource": null,
+        "todayRpm": 0,
+        "todayRev": 0
+      },
+      {
+        "offerId": "3UZHog5J4fnB",
+        "offerName": "Cd-read-A51-A7-us-9508193152",
+        "categoryName": "事故律师",
+        "weight": 0.03,
+        "channelId": "9508193152",
+        "countryCode": null,
+        "afsSource": null,
+        "todayRpm": 0.7,
+        "todayRev": 0.11
+      },
+      {
+        "offerId": "3Xc9Vzw0jzjZ",
+        "offerName": "Cd-read-A51-A4-us-7723809864",
+        "categoryName": "临床研究",
+        "weight": 1,
+        "channelId": "7723809864",
+        "countryCode": null,
+        "afsSource": null,
+        "todayRpm": 8.4,
+        "todayRev": 16.37
+      }
+    ],
+    "funnelId": "3LyxpT9hzzh6",
+    "funnelName": "cd-reader-A5-51",
+    "partnerName": "changdu",
+    "urlName": "moboreader",
+    "urlId": 51,
+    "platform": "FF"
+  }
+}

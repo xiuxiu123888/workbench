@@ -1,0 +1,65 @@
+{
+  "code": 200,
+  "data": {
+    "groupId": "3aXD1SfepigG",
+    "groupName": "JZ10-IT",
+    "routing": "",
+    "geo": "IT",
+    "yesterdayRpm": 0.3,
+    "yesterdayRev": 0.13,
+    "yesterdayRpmTrend": -62.5,
+    "yesterdayRevTrend": -56.67,
+    "offerList": [
+      {
+        "offerId": "3aX2FWmtB9kW",
+        "offerName": "JZ10-A4-it-9610162982",
+        "categoryName": "BNPL",
+        "weight": 0,
+        "channelId": "9610162982",
+        "countryCode": null,
+        "afsSource": null,
+        "todayRpm": 0,
+        "todayRev": 0
+      },
+      {
+        "offerId": "3aX9wOObO3n3",
+        "offerName": "JZ10-A7-it-1940266699",
+        "categoryName": "BNPL",
+        "weight": 0,
+        "channelId": "1940266699",
+        "countryCode": null,
+        "afsSource": null,
+        "todayRpm": 0,
+        "todayRev": 0
+      },
+      {
+        "offerId": "3bk2g0vk8C37",
+        "offerName": "JZ10-A12-IT-5525525852",
+        "categoryName": "汽车订阅",
+        "weight": 0.32,
+        "channelId": "5525525852",
+        "countryCode": null,
+        "afsSource": null,
+        "todayRpm": 0.4,
+        "todayRev": 0.03
+      },
+      {
+        "offerId": "3bwfhFIOVxBF",
+        "offerName": "JZ10-A1-IT-2672308488",
+        "categoryName": "太阳能储能",
+        "weight": 0.68,
+        "channelId": "2672308488",
+        "countryCode": null,
+        "afsSource": null,
+        "todayRpm": 0,
+        "todayRev": 0
+      }
+    ],
+    "funnelId": "3aXER1jGKCjP",
+    "funnelName": "jz-10",
+    "partnerName": "shortmax",
+    "urlName": "JZ-10",
+    "urlId": 92,
+    "platform": "FF"
+  }
+}

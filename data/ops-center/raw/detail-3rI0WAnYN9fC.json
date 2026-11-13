@@ -1,0 +1,22 @@
+{
+  "code": 200,
+  "data": {
+    "funnelId": "3rI0WAnYN9fC",
+    "funnelName": "cd-reader-banner-v01",
+    "partnerName": "changdu",
+    "urlName": "moboreader",
+    "urlId": 139,
+    "offerGroupList": [
+      {
+        "groupId": "3rI0QOkekGfb",
+        "groupName": "cd-reader-banner-v01-default",
+        "geo": "CD"
+      },
+      {
+        "groupId": "3rI0K6JkfrzG",
+        "groupName": "cd-reader-banner-v01-us",
+        "geo": "US"
+      }
+    ]
+  }
+}

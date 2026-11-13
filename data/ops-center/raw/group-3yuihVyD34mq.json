@@ -1,0 +1,76 @@
+{
+  "code": 200,
+  "data": {
+    "groupId": "3yuihVyD34mq",
+    "groupName": "adsense",
+    "routing": "rotator",
+    "geo": "TG",
+    "yesterdayRpm": 0,
+    "yesterdayRev": 0,
+    "yesterdayRpmTrend": 0,
+    "yesterdayRevTrend": 0,
+    "offerList": [
+      {
+        "offerId": "3yui7ZiUS8cX",
+        "offerName": "https://dailyaiwo.com/read",
+        "categoryName": null,
+        "weight": 1,
+        "channelId": null,
+        "countryCode": null,
+        "afsSource": null,
+        "todayRpm": 0,
+        "todayRev": 0
+      },
+      {
+        "offerId": "3yui5qd96MLo",
+        "offerName": "https://aitogogo.com/read",
+        "categoryName": null,
+        "weight": 1,
+        "channelId": null,
+        "countryCode": "TG",
+        "afsSource": null,
+        "todayRpm": 0,
+        "todayRev": 0
+      },
+      {
+        "offerId": "3yui46JqI3Ew",
+        "offerName": "https://writetohub.com/read",
+        "categoryName": null,
+        "weight": 1,
+        "channelId": null,
+        "countryCode": null,
+        "afsSource": null,
+        "todayRpm": 0,
+        "todayRev": 0
+      },
+      {
+        "offerId": "3yui1vXvDfnP",
+        "offerName": "https://zodiacpulses.com/read",
+        "categoryName": null,
+        "weight": 1,
+        "channelId": null,
+        "countryCode": null,
+        "afsSource": null,
+        "todayRpm": 0,
+        "todayRev": 0
+      },
+      {
+        "offerId": "3yuhsnb2YaA2",
+        "offerName": "https://huevii.com/read",
+        "categoryName": null,
+        "weight": 1,
+        "channelId": null,
+        "countryCode": null,
+        "afsSource": null,
+        "todayRpm": 0,
+        "todayRev": 0
+      }
+    ],
+    "funnelId": "3yuiJUqm4utg",
+    "funnelName": "adsense-v001",
+    "partnerName": null,
+    "urlName": null,
+    "urlId": null,
+    "platform": "MIS"
+  }
+}

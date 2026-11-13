@@ -1,0 +1,159 @@
+{
+  "generatedAt": "2026-11-12T11:47:45.954Z",
+  "partnerGroupCount": 7,
+  "checkedGroups": 3,
+  "groupsWithOverlap": 0,
+  "totalOverlapOffers": 0,
+  "reports": [
+    {
+      "partner": "blinkdrama",
+      "funnels": [
+        "Blinkdrama-sign-v01",
+        "Blinkdrama-v01",
+        "Blinkdrama-v02",
+        "Blinkdrama-v03",
+        "Blinkdrama-v04"
+      ],
+      "signFunnels": [
+        "Blinkdrama-sign-v01"
+      ],
+      "nonSignFunnels": [
+        "Blinkdrama-v01",
+        "Blinkdrama-v02",
+        "Blinkdrama-v03",
+        "Blinkdrama-v04"
+      ],
+      "skipped": false,
+      "signOfferCount": 17,
+      "nonSignOfferCount": 78,
+      "overlapCount": 0,
+      "overlaps": []
+    },
+    {
+      "partner": "cd-reader",
+      "funnels": [
+        "cd-reader-pb-v01",
+        "cd-reader-banner-v01"
+      ],
+      "signFunnels": [],
+      "nonSignFunnels": [
+        "cd-reader-pb-v01",
+        "cd-reader-banner-v01"
+      ],
+      "skipped": true,
+      "reason": "组内无 sign 漏斗",
+      "overlapCount": 0,
+      "overlaps": []
+    },
+    {
+      "partner": "moboreels",
+      "funnels": [
+        "moboreels-v01",
+        "moboreels-v02",
+        "moboreels-v03",
+        "moboreels-v04"
+      ],
+      "signFunnels": [],
+      "nonSignFunnels": [
+        "moboreels-v01",
+        "moboreels-v02",
+        "moboreels-v03",
+        "moboreels-v04"
+      ],
+      "skipped": true,
+      "reason": "组内无 sign 漏斗",
+      "overlapCount": 0,
+      "overlaps": []
+    },
+    {
+      "partner": "reader",
+      "funnels": [
+        "reader-v01",
+        "reader-v02"
+      ],
+      "signFunnels": [],
+      "nonSignFunnels": [
+        "reader-v01",
+        "reader-v02"
+      ],
+      "skipped": true,
+      "reason": "组内无 sign 漏斗",
+      "overlapCount": 0,
+      "overlaps": []
+    },
+    {
+      "partner": "shortmax",
+      "funnels": [
+        "ShortMax-v03",
+        "ShortMax-v04",
+        "ShortMax-v05",
+        "ShortMax-v06",
+        "ShortMax-v11"
+      ],
+      "signFunnels": [],
+      "nonSignFunnels": [
+        "ShortMax-v03",
+        "ShortMax-v04",
+        "ShortMax-v05",
+        "ShortMax-v06",
+        "ShortMax-v11"
+      ],
+      "skipped": true,
+      "reason": "组内无 sign 漏斗",
+      "overlapCount": 0,
+      "overlaps": []
+    },
+    {
+      "partner": "storyreel",
+      "funnels": [
+        "storyreel-v01",
+        "storyreel-v02",
+        "storyreel-v03",
+        "storyreel-v04",
+        "storyreel-v05",
+        "storyreel-sign-v01"
+      ],
+      "signFunnels": [
+        "storyreel-sign-v01"
+      ],
+      "nonSignFunnels": [
+        "storyreel-v01",
+        "storyreel-v02",
+        "storyreel-v03",
+        "storyreel-v04",
+        "storyreel-v05"
+      ],
+      "skipped": false,
+      "signOfferCount": 19,
+      "nonSignOfferCount": 102,
+      "overlapCount": 0,
+      "overlaps": []
+    },
+    {
+      "partner": "vibeshort",
+      "funnels": [
+        "Vibeshort-V01",
+        "Vibeshort-v02",
+        "Vibeshort-V03",
+        "Vibeshort-V04",
+        "Vibeshort-V05",
+        "Vibeshort-sign-v01"
+      ],
+      "signFunnels": [
+        "Vibeshort-sign-v01"
+      ],
+      "nonSignFunnels": [
+        "Vibeshort-V01",
+        "Vibeshort-v02",
+        "Vibeshort-V03",
+        "Vibeshort-V04",
+        "Vibeshort-V05"
+      ],
+      "skipped": false,
+      "signOfferCount": 6,
+      "nonSignOfferCount": 92,
+      "overlapCount": 0,
+      "overlaps": []
+    }
+  ]
+}

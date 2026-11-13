@@ -1,0 +1,21 @@
+{
+  "code": 200,
+  "data": {
+    "funnelId": "3vpOnm1eAKRw",
+    "funnelName": "web-v01",
+    "partnerName": "changdu",
+    "urlName": "moboreaderweb",
+    "urlId": 147,
+    "offerGroupList": [
+      {
+        "groupId": "3vpOYjlFAE1g",
+        "groupName": "web-v01",
+        "geo": null
+      }
+    ],
+    "platform": "MIS",
+    "status": "active",
+    "autoWeightEnabled": null,
+    "autoWeightRuleType": null
+  }
+}

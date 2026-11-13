@@ -1,0 +1,21 @@
+{
+  "code": 200,
+  "data": {
+    "funnelId": "3uQ0fde3baao",
+    "funnelName": "Bestnovel-V01",
+    "partnerName": "changdu",
+    "urlName": "moboreader",
+    "urlId": 146,
+    "offerGroupList": [
+      {
+        "groupId": "3uQ0DFjHCroh",
+        "groupName": "Bestnovel-v01-us",
+        "geo": "US"
+      }
+    ],
+    "platform": "MIS",
+    "status": "active",
+    "autoWeightEnabled": null,
+    "autoWeightRuleType": null
+  }
+}

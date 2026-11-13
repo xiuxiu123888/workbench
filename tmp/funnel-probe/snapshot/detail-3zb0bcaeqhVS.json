@@ -1,0 +1,26 @@
+{
+  "code": 200,
+  "data": {
+    "funnelId": "3zb0bcaeqhVS",
+    "funnelName": "moboreels-v01",
+    "partnerName": null,
+    "urlName": null,
+    "urlId": null,
+    "offerGroupList": [
+      {
+        "groupId": "3zb0wsFpgmB0",
+        "groupName": "moboreels-v01-default",
+        "geo": null
+      },
+      {
+        "groupId": "3zb0sMumah1B",
+        "groupName": "moboreels-v01-us",
+        "geo": "US"
+      }
+    ],
+    "platform": "MIS",
+    "status": "active",
+    "autoWeightEnabled": 1,
+    "autoWeightRuleType": "TODAY_RPM"
+  }
+}

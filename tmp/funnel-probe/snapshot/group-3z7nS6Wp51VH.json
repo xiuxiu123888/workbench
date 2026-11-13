@@ -1,0 +1,76 @@
+{
+  "code": 200,
+  "data": {
+    "groupId": "3z7nS6Wp51VH",
+    "groupName": "shortmax-v03-default",
+    "routing": "rotator",
+    "geo": "US",
+    "yesterdayRpm": 105.9,
+    "yesterdayRev": 221.69,
+    "yesterdayRpmTrend": 13.14,
+    "yesterdayRevTrend": 21.49,
+    "offerList": [
+      {
+        "offerId": "3z7kBnbnWgg6",
+        "offerName": "Shortmax-V03-A5-default-9646014907-funfillgames.com",
+        "categoryName": "疾病治疗",
+        "weight": 1,
+        "channelId": "9646014907",
+        "countryCode": null,
+        "afsSource": "5",
+        "todayRpm": 91.9,
+        "todayRev": 27.67
+      },
+      {
+        "offerId": "3z7haLyRYcyc",
+        "offerName": "Shortmax-V03-A4-default-8488653000",
+        "categoryName": "特殊疾病药品",
+        "weight": 1,
+        "channelId": "8488653000",
+        "countryCode": "US",
+        "afsSource": "4",
+        "todayRpm": 149.8,
+        "todayRev": 137.86
+      },
+      {
+        "offerId": "3z7hmq2WqoRA",
+        "offerName": "Shortmax-V03-A7-default-1751917633",
+        "categoryName": "健康保险",
+        "weight": 1,
+        "channelId": "1751917633",
+        "countryCode": "US",
+        "afsSource": "7",
+        "todayRpm": 77.6,
+        "todayRev": 10.71
+      },
+      {
+        "offerId": "3z7jM3iSY9AJ",
+        "offerName": "Shortmax-V03-A12-default-9827539423",
+        "categoryName": "临床研究",
+        "weight": 1,
+        "channelId": "9827539423",
+        "countryCode": "US",
+        "afsSource": "12",
+        "todayRpm": 1.8,
+        "todayRev": 0.08
+      },
+      {
+        "offerId": "3z7k14Kx9LVK",
+        "offerName": "Shortmax-V03-A15-default-7917387848-mpbus.com",
+        "categoryName": "医疗健康",
+        "weight": 1,
+        "channelId": "7917387848",
+        "countryCode": null,
+        "afsSource": "15",
+        "todayRpm": 8.5,
+        "todayRev": 0.35
+      }
+    ],
+    "funnelId": "3z7nZk7WDoBd",
+    "funnelName": "ShortMax-v03",
+    "partnerName": null,
+    "urlName": null,
+    "urlId": null,
+    "platform": "MIS"
+  }
+}

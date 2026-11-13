@@ -1,0 +1,76 @@
+{
+  "code": 200,
+  "data": {
+    "groupId": "3We12iYC3TUO",
+    "groupName": "Jiu-0912-US-default",
+    "routing": "",
+    "geo": "US",
+    "yesterdayRpm": 34.1,
+    "yesterdayRev": 118.57,
+    "yesterdayRpmTrend": -63.8,
+    "yesterdayRevTrend": -41.07,
+    "offerList": [
+      {
+        "offerId": "3oHNobtiEDAf",
+        "offerName": "Jiu-reel-0912-A12-default-1898762721",
+        "categoryName": "临床研究",
+        "weight": 1,
+        "channelId": "1898762721",
+        "countryCode": null,
+        "afsSource": null,
+        "todayRpm": 15.8,
+        "todayRev": 3.29
+      },
+      {
+        "offerId": "3oI16zK8iUht",
+        "offerName": "A4-default-7474002238",
+        "categoryName": "手机分期",
+        "weight": 1,
+        "channelId": "7474002238",
+        "countryCode": null,
+        "afsSource": null,
+        "todayRpm": 34.2,
+        "todayRev": 22.07
+      },
+      {
+        "offerId": "3oI1AwY89RPw",
+        "offerName": "A7-default-7868532178",
+        "categoryName": "手机分期",
+        "weight": 1,
+        "channelId": "7868532178",
+        "countryCode": null,
+        "afsSource": null,
+        "todayRpm": 23.5,
+        "todayRev": 1.22
+      },
+      {
+        "offerId": "3wSCabM9uo0N",
+        "offerName": "0912-A15-default-7917387848",
+        "categoryName": "手机分期",
+        "weight": 1,
+        "channelId": "7917387848",
+        "countryCode": null,
+        "afsSource": null,
+        "todayRpm": 23.7,
+        "todayRev": 7
+      },
+      {
+        "offerId": "3wSCTkzrdxYf",
+        "offerName": "0912-A5-default-2222573036",
+        "categoryName": "疾病治疗",
+        "weight": 1,
+        "channelId": "2222573036",
+        "countryCode": null,
+        "afsSource": null,
+        "todayRpm": 34.3,
+        "todayRev": 40.08
+      }
+    ],
+    "funnelId": "3PZNC9XTyfXp",
+    "funnelName": "Jiu-reel-0912",
+    "partnerName": "shortmax",
+    "urlName": "Jiu-reel-0912",
+    "urlId": 68,
+    "platform": "FF"
+  }
+}
