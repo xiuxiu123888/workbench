@@ -5,10 +5,10 @@
     "groupName": "cd-ori-v01-us",
     "routing": "rotator",
     "geo": "US",
-    "yesterdayRpm": 23.2,
-    "yesterdayRev": 12.76,
-    "yesterdayRpmTrend": 213.51,
-    "yesterdayRevTrend": 155.2,
+    "yesterdayRpm": 3.7,
+    "yesterdayRev": 1.78,
+    "yesterdayRpmTrend": -84.05,
+    "yesterdayRevTrend": -86.05,
     "offerList": [
       {
         "offerId": "3nQhrS3TBuG9",
@@ -18,8 +18,8 @@
         "channelId": "5441068559",
         "countryCode": null,
         "afsSource": null,
-        "todayRpm": 5.5,
-        "todayRev": 1.2
+        "todayRpm": 17.1,
+        "todayRev": 1.93
       },
       {
         "offerId": "3oCFyago8w2n",
@@ -29,7 +29,7 @@
         "channelId": "8250445903",
         "countryCode": null,
         "afsSource": null,
-        "todayRpm": 2.6,
+        "todayRpm": 5.7,
         "todayRev": 0.58
       }
     ],

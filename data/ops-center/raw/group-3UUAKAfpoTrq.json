@@ -5,10 +5,10 @@
     "groupName": "JZ-08-FR",
     "routing": "",
     "geo": "FR",
-    "yesterdayRpm": 2.9,
-    "yesterdayRev": 0.15,
-    "yesterdayRpmTrend": 314.29,
-    "yesterdayRevTrend": 275,
+    "yesterdayRpm": 1.6,
+    "yesterdayRev": 0.08,
+    "yesterdayRpmTrend": -44.83,
+    "yesterdayRevTrend": -46.67,
     "offerList": [
       {
         "offerId": "3bwQ6jFDBTMo",
@@ -29,8 +29,8 @@
         "channelId": "4007063078",
         "countryCode": null,
         "afsSource": null,
-        "todayRpm": 5.7,
-        "todayRev": 0.08
+        "todayRpm": 0,
+        "todayRev": 0
       },
       {
         "offerId": "3njaqw4I13xP",

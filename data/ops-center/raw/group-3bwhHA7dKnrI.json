@@ -5,10 +5,10 @@
     "groupName": "JZ10-de",
     "routing": "",
     "geo": "DE",
-    "yesterdayRpm": 1.5,
-    "yesterdayRev": 0.63,
-    "yesterdayRpmTrend": 25,
-    "yesterdayRevTrend": 31.25,
+    "yesterdayRpm": 1,
+    "yesterdayRev": 0.33,
+    "yesterdayRpmTrend": -33.33,
+    "yesterdayRevTrend": -47.62,
     "offerList": [
       {
         "offerId": "3bZ9Z2537tKs",
@@ -18,8 +18,8 @@
         "channelId": "5525525852",
         "countryCode": null,
         "afsSource": null,
-        "todayRpm": 2.4,
-        "todayRev": 0.31
+        "todayRpm": 5.2,
+        "todayRev": 0.33
       },
       {
         "offerId": "3fhqqkRDg3WU",
@@ -29,8 +29,8 @@
         "channelId": "9610162982",
         "countryCode": null,
         "afsSource": null,
-        "todayRpm": 0.1,
-        "todayRev": 0.02
+        "todayRpm": 0,
+        "todayRev": 0
       },
       {
         "offerId": "3fhr7YWHlSn0",

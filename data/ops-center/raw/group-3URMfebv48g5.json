@@ -5,10 +5,10 @@
     "groupName": "JZ-08-US",
     "routing": "",
     "geo": "US",
-    "yesterdayRpm": 0,
-    "yesterdayRev": 0,
-    "yesterdayRpmTrend": -100,
-    "yesterdayRevTrend": -100,
+    "yesterdayRpm": 0.7,
+    "yesterdayRev": 0.01,
+    "yesterdayRpmTrend": 100,
+    "yesterdayRevTrend": 100,
     "offerList": [
       {
         "offerId": "3auUgcJIa70r",
@@ -18,8 +18,8 @@
         "channelId": "8883994701",
         "countryCode": null,
         "afsSource": null,
-        "todayRpm": 0,
-        "todayRev": 0
+        "todayRpm": 28.7,
+        "todayRev": 0.66
       },
       {
         "offerId": "3beaQYZ8MNIv",

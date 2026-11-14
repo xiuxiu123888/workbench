@@ -5,10 +5,10 @@
     "groupName": "JZ-06-BR",
     "routing": "",
     "geo": "BR",
-    "yesterdayRpm": 0.3,
-    "yesterdayRev": 0.03,
-    "yesterdayRpmTrend": -57.14,
-    "yesterdayRevTrend": -66.67,
+    "yesterdayRpm": 0,
+    "yesterdayRev": 0,
+    "yesterdayRpmTrend": -100,
+    "yesterdayRevTrend": -100,
     "offerList": [
       {
         "offerId": "3foPrt2dwLMX",

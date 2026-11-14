@@ -5,10 +5,10 @@
     "groupName": "cd-A50-br",
     "routing": "",
     "geo": "BR",
-    "yesterdayRpm": 0.1,
-    "yesterdayRev": 0.26,
-    "yesterdayRpmTrend": 0,
-    "yesterdayRevTrend": -33.33,
+    "yesterdayRpm": 0,
+    "yesterdayRev": 0.04,
+    "yesterdayRpmTrend": -100,
+    "yesterdayRevTrend": -84.62,
     "offerList": [
       {
         "offerId": "3lplh988aUjC",
@@ -29,8 +29,8 @@
         "channelId": "3731730900",
         "countryCode": null,
         "afsSource": null,
-        "todayRpm": 0,
-        "todayRev": 0.01
+        "todayRpm": 0.2,
+        "todayRev": 0.13
       },
       {
         "offerId": "3XKkEuSPWWmD",
@@ -47,12 +47,12 @@
         "offerId": "3XKlPBPraVks",
         "offerName": "Cd-A50-A7-br-9653496952",
         "categoryName": "冰箱分期",
-        "weight": 0.98,
+        "weight": 0.83,
         "channelId": "9653496952",
         "countryCode": null,
         "afsSource": null,
-        "todayRpm": 0,
-        "todayRev": 0.01
+        "todayRpm": 0.1,
+        "todayRev": 0.09
       }
     ],
     "funnelId": "3LcdpN4mS9hK",

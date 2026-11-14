@@ -6,9 +6,9 @@
     "routing": "",
     "geo": "BR",
     "yesterdayRpm": 0.4,
-    "yesterdayRev": 0.06,
-    "yesterdayRpmTrend": 100,
-    "yesterdayRevTrend": 100,
+    "yesterdayRev": 0.14,
+    "yesterdayRpmTrend": 0,
+    "yesterdayRevTrend": 133.33,
     "offerList": [
       {
         "offerId": "3lpdddGWdvpN",
@@ -18,7 +18,7 @@
         "channelId": "2817465139",
         "countryCode": null,
         "afsSource": null,
-        "todayRpm": 0.1,
+        "todayRpm": 0.4,
         "todayRev": 0.01
       },
       {
@@ -40,8 +40,8 @@
         "channelId": "8558734953",
         "countryCode": null,
         "afsSource": null,
-        "todayRpm": 0.8,
-        "todayRev": 0.13
+        "todayRpm": 8.4,
+        "todayRev": 0.31
       },
       {
         "offerId": "3XcZyUC0WGm1",

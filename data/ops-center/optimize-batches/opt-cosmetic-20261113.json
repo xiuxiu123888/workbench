@@ -3,8 +3,8 @@
   "title": "美妆试词调优 · 2026-11-13",
   "createdAt": "2026-11-13T08:54:49.785Z",
   "beforeMetricsDay": "2026-11-13",
-  "afterMetricsDay": null,
-  "harvestedAt": null,
+  "afterMetricsDay": "2026-11-13",
+  "harvestedAt": "2026-11-13T16:55:07.810Z",
   "rulesVersion": "2026-11-13-v1",
   "notes": "刚写回的美妆词 offer。优化前=写回当日指标（多为旧词）。观察几小时后点「回收优化后」看哪些词/单元跑得好。",
   "itemCount": 18,
@@ -20,7 +20,7 @@
       "plannedSeedRef": "Cosmetics Products",
       "afterRef": "Cosmetics Products",
       "beforeUrl": "https://funfillgames.com/detail/582218675746?ref=hyundai+0+financing&channel=8412824288&hit={hit}&rType=2&partner=Blinkdrama&subid1=8412824288&subid2=582218675746",
-      "afterUrl": null,
+      "afterUrl": "https://funfillgames.com/detail/440398429658?ref=Cosmetics+Products&channel=8412824288&hit={hit}&rType=2&partner=Blinkdrama&subid1=8412824288&subid2=440398429658",
       "donorOfferName": null,
       "donorFunnelName": null,
       "action": "produce-write",
@@ -45,7 +45,25 @@
         "capturedAt": "2026-11-13T08:54:49.785Z",
         "metricsDay": "2026-11-13"
       },
-      "after": null
+      "after": {
+        "offerId": "3wsEYJJ6fFdm",
+        "offerName": "Blinkdrama-v02-A5-us-8412824288-funfillgames.com",
+        "funnelName": "Blinkdrama-v02",
+        "partner": "blinkdrama",
+        "ref": "Cosmetics Products",
+        "url": "https://funfillgames.com/detail/440398429658?ref=Cosmetics+Products&channel=8412824288&hit={hit}&rType=2&partner=Blinkdrama&subid1=8412824288&subid2=440398429658",
+        "visits": 127,
+        "funnelImpressions": 26388,
+        "funnelClicks": 10768,
+        "adClicks": 296,
+        "conversion": 10,
+        "revenue": 24.96,
+        "funnelRpm": 0.95,
+        "rpc": 0.0023179791976225854,
+        "secondHopPct": 2.74888558692422,
+        "capturedAt": "2026-11-13T16:55:07.810Z",
+        "metricsDay": "2026-11-13"
+      }
     },
     {
       "offerId": "3uUeo9IhbaYj",
@@ -56,9 +74,9 @@
       "reason": "美妆试词写回 · 调优观察",
       "beforeRef": "cars with 0 apr",
       "plannedSeedRef": "Cosmetic Products",
-      "afterRef": "Cosmetic Products",
+      "afterRef": "Best Beauty Products for Mature Skin",
       "beforeUrl": "https://zestfularcade.com/detail/913405961215?ref=cars+with+0+apr&channel=1628696221&hit={hit}&rType=2&partner=Blinkdrama&subid1=1628696221&subid2=913405961215",
-      "afterUrl": null,
+      "afterUrl": "https://zestfularcade.com/detail/603588266438?ref=Best+Beauty+Products+for+Mature+Skin&channel=1628696221&hit={hit}&rType=2&partner=Blinkdrama&subid1=1628696221&subid2=603588266438",
       "donorOfferName": null,
       "donorFunnelName": null,
       "action": "produce-write",
@@ -83,7 +101,25 @@
         "capturedAt": "2026-11-13T08:54:49.785Z",
         "metricsDay": "2026-11-13"
       },
-      "after": null
+      "after": {
+        "offerId": "3uUeo9IhbaYj",
+        "offerName": "Blinkdrama-sign-v01-A4-Us-1628696221-zestfularcade.com",
+        "funnelName": "Blinkdrama-sign-v01",
+        "partner": "blinkdrama",
+        "ref": "Best Beauty Products for Mature Skin",
+        "url": "https://zestfularcade.com/detail/603588266438?ref=Best+Beauty+Products+for+Mature+Skin&channel=1628696221&hit={hit}&rType=2&partner=Blinkdrama&subid1=1628696221&subid2=603588266438",
+        "visits": 1769,
+        "funnelImpressions": 55810,
+        "funnelClicks": 10049,
+        "adClicks": 273,
+        "conversion": 4,
+        "revenue": 27.24,
+        "funnelRpm": 0.49,
+        "rpc": 0.0027107174843267984,
+        "secondHopPct": 2.716688227684347,
+        "capturedAt": "2026-11-13T16:55:07.810Z",
+        "metricsDay": "2026-11-13"
+      }
     },
     {
       "offerId": "3zauMtMZADGQ",
@@ -94,9 +130,9 @@
       "reason": "美妆试词写回 · 调优观察",
       "beforeRef": "gm hybrid vehicles",
       "plannedSeedRef": "Best Beauty Products for Mature Skin",
-      "afterRef": "Best Beauty Products for Mature Skin",
+      "afterRef": "Cosmetics and Beauty Products",
       "beforeUrl": "https://degreesuccesstips.com/detail/610563679938?ref=gm+hybrid+vehicles&channel=5132442487&hit={hit}&subid1=5132442487&subid2=610563679938",
-      "afterUrl": null,
+      "afterUrl": "https://degreesuccesstips.com/detail/800206427091?ref=Cosmetics+and+Beauty+Products&channel=5132442487&hit={hit}&subid1=5132442487&subid2=800206427091",
       "donorOfferName": null,
       "donorFunnelName": null,
       "action": "produce-write",
@@ -121,7 +157,25 @@
         "capturedAt": "2026-11-13T08:54:49.785Z",
         "metricsDay": "2026-11-13"
       },
-      "after": null
+      "after": {
+        "offerId": "3zauMtMZADGQ",
+        "offerName": "reader-v01-A12-us-5132442487-degreesuccesstips.com",
+        "funnelName": "reader-v01",
+        "partner": "reader",
+        "ref": "Cosmetics and Beauty Products",
+        "url": "https://degreesuccesstips.com/detail/800206427091?ref=Cosmetics+and+Beauty+Products&channel=5132442487&hit={hit}&subid1=5132442487&subid2=800206427091",
+        "visits": 3372,
+        "funnelImpressions": 20245,
+        "funnelClicks": 2213,
+        "adClicks": 137,
+        "conversion": 110,
+        "revenue": 29.01,
+        "funnelRpm": 1.43,
+        "rpc": 0.013108901943063715,
+        "secondHopPct": 6.190691369182106,
+        "capturedAt": "2026-11-13T16:55:07.810Z",
+        "metricsDay": "2026-11-13"
+      }
     },
     {
       "offerId": "3zazDPPc8BIz",
@@ -132,9 +186,9 @@
       "reason": "美妆试词写回 · 调优观察",
       "beforeRef": "clorox everclean",
       "plannedSeedRef": "Cosmetics Products",
-      "afterRef": "Cosmetics Products",
+      "afterRef": "Cosmetic Products",
       "beforeUrl": "https://zestfularcade.com/detail/170052023200?ref=clorox+everclean&channel=2811958953&hit={hit}&subid1=2811958953&subid2=170052023200",
-      "afterUrl": null,
+      "afterUrl": "https://zestfularcade.com/detail/100058079133?ref=Cosmetic+Products&channel=2811958953&hit={hit}&subid1=2811958953&subid2=100058079133",
       "donorOfferName": null,
       "donorFunnelName": null,
       "action": "produce-write",
@@ -159,7 +213,25 @@
         "capturedAt": "2026-11-13T08:54:49.785Z",
         "metricsDay": "2026-11-13"
       },
-      "after": null
+      "after": {
+        "offerId": "3zazDPPc8BIz",
+        "offerName": "moboreels-v01-A4-US-2811958953-zestfularcade.com",
+        "funnelName": "moboreels-v01",
+        "partner": "moboreels",
+        "ref": "Cosmetic Products",
+        "url": "https://zestfularcade.com/detail/100058079133?ref=Cosmetic+Products&channel=2811958953&hit={hit}&subid1=2811958953&subid2=100058079133",
+        "visits": 1262,
+        "funnelImpressions": 27861,
+        "funnelClicks": 3793,
+        "adClicks": 236,
+        "conversion": 114,
+        "revenue": 41.47,
+        "funnelRpm": 1.49,
+        "rpc": 0.010933298180859478,
+        "secondHopPct": 6.22198787239652,
+        "capturedAt": "2026-11-13T16:55:07.810Z",
+        "metricsDay": "2026-11-13"
+      }
     },
     {
       "offerId": "3zauhaQtjnmN",
@@ -170,9 +242,9 @@
       "reason": "美妆试词写回 · 调优观察",
       "beforeRef": "best non smelling cat litter",
       "plannedSeedRef": "Cosmetics Products",
-      "afterRef": "Cosmetics Products",
+      "afterRef": "Best Beauty Products for Mature Skin",
       "beforeUrl": "https://zestfularcade.com/detail/756098675644?ref=best+non+smelling+cat+litter&channel=7723809864&hit={hit}&subid1=7723809864&subid2=756098675644",
-      "afterUrl": null,
+      "afterUrl": "https://zestfularcade.com/detail/195118724223?ref=Best+Beauty+Products+for+Mature+Skin&channel=7723809864&hit={hit}&subid1=7723809864&subid2=195118724223",
       "donorOfferName": null,
       "donorFunnelName": null,
       "action": "produce-write",
@@ -197,7 +269,25 @@
         "capturedAt": "2026-11-13T08:54:49.785Z",
         "metricsDay": "2026-11-13"
       },
-      "after": null
+      "after": {
+        "offerId": "3zauhaQtjnmN",
+        "offerName": "reader-v01-A4-us-7723809864-zestfularcade.com",
+        "funnelName": "reader-v01",
+        "partner": "reader",
+        "ref": "Best Beauty Products for Mature Skin",
+        "url": "https://zestfularcade.com/detail/195118724223?ref=Best+Beauty+Products+for+Mature+Skin&channel=7723809864&hit={hit}&subid1=7723809864&subid2=195118724223",
+        "visits": 449,
+        "funnelImpressions": 17901,
+        "funnelClicks": 1783,
+        "adClicks": 213,
+        "conversion": 8,
+        "revenue": 18.89,
+        "funnelRpm": 1.06,
+        "rpc": 0.010594503645541223,
+        "secondHopPct": 11.946158160403813,
+        "capturedAt": "2026-11-13T16:55:07.810Z",
+        "metricsDay": "2026-11-13"
+      }
     },
     {
       "offerId": "3p80SplcYLVo",
@@ -208,9 +298,9 @@
       "reason": "美妆试词写回 · 调优观察",
       "beforeRef": "new ways to treat cancer",
       "plannedSeedRef": "Cosmetics and Beauty Products",
-      "afterRef": "Cosmetics and Beauty Products",
+      "afterRef": "Cosmetic Products",
       "beforeUrl": "https://zestfularcade.com/detail/722959857810?ref=new+ways+to+treat+cancer&channel=9470541113&hit={hit}&rType=2&partner=StoryReel&subid1=9470541113&subid2=722959857810",
-      "afterUrl": null,
+      "afterUrl": "https://zestfularcade.com/detail/226858045397?ref=Cosmetic+Products&channel=9470541113&hit={hit}&rType=2&partner=StoryReel&subid1=9470541113&subid2=226858045397",
       "donorOfferName": null,
       "donorFunnelName": null,
       "action": "produce-write",
@@ -235,7 +325,25 @@
         "capturedAt": "2026-11-13T08:54:49.785Z",
         "metricsDay": "2026-11-13"
       },
-      "after": null
+      "after": {
+        "offerId": "3p80SplcYLVo",
+        "offerName": "storyreel-sign-v01-A4-us-9470541113-zestfularcade.com",
+        "funnelName": "storyreel-sign-v01",
+        "partner": "storyreel",
+        "ref": "Cosmetic Products",
+        "url": "https://zestfularcade.com/detail/226858045397?ref=Cosmetic+Products&channel=9470541113&hit={hit}&rType=2&partner=StoryReel&subid1=9470541113&subid2=226858045397",
+        "visits": 51,
+        "funnelImpressions": 2852,
+        "funnelClicks": 731,
+        "adClicks": 57,
+        "conversion": 0,
+        "revenue": 17.11,
+        "funnelRpm": 6,
+        "rpc": 0.023406292749658,
+        "secondHopPct": 7.7975376196990425,
+        "capturedAt": "2026-11-13T16:55:07.810Z",
+        "metricsDay": "2026-11-13"
+      }
     },
     {
       "offerId": "3zaz4QenVAvV",
@@ -246,9 +354,9 @@
       "reason": "美妆试词写回 · 调优观察",
       "beforeRef": "latest trends and advancements in oncology",
       "plannedSeedRef": "Best Beauty Products for Mature Skin",
-      "afterRef": "Best Beauty Products for Mature Skin",
+      "afterRef": "Cosmetics Products",
       "beforeUrl": "https://degreesuccesstips.com/detail/540598827983?ref=latest+trends+and+advancements+in+oncology&channel=4301742392&hit={hit}&subid1=4301742392&subid2=540598827983",
-      "afterUrl": null,
+      "afterUrl": "https://degreesuccesstips.com/detail/260764727152?ref=Cosmetics+Products&channel=4301742392&hit={hit}&subid1=4301742392&subid2=260764727152",
       "donorOfferName": null,
       "donorFunnelName": null,
       "action": "produce-write",
@@ -273,7 +381,25 @@
         "capturedAt": "2026-11-13T08:54:49.785Z",
         "metricsDay": "2026-11-13"
       },
-      "after": null
+      "after": {
+        "offerId": "3zaz4QenVAvV",
+        "offerName": "moboreels-v01-A12-us-4301742392-degreesuccesstips.com",
+        "funnelName": "moboreels-v01",
+        "partner": "moboreels",
+        "ref": "Cosmetics Products",
+        "url": "https://degreesuccesstips.com/detail/260764727152?ref=Cosmetics+Products&channel=4301742392&hit={hit}&subid1=4301742392&subid2=260764727152",
+        "visits": 503,
+        "funnelImpressions": 27445,
+        "funnelClicks": 3649,
+        "adClicks": 153,
+        "conversion": 33,
+        "revenue": 18.63,
+        "funnelRpm": 0.68,
+        "rpc": 0.005105508358454371,
+        "secondHopPct": 4.192929569745136,
+        "capturedAt": "2026-11-13T16:55:07.810Z",
+        "metricsDay": "2026-11-13"
+      }
     },
     {
       "offerId": "3yk4VrB8HRdZ",
@@ -284,9 +410,9 @@
       "reason": "美妆试词写回 · 调优观察",
       "beforeRef": "no interest car finance offers",
       "plannedSeedRef": "Cosmetics and Beauty Products",
-      "afterRef": "Cosmetics and Beauty Products",
+      "afterRef": "Cosmetics Products",
       "beforeUrl": "https://joyfulgaminghub9.com/detail/381681774217?ref=no+interest+car+finance+offers&channel=8236490346&hit={hit}&rType=2&partner=StoryReel&subid1=8236490346&subid2=381681774217",
-      "afterUrl": null,
+      "afterUrl": "https://joyfulgaminghub9.com/detail/796007352199?ref=Cosmetics+Products&channel=8236490346&hit={hit}&rType=2&partner=StoryReel&subid1=8236490346&subid2=796007352199",
       "donorOfferName": null,
       "donorFunnelName": null,
       "action": "produce-write",
@@ -311,7 +437,25 @@
         "capturedAt": "2026-11-13T08:54:49.785Z",
         "metricsDay": "2026-11-13"
       },
-      "after": null
+      "after": {
+        "offerId": "3yk4VrB8HRdZ",
+        "offerName": "storyreel-v02-A4-us-8236490346-joyfulgaminghub9.com",
+        "funnelName": "storyreel-v02",
+        "partner": "storyreel",
+        "ref": "Cosmetics Products",
+        "url": "https://joyfulgaminghub9.com/detail/796007352199?ref=Cosmetics+Products&channel=8236490346&hit={hit}&rType=2&partner=StoryReel&subid1=8236490346&subid2=796007352199",
+        "visits": 62,
+        "funnelImpressions": 4320,
+        "funnelClicks": 1464,
+        "adClicks": 196,
+        "conversion": 0,
+        "revenue": 38.73,
+        "funnelRpm": 8.97,
+        "rpc": 0.02645491803278688,
+        "secondHopPct": 13.387978142076504,
+        "capturedAt": "2026-11-13T16:55:07.810Z",
+        "metricsDay": "2026-11-13"
+      }
     },
     {
       "offerId": "3zaubr1X75QS",
@@ -322,9 +466,9 @@
       "reason": "美妆试词写回 · 调优观察",
       "beforeRef": "botox vs dysport units",
       "plannedSeedRef": "Cosmetic Products",
-      "afterRef": "Cosmetic Products",
+      "afterRef": "Cosmetics and Beauty Products",
       "beforeUrl": "https://algo-cash.com/detail/691699100606?ref=botox+vs+dysport+units&channel=9508193152&hit={hit}&subid1=9508193152&subid2=691699100606",
-      "afterUrl": null,
+      "afterUrl": "https://algo-cash.com/detail/971554765916?ref=Cosmetics+and+Beauty+Products&channel=9508193152&hit={hit}&subid1=9508193152&subid2=971554765916",
       "donorOfferName": null,
       "donorFunnelName": null,
       "action": "produce-write",
@@ -349,7 +493,25 @@
         "capturedAt": "2026-11-13T08:54:49.785Z",
         "metricsDay": "2026-11-13"
       },
-      "after": null
+      "after": {
+        "offerId": "3zaubr1X75QS",
+        "offerName": "reader-v01-A7-us-9508193152-algo-cash.com",
+        "funnelName": "reader-v01",
+        "partner": "reader",
+        "ref": "Cosmetics and Beauty Products",
+        "url": "https://algo-cash.com/detail/971554765916?ref=Cosmetics+and+Beauty+Products&channel=9508193152&hit={hit}&subid1=9508193152&subid2=971554765916",
+        "visits": 2095,
+        "funnelImpressions": 19426,
+        "funnelClicks": 2281,
+        "adClicks": 187,
+        "conversion": 31,
+        "revenue": 16.07,
+        "funnelRpm": 0.83,
+        "rpc": 0.007045155633494082,
+        "secondHopPct": 8.198158702323543,
+        "capturedAt": "2026-11-13T16:55:07.810Z",
+        "metricsDay": "2026-11-13"
+      }
     },
     {
       "offerId": "3yk4daYIi9mk",
@@ -360,9 +522,9 @@
       "reason": "美妆试词写回 · 调优观察",
       "beforeRef": "best non smelling cat litter",
       "plannedSeedRef": "Best Beauty Products for Mature Skin",
-      "afterRef": "Best Beauty Products for Mature Skin",
+      "afterRef": "Cosmetics Products",
       "beforeUrl": "https://aivestorhq.com/detail/118998179309?ref=best+non+smelling+cat+litter&channel=9128576243&hit={hit}&rType=2&partner=StoryReel&subid1=9128576243&subid2=118998179309",
-      "afterUrl": null,
+      "afterUrl": "https://aivestorhq.com/detail/975088333333?ref=Cosmetics+Products&channel=9128576243&hit={hit}&rType=2&partner=StoryReel&subid1=9128576243&subid2=975088333333",
       "donorOfferName": null,
       "donorFunnelName": null,
       "action": "produce-write",
@@ -387,7 +549,25 @@
         "capturedAt": "2026-11-13T08:54:49.785Z",
         "metricsDay": "2026-11-13"
       },
-      "after": null
+      "after": {
+        "offerId": "3yk4daYIi9mk",
+        "offerName": "storyreel-v02-A12-us-9128576243-aivestorhq.com",
+        "funnelName": "storyreel-v02",
+        "partner": "storyreel",
+        "ref": "Cosmetics Products",
+        "url": "https://aivestorhq.com/detail/975088333333?ref=Cosmetics+Products&channel=9128576243&hit={hit}&rType=2&partner=StoryReel&subid1=9128576243&subid2=975088333333",
+        "visits": 45,
+        "funnelImpressions": 4232,
+        "funnelClicks": 1588,
+        "adClicks": 119,
+        "conversion": 0,
+        "revenue": 25.13,
+        "funnelRpm": 5.94,
+        "rpc": 0.01582493702770781,
+        "secondHopPct": 7.493702770780857,
+        "capturedAt": "2026-11-13T16:55:07.810Z",
+        "metricsDay": "2026-11-13"
+      }
     },
     {
       "offerId": "3wsFbYKpWvog",
@@ -400,7 +580,7 @@
       "plannedSeedRef": "Cosmetics and Beauty Products",
       "afterRef": "Cosmetics and Beauty Products",
       "beforeUrl": "https://mpbus.com/detail/515854274875?ref=hyundai+0+financing&channel=2979233422&hit={hit}&rType=2&partner=Blinkdrama&subid1=2979233422&subid2=515854274875",
-      "afterUrl": null,
+      "afterUrl": "https://mpbus.com/detail/270626855039?ref=Cosmetics+and+Beauty+Products&channel=2979233422&hit={hit}&rType=2&partner=Blinkdrama&subid1=2979233422&subid2=270626855039",
       "donorOfferName": null,
       "donorFunnelName": null,
       "action": "produce-write",
@@ -425,7 +605,25 @@
         "capturedAt": "2026-11-13T08:54:49.785Z",
         "metricsDay": "2026-11-13"
       },
-      "after": null
+      "after": {
+        "offerId": "3wsFbYKpWvog",
+        "offerName": "Blinkdrama-sign-v01-A15-us-2979233422-mpbus.com",
+        "funnelName": "Blinkdrama-sign-v01",
+        "partner": "blinkdrama",
+        "ref": "Cosmetics and Beauty Products",
+        "url": "https://mpbus.com/detail/270626855039?ref=Cosmetics+and+Beauty+Products&channel=2979233422&hit={hit}&rType=2&partner=Blinkdrama&subid1=2979233422&subid2=270626855039",
+        "visits": 368,
+        "funnelImpressions": 54971,
+        "funnelClicks": 8513,
+        "adClicks": 155,
+        "conversion": 5,
+        "revenue": 14.21,
+        "funnelRpm": 0.26,
+        "rpc": 0.0016692117937272407,
+        "secondHopPct": 1.820744743333725,
+        "capturedAt": "2026-11-13T16:55:07.810Z",
+        "metricsDay": "2026-11-13"
+      }
     },
     {
       "offerId": "3zauUYPQam8T",
@@ -438,7 +636,7 @@
       "plannedSeedRef": "Cosmetic Products",
       "afterRef": "Cosmetic Products",
       "beforeUrl": "https://whirlwindarcade.com/detail/879489044448?ref=best+new+gadgets+to+buy&channel=1930962446&hit={hit}&subid1=1930962446&subid2=879489044448",
-      "afterUrl": null,
+      "afterUrl": "https://whirlwindarcade.com/detail/159240205824?ref=Cosmetic+Products&channel=1930962446&hit={hit}&subid1=1930962446&subid2=159240205824",
       "donorOfferName": null,
       "donorFunnelName": null,
       "action": "produce-write",
@@ -463,7 +661,25 @@
         "capturedAt": "2026-11-13T08:54:49.785Z",
         "metricsDay": "2026-11-13"
       },
-      "after": null
+      "after": {
+        "offerId": "3zauUYPQam8T",
+        "offerName": "reader-v01-A5-us-1930962446-whirlwindarcade.com",
+        "funnelName": "reader-v01",
+        "partner": "reader",
+        "ref": "Cosmetic Products",
+        "url": "https://whirlwindarcade.com/detail/159240205824?ref=Cosmetic+Products&channel=1930962446&hit={hit}&subid1=1930962446&subid2=159240205824",
+        "visits": 508,
+        "funnelImpressions": 18711,
+        "funnelClicks": 2207,
+        "adClicks": 103,
+        "conversion": 11,
+        "revenue": 11.09,
+        "funnelRpm": 0.59,
+        "rpc": 0.005024920706841867,
+        "secondHopPct": 4.666968735840507,
+        "capturedAt": "2026-11-13T16:55:07.810Z",
+        "metricsDay": "2026-11-13"
+      }
     },
     {
       "offerId": "3zb01gVvKVmz",
@@ -474,9 +690,9 @@
       "reason": "美妆试词写回 · 调优观察",
       "beforeRef": "gm hybrid suv",
       "plannedSeedRef": "Best Beauty Products for Mature Skin",
-      "afterRef": "Best Beauty Products for Mature Skin",
+      "afterRef": "Cosmetics and Beauty Products",
       "beforeUrl": "https://intodeepdive.com/detail/126116617267?ref=gm+hybrid+suv&channel=3731730900&hit={hit}&subid1=3731730900&subid2=126116617267",
-      "afterUrl": null,
+      "afterUrl": "https://intodeepdive.com/detail/768282429857?ref=Cosmetics+and+Beauty+Products&channel=3731730900&hit={hit}&subid1=3731730900&subid2=768282429857",
       "donorOfferName": null,
       "donorFunnelName": null,
       "action": "produce-write",
@@ -501,7 +717,25 @@
         "capturedAt": "2026-11-13T08:54:49.785Z",
         "metricsDay": "2026-11-13"
       },
-      "after": null
+      "after": {
+        "offerId": "3zb01gVvKVmz",
+        "offerName": "moboreels-v02-A12-US-3731730900-intodeepdive.com",
+        "funnelName": "moboreels-v02",
+        "partner": "moboreels",
+        "ref": "Cosmetics and Beauty Products",
+        "url": "https://intodeepdive.com/detail/768282429857?ref=Cosmetics+and+Beauty+Products&channel=3731730900&hit={hit}&subid1=3731730900&subid2=768282429857",
+        "visits": 173,
+        "funnelImpressions": 22880,
+        "funnelClicks": 3155,
+        "adClicks": 0,
+        "conversion": 0,
+        "revenue": 2.68,
+        "funnelRpm": 0.12,
+        "rpc": 0.0008494453248811411,
+        "secondHopPct": 0,
+        "capturedAt": "2026-11-13T16:55:07.810Z",
+        "metricsDay": "2026-11-13"
+      }
     },
     {
       "offerId": "3zb1drsZvtna",
@@ -514,7 +748,7 @@
       "plannedSeedRef": "Cosmetics Products",
       "afterRef": "Cosmetics Products",
       "beforeUrl": "https://intodeepdive.com/detail/498684127151?ref=gadgets+for+wellness&channel=2506279147&hit={hit}&subid1=2506279147&subid2=498684127151",
-      "afterUrl": null,
+      "afterUrl": "https://intodeepdive.com/detail/117656479384?ref=Cosmetics+Products&channel=2506279147&hit={hit}&subid1=2506279147&subid2=117656479384",
       "donorOfferName": null,
       "donorFunnelName": null,
       "action": "produce-write",
@@ -539,7 +773,25 @@
         "capturedAt": "2026-11-13T08:54:49.785Z",
         "metricsDay": "2026-11-13"
       },
-      "after": null
+      "after": {
+        "offerId": "3zb1drsZvtna",
+        "offerName": "moboreels-v03-A12-us-2506279147-intodeepdive.com",
+        "funnelName": "moboreels-v03",
+        "partner": "moboreels",
+        "ref": "Cosmetics Products",
+        "url": "https://intodeepdive.com/detail/117656479384?ref=Cosmetics+Products&channel=2506279147&hit={hit}&subid1=2506279147&subid2=117656479384",
+        "visits": 270,
+        "funnelImpressions": 24175,
+        "funnelClicks": 3111,
+        "adClicks": 170,
+        "conversion": 13,
+        "revenue": 10.1,
+        "funnelRpm": 0.42,
+        "rpc": 0.003246544519447123,
+        "secondHopPct": 5.46448087431694,
+        "capturedAt": "2026-11-13T16:55:07.810Z",
+        "metricsDay": "2026-11-13"
+      }
     },
     {
       "offerId": "3zb0HmEeVleA",
@@ -550,9 +802,9 @@
       "reason": "美妆试词写回 · 调优观察",
       "beforeRef": "botox dysport and xeomin injectable near me",
       "plannedSeedRef": "Cosmetics and Beauty Products",
-      "afterRef": "Cosmetics and Beauty Products",
+      "afterRef": "Best Beauty Products for Mature Skin",
       "beforeUrl": "https://zestfularcade.com/detail/845052131877?ref=botox+dysport+and+xeomin+injectable+near+me&channel=8671712417&hit={hit}&subid1=8671712417&subid2=845052131877",
-      "afterUrl": null,
+      "afterUrl": "https://zestfularcade.com/detail/733886063631?ref=Best+Beauty+Products+for+Mature+Skin&channel=8671712417&hit={hit}&subid1=8671712417&subid2=733886063631",
       "donorOfferName": null,
       "donorFunnelName": null,
       "action": "produce-write",
@@ -577,7 +829,25 @@
         "capturedAt": "2026-11-13T08:54:49.785Z",
         "metricsDay": "2026-11-13"
       },
-      "after": null
+      "after": {
+        "offerId": "3zb0HmEeVleA",
+        "offerName": "moboreels-v02-A4-US-8671712417-zestfularcade.com",
+        "funnelName": "moboreels-v02",
+        "partner": "moboreels",
+        "ref": "Best Beauty Products for Mature Skin",
+        "url": "https://zestfularcade.com/detail/733886063631?ref=Best+Beauty+Products+for+Mature+Skin&channel=8671712417&hit={hit}&subid1=8671712417&subid2=733886063631",
+        "visits": 89,
+        "funnelImpressions": 22663,
+        "funnelClicks": 3300,
+        "adClicks": 0,
+        "conversion": 2,
+        "revenue": 1.67,
+        "funnelRpm": 0.07,
+        "rpc": 0.000506060606060606,
+        "secondHopPct": 0,
+        "capturedAt": "2026-11-13T16:55:07.810Z",
+        "metricsDay": "2026-11-13"
+      }
     },
     {
       "offerId": "3zavUMkw3NMi",
@@ -590,7 +860,7 @@
       "plannedSeedRef": "Cosmetic Products",
       "afterRef": "Cosmetic Products",
       "beforeUrl": "https://degreesuccesstips.com/detail/588235434413?ref=new+ways+to+treat+cancer&channel=2402337368&hit={hit}&subid1=2402337368&subid2=588235434413",
-      "afterUrl": null,
+      "afterUrl": "https://degreesuccesstips.com/detail/876514141650?ref=Cosmetic+Products&channel=2402337368&hit={hit}&subid1=2402337368&subid2=876514141650",
       "donorOfferName": null,
       "donorFunnelName": null,
       "action": "produce-write",
@@ -615,7 +885,25 @@
         "capturedAt": "2026-11-13T08:54:49.785Z",
         "metricsDay": "2026-11-13"
       },
-      "after": null
+      "after": {
+        "offerId": "3zavUMkw3NMi",
+        "offerName": "reader-v02-A12-US-2402337368-degreesuccesstips.com",
+        "funnelName": "reader-v02",
+        "partner": "reader",
+        "ref": "Cosmetic Products",
+        "url": "https://degreesuccesstips.com/detail/876514141650?ref=Cosmetic+Products&channel=2402337368&hit={hit}&subid1=2402337368&subid2=876514141650",
+        "visits": 431,
+        "funnelImpressions": 2792,
+        "funnelClicks": 218,
+        "adClicks": 0,
+        "conversion": 2,
+        "revenue": 1.01,
+        "funnelRpm": 0.36,
+        "rpc": 0.00463302752293578,
+        "secondHopPct": 0,
+        "capturedAt": "2026-11-13T16:55:07.810Z",
+        "metricsDay": "2026-11-13"
+      }
     },
     {
       "offerId": "3ywI7ngx19LX",
@@ -628,7 +916,7 @@
       "plannedSeedRef": "Cosmetics Products",
       "afterRef": "Cosmetics Products",
       "beforeUrl": "https://lstmai.com/detail/554382891969?ref=cars+with+0+finance&channel=1607158614&hit={hit}&rType=2&partner=Blinkdrama&subid1=1607158614&subid2=554382891969",
-      "afterUrl": null,
+      "afterUrl": "https://lstmai.com/detail/625286010802?ref=Cosmetics+Products&channel=1607158614&hit={hit}&rType=2&partner=Blinkdrama&subid1=1607158614&subid2=625286010802",
       "donorOfferName": null,
       "donorFunnelName": null,
       "action": "produce-write",
@@ -653,7 +941,25 @@
         "capturedAt": "2026-11-13T08:54:49.785Z",
         "metricsDay": "2026-11-13"
       },
-      "after": null
+      "after": {
+        "offerId": "3ywI7ngx19LX",
+        "offerName": "Blinkdrama-sign-v01-A15-us-1607158614-lstmai.com",
+        "funnelName": "Blinkdrama-sign-v01",
+        "partner": "blinkdrama",
+        "ref": "Cosmetics Products",
+        "url": "https://lstmai.com/detail/625286010802?ref=Cosmetics+Products&channel=1607158614&hit={hit}&rType=2&partner=Blinkdrama&subid1=1607158614&subid2=625286010802",
+        "visits": 671,
+        "funnelImpressions": 149,
+        "funnelClicks": 13,
+        "adClicks": 0,
+        "conversion": 8,
+        "revenue": 1.03,
+        "funnelRpm": 6.91,
+        "rpc": 0.07923076923076923,
+        "secondHopPct": 0,
+        "capturedAt": "2026-11-13T16:55:07.810Z",
+        "metricsDay": "2026-11-13"
+      }
     },
     {
       "offerId": "3ykOFYkwVPai",
@@ -666,7 +972,7 @@
       "plannedSeedRef": "Best Beauty Products for Mature Skin",
       "afterRef": "Best Beauty Products for Mature Skin",
       "beforeUrl": "https://zestfularcade.com/detail/744487891937?ref=cars+with+0+apr&channel=8026393663&hit={hit}&rType=2&partner=Blinkdrama&subid1=8026393663&subid2=744487891937",
-      "afterUrl": null,
+      "afterUrl": "https://zestfularcade.com/detail/338963812065?ref=Best+Beauty+Products+for+Mature+Skin&channel=8026393663&hit={hit}&rType=2&partner=Blinkdrama&subid1=8026393663&subid2=338963812065",
       "donorOfferName": null,
       "donorFunnelName": null,
       "action": "produce-write",
@@ -691,8 +997,26 @@
         "capturedAt": "2026-11-13T08:54:49.785Z",
         "metricsDay": "2026-11-13"
       },
-      "after": null
+      "after": {
+        "offerId": "3ykOFYkwVPai",
+        "offerName": "Blinkdrama-v01-A4-Us-8026393663-playfulviibes.com",
+        "funnelName": "Blinkdrama-v01",
+        "partner": "blinkdrama",
+        "ref": "Best Beauty Products for Mature Skin",
+        "url": "https://zestfularcade.com/detail/338963812065?ref=Best+Beauty+Products+for+Mature+Skin&channel=8026393663&hit={hit}&rType=2&partner=Blinkdrama&subid1=8026393663&subid2=338963812065",
+        "visits": 384,
+        "funnelImpressions": 187,
+        "funnelClicks": 62,
+        "adClicks": 14,
+        "conversion": 20,
+        "revenue": 1.86,
+        "funnelRpm": 9.95,
+        "rpc": 0.030000000000000002,
+        "secondHopPct": 22.58064516129032,
+        "capturedAt": "2026-11-13T16:55:07.810Z",
+        "metricsDay": "2026-11-13"
+      }
     }
   ],
-  "reportText": "【Offer优化对比报告】美妆试词调优 · 2026-11-13\n批次 opt-cosmetic-20261113\n优化前指标日 2026-11-13\n优化后指标日 （尚未回收）\n回收时间 —\n条目 18\n\n尚未回收优化后数据。请求 harvest 后再看对比。"
+  "reportText": "【Offer优化对比报告】美妆试词调优 · 2026-11-13\n批次 opt-cosmetic-20261113\n优化前指标日 2026-11-13\n优化后指标日 2026-11-13\n回收时间 2026-11-13T16:55:07.810Z\n条目 18\n\n## 汇总\n已回收 18/18\n收入上升 17 · 二跳上升 6 · 仍疑似无广告 1\n\n## 明细\n- Blinkdrama-v02-A5-us-8412824288-funfillgames.com (Blinkdrama-v02) [P0/written]\n  前: ref=hyundai 0 financing 词点击=8505 广告点击=235 转化=0 rev=$18.81 RPM=0.91 二跳=2.76%\n  后: ref=Cosmetics Products 词点击=10768 广告点击=296 转化=10 rev=$24.96 RPM=0.95 二跳=2.75%\n  Δ: 词点击+2263 广告点击+61 转化+10 rev$+6.15 二跳-0.01%\n- Blinkdrama-sign-v01-A4-Us-1628696221-zestfularcade.com (Blinkdrama-sign-v01) [P0/written]\n  前: ref=cars with 0 apr 词点击=8106 广告点击=203 转化=0 rev=$20.40 RPM=0.47 二跳=2.50%\n  后: ref=Best Beauty Products for Mature Skin 词点击=10049 广告点击=273 转化=4 rev=$27.24 RPM=0.49 二跳=2.72%\n  Δ: 词点击+1943 广告点击+70 转化+4 rev$+6.84 二跳+0.21%\n- reader-v01-A12-us-5132442487-degreesuccesstips.com (reader-v01) [P0/written]\n  前: ref=gm hybrid vehicles 词点击=1696 广告点击=132 转化=104 rev=$27.31 RPM=1.77 二跳=7.78%\n  后: ref=Cosmetics and Beauty Products 词点击=2213 广告点击=137 转化=110 rev=$29.01 RPM=1.43 二跳=6.19%\n  Δ: 词点击+517 广告点击+5 转化+6 rev$+1.70 二跳-1.59%\n- moboreels-v01-A4-US-2811958953-zestfularcade.com (moboreels-v01) [P0/written]\n  前: ref=clorox everclean 词点击=2888 广告点击=211 转化=109 rev=$37.73 RPM=1.83 二跳=7.31%\n  后: ref=Cosmetic Products 词点击=3793 广告点击=236 转化=114 rev=$41.47 RPM=1.49 二跳=6.22%\n  Δ: 词点击+905 广告点击+25 转化+5 rev$+3.74 二跳-1.08%\n- reader-v01-A4-us-7723809864-zestfularcade.com (reader-v01) [P0/written]\n  前: ref=best non smelling cat litter 词点击=1350 广告点击=138 转化=7 rev=$13.55 RPM=1.03 二跳=10.22%\n  后: ref=Best Beauty Products for Mature Skin 词点击=1783 广告点击=213 转化=8 rev=$18.89 RPM=1.06 二跳=11.95%\n  Δ: 词点击+433 广告点击+75 转化+1 rev$+5.34 二跳+1.72%\n- storyreel-sign-v01-A4-us-9470541113-zestfularcade.com (storyreel-sign-v01) [P0/written]\n  前: ref=new ways to treat cancer 词点击=577 广告点击=55 转化=0 rev=$15.90 RPM=7.49 二跳=9.53%\n  后: ref=Cosmetic Products 词点击=731 广告点击=57 转化=0 rev=$17.11 RPM=6.00 二跳=7.80%\n  Δ: 词点击+154 广告点击+2 转化0 rev$+1.21 二跳-1.73%\n- moboreels-v01-A12-us-4301742392-degreesuccesstips.com (moboreels-v01) [P0/written]\n  前: ref=latest trends and advancements in oncology 词点击=2634 广告点击=130 转化=28 rev=$15.94 RPM=0.80 二跳=4.94%\n  后: ref=Cosmetics Products 词点击=3649 广告点击=153 转化=33 rev=$18.63 RPM=0.68 二跳=4.19%\n  Δ: 词点击+1015 广告点击+23 转化+5 rev$+2.69 二跳-0.74%\n- storyreel-v02-A4-us-8236490346-joyfulgaminghub9.com (storyreel-v02) [P0/written]\n  前: ref=no interest car finance offers 词点击=1069 广告点击=154 转化=0 rev=$27.20 RPM=8.73 二跳=14.41%\n  后: ref=Cosmetics Products 词点击=1464 广告点击=196 转化=0 rev=$38.73 RPM=8.97 二跳=13.39%\n  Δ: 词点击+395 广告点击+42 转化0 rev$+11.53 二跳-1.02%\n- reader-v01-A7-us-9508193152-algo-cash.com (reader-v01) [P0/written]\n  前: ref=botox vs dysport units 词点击=1729 广告点击=152 转化=31 rev=$14.47 RPM=0.99 二跳=8.79%\n  后: ref=Cosmetics and Beauty Products 词点击=2281 广告点击=187 转化=31 rev=$16.07 RPM=0.83 二跳=8.20%\n  Δ: 词点击+552 广告点击+35 转化0 rev$+1.60 二跳-0.59%\n- storyreel-v02-A12-us-9128576243-aivestorhq.com (storyreel-v02) [P0/written]\n  前: ref=best non smelling cat litter 词点击=1167 广告点击=80 转化=0 rev=$13.49 RPM=4.40 二跳=6.86%\n  后: ref=Cosmetics Products 词点击=1588 广告点击=119 转化=0 rev=$25.13 RPM=5.94 二跳=7.49%\n  Δ: 词点击+421 广告点击+39 转化0 rev$+11.64 二跳+0.64%\n- Blinkdrama-sign-v01-A15-us-2979233422-mpbus.com (Blinkdrama-sign-v01) [P0/written]\n  前: ref=hyundai 0 financing 词点击=6874 广告点击=108 转化=0 rev=$11.55 RPM=0.27 二跳=1.57%\n  后: ref=Cosmetics and Beauty Products 词点击=8513 广告点击=155 转化=5 rev=$14.21 RPM=0.26 二跳=1.82%\n  Δ: 词点击+1639 广告点击+47 转化+5 rev$+2.66 二跳+0.25%\n- reader-v01-A5-us-1930962446-whirlwindarcade.com (reader-v01) [P0/written]\n  前: ref=best new gadgets to buy 词点击=1630 广告点击=72 转化=11 rev=$7.72 RPM=0.56 二跳=4.42%\n  后: ref=Cosmetic Products 词点击=2207 广告点击=103 转化=11 rev=$11.09 RPM=0.59 二跳=4.67%\n  Δ: 词点击+577 广告点击+31 转化0 rev$+3.37 二跳+0.25%\n- moboreels-v02-A12-US-3731730900-intodeepdive.com (moboreels-v02) [P0/written]\n  前: ref=gm hybrid suv 词点击=2256 广告点击=0 转化=0 rev=$1.91 RPM=0.11 二跳=0.00%\n  后: ref=Cosmetics and Beauty Products 词点击=3155 广告点击=0 转化=0 rev=$2.68 RPM=0.12 二跳=0.00%\n  Δ: 词点击+899 广告点击0 转化0 rev$+0.77 二跳0.00%\n- moboreels-v03-A12-us-2506279147-intodeepdive.com (moboreels-v03) [P0/written]\n  前: ref=gadgets for wellness 词点击=2241 广告点击=128 转化=12 rev=$7.56 RPM=0.42 二跳=5.71%\n  后: ref=Cosmetics Products 词点击=3111 广告点击=170 转化=13 rev=$10.10 RPM=0.42 二跳=5.46%\n  Δ: 词点击+870 广告点击+42 转化+1 rev$+2.54 二跳-0.25%\n- moboreels-v02-A4-US-8671712417-zestfularcade.com (moboreels-v02) [P0/written]\n  前: ref=botox dysport and xeomin injectable near me 词点击=2361 广告点击=0 转化=2 rev=$1.54 RPM=0.09 二跳=0.00%\n  后: ref=Best Beauty Products for Mature Skin 词点击=3300 广告点击=0 转化=2 rev=$1.67 RPM=0.07 二跳=0.00%\n  Δ: 词点击+939 广告点击0 转化0 rev$+0.13 二跳0.00%\n- reader-v02-A12-US-2402337368-degreesuccesstips.com (reader-v02) [P0/written]\n  前: ref=new ways to treat cancer 词点击=177 广告点击=0 转化=2 rev=$1.01 RPM=0.49 二跳=0.00%\n  后: ref=Cosmetic Products 词点击=218 广告点击=0 转化=2 rev=$1.01 RPM=0.36 二跳=0.00%\n  Δ: 词点击+41 广告点击0 转化0 rev$0.00 二跳0.00%\n- Blinkdrama-sign-v01-A15-us-1607158614-lstmai.com (Blinkdrama-sign-v01) [P0/written]\n  前: ref=cars with 0 finance 词点击=2 广告点击=0 转化=0 rev=$0.00 RPM=0.00 二跳=0.00%\n  后: ref=Cosmetics Products 词点击=13 广告点击=0 转化=8 rev=$1.03 RPM=6.91 二跳=0.00%\n  Δ: 词点击+11 广告点击0 转化+8 rev$+1.03 二跳0.00%\n- Blinkdrama-v01-A4-Us-8026393663-playfulviibes.com (Blinkdrama-v01) [P0/written]\n  前: ref=cars with 0 apr 词点击=26 广告点击=0 转化=0 rev=$0.00 RPM=0.00 二跳=0.00%\n  后: ref=Best Beauty Products for Mature Skin 词点击=62 广告点击=14 转化=20 rev=$1.86 RPM=9.95 二跳=22.58%\n  Δ: 词点击+36 广告点击+14 转化+20 rev$+1.86 二跳+22.58%"
 }

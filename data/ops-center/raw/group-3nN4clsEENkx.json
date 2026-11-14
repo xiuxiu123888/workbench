@@ -6,9 +6,9 @@
     "routing": "",
     "geo": "DE",
     "yesterdayRpm": 0.8,
-    "yesterdayRev": 1.38,
-    "yesterdayRpmTrend": 166.67,
-    "yesterdayRevTrend": 176,
+    "yesterdayRev": 1.39,
+    "yesterdayRpmTrend": 0,
+    "yesterdayRevTrend": 0.72,
     "offerList": [
       {
         "offerId": "3lplh9ByqgKz",
@@ -29,8 +29,8 @@
         "channelId": "5132442487",
         "countryCode": null,
         "afsSource": null,
-        "todayRpm": 0.9,
-        "todayRev": 1.39
+        "todayRpm": 0.2,
+        "todayRev": 0.17
       }
     ],
     "funnelId": "3LyxpT9hzzh6",

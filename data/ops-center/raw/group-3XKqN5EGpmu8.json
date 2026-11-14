@@ -5,10 +5,10 @@
     "groupName": "cd-reel-A61-br",
     "routing": "",
     "geo": "BR",
-    "yesterdayRpm": 0.1,
-    "yesterdayRev": 0.18,
-    "yesterdayRpmTrend": 100,
-    "yesterdayRevTrend": 63.64,
+    "yesterdayRpm": 0,
+    "yesterdayRev": 0.04,
+    "yesterdayRpmTrend": -100,
+    "yesterdayRevTrend": -77.78,
     "offerList": [
       {
         "offerId": "3i2aPs0q22YH",
@@ -18,8 +18,8 @@
         "channelId": "4301742392",
         "countryCode": null,
         "afsSource": null,
-        "todayRpm": 0,
-        "todayRev": 0.02
+        "todayRpm": 0.1,
+        "todayRev": 0.11
       },
       {
         "offerId": "3lplh9RvPvs9",

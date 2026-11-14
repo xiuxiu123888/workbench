@@ -5,10 +5,10 @@
     "groupName": "vibeshort-v03-default",
     "routing": "rotator",
     "geo": "US",
-    "yesterdayRpm": 8.5,
-    "yesterdayRev": 2.31,
-    "yesterdayRpmTrend": -62.22,
-    "yesterdayRevTrend": -52.27,
+    "yesterdayRpm": 7.2,
+    "yesterdayRev": 2.97,
+    "yesterdayRpmTrend": -15.29,
+    "yesterdayRevTrend": 28.57,
     "offerList": [
       {
         "offerId": "3w2R3JId3RV8",
@@ -18,8 +18,8 @@
         "channelId": "6255000890",
         "countryCode": null,
         "afsSource": "12",
-        "todayRpm": 45.9,
-        "todayRev": 0.78
+        "todayRpm": 32.1,
+        "todayRev": 1.06
       },
       {
         "offerId": "3w2RYAh6i3TJ",
@@ -29,8 +29,8 @@
         "channelId": "9419388467",
         "countryCode": "US",
         "afsSource": "4",
-        "todayRpm": 0,
-        "todayRev": 0
+        "todayRpm": 24.3,
+        "todayRev": 1.12
       },
       {
         "offerId": "3ww2wRplcN2P",
@@ -40,8 +40,8 @@
         "channelId": "1484206431",
         "countryCode": null,
         "afsSource": "5",
-        "todayRpm": 1.4,
-        "todayRev": 0.22
+        "todayRpm": 2.9,
+        "todayRev": 0.29
       },
       {
         "offerId": "3ww2fVB5IlAF",
@@ -51,8 +51,8 @@
         "channelId": "7788687495",
         "countryCode": null,
         "afsSource": "15",
-        "todayRpm": 10.9,
-        "todayRev": 1.97
+        "todayRpm": 7.7,
+        "todayRev": 1.1
       }
     ],
     "funnelId": "3w2ShcbnMk5i",

@@ -8,13 +8,13 @@
     "yesterdayRpm": 0,
     "yesterdayRev": 0,
     "yesterdayRpmTrend": 0,
-    "yesterdayRevTrend": -100,
+    "yesterdayRevTrend": 0,
     "offerList": [
       {
         "offerId": "3lplh9PXeBTs",
         "offerName": "cd-reader-60-A14-JP-1452900312",
         "categoryName": "宠物保险",
-        "weight": 0.06,
+        "weight": 1,
         "channelId": "1452900312",
         "countryCode": null,
         "afsSource": null,

@@ -5,10 +5,10 @@
     "groupName": "cd-A50-fr",
     "routing": "",
     "geo": "FR",
-    "yesterdayRpm": 0.2,
-    "yesterdayRev": 0.18,
-    "yesterdayRpmTrend": -77.78,
-    "yesterdayRevTrend": -69.49,
+    "yesterdayRpm": 0.1,
+    "yesterdayRev": 0.08,
+    "yesterdayRpmTrend": -50,
+    "yesterdayRevTrend": -55.56,
     "offerList": [
       {
         "offerId": "3nMeNj8Vhz1k",
@@ -18,8 +18,8 @@
         "channelId": "3731730900",
         "countryCode": null,
         "afsSource": null,
-        "todayRpm": 0.1,
-        "todayRev": 0.05
+        "todayRpm": 0,
+        "todayRev": 0
       },
       {
         "offerId": "3nMeY6MTXTvD",

@@ -5,10 +5,10 @@
     "groupName": "shortmax-v03-us",
     "routing": "rotator",
     "geo": "US",
-    "yesterdayRpm": 33.3,
-    "yesterdayRev": 55.55,
-    "yesterdayRpmTrend": -61.94,
-    "yesterdayRevTrend": -56.27,
+    "yesterdayRpm": 33.6,
+    "yesterdayRev": 50.23,
+    "yesterdayRpmTrend": 0.9,
+    "yesterdayRevTrend": -9.58,
     "offerList": [
       {
         "offerId": "3z7mSXt7eoLL",
@@ -18,19 +18,19 @@
         "channelId": "3969598079",
         "countryCode": "US",
         "afsSource": "15",
-        "todayRpm": 3.9,
-        "todayRev": 0.14
+        "todayRpm": 23.1,
+        "todayRev": 0.6
       },
       {
         "offerId": "3z7lNTNGuaWl",
         "offerName": "Shortmax-V03-A5-us-9646014907-joyfullplayland.com",
         "categoryName": "注射除皱",
-        "weight": 0.17,
+        "weight": 0.2,
         "channelId": "9646014907",
         "countryCode": "US",
         "afsSource": "5",
-        "todayRpm": 20,
-        "todayRev": 10.53
+        "todayRpm": 41.8,
+        "todayRev": 4.43
       },
       {
         "offerId": "3z7lFIge9xhH",
@@ -40,8 +40,8 @@
         "channelId": "9827539423",
         "countryCode": "US",
         "afsSource": "12",
-        "todayRpm": 17.9,
-        "todayRev": 1.02
+        "todayRpm": 41.6,
+        "todayRev": 1.83
       },
       {
         "offerId": "3z7l58DI0qhi",
@@ -51,8 +51,8 @@
         "channelId": "1751917633",
         "countryCode": "US",
         "afsSource": "7",
-        "todayRpm": 21.1,
-        "todayRev": 1.18
+        "todayRpm": 18,
+        "todayRev": 0.81
       },
       {
         "offerId": "3z7kjmeluRu2",
@@ -62,8 +62,8 @@
         "channelId": "8488653000",
         "countryCode": "US",
         "afsSource": "4",
-        "todayRpm": 37.8,
-        "todayRev": 24.47
+        "todayRpm": 74.9,
+        "todayRev": 71.63
       }
     ],
     "funnelId": "3z7nZk7WDoBd",

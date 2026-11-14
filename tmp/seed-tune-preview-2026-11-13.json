@@ -1,0 +1,665 @@
+{
+  "day": "2026-11-13",
+  "whitelistOffers": 334,
+  "uniqueRefs": 61,
+  "topDonors": [
+    {
+      "ref": "long acting buprenorphine",
+      "offers": 9,
+      "partners": [
+        "blinkdrama",
+        "moboreels",
+        "reader",
+        "storyreel",
+        "vibeshort"
+      ],
+      "partnerCount": 5,
+      "funnelClicks": 15123,
+      "adClicks": 1636,
+      "revenue": 619.51,
+      "visits": 9969,
+      "secondHopPct": 10.82,
+      "rpm": 62.14
+    },
+    {
+      "ref": "best non surgical facelift",
+      "offers": 9,
+      "partners": [
+        "blinkdrama",
+        "moboreels",
+        "reader",
+        "shortmax",
+        "storyreel",
+        "vibeshort"
+      ],
+      "partnerCount": 6,
+      "funnelClicks": 3682,
+      "adClicks": 1266,
+      "revenue": 485.68,
+      "visits": 5663,
+      "secondHopPct": 34.38,
+      "rpm": 85.76
+    },
+    {
+      "ref": "treatments modalities of cancer",
+      "offers": 8,
+      "partners": [
+        "blinkdrama",
+        "moboreels",
+        "shortmax",
+        "storyreel",
+        "vibeshort"
+      ],
+      "partnerCount": 5,
+      "funnelClicks": 4579,
+      "adClicks": 717,
+      "revenue": 305.18,
+      "visits": 4676,
+      "secondHopPct": 15.66,
+      "rpm": 65.27
+    },
+    {
+      "ref": "best suv to buy right now",
+      "offers": 3,
+      "partners": [
+        "blinkdrama",
+        "vibeshort"
+      ],
+      "partnerCount": 2,
+      "funnelClicks": 9244,
+      "adClicks": 1271,
+      "revenue": 290.41,
+      "visits": 5081,
+      "secondHopPct": 13.75,
+      "rpm": 57.16
+    },
+    {
+      "ref": "botox dysport and xeomin injectable near me",
+      "offers": 8,
+      "partners": [
+        "blinkdrama",
+        "reader",
+        "storyreel",
+        "vibeshort"
+      ],
+      "partnerCount": 4,
+      "funnelClicks": 2145,
+      "adClicks": 714,
+      "revenue": 277.31,
+      "visits": 7922,
+      "secondHopPct": 33.29,
+      "rpm": 35.01
+    },
+    {
+      "ref": "jeuveau botox head to head",
+      "offers": 11,
+      "partners": [
+        "blinkdrama",
+        "cd",
+        "moboreels",
+        "shortmax",
+        "storyreel",
+        "vibeshort"
+      ],
+      "partnerCount": 6,
+      "funnelClicks": 40536,
+      "adClicks": 1864,
+      "revenue": 263.23,
+      "visits": 3413,
+      "secondHopPct": 4.6,
+      "rpm": 77.13
+    },
+    {
+      "ref": "Chevrolet hybrid vehicles",
+      "offers": 9,
+      "partners": [
+        "blinkdrama",
+        "moboreels",
+        "storyreel",
+        "vibeshort"
+      ],
+      "partnerCount": 4,
+      "funnelClicks": 27069,
+      "adClicks": 1530,
+      "revenue": 251.68,
+      "visits": 4831,
+      "secondHopPct": 5.65,
+      "rpm": 52.1
+    },
+    {
+      "ref": "gadgets for wellness",
+      "offers": 9,
+      "partners": [
+        "blinkdrama",
+        "cd",
+        "shortmax",
+        "storyreel",
+        "vibeshort"
+      ],
+      "partnerCount": 5,
+      "funnelClicks": 5926,
+      "adClicks": 1219,
+      "revenue": 249.06,
+      "visits": 6227,
+      "secondHopPct": 20.57,
+      "rpm": 40
+    },
+    {
+      "ref": "best jeep model",
+      "offers": 2,
+      "partners": [
+        "blinkdrama",
+        "vibeshort"
+      ],
+      "partnerCount": 2,
+      "funnelClicks": 9132,
+      "adClicks": 1031,
+      "revenue": 217.52,
+      "visits": 4068,
+      "secondHopPct": 11.29,
+      "rpm": 53.47
+    },
+    {
+      "ref": "best wedding skincare products",
+      "offers": 9,
+      "partners": [
+        "blinkdrama",
+        "moboreels",
+        "reader",
+        "storyreel",
+        "vibeshort"
+      ],
+      "partnerCount": 5,
+      "funnelClicks": 17923,
+      "adClicks": 1482,
+      "revenue": 174.41,
+      "visits": 5492,
+      "secondHopPct": 8.27,
+      "rpm": 31.76
+    },
+    {
+      "ref": "jeep wagoneers",
+      "offers": 3,
+      "partners": [
+        "blinkdrama",
+        "vibeshort"
+      ],
+      "partnerCount": 2,
+      "funnelClicks": 9095,
+      "adClicks": 1115,
+      "revenue": 174.18,
+      "visits": 1951,
+      "secondHopPct": 12.26,
+      "rpm": 89.28
+    },
+    {
+      "ref": "new ways to treat cancer",
+      "offers": 7,
+      "partners": [
+        "blinkdrama",
+        "moboreels",
+        "storyreel",
+        "vibeshort"
+      ],
+      "partnerCount": 4,
+      "funnelClicks": 3647,
+      "adClicks": 567,
+      "revenue": 166.98,
+      "visits": 2967,
+      "secondHopPct": 15.55,
+      "rpm": 56.28
+    },
+    {
+      "ref": "Cosmetics Products",
+      "offers": 10,
+      "partners": [
+        "blinkdrama",
+        "moboreels",
+        "reader",
+        "shortmax",
+        "storyreel"
+      ],
+      "partnerCount": 5,
+      "funnelClicks": 22753,
+      "adClicks": 1172,
+      "revenue": 153.47,
+      "visits": 11187,
+      "secondHopPct": 5.15,
+      "rpm": 13.72
+    },
+    {
+      "ref": "Cosmetics and Beauty Products",
+      "offers": 9,
+      "partners": [
+        "blinkdrama",
+        "moboreels",
+        "reader",
+        "shortmax",
+        "vibeshort"
+      ],
+      "partnerCount": 5,
+      "funnelClicks": 22347,
+      "adClicks": 858,
+      "revenue": 132.44,
+      "visits": 19754,
+      "secondHopPct": 3.84,
+      "rpm": 6.7
+    },
+    {
+      "ref": "best cat litter to keep smell down",
+      "offers": 6,
+      "partners": [
+        "blinkdrama",
+        "moboreels",
+        "storyreel",
+        "vibeshort"
+      ],
+      "partnerCount": 4,
+      "funnelClicks": 2628,
+      "adClicks": 532,
+      "revenue": 110.91,
+      "visits": 1782,
+      "secondHopPct": 20.24,
+      "rpm": 62.24
+    }
+  ],
+  "crossPartnerWinners": [
+    {
+      "ref": "long acting buprenorphine",
+      "offers": 9,
+      "partners": [
+        "blinkdrama",
+        "moboreels",
+        "reader",
+        "storyreel",
+        "vibeshort"
+      ],
+      "partnerCount": 5,
+      "funnelClicks": 15123,
+      "adClicks": 1636,
+      "revenue": 619.51,
+      "visits": 9969,
+      "secondHopPct": 10.82,
+      "rpm": 62.14
+    },
+    {
+      "ref": "best non surgical facelift",
+      "offers": 9,
+      "partners": [
+        "blinkdrama",
+        "moboreels",
+        "reader",
+        "shortmax",
+        "storyreel",
+        "vibeshort"
+      ],
+      "partnerCount": 6,
+      "funnelClicks": 3682,
+      "adClicks": 1266,
+      "revenue": 485.68,
+      "visits": 5663,
+      "secondHopPct": 34.38,
+      "rpm": 85.76
+    },
+    {
+      "ref": "treatments modalities of cancer",
+      "offers": 8,
+      "partners": [
+        "blinkdrama",
+        "moboreels",
+        "shortmax",
+        "storyreel",
+        "vibeshort"
+      ],
+      "partnerCount": 5,
+      "funnelClicks": 4579,
+      "adClicks": 717,
+      "revenue": 305.18,
+      "visits": 4676,
+      "secondHopPct": 15.66,
+      "rpm": 65.27
+    },
+    {
+      "ref": "best suv to buy right now",
+      "offers": 3,
+      "partners": [
+        "blinkdrama",
+        "vibeshort"
+      ],
+      "partnerCount": 2,
+      "funnelClicks": 9244,
+      "adClicks": 1271,
+      "revenue": 290.41,
+      "visits": 5081,
+      "secondHopPct": 13.75,
+      "rpm": 57.16
+    },
+    {
+      "ref": "botox dysport and xeomin injectable near me",
+      "offers": 8,
+      "partners": [
+        "blinkdrama",
+        "reader",
+        "storyreel",
+        "vibeshort"
+      ],
+      "partnerCount": 4,
+      "funnelClicks": 2145,
+      "adClicks": 714,
+      "revenue": 277.31,
+      "visits": 7922,
+      "secondHopPct": 33.29,
+      "rpm": 35.01
+    },
+    {
+      "ref": "jeuveau botox head to head",
+      "offers": 11,
+      "partners": [
+        "blinkdrama",
+        "cd",
+        "moboreels",
+        "shortmax",
+        "storyreel",
+        "vibeshort"
+      ],
+      "partnerCount": 6,
+      "funnelClicks": 40536,
+      "adClicks": 1864,
+      "revenue": 263.23,
+      "visits": 3413,
+      "secondHopPct": 4.6,
+      "rpm": 77.13
+    },
+    {
+      "ref": "Chevrolet hybrid vehicles",
+      "offers": 9,
+      "partners": [
+        "blinkdrama",
+        "moboreels",
+        "storyreel",
+        "vibeshort"
+      ],
+      "partnerCount": 4,
+      "funnelClicks": 27069,
+      "adClicks": 1530,
+      "revenue": 251.68,
+      "visits": 4831,
+      "secondHopPct": 5.65,
+      "rpm": 52.1
+    },
+    {
+      "ref": "gadgets for wellness",
+      "offers": 9,
+      "partners": [
+        "blinkdrama",
+        "cd",
+        "shortmax",
+        "storyreel",
+        "vibeshort"
+      ],
+      "partnerCount": 5,
+      "funnelClicks": 5926,
+      "adClicks": 1219,
+      "revenue": 249.06,
+      "visits": 6227,
+      "secondHopPct": 20.57,
+      "rpm": 40
+    },
+    {
+      "ref": "best jeep model",
+      "offers": 2,
+      "partners": [
+        "blinkdrama",
+        "vibeshort"
+      ],
+      "partnerCount": 2,
+      "funnelClicks": 9132,
+      "adClicks": 1031,
+      "revenue": 217.52,
+      "visits": 4068,
+      "secondHopPct": 11.29,
+      "rpm": 53.47
+    },
+    {
+      "ref": "best wedding skincare products",
+      "offers": 9,
+      "partners": [
+        "blinkdrama",
+        "moboreels",
+        "reader",
+        "storyreel",
+        "vibeshort"
+      ],
+      "partnerCount": 5,
+      "funnelClicks": 17923,
+      "adClicks": 1482,
+      "revenue": 174.41,
+      "visits": 5492,
+      "secondHopPct": 8.27,
+      "rpm": 31.76
+    },
+    {
+      "ref": "jeep wagoneers",
+      "offers": 3,
+      "partners": [
+        "blinkdrama",
+        "vibeshort"
+      ],
+      "partnerCount": 2,
+      "funnelClicks": 9095,
+      "adClicks": 1115,
+      "revenue": 174.18,
+      "visits": 1951,
+      "secondHopPct": 12.26,
+      "rpm": 89.28
+    },
+    {
+      "ref": "new ways to treat cancer",
+      "offers": 7,
+      "partners": [
+        "blinkdrama",
+        "moboreels",
+        "storyreel",
+        "vibeshort"
+      ],
+      "partnerCount": 4,
+      "funnelClicks": 3647,
+      "adClicks": 567,
+      "revenue": 166.98,
+      "visits": 2967,
+      "secondHopPct": 15.55,
+      "rpm": 56.28
+    },
+    {
+      "ref": "Cosmetics Products",
+      "offers": 10,
+      "partners": [
+        "blinkdrama",
+        "moboreels",
+        "reader",
+        "shortmax",
+        "storyreel"
+      ],
+      "partnerCount": 5,
+      "funnelClicks": 22753,
+      "adClicks": 1172,
+      "revenue": 153.47,
+      "visits": 11187,
+      "secondHopPct": 5.15,
+      "rpm": 13.72
+    },
+    {
+      "ref": "Cosmetics and Beauty Products",
+      "offers": 9,
+      "partners": [
+        "blinkdrama",
+        "moboreels",
+        "reader",
+        "shortmax",
+        "vibeshort"
+      ],
+      "partnerCount": 5,
+      "funnelClicks": 22347,
+      "adClicks": 858,
+      "revenue": 132.44,
+      "visits": 19754,
+      "secondHopPct": 3.84,
+      "rpm": 6.7
+    },
+    {
+      "ref": "best cat litter to keep smell down",
+      "offers": 6,
+      "partners": [
+        "blinkdrama",
+        "moboreels",
+        "storyreel",
+        "vibeshort"
+      ],
+      "partnerCount": 4,
+      "funnelClicks": 2628,
+      "adClicks": 532,
+      "revenue": 110.91,
+      "visits": 1782,
+      "secondHopPct": 20.24,
+      "rpm": 62.24
+    }
+  ],
+  "weakRefs": [
+    {
+      "ref": "new hummers",
+      "offers": 6,
+      "partners": [
+        "blinkdrama",
+        "moboreels",
+        "shortmax",
+        "storyreel",
+        "vibeshort"
+      ],
+      "partnerCount": 5,
+      "funnelClicks": 23130,
+      "adClicks": 455,
+      "revenue": 99.74,
+      "visits": 1216,
+      "secondHopPct": 1.97,
+      "rpm": 82.02
+    },
+    {
+      "ref": "fillers near me",
+      "offers": 9,
+      "partners": [
+        "blinkdrama",
+        "moboreels",
+        "shortmax",
+        "storyreel",
+        "vibeshort"
+      ],
+      "partnerCount": 5,
+      "funnelClicks": 22010,
+      "adClicks": 373,
+      "revenue": 53.83,
+      "visits": 623,
+      "secondHopPct": 1.69,
+      "rpm": 86.4
+    },
+    {
+      "ref": "Ubrelvy Cost Without Insurance",
+      "offers": 1,
+      "partners": [
+        "vibeshort"
+      ],
+      "partnerCount": 1,
+      "funnelClicks": 729,
+      "adClicks": 0,
+      "revenue": 3.83,
+      "visits": 27,
+      "secondHopPct": 0,
+      "rpm": 141.85
+    },
+    {
+      "ref": "latest trends and advancements in oncology",
+      "offers": 4,
+      "partners": [
+        "reader",
+        "storyreel",
+        "vibeshort"
+      ],
+      "partnerCount": 3,
+      "funnelClicks": 497,
+      "adClicks": 0,
+      "revenue": 3.3,
+      "visits": 510,
+      "secondHopPct": 0,
+      "rpm": 6.47
+    }
+  ],
+  "suggestions": [
+    {
+      "weakRef": "new hummers",
+      "weakFc": 23130,
+      "weakSecond": 1.97,
+      "weakRpm": 82.02,
+      "weakRev": 99.74,
+      "suggestRef": "long acting buprenorphine",
+      "donorRev": 619.51,
+      "donorSecond": 10.82,
+      "donorPartners": [
+        "blinkdrama",
+        "moboreels",
+        "reader",
+        "storyreel",
+        "vibeshort"
+      ]
+    },
+    {
+      "weakRef": "fillers near me",
+      "weakFc": 22010,
+      "weakSecond": 1.69,
+      "weakRpm": 86.4,
+      "weakRev": 53.83,
+      "suggestRef": "long acting buprenorphine",
+      "donorRev": 619.51,
+      "donorSecond": 10.82,
+      "donorPartners": [
+        "blinkdrama",
+        "moboreels",
+        "reader",
+        "storyreel",
+        "vibeshort"
+      ]
+    },
+    {
+      "weakRef": "Ubrelvy Cost Without Insurance",
+      "weakFc": 729,
+      "weakSecond": 0,
+      "weakRpm": 141.85,
+      "weakRev": 3.83,
+      "suggestRef": "long acting buprenorphine",
+      "donorRev": 619.51,
+      "donorSecond": 10.82,
+      "donorPartners": [
+        "blinkdrama",
+        "moboreels",
+        "reader",
+        "storyreel",
+        "vibeshort"
+      ]
+    },
+    {
+      "weakRef": "latest trends and advancements in oncology",
+      "weakFc": 497,
+      "weakSecond": 0,
+      "weakRpm": 6.47,
+      "weakRev": 3.3,
+      "suggestRef": "long acting buprenorphine",
+      "donorRev": 619.51,
+      "donorSecond": 10.82,
+      "donorPartners": [
+        "blinkdrama",
+        "moboreels",
+        "reader",
+        "storyreel",
+        "vibeshort"
+      ]
+    }
+  ]
+}

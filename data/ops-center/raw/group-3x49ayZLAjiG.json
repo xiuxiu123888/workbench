@@ -5,54 +5,54 @@
     "groupName": "shortmax-v11-us",
     "routing": "rotator",
     "geo": "US",
-    "yesterdayRpm": 17.3,
-    "yesterdayRev": 27.17,
-    "yesterdayRpmTrend": -58.31,
-    "yesterdayRevTrend": -59.81,
+    "yesterdayRpm": 24.5,
+    "yesterdayRev": 42.73,
+    "yesterdayRpmTrend": 41.62,
+    "yesterdayRevTrend": 57.27,
     "offerList": [
       {
         "offerId": "3x47XGA8G6oL",
         "offerName": "JZ11-A4-us-6792427953-zestfularcade.com",
         "categoryName": "注射除皱",
-        "weight": 0.42,
+        "weight": 0.09,
         "channelId": "6792427953",
         "countryCode": "US",
         "afsSource": "4",
-        "todayRpm": 32.5,
-        "todayRev": 13.72
+        "todayRpm": 52.5,
+        "todayRev": 10.29
       },
       {
         "offerId": "3x47bc5nrVeU",
         "offerName": "JZ11-A7-us-2299609366-www.newamc.com",
         "categoryName": "面部提拉",
-        "weight": 0.08,
+        "weight": 0.51,
         "channelId": "2299609366",
         "countryCode": "US",
         "afsSource": "7",
-        "todayRpm": 26.4,
-        "todayRev": 15.26
+        "todayRpm": 57.8,
+        "todayRev": 11.38
       },
       {
         "offerId": "3x47xHmO7egF",
         "offerName": "jz-11-A1-us-16516-homeguarddeals.com",
         "categoryName": "注射除皱",
-        "weight": 0.03,
+        "weight": 0.1,
         "channelId": "16516",
         "countryCode": "US",
         "afsSource": "1",
-        "todayRpm": 9.7,
-        "todayRev": 0.29
+        "todayRpm": 27.4,
+        "todayRev": 1.45
       },
       {
         "offerId": "3x482woz9HCk",
         "offerName": "jz-11-A1-us-16497-beauty-center-nearby.com",
         "categoryName": "注射除皱",
-        "weight": 1,
+        "weight": 0.59,
         "channelId": "16497",
         "countryCode": "US",
         "afsSource": "1",
-        "todayRpm": 46.9,
-        "todayRev": 1.64
+        "todayRpm": 85.6,
+        "todayRev": 54.45
       },
       {
         "offerId": "3x488et4ntrT",
@@ -62,8 +62,8 @@
         "channelId": "6935898186",
         "countryCode": "US",
         "afsSource": "4",
-        "todayRpm": 0,
-        "todayRev": 0
+        "todayRpm": 13,
+        "todayRev": 0.35
       },
       {
         "offerId": "3x48ENcZOqWP",
@@ -73,8 +73,8 @@
         "channelId": "8883994701",
         "countryCode": "US",
         "afsSource": "7",
-        "todayRpm": 0,
-        "todayRev": 0
+        "todayRpm": 24.4,
+        "todayRev": 0.66
       },
       {
         "offerId": "3x48Jgtl1XWr",
@@ -84,30 +84,30 @@
         "channelId": "9779845452",
         "countryCode": "US",
         "afsSource": "12",
-        "todayRpm": 24.1,
-        "todayRev": 0.41
+        "todayRpm": 14.4,
+        "todayRev": 0.26
       },
       {
         "offerId": "3x48P8lgLiex",
         "offerName": "JZ11-A5-us-3547510412-easyfungalaxy.com",
         "categoryName": "心理健康 / 成瘾",
-        "weight": 0.02,
+        "weight": 0.03,
         "channelId": "3547510412",
         "countryCode": "US",
         "afsSource": "5",
-        "todayRpm": 4.7,
-        "todayRev": 1.1
+        "todayRpm": 11.2,
+        "todayRev": 1.01
       },
       {
         "offerId": "3x48UcfcTaFs",
         "offerName": "JZ11-A15-us-5586737973-mpbus.com",
         "categoryName": "肿瘤 / 生物制剂",
-        "weight": 0.02,
+        "weight": 0.03,
         "channelId": "5586737973",
         "countryCode": "US",
         "afsSource": "15",
-        "todayRpm": 4.9,
-        "todayRev": 1.21
+        "todayRpm": 2.9,
+        "todayRev": 0.23
       },
       {
         "offerId": "43qQL6Izew2o",

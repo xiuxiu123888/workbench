@@ -5,54 +5,54 @@
     "groupName": "cd-reel-A61-us",
     "routing": "rotator",
     "geo": "US",
-    "yesterdayRpm": 12.6,
-    "yesterdayRev": 94.9,
-    "yesterdayRpmTrend": -48.36,
-    "yesterdayRevTrend": -17.55,
+    "yesterdayRpm": 21.1,
+    "yesterdayRev": 65.41,
+    "yesterdayRpmTrend": 67.46,
+    "yesterdayRevTrend": -31.07,
     "offerList": [
       {
         "offerId": "3bwtwQDNWtNX",
         "offerName": "cd-reel-A61-A12-us-4301742392",
         "categoryName": "临床研究",
-        "weight": 0.11,
+        "weight": 0.02,
         "channelId": "4301742392",
         "countryCode": null,
         "afsSource": null,
-        "todayRpm": 19,
-        "todayRev": 11.37
+        "todayRpm": 7.4,
+        "todayRev": 0.73
       },
       {
         "offerId": "3lWUUxKsn67t",
         "offerName": "cd-reel-A61-A4-US-2811958953",
         "categoryName": "临床研究",
-        "weight": 0.59,
+        "weight": 0.02,
         "channelId": "2811958953",
         "countryCode": null,
         "afsSource": null,
-        "todayRpm": 24.8,
-        "todayRev": 33.72
+        "todayRpm": 9.4,
+        "todayRev": 1.01
       },
       {
         "offerId": "3XKoOKtc0ZaR",
         "offerName": "cd-reel-A61-A1-us-7303350887",
         "categoryName": "事故律师",
-        "weight": 0.56,
+        "weight": 1,
         "channelId": "7303350887",
         "countryCode": null,
         "afsSource": null,
-        "todayRpm": 23.8,
-        "todayRev": 4.22
+        "todayRpm": 19.4,
+        "todayRev": 7.79
       },
       {
         "offerId": "3XKp6ZlrO7LN",
         "offerName": "cd-reel-A61-A7-us-10924",
         "categoryName": "事故律师",
-        "weight": 0.1,
+        "weight": 0.13,
         "channelId": "10924",
         "countryCode": null,
         "afsSource": null,
-        "todayRpm": 16.7,
-        "todayRev": 14.34
+        "todayRpm": 5.8,
+        "todayRev": 1.05
       }
     ],
     "funnelId": "3O4uJVikic4W",

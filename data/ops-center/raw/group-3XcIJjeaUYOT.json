@@ -5,10 +5,10 @@
     "groupName": "CD-Reader-A60-Us",
     "routing": "rotator",
     "geo": "US",
-    "yesterdayRpm": 0.4,
-    "yesterdayRev": 0.31,
-    "yesterdayRpmTrend": -92,
-    "yesterdayRevTrend": -58.11,
+    "yesterdayRpm": 2.6,
+    "yesterdayRev": 1.19,
+    "yesterdayRpmTrend": 550,
+    "yesterdayRevTrend": 283.87,
     "offerList": [
       {
         "offerId": "3lWWRRSUGLWj",
@@ -19,13 +19,13 @@
         "countryCode": null,
         "afsSource": null,
         "todayRpm": 3.4,
-        "todayRev": 0.9
+        "todayRev": 0.24
       },
       {
         "offerId": "3XcFci62Mhsa",
         "offerName": "cd-read-60-A4-us-4300370257",
         "categoryName": "临床研究",
-        "weight": 0.02,
+        "weight": 1,
         "channelId": "4300370257",
         "countryCode": null,
         "afsSource": null,
@@ -36,12 +36,12 @@
         "offerId": "3XcHo5KSBEn6",
         "offerName": "cd-read-60-A7-us-7609117695",
         "categoryName": "事故律师",
-        "weight": 0,
+        "weight": 1,
         "channelId": "7609117695",
         "countryCode": null,
         "afsSource": null,
-        "todayRpm": 0,
-        "todayRev": 0
+        "todayRpm": 3.8,
+        "todayRev": 0.28
       }
     ],
     "funnelId": "3O3Sj2gNpkzw",

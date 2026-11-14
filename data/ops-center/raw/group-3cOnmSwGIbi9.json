@@ -5,10 +5,10 @@
     "groupName": "JZ12-BR",
     "routing": "rotator",
     "geo": "BR",
-    "yesterdayRpm": 0.5,
-    "yesterdayRev": 1.2,
-    "yesterdayRpmTrend": 25,
-    "yesterdayRevTrend": 13.21,
+    "yesterdayRpm": 0.2,
+    "yesterdayRev": 0.57,
+    "yesterdayRpmTrend": -60,
+    "yesterdayRevTrend": -52.5,
     "offerList": [
       {
         "offerId": "3cOn1ZCrLZys",
@@ -19,7 +19,7 @@
         "countryCode": null,
         "afsSource": null,
         "todayRpm": 0.3,
-        "todayRev": 0.37
+        "todayRev": 0.27
       },
       {
         "offerId": "3cOXRvg7sWEC",
@@ -40,8 +40,8 @@
         "channelId": "1569345262",
         "countryCode": null,
         "afsSource": null,
-        "todayRpm": 0.1,
-        "todayRev": 0.18
+        "todayRpm": 0.2,
+        "todayRev": 0.13
       },
       {
         "offerId": "3tp1Si9L05Nh",
@@ -51,8 +51,8 @@
         "channelId": "15381",
         "countryCode": null,
         "afsSource": null,
-        "todayRpm": 0,
-        "todayRev": 0
+        "todayRpm": 25.7,
+        "todayRev": 0.18
       }
     ],
     "funnelId": "3cOoCWdspR91",

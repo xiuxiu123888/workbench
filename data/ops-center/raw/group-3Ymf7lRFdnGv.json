@@ -5,16 +5,16 @@
     "groupName": "cd-A50-de",
     "routing": "",
     "geo": "DE",
-    "yesterdayRpm": 1.1,
-    "yesterdayRev": 1.32,
-    "yesterdayRpmTrend": 266.67,
-    "yesterdayRevTrend": 186.96,
+    "yesterdayRpm": 0.8,
+    "yesterdayRev": 1.29,
+    "yesterdayRpmTrend": -27.27,
+    "yesterdayRevTrend": -2.27,
     "offerList": [
       {
         "offerId": "3lplh98XtPst",
         "offerName": "cd-reel-50-A14-DE-7826736975",
         "categoryName": "分期购买手机",
-        "weight": 0.04,
+        "weight": 0.02,
         "channelId": "7826736975",
         "countryCode": null,
         "afsSource": null,
@@ -25,12 +25,12 @@
         "offerId": "3lWWRRH1PzOR",
         "offerName": "cd-reel-50-A12-DE-3731730900",
         "categoryName": "移民律师",
-        "weight": 0.74,
+        "weight": 0.08,
         "channelId": "3731730900",
         "countryCode": null,
         "afsSource": null,
-        "todayRpm": 0.9,
-        "todayRev": 0.45
+        "todayRpm": 1,
+        "todayRev": 0.26
       },
       {
         "offerId": "3UYxJwBrc8Yn",
@@ -40,19 +40,19 @@
         "channelId": "9653496952",
         "countryCode": null,
         "afsSource": null,
-        "todayRpm": 1.5,
-        "todayRev": 0.84
+        "todayRpm": 2.8,
+        "todayRev": 0.62
       },
       {
         "offerId": "3XKk7lQRtvYO",
         "offerName": "CD-50-A4-US-8671712417",
         "categoryName": "临床研究",
-        "weight": 0,
+        "weight": 0.11,
         "channelId": "8671712417",
         "countryCode": null,
         "afsSource": null,
-        "todayRpm": 0,
-        "todayRev": 0
+        "todayRpm": 0.7,
+        "todayRev": 0.17
       }
     ],
     "funnelId": "3LcdpN4mS9hK",

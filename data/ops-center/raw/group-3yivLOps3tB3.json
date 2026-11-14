@@ -5,10 +5,10 @@
     "groupName": "vibeshort-v01-default",
     "routing": "rotator",
     "geo": "US",
-    "yesterdayRpm": 20.9,
-    "yesterdayRev": 360.95,
-    "yesterdayRpmTrend": -36.86,
-    "yesterdayRevTrend": 377.32,
+    "yesterdayRpm": 22.5,
+    "yesterdayRev": 292.27,
+    "yesterdayRpmTrend": 7.66,
+    "yesterdayRevTrend": -19.03,
     "offerList": [
       {
         "offerId": "3yiv6r1VMJb4",
@@ -18,8 +18,8 @@
         "channelId": "9976603225",
         "countryCode": null,
         "afsSource": "15",
-        "todayRpm": 10.5,
-        "todayRev": 32.61
+        "todayRpm": 0.5,
+        "todayRev": 0.25
       },
       {
         "offerId": "3yigXvA1L7f3",
@@ -29,8 +29,8 @@
         "channelId": "4265989507",
         "countryCode": null,
         "afsSource": "12",
-        "todayRpm": 28,
-        "todayRev": 94.92
+        "todayRpm": 32.7,
+        "todayRev": 12.3
       },
       {
         "offerId": "3yieI73YHmSP",
@@ -40,8 +40,8 @@
         "channelId": "11443",
         "countryCode": null,
         "afsSource": "7",
-        "todayRpm": 17.9,
-        "todayRev": 41.64
+        "todayRpm": 11.7,
+        "todayRev": 1.94
       },
       {
         "offerId": "3yieCvqSl9c3",
@@ -51,19 +51,8 @@
         "channelId": "1377773572",
         "countryCode": null,
         "afsSource": "4",
-        "todayRpm": 30.6,
-        "todayRev": 121.84
-      },
-      {
-        "offerId": "43qOdsfRszXr",
-        "offerName": "Vibeshort-V01-A17-us-7566910078-seekmoon.ai",
-        "categoryName": "面部提拉",
-        "weight": 1,
-        "channelId": "7566910078",
-        "countryCode": "US",
-        "afsSource": "17",
-        "todayRpm": 0,
-        "todayRev": 0
+        "todayRpm": 11.7,
+        "todayRev": 2.56
       }
     ],
     "funnelId": "3yj8jf5lC9CG",

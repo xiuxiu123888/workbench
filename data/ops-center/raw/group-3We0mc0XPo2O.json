@@ -5,10 +5,10 @@
     "groupName": "Jiu-0912-Br",
     "routing": "",
     "geo": "BR",
-    "yesterdayRpm": 0,
-    "yesterdayRev": 0,
-    "yesterdayRpmTrend": 0,
-    "yesterdayRevTrend": 0,
+    "yesterdayRpm": 1,
+    "yesterdayRev": 0.02,
+    "yesterdayRpmTrend": 100,
+    "yesterdayRevTrend": 100,
     "offerList": [
       {
         "offerId": "3lMAsjRBUVmN",
@@ -29,8 +29,8 @@
         "channelId": "7474002238",
         "countryCode": null,
         "afsSource": null,
-        "todayRpm": 1.1,
-        "todayRev": 0.02
+        "todayRpm": 0,
+        "todayRev": 0
       },
       {
         "offerId": "3XD96IPocc4V",

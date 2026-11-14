@@ -5,10 +5,10 @@
     "groupName": "Jiu-0912-FR",
     "routing": "",
     "geo": "FR",
-    "yesterdayRpm": 0,
-    "yesterdayRev": 0,
-    "yesterdayRpmTrend": -100,
-    "yesterdayRevTrend": -100,
+    "yesterdayRpm": 0.7,
+    "yesterdayRev": 0.05,
+    "yesterdayRpmTrend": 100,
+    "yesterdayRevTrend": 100,
     "offerList": [
       {
         "offerId": "3bvs4jyYD9E3",
@@ -40,8 +40,8 @@
         "channelId": "7474002238",
         "countryCode": null,
         "afsSource": null,
-        "todayRpm": 0.7,
-        "todayRev": 0.05
+        "todayRpm": 4.6,
+        "todayRev": 0.13
       },
       {
         "offerId": "3XGkCfphar6z",

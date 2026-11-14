@@ -5,10 +5,10 @@
     "groupName": "cd-reel-0825-fan-62-de",
     "routing": "",
     "geo": "DE",
-    "yesterdayRpm": 0.6,
-    "yesterdayRev": 0.4,
-    "yesterdayRpmTrend": 100,
-    "yesterdayRevTrend": 100,
+    "yesterdayRpm": 0.2,
+    "yesterdayRev": 0.12,
+    "yesterdayRpmTrend": -66.67,
+    "yesterdayRevTrend": -70,
     "offerList": [
       {
         "offerId": "3lplh9az09AH",
@@ -29,8 +29,8 @@
         "channelId": "2506279147",
         "countryCode": null,
         "afsSource": null,
-        "todayRpm": 0.2,
-        "todayRev": 0.12
+        "todayRpm": 1.5,
+        "todayRev": 0.34
       }
     ],
     "funnelId": "3O9Vr9Ar6pNC",

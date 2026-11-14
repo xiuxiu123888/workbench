@@ -26,16 +26,24 @@
         "category": "Flare-V02",
         "offerSource": "afs-common",
         "revenue": "0.00",
-        "funnelImpressions": 3,
-        "funnelClicks": 1,
+        "funnelImpressions": 4,
+        "funnelClicks": 4,
         "clicks": 0,
         "funnelRpm": "0.00",
         "rpc": "0",
-        "funnelCtr": "33.333333333333336",
+        "funnelCtr": "100.0",
         "cvr1": "0.0",
         "cvr2": "0.0",
         "url": "https://joyfulgaminghub9.com/detail/491294484924?channel=1493955810&hit={hit}",
         "countryInfos": [
+          {
+            "countryCode": "BR",
+            "revenue": "0.00",
+            "impressions": 0,
+            "rpm": "0",
+            "funnelClicks": 1,
+            "clicks": 0
+          },
           {
             "countryCode": "FR",
             "revenue": "0.00",
@@ -55,9 +63,9 @@
           {
             "countryCode": "US",
             "revenue": "0.00",
-            "impressions": 1,
+            "impressions": 2,
             "rpm": "0.00",
-            "funnelClicks": 1,
+            "funnelClicks": 3,
             "clicks": 0
           }
         ]
@@ -234,16 +242,24 @@
         "category": "Flare-V02",
         "offerSource": "flare-hit",
         "revenue": "0.00",
-        "funnelImpressions": 3,
-        "funnelClicks": 1,
+        "funnelImpressions": 4,
+        "funnelClicks": 4,
         "clicks": 0,
         "funnelRpm": "0.00",
         "rpc": "0",
-        "funnelCtr": "33.333333333333336",
+        "funnelCtr": "100.0",
         "cvr1": "0.0",
         "cvr2": "0.0",
         "url": "https://fluxpaid.com/detail/329095452933?ref=Cart%C3%A3o%20de%20Cr%C3%A9dito%20para%20Negativado%20Aprovado%20na%20Hora:%20Comparativo%202026&channel=1493955810&hit={hit}&rType=2&partner=Flare",
         "countryInfos": [
+          {
+            "countryCode": "BR",
+            "revenue": "0.00",
+            "impressions": 0,
+            "rpm": "0",
+            "funnelClicks": 1,
+            "clicks": 0
+          },
           {
             "countryCode": "FR",
             "revenue": "0.00",
@@ -263,9 +279,9 @@
           {
             "countryCode": "US",
             "revenue": "0.00",
-            "impressions": 1,
+            "impressions": 2,
             "rpm": "0.00",
-            "funnelClicks": 1,
+            "funnelClicks": 3,
             "clicks": 0
           }
         ]
@@ -280,16 +296,24 @@
         "category": "Flare-V02",
         "offerSource": "flare-hit",
         "revenue": "0.00",
-        "funnelImpressions": 3,
-        "funnelClicks": 1,
+        "funnelImpressions": 4,
+        "funnelClicks": 4,
         "clicks": 0,
         "funnelRpm": "0.00",
         "rpc": "0",
-        "funnelCtr": "33.333333333333336",
+        "funnelCtr": "100.0",
         "cvr1": "0.0",
         "cvr2": "0.0",
         "url": "https://zestfularcade.com/detail/138338230325?channel=1493955810&ref=PrEP%20Cost%20Guide%202026&hit={hit}&rType=2&partner=Flare",
         "countryInfos": [
+          {
+            "countryCode": "BR",
+            "revenue": "0.00",
+            "impressions": 0,
+            "rpm": "0",
+            "funnelClicks": 1,
+            "clicks": 0
+          },
           {
             "countryCode": "FR",
             "revenue": "0.00",
@@ -309,9 +333,9 @@
           {
             "countryCode": "US",
             "revenue": "0.00",
-            "impressions": 1,
+            "impressions": 2,
             "rpm": "0.00",
-            "funnelClicks": 1,
+            "funnelClicks": 3,
             "clicks": 0
           }
         ]

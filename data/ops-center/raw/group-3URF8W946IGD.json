@@ -5,10 +5,10 @@
     "groupName": "JZ-06-IT",
     "routing": "",
     "geo": "IT",
-    "yesterdayRpm": 0.1,
-    "yesterdayRev": 0.07,
-    "yesterdayRpmTrend": -83.33,
-    "yesterdayRevTrend": -77.42,
+    "yesterdayRpm": 1.5,
+    "yesterdayRev": 0.76,
+    "yesterdayRpmTrend": 1400,
+    "yesterdayRevTrend": 985.71,
     "offerList": [
       {
         "offerId": "3bwD77ZJhZaf",
@@ -40,8 +40,8 @@
         "channelId": "3115809079",
         "countryCode": null,
         "afsSource": null,
-        "todayRpm": 0.2,
-        "todayRev": 0.07
+        "todayRpm": 0,
+        "todayRev": 0
       },
       {
         "offerId": "3XGvuPD8aqT7",

@@ -5,10 +5,10 @@
     "groupName": "ff-reel-v04-us",
     "routing": "rotator",
     "geo": "US",
-    "yesterdayRpm": 0,
-    "yesterdayRev": 0,
-    "yesterdayRpmTrend": -100,
-    "yesterdayRevTrend": -100,
+    "yesterdayRpm": 42.1,
+    "yesterdayRev": 100.07,
+    "yesterdayRpmTrend": 100,
+    "yesterdayRevTrend": 100,
     "offerList": [
       {
         "offerId": "3p0oeFQwSLQk",
@@ -18,8 +18,8 @@
         "channelId": "6233251331",
         "countryCode": "US",
         "afsSource": "4",
-        "todayRpm": 46.5,
-        "todayRev": 2.51
+        "todayRpm": 49.7,
+        "todayRev": 3.23
       },
       {
         "offerId": "3p6pGSQARLLA",
@@ -29,8 +29,8 @@
         "channelId": "5661257225",
         "countryCode": "US",
         "afsSource": "12",
-        "todayRpm": 43.5,
-        "todayRev": 90.84
+        "todayRpm": 43.6,
+        "todayRev": 54.44
       }
     ],
     "funnelId": "3p0rRj7GzSgd",

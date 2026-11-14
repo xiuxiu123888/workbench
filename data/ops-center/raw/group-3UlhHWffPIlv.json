@@ -5,10 +5,10 @@
     "groupName": "A79-A7-Us-9265748052",
     "routing": "",
     "geo": "US",
-    "yesterdayRpm": 0,
-    "yesterdayRev": 0,
-    "yesterdayRpmTrend": -100,
-    "yesterdayRevTrend": -100,
+    "yesterdayRpm": 5.5,
+    "yesterdayRev": 0.11,
+    "yesterdayRpmTrend": 100,
+    "yesterdayRevTrend": 100,
     "offerList": [
       {
         "offerId": "3g0Sq727NmJ2",
@@ -18,8 +18,8 @@
         "channelId": "8364590656",
         "countryCode": null,
         "afsSource": null,
-        "todayRpm": 5.5,
-        "todayRev": 0.11
+        "todayRpm": 0,
+        "todayRev": 0
       },
       {
         "offerId": "3Ulgnod37w76",

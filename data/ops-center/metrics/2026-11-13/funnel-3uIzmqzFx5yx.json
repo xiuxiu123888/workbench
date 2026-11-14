@@ -30,22 +30,30 @@
         "id": "3uIz45okPGMU",
         "name": "cd-reader-pb-v01-A4-Us-1975194475",
         "categoryId": "3uIydSsxioZV",
-        "visits": 444,
-        "views": 444,
-        "conversion": 246,
+        "visits": 478,
+        "views": 478,
+        "conversion": 263,
         "category": "cd-reader-pb-v01",
         "offerSource": "moboreader-hit",
-        "revenue": "28.35",
-        "funnelImpressions": 667,
-        "funnelClicks": 448,
-        "clicks": 204,
-        "funnelRpm": "42.50",
-        "rpc": "0.139",
-        "funnelCtr": "67.16641679160419",
-        "cvr1": "45.535714285714285",
-        "cvr2": "30.584707646176913",
+        "revenue": "32.10",
+        "funnelImpressions": 740,
+        "funnelClicks": 485,
+        "clicks": 226,
+        "funnelRpm": "43.38",
+        "rpc": "0.142",
+        "funnelCtr": "65.54054054054055",
+        "cvr1": "46.597938144329895",
+        "cvr2": "30.54054054054054",
         "url": "https://zestfularcade.com/detail/807564277561?ref=jeuveau+botox+head+to+head&channel=1975194475&hit={hit}&rType=2&partner=MoboReader&subid1=1975194475&subid2=807564277561&subid3=%7Bdata-subid3%7D&subid4=%7Bdata-subid4%7D",
         "countryInfos": [
+          {
+            "countryCode": "TW",
+            "revenue": "10.00",
+            "impressions": 39,
+            "rpm": "256.41",
+            "funnelClicks": 33,
+            "clicks": 43
+          },
           {
             "countryCode": "HK",
             "revenue": "8.74",
@@ -55,52 +63,52 @@
             "clicks": 29
           },
           {
-            "countryCode": "TW",
-            "revenue": "7.28",
-            "impressions": 26,
-            "rpm": "280.00",
-            "funnelClicks": 23,
-            "clicks": 31
-          },
-          {
             "countryCode": "DE",
-            "revenue": "4.42",
-            "impressions": 32,
-            "rpm": "138.13",
-            "funnelClicks": 26,
-            "clicks": 31
+            "revenue": "4.53",
+            "impressions": 36,
+            "rpm": "125.83",
+            "funnelClicks": 29,
+            "clicks": 32
           },
           {
             "countryCode": "FR",
-            "revenue": "2.73",
-            "impressions": 48,
-            "rpm": "56.88",
-            "funnelClicks": 26,
-            "clicks": 35
+            "revenue": "2.98",
+            "impressions": 54,
+            "rpm": "55.19",
+            "funnelClicks": 30,
+            "clicks": 38
           },
           {
             "countryCode": "GB",
-            "revenue": "1.31",
-            "impressions": 35,
-            "rpm": "37.43",
-            "funnelClicks": 23,
-            "clicks": 12
+            "revenue": "1.69",
+            "impressions": 40,
+            "rpm": "42.25",
+            "funnelClicks": 26,
+            "clicks": 16
+          },
+          {
+            "countryCode": "KR",
+            "revenue": "1.37",
+            "impressions": 46,
+            "rpm": "29.78",
+            "funnelClicks": 28,
+            "clicks": 32
           },
           {
             "countryCode": "ES",
             "revenue": "1.29",
-            "impressions": 13,
-            "rpm": "99.23",
+            "impressions": 14,
+            "rpm": "92.14",
             "funnelClicks": 9,
             "clicks": 13
           },
           {
-            "countryCode": "KR",
-            "revenue": "1.18",
-            "impressions": 42,
-            "rpm": "28.10",
-            "funnelClicks": 27,
-            "clicks": 30
+            "countryCode": "ZA",
+            "revenue": "0.27",
+            "impressions": 9,
+            "rpm": "30.00",
+            "funnelClicks": 8,
+            "clicks": 0
           },
           {
             "countryCode": "CA",
@@ -135,19 +143,11 @@
             "clicks": 0
           },
           {
-            "countryCode": "ZA",
-            "revenue": "0.20",
-            "impressions": 7,
-            "rpm": "28.57",
-            "funnelClicks": 7,
-            "clicks": 0
-          },
-          {
             "countryCode": "JP",
-            "revenue": "0.13",
-            "impressions": 90,
-            "rpm": "1.44",
-            "funnelClicks": 91,
+            "revenue": "0.16",
+            "impressions": 99,
+            "rpm": "1.62",
+            "funnelClicks": 99,
             "clicks": 0
           },
           {
@@ -161,8 +161,8 @@
           {
             "countryCode": "BR",
             "revenue": "0.02",
-            "impressions": 34,
-            "rpm": "0.59",
+            "impressions": 36,
+            "rpm": "0.56",
             "funnelClicks": 33,
             "clicks": 0
           },
@@ -193,9 +193,9 @@
           {
             "countryCode": "BY",
             "revenue": "0.00",
-            "impressions": 49,
+            "impressions": 53,
             "rpm": "0.00",
-            "funnelClicks": 34,
+            "funnelClicks": 35,
             "clicks": 0
           },
           {
@@ -233,7 +233,7 @@
           {
             "countryCode": "IT",
             "revenue": "0.00",
-            "impressions": 12,
+            "impressions": 14,
             "rpm": "0.00",
             "funnelClicks": 0,
             "clicks": 0
@@ -257,9 +257,9 @@
           {
             "countryCode": "KZ",
             "revenue": "0.00",
-            "impressions": 65,
+            "impressions": 68,
             "rpm": "0.00",
-            "funnelClicks": 17,
+            "funnelClicks": 18,
             "clicks": 0
           },
           {
@@ -279,6 +279,14 @@
             "clicks": 0
           },
           {
+            "countryCode": "MG",
+            "revenue": "0.00",
+            "impressions": 1,
+            "rpm": "0.00",
+            "funnelClicks": 0,
+            "clicks": 0
+          },
+          {
             "countryCode": "MQ",
             "revenue": "0.00",
             "impressions": 1,
@@ -289,7 +297,7 @@
           {
             "countryCode": "MX",
             "revenue": "0.00",
-            "impressions": 2,
+            "impressions": 3,
             "rpm": "0.00",
             "funnelClicks": 0,
             "clicks": 0
@@ -297,9 +305,9 @@
           {
             "countryCode": "NL",
             "revenue": "0.00",
-            "impressions": 1,
+            "impressions": 4,
             "rpm": "0.00",
-            "funnelClicks": 0,
+            "funnelClicks": 1,
             "clicks": 0
           },
           {
@@ -321,7 +329,7 @@
           {
             "countryCode": "PL",
             "revenue": "0.00",
-            "impressions": 20,
+            "impressions": 23,
             "rpm": "0.00",
             "funnelClicks": 14,
             "clicks": 0
@@ -345,9 +353,9 @@
           {
             "countryCode": "SE",
             "revenue": "0.00",
-            "impressions": 6,
+            "impressions": 7,
             "rpm": "0.00",
-            "funnelClicks": 1,
+            "funnelClicks": 2,
             "clicks": 0
           },
           {
@@ -377,9 +385,9 @@
           {
             "countryCode": "UA",
             "revenue": "0.00",
-            "impressions": 13,
+            "impressions": 20,
             "rpm": "0.00",
-            "funnelClicks": 8,
+            "funnelClicks": 11,
             "clicks": 0
           },
           {
@@ -393,7 +401,7 @@
           {
             "countryCode": "UZ",
             "revenue": "0.00",
-            "impressions": 18,
+            "impressions": 20,
             "rpm": "0.00",
             "funnelClicks": 13,
             "clicks": 0
@@ -404,84 +412,84 @@
         "id": "3uIzIeJTGnmj",
         "name": "cd-reader-pb-v01-A7-Us-12133",
         "categoryId": "3uIydSsxioZV",
-        "visits": 435,
-        "views": 435,
-        "conversion": 231,
+        "visits": 470,
+        "views": 470,
+        "conversion": 255,
         "category": "cd-reader-pb-v01",
         "offerSource": "moboreader-hit",
-        "revenue": "19.33",
-        "funnelImpressions": 643,
-        "funnelClicks": 410,
-        "clicks": 172,
-        "funnelRpm": "30.06",
-        "rpc": "0.112",
-        "funnelCtr": "63.763608087091754",
-        "cvr1": "41.951219512195124",
-        "cvr2": "26.749611197511665",
+        "revenue": "22.49",
+        "funnelImpressions": 704,
+        "funnelClicks": 448,
+        "clicks": 182,
+        "funnelRpm": "31.95",
+        "rpc": "0.124",
+        "funnelCtr": "63.63636363636363",
+        "cvr1": "40.625",
+        "cvr2": "25.852272727272727",
         "url": "https://www.newamc.com/detail/803184529390?ref=gadgets+for+wellness&channel=12133&hit={hit}&rType=2&partner=MoboReader&subid1=12133&subid2=803184529390&subid3=%7Bdata-subid3%7D&subid4=%7Bdata-subid4%7D",
         "countryInfos": [
           {
             "countryCode": "KR",
-            "revenue": "3.64",
-            "impressions": 62,
-            "rpm": "58.71",
-            "funnelClicks": 51,
-            "clicks": 31
+            "revenue": "5.31",
+            "impressions": 68,
+            "rpm": "78.09",
+            "funnelClicks": 56,
+            "clicks": 33
           },
           {
             "countryCode": "HK",
             "revenue": "3.50",
-            "impressions": 21,
-            "rpm": "166.67",
+            "impressions": 22,
+            "rpm": "159.09",
             "funnelClicks": 21,
             "clicks": 25
           },
           {
             "countryCode": "GB",
             "revenue": "2.83",
-            "impressions": 37,
-            "rpm": "76.49",
+            "impressions": 38,
+            "rpm": "74.47",
             "funnelClicks": 23,
             "clicks": 23
           },
           {
             "countryCode": "DE",
-            "revenue": "2.52",
-            "impressions": 23,
-            "rpm": "109.57",
-            "funnelClicks": 21,
-            "clicks": 21
+            "revenue": "2.78",
+            "impressions": 27,
+            "rpm": "102.96",
+            "funnelClicks": 23,
+            "clicks": 23
           },
           {
             "countryCode": "TW",
-            "revenue": "2.32",
-            "impressions": 25,
-            "rpm": "92.80",
-            "funnelClicks": 18,
-            "clicks": 19
+            "revenue": "2.36",
+            "impressions": 27,
+            "rpm": "87.41",
+            "funnelClicks": 19,
+            "clicks": 21
           },
           {
             "countryCode": "ES",
-            "revenue": "1.37",
-            "impressions": 10,
-            "rpm": "137.00",
-            "funnelClicks": 7,
-            "clicks": 14
+            "revenue": "1.98",
+            "impressions": 12,
+            "rpm": "165.00",
+            "funnelClicks": 10,
+            "clicks": 18
           },
           {
             "countryCode": "FR",
-            "revenue": "0.65",
-            "impressions": 25,
-            "rpm": "26.00",
-            "funnelClicks": 9,
+            "revenue": "0.70",
+            "impressions": 27,
+            "rpm": "25.93",
+            "funnelClicks": 10,
             "clicks": 0
           },
           {
             "countryCode": "JP",
             "revenue": "0.57",
-            "impressions": 67,
-            "rpm": "8.51",
-            "funnelClicks": 54,
+            "impressions": 78,
+            "rpm": "7.31",
+            "funnelClicks": 65,
             "clicks": 0
           },
           {
@@ -503,8 +511,8 @@
           {
             "countryCode": "KZ",
             "revenue": "0.36",
-            "impressions": 85,
-            "rpm": "4.24",
+            "impressions": 86,
+            "rpm": "4.19",
             "funnelClicks": 41,
             "clicks": 11
           },
@@ -517,11 +525,27 @@
             "clicks": 28
           },
           {
+            "countryCode": "NL",
+            "revenue": "0.30",
+            "impressions": 3,
+            "rpm": "100.00",
+            "funnelClicks": 4,
+            "clicks": 0
+          },
+          {
             "countryCode": "BY",
-            "revenue": "0.15",
-            "impressions": 67,
-            "rpm": "2.24",
-            "funnelClicks": 45,
+            "revenue": "0.21",
+            "impressions": 69,
+            "rpm": "3.04",
+            "funnelClicks": 47,
+            "clicks": 0
+          },
+          {
+            "countryCode": "PT",
+            "revenue": "0.12",
+            "impressions": 7,
+            "rpm": "17.14",
+            "funnelClicks": 4,
             "clicks": 0
           },
           {
@@ -535,8 +559,16 @@
           {
             "countryCode": "PL",
             "revenue": "0.05",
-            "impressions": 14,
-            "rpm": "3.57",
+            "impressions": 16,
+            "rpm": "3.13",
+            "funnelClicks": 5,
+            "clicks": 0
+          },
+          {
+            "countryCode": "VN",
+            "revenue": "0.04",
+            "impressions": 15,
+            "rpm": "2.67",
             "funnelClicks": 5,
             "clicks": 0
           },
@@ -549,19 +581,19 @@
             "clicks": 0
           },
           {
+            "countryCode": "UA",
+            "revenue": "0.03",
+            "impressions": 20,
+            "rpm": "1.50",
+            "funnelClicks": 3,
+            "clicks": 0
+          },
+          {
             "countryCode": "CL",
             "revenue": "0.02",
             "impressions": 5,
             "rpm": "4.00",
             "funnelClicks": 4,
-            "clicks": 0
-          },
-          {
-            "countryCode": "VN",
-            "revenue": "0.02",
-            "impressions": 13,
-            "rpm": "1.54",
-            "funnelClicks": 3,
             "clicks": 0
           },
           {
@@ -607,7 +639,7 @@
           {
             "countryCode": "IT",
             "revenue": "0.00",
-            "impressions": 13,
+            "impressions": 19,
             "rpm": "0.00",
             "funnelClicks": 3,
             "clicks": 0
@@ -639,7 +671,7 @@
           {
             "countryCode": "MX",
             "revenue": "0.00",
-            "impressions": 1,
+            "impressions": 2,
             "rpm": "0.00",
             "funnelClicks": 0,
             "clicks": 0
@@ -661,14 +693,6 @@
             "clicks": 0
           },
           {
-            "countryCode": "PT",
-            "revenue": "0.00",
-            "impressions": 1,
-            "rpm": "0.00",
-            "funnelClicks": 0,
-            "clicks": 0
-          },
-          {
             "countryCode": "RU",
             "revenue": "0.00",
             "impressions": 0,
@@ -679,9 +703,9 @@
           {
             "countryCode": "SE",
             "revenue": "0.00",
-            "impressions": 4,
+            "impressions": 5,
             "rpm": "0.00",
-            "funnelClicks": 0,
+            "funnelClicks": 1,
             "clicks": 0
           },
           {
@@ -717,14 +741,6 @@
             "clicks": 0
           },
           {
-            "countryCode": "UA",
-            "revenue": "0.00",
-            "impressions": 13,
-            "rpm": "0.00",
-            "funnelClicks": 1,
-            "clicks": 0
-          },
-          {
             "countryCode": "US",
             "revenue": "0.00",
             "impressions": 2,
@@ -743,7 +759,7 @@
           {
             "countryCode": "UZ",
             "revenue": "0.00",
-            "impressions": 8,
+            "impressions": 9,
             "rpm": "0.00",
             "funnelClicks": 6,
             "clicks": 0
@@ -762,20 +778,20 @@
         "id": "43qKWsZjIeWH",
         "name": "cd-reader-pb-v01-A17-us-9426786653-seekmoon.ai",
         "categoryId": "42VsAfi6nqYx",
-        "visits": 72,
-        "views": 72,
-        "conversion": 57,
+        "visits": 111,
+        "views": 111,
+        "conversion": 79,
         "category": "interactive",
         "offerSource": "Offer Source Not Set",
-        "revenue": "10.13",
-        "funnelImpressions": 100,
-        "funnelClicks": 49,
-        "clicks": 38,
-        "funnelRpm": "101.30",
-        "rpc": "0.267",
-        "funnelCtr": "49.0",
-        "cvr1": "77.55102040816327",
-        "cvr2": "38.0",
+        "revenue": "18.32",
+        "funnelImpressions": 335,
+        "funnelClicks": 172,
+        "clicks": 157,
+        "funnelRpm": "54.69",
+        "rpc": "0.117",
+        "funnelCtr": "51.343283582089555",
+        "cvr1": "91.27906976744185",
+        "cvr2": "46.865671641791046",
         "url": "https://seekmoon.ai/detail/814396860881?subid1=9426786653&subid2=814396860881&channel=9426786653&rType=2&ref=Best+Beauty+Products+for+Mature+Skin&hit={hit}",
         "countryInfos": [
           {
@@ -787,67 +803,115 @@
             "clicks": 14
           },
           {
+            "countryCode": "TW",
+            "revenue": "2.58",
+            "impressions": 12,
+            "rpm": "215.00",
+            "funnelClicks": 8,
+            "clicks": 13
+          },
+          {
+            "countryCode": "DE",
+            "revenue": "2.27",
+            "impressions": 16,
+            "rpm": "141.88",
+            "funnelClicks": 12,
+            "clicks": 18
+          },
+          {
+            "countryCode": "FR",
+            "revenue": "1.80",
+            "impressions": 27,
+            "rpm": "66.67",
+            "funnelClicks": 12,
+            "clicks": 31
+          },
+          {
             "countryCode": "KR",
             "revenue": "1.49",
-            "impressions": 28,
-            "rpm": "53.21",
+            "impressions": 29,
+            "rpm": "51.38",
             "funnelClicks": 20,
             "clicks": 14
           },
           {
-            "countryCode": "GB",
-            "revenue": "0.56",
-            "impressions": 5,
-            "rpm": "112.00",
-            "funnelClicks": 7,
-            "clicks": 0
-          },
-          {
             "countryCode": "JP",
-            "revenue": "0.42",
-            "impressions": 11,
-            "rpm": "38.18",
-            "funnelClicks": 6,
-            "clicks": 10
+            "revenue": "1.05",
+            "impressions": 25,
+            "rpm": "42.00",
+            "funnelClicks": 16,
+            "clicks": 23
           },
           {
-            "countryCode": "DE",
-            "revenue": "0.38",
-            "impressions": 2,
-            "rpm": "190.00",
-            "funnelClicks": 1,
-            "clicks": 0
+            "countryCode": "GB",
+            "revenue": "0.90",
+            "impressions": 13,
+            "rpm": "69.23",
+            "funnelClicks": 11,
+            "clicks": 11
           },
           {
-            "countryCode": "FR",
-            "revenue": "0.36",
-            "impressions": 6,
-            "rpm": "60.00",
+            "countryCode": "BR",
+            "revenue": "0.86",
+            "impressions": 38,
+            "rpm": "22.63",
+            "funnelClicks": 33,
+            "clicks": 33
+          },
+          {
+            "countryCode": "SE",
+            "revenue": "0.33",
+            "impressions": 3,
+            "rpm": "110.00",
             "funnelClicks": 2,
-            "clicks": 0
-          },
-          {
-            "countryCode": "IT",
-            "revenue": "0.27",
-            "impressions": 10,
-            "rpm": "27.00",
-            "funnelClicks": 3,
-            "clicks": 0
-          },
-          {
-            "countryCode": "TW",
-            "revenue": "0.15",
-            "impressions": 1,
-            "rpm": "150.00",
-            "funnelClicks": 1,
             "clicks": 0
           },
           {
             "countryCode": "KZ",
-            "revenue": "0.04",
-            "impressions": 12,
-            "rpm": "3.33",
-            "funnelClicks": 2,
+            "revenue": "0.15",
+            "impressions": 36,
+            "rpm": "4.17",
+            "funnelClicks": 19,
+            "clicks": 0
+          },
+          {
+            "countryCode": "IT",
+            "revenue": "0.14",
+            "impressions": 10,
+            "rpm": "14.00",
+            "funnelClicks": 3,
+            "clicks": 0
+          },
+          {
+            "countryCode": "ZA",
+            "revenue": "0.14",
+            "impressions": 2,
+            "rpm": "70.00",
+            "funnelClicks": 1,
+            "clicks": 0
+          },
+          {
+            "countryCode": "UA",
+            "revenue": "0.10",
+            "impressions": 20,
+            "rpm": "5.00",
+            "funnelClicks": 6,
+            "clicks": 0
+          },
+          {
+            "countryCode": "UY",
+            "revenue": "0.03",
+            "impressions": 3,
+            "rpm": "10.00",
+            "funnelClicks": 1,
+            "clicks": 0
+          },
+          {
+            "countryCode": "TR",
+            "revenue": "0.02",
+            "impressions": 3,
+            "rpm": "6.67",
+            "funnelClicks": 1,
             "clicks": 0
           },
           {
@@ -875,23 +939,39 @@
             "clicks": 0
           },
           {
-            "countryCode": "BR",
-            "revenue": "0.00",
-            "impressions": 3,
-            "rpm": "0.00",
-            "funnelClicks": 0,
-            "clicks": 0
-          },
-          {
             "countryCode": "BY",
             "revenue": "0.00",
-            "impressions": 3,
+            "impressions": 14,
+            "rpm": "0.00",
+            "funnelClicks": 4,
+            "clicks": 0
+          },
+          {
+            "countryCode": "CA",
+            "revenue": "0.00",
+            "impressions": 4,
             "rpm": "0.00",
             "funnelClicks": 0,
             "clicks": 0
           },
           {
-            "countryCode": "ES",
+            "countryCode": "DK",
+            "revenue": "0.00",
+            "impressions": 1,
+            "rpm": "0.00",
+            "funnelClicks": 0,
+            "clicks": 0
+          },
+          {
+            "countryCode": "DO",
+            "revenue": "0.00",
+            "impressions": 1,
+            "rpm": "0.00",
+            "funnelClicks": 0,
+            "clicks": 0
+          },
+          {
+            "countryCode": "DZ",
             "revenue": "0.00",
             "impressions": 2,
             "rpm": "0.00",
@@ -899,7 +979,63 @@
             "clicks": 0
           },
           {
+            "countryCode": "EC",
+            "revenue": "0.00",
+            "impressions": 1,
+            "rpm": "0.00",
+            "funnelClicks": 0,
+            "clicks": 0
+          },
+          {
+            "countryCode": "EG",
+            "revenue": "0.00",
+            "impressions": 2,
+            "rpm": "0.00",
+            "funnelClicks": 0,
+            "clicks": 0
+          },
+          {
+            "countryCode": "ES",
+            "revenue": "0.00",
+            "impressions": 5,
+            "rpm": "0.00",
+            "funnelClicks": 0,
+            "clicks": 0
+          },
+          {
             "countryCode": "IE",
+            "revenue": "0.00",
+            "impressions": 2,
+            "rpm": "0.00",
+            "funnelClicks": 0,
+            "clicks": 0
+          },
+          {
+            "countryCode": "KG",
+            "revenue": "0.00",
+            "impressions": 1,
+            "rpm": "0.00",
+            "funnelClicks": 1,
+            "clicks": 0
+          },
+          {
+            "countryCode": "ME",
+            "revenue": "0.00",
+            "impressions": 1,
+            "rpm": "0.00",
+            "funnelClicks": 0,
+            "clicks": 0
+          },
+          {
+            "countryCode": "MG",
+            "revenue": "0.00",
+            "impressions": 1,
+            "rpm": "0.00",
+            "funnelClicks": 0,
+            "clicks": 0
+          },
+          {
+            "countryCode": "MX",
             "revenue": "0.00",
             "impressions": 1,
             "rpm": "0.00",
@@ -909,9 +1045,41 @@
           {
             "countryCode": "MY",
             "revenue": "0.00",
-            "impressions": 1,
+            "impressions": 2,
             "rpm": "0.00",
             "funnelClicks": 0,
+            "clicks": 0
+          },
+          {
+            "countryCode": "NG",
+            "revenue": "0.00",
+            "impressions": 5,
+            "rpm": "0.00",
+            "funnelClicks": 0,
+            "clicks": 0
+          },
+          {
+            "countryCode": "NL",
+            "revenue": "0.00",
+            "impressions": 3,
+            "rpm": "0.00",
+            "funnelClicks": 0,
+            "clicks": 0
+          },
+          {
+            "countryCode": "PL",
+            "revenue": "0.00",
+            "impressions": 8,
+            "rpm": "0.00",
+            "funnelClicks": 0,
+            "clicks": 0
+          },
+          {
+            "countryCode": "PT",
+            "revenue": "0.00",
+            "impressions": 11,
+            "rpm": "0.00",
+            "funnelClicks": 7,
             "clicks": 0
           },
           {
@@ -923,25 +1091,33 @@
             "clicks": 0
           },
           {
-            "countryCode": "TR",
-            "revenue": "0.00",
-            "impressions": 1,
-            "rpm": "0.00",
-            "funnelClicks": 0,
-            "clicks": 0
-          },
-          {
-            "countryCode": "UA",
+            "countryCode": "TH",
             "revenue": "0.00",
             "impressions": 2,
             "rpm": "0.00",
-            "funnelClicks": 0,
+            "funnelClicks": 1,
             "clicks": 0
           },
           {
             "countryCode": "US",
             "revenue": "0.00",
-            "impressions": 3,
+            "impressions": 15,
+            "rpm": "0.00",
+            "funnelClicks": 7,
+            "clicks": 0
+          },
+          {
+            "countryCode": "UZ",
+            "revenue": "0.00",
+            "impressions": 6,
+            "rpm": "0.00",
+            "funnelClicks": 0,
+            "clicks": 0
+          },
+          {
+            "countryCode": "VN",
+            "revenue": "0.00",
+            "impressions": 1,
             "rpm": "0.00",
             "funnelClicks": 1,
             "clicks": 0
@@ -952,18 +1128,18 @@
         "id": "3szxnTr06HKg",
         "name": "cd-reader-banner-v01-A4-Us-9114102876",
         "categoryId": "3rHyoiswJQQa",
-        "visits": 41,
-        "views": 41,
+        "visits": 43,
+        "views": 43,
         "conversion": 0,
         "category": "cd-reel-banner-v01",
         "offerSource": "moboreel-hit",
         "revenue": "0.00",
-        "funnelImpressions": 41,
+        "funnelImpressions": 43,
         "funnelClicks": 7,
         "clicks": 0,
         "funnelRpm": "0.00",
         "rpc": "0",
-        "funnelCtr": "17.073170731707318",
+        "funnelCtr": "16.27906976744186",
         "cvr1": "0.0",
         "cvr2": "0.0",
         "url": "https://playfulviibes.com/detail/181505940572?channel=9114102876&hit={hit}&rType=2&partner=Moboreel&subid1=9114102876&subid2=181505940572&subid3=%7Bdata-subid3%7D&subid4=%7Bdata-subid4%7D&ref=new+cancer+drugs",
@@ -995,7 +1171,7 @@
           {
             "countryCode": "US",
             "revenue": "0.00",
-            "impressions": 34,
+            "impressions": 36,
             "rpm": "0.00",
             "funnelClicks": 3,
             "clicks": 0
@@ -1013,11 +1189,11 @@
         "offerSource": "moboreel-hit",
         "revenue": "0.45",
         "funnelImpressions": 21,
-        "funnelClicks": 1,
+        "funnelClicks": 2,
         "clicks": 0,
         "funnelRpm": "21.43",
         "rpc": "0",
-        "funnelCtr": "4.761904761904762",
+        "funnelCtr": "9.523809523809524",
         "cvr1": "0.0",
         "cvr2": "0.0",
         "url": "https://intodeepdive.com/detail/853749899418?ref=best+cat+litter+reddit&channel=8275192094&hit={hit}&rType=2&partner=Moboreel&subid1=8275192094&subid2=853749899418&subid3=%7Bdata-subid3%7D&subid4=%7Bdata-subid4%7D",
@@ -1027,7 +1203,7 @@
             "revenue": "0.45",
             "impressions": 19,
             "rpm": "23.68",
-            "funnelClicks": 1,
+            "funnelClicks": 2,
             "clicks": 0
           },
           {

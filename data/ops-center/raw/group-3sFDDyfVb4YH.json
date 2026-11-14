@@ -5,43 +5,43 @@
     "groupName": "Blinkdrama-v02-us",
     "routing": "rotator",
     "geo": "US",
-    "yesterdayRpm": 39.1,
-    "yesterdayRev": 697.88,
-    "yesterdayRpmTrend": -50.06,
-    "yesterdayRevTrend": -46.72,
+    "yesterdayRpm": 54.6,
+    "yesterdayRev": 898.61,
+    "yesterdayRpmTrend": 39.64,
+    "yesterdayRevTrend": 28.76,
     "offerList": [
       {
         "offerId": "3sFCvYmcWean",
         "offerName": "Blinkdrama-v02-A7-Us-11850-algo-cash.com",
         "categoryName": "心理健康 / 成瘾",
-        "weight": 0.03,
+        "weight": 0.02,
         "channelId": "11850",
         "countryCode": "US",
         "afsSource": "7",
-        "todayRpm": 31.3,
-        "todayRev": 23.88
+        "todayRpm": 39.4,
+        "todayRev": 11.81
       },
       {
         "offerId": "3sFCjUj5Q5vz",
         "offerName": "Blinkdrama-v02-A4-Us-8895922786-zestfularcade.com",
         "categoryName": "心理健康 / 成瘾",
-        "weight": 0.26,
+        "weight": 0.28,
         "channelId": "8895922786",
         "countryCode": "US",
         "afsSource": "4",
-        "todayRpm": 75.6,
-        "todayRev": 209
+        "todayRpm": 109.9,
+        "todayRev": 172.48
       },
       {
         "offerId": "3v8SmNJ9A0YF",
         "offerName": "Blinkdrama-v02-A1-Us-15585-insurance-consulting-nearby.com",
         "categoryName": "宠物产品",
-        "weight": 0.21,
+        "weight": 0.03,
         "channelId": "15585",
         "countryCode": "US",
         "afsSource": "1",
-        "todayRpm": 64,
-        "todayRev": 79.53
+        "todayRpm": 65.5,
+        "todayRev": 24.17
       },
       {
         "offerId": "3wsFjIN71Mkz",
@@ -51,30 +51,30 @@
         "channelId": "3619050185",
         "countryCode": "US",
         "afsSource": "15",
-        "todayRpm": 1.9,
-        "todayRev": 2.07
+        "todayRpm": 1.6,
+        "todayRev": 0.76
       },
       {
         "offerId": "3wsEYJJ6fFdm",
         "offerName": "Blinkdrama-v02-A5-us-8412824288-funfillgames.com",
         "categoryName": "面部提拉",
-        "weight": 0.01,
+        "weight": 0,
         "channelId": "8412824288",
         "countryCode": "US",
         "afsSource": "5",
-        "todayRpm": 8.3,
-        "todayRev": 8.35
+        "todayRpm": 5.4,
+        "todayRev": 2.83
       },
       {
         "offerId": "3yQgx4dSR98u",
         "offerName": "Blinkdrama-v02-A12-us-7191142882-degreesuccesstips.com",
         "categoryName": "新能源汽车",
-        "weight": 0.17,
+        "weight": 0.03,
         "channelId": "7191142882",
         "countryCode": "US",
         "afsSource": "12",
-        "todayRpm": 51.3,
-        "todayRev": 85.9
+        "todayRpm": 48.2,
+        "todayRev": 20.34
       },
       {
         "offerId": "3ywLwZdJd3h4",
@@ -84,30 +84,30 @@
         "channelId": "13431",
         "countryCode": "US",
         "afsSource": "1",
-        "todayRpm": 101.6,
-        "todayRev": 200.52
+        "todayRpm": 148.2,
+        "todayRev": 205.21
       },
       {
         "offerId": "3ywM1sGdjCvr",
         "offerName": "Blinkdrama-v02-A1-Us-13432-nearby-dental-implants.com",
         "categoryName": "心理健康 / 成瘾",
-        "weight": 0.17,
+        "weight": 0.24,
         "channelId": "13432",
         "countryCode": "US",
         "afsSource": "1",
-        "todayRpm": 42.8,
-        "todayRev": 20.11
+        "todayRpm": 116.1,
+        "todayRev": 96.24
       },
       {
         "offerId": "3ywMAVoLRZCZ",
         "offerName": "Blinkdrama-v02-A4-Us-1502816526-jubilantsphere.com",
         "categoryName": "注射除皱",
-        "weight": 0.14,
+        "weight": 0.2,
         "channelId": "1502816526",
         "countryCode": "US",
         "afsSource": "4",
-        "todayRpm": 46.8,
-        "todayRev": 37.93
+        "todayRpm": 82,
+        "todayRev": 78.79
       },
       {
         "offerId": "3ywMItQ8waKO",
@@ -117,8 +117,8 @@
         "channelId": "1845597308",
         "countryCode": "US",
         "afsSource": "5",
-        "todayRpm": 28.9,
-        "todayRev": 7.02
+        "todayRpm": 43.3,
+        "todayRev": 6.24
       },
       {
         "offerId": "3ywMQmmIkFAy",
@@ -128,8 +128,8 @@
         "channelId": "18650",
         "countryCode": "US",
         "afsSource": "7",
-        "todayRpm": 41.7,
-        "todayRev": 62.1
+        "todayRpm": 51.1,
+        "todayRev": 8.69
       },
       {
         "offerId": "3ywMVBbPrQVd",
@@ -139,8 +139,8 @@
         "channelId": "18651",
         "countryCode": "US",
         "afsSource": "7",
-        "todayRpm": 31.4,
-        "todayRev": 6.28
+        "todayRpm": 79.9,
+        "todayRev": 11.59
       },
       {
         "offerId": "3ywMb9GM5fp0",
@@ -150,8 +150,8 @@
         "channelId": "3826752218",
         "countryCode": "US",
         "afsSource": "12",
-        "todayRpm": 36.8,
-        "todayRev": 17.02
+        "todayRpm": 57.3,
+        "todayRev": 26.55
       },
       {
         "offerId": "3ywMgU6iMlyL",
@@ -161,8 +161,8 @@
         "channelId": "5357965274",
         "countryCode": "US",
         "afsSource": "15",
-        "todayRpm": 27.6,
-        "todayRev": 30.26
+        "todayRpm": 40.1,
+        "todayRev": 4.93
       }
     ],
     "funnelId": "3sFDuJeEbeay",

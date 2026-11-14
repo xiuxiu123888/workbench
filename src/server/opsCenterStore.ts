@@ -20,10 +20,11 @@ export function assertOpsCenterRelativePath(relativePath: string): string {
     !normalized.startsWith('hourly/') &&
     !normalized.startsWith('seed-lexicon/') &&
     !normalized.startsWith('offer-tags/') &&
-    !normalized.startsWith('optimize-batches/')
+    !normalized.startsWith('optimize-batches/') &&
+    !normalized.startsWith('keyword-harvest/')
   ) {
     throw new Error(
-      '只允许写入 raw/、metrics/、hourly/、seed-lexicon/、offer-tags/、optimize-batches/、meta.json、report.json、offer-replace-log.json、funnel-offer-drafts.json',
+      '只允许写入 raw/、metrics/、hourly/、seed-lexicon/、offer-tags/、optimize-batches/、keyword-harvest/、meta.json、report.json、offer-replace-log.json、funnel-offer-drafts.json',
     )
   }
   return normalized

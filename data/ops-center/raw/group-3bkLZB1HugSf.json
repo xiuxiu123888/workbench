@@ -5,10 +5,10 @@
     "groupName": "JZ07-BR",
     "routing": "",
     "geo": "BR",
-    "yesterdayRpm": 0,
-    "yesterdayRev": 0,
-    "yesterdayRpmTrend": -100,
-    "yesterdayRevTrend": -100,
+    "yesterdayRpm": 0.1,
+    "yesterdayRev": 0.01,
+    "yesterdayRpmTrend": 100,
+    "yesterdayRevTrend": 100,
     "offerList": [
       {
         "offerId": "3lMAsjLt45Mj",
@@ -18,8 +18,8 @@
         "channelId": "8514457756",
         "countryCode": null,
         "afsSource": null,
-        "todayRpm": 0.1,
-        "todayRev": 0.01
+        "todayRpm": 0.2,
+        "todayRev": 0.03
       },
       {
         "offerId": "3rfj1u04FsHI",

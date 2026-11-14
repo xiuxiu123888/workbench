@@ -5,10 +5,10 @@
     "groupName": "CD-Reader-A51-Us",
     "routing": "",
     "geo": "US",
-    "yesterdayRpm": 4.8,
-    "yesterdayRev": 28.86,
-    "yesterdayRpmTrend": 26.32,
-    "yesterdayRevTrend": 401.04,
+    "yesterdayRpm": 6.3,
+    "yesterdayRev": 35.53,
+    "yesterdayRpmTrend": 31.25,
+    "yesterdayRevTrend": 23.11,
     "offerList": [
       {
         "offerId": "3nMz3ZfcuXdT",
@@ -18,8 +18,8 @@
         "channelId": "5132442487",
         "countryCode": null,
         "afsSource": null,
-        "todayRpm": 8.8,
-        "todayRev": 26.22
+        "todayRpm": 5,
+        "todayRev": 2.17
       },
       {
         "offerId": "3OMRoVYSxIWC",
@@ -36,23 +36,23 @@
         "offerId": "3UZHog5J4fnB",
         "offerName": "Cd-read-A51-A7-us-9508193152",
         "categoryName": "事故律师",
-        "weight": 0.13,
+        "weight": 0.02,
         "channelId": "9508193152",
         "countryCode": null,
         "afsSource": null,
-        "todayRpm": 4,
-        "todayRev": 7.57
+        "todayRpm": 0.9,
+        "todayRev": 0.11
       },
       {
         "offerId": "3Xc9Vzw0jzjZ",
         "offerName": "Cd-read-A51-A4-us-7723809864",
         "categoryName": "临床研究",
-        "weight": 0.07,
+        "weight": 0.02,
         "channelId": "7723809864",
         "countryCode": null,
         "afsSource": null,
-        "todayRpm": 2.1,
-        "todayRev": 1.06
+        "todayRpm": 15.2,
+        "todayRev": 3.95
       }
     ],
     "funnelId": "3LyxpT9hzzh6",

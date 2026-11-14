@@ -5,16 +5,16 @@
     "groupName": "cd-A50-gb",
     "routing": "",
     "geo": "GB",
-    "yesterdayRpm": 6.3,
-    "yesterdayRev": 2.51,
-    "yesterdayRpmTrend": 1475,
-    "yesterdayRevTrend": 765.52,
+    "yesterdayRpm": 1.4,
+    "yesterdayRev": 0.86,
+    "yesterdayRpmTrend": -77.78,
+    "yesterdayRevTrend": -65.74,
     "offerList": [
       {
         "offerId": "3lplh9909bjo",
         "offerName": "cd-reel-50-A14-GB-7826736975",
         "categoryName": "手机分期",
-        "weight": 0.02,
+        "weight": 0.04,
         "channelId": "7826736975",
         "countryCode": null,
         "afsSource": null,
@@ -25,34 +25,34 @@
         "offerId": "3lWWRRQQ6pc1",
         "offerName": "cd-reel-50-A12-GB-3731730900",
         "categoryName": "种牙",
-        "weight": 0.13,
+        "weight": 0.08,
         "channelId": "3731730900",
         "countryCode": null,
         "afsSource": null,
-        "todayRpm": 1,
-        "todayRev": 0.19
+        "todayRpm": 14.8,
+        "todayRev": 1.39
       },
       {
         "offerId": "3UYxJwBrc8Yn",
         "offerName": "Cd-A50-A7-Us-9653496952",
         "categoryName": "事故律师",
-        "weight": 1,
+        "weight": 0.85,
         "channelId": "9653496952",
         "countryCode": null,
         "afsSource": null,
-        "todayRpm": 2.8,
-        "todayRev": 0.61
+        "todayRpm": 37.6,
+        "todayRev": 2.52
       },
       {
         "offerId": "3XKk7lQRtvYO",
         "offerName": "CD-50-A4-US-8671712417",
         "categoryName": "临床研究",
-        "weight": 0,
+        "weight": 0.83,
         "channelId": "8671712417",
         "countryCode": null,
         "afsSource": null,
-        "todayRpm": 0,
-        "todayRev": 0
+        "todayRpm": 35.9,
+        "todayRev": 2.19
       }
     ],
     "funnelId": "3LcdpN4mS9hK",

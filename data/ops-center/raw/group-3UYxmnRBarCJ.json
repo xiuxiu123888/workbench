@@ -5,32 +5,32 @@
     "groupName": "cd-A50-us",
     "routing": "rotator",
     "geo": "US",
-    "yesterdayRpm": 8.3,
-    "yesterdayRev": 11.55,
-    "yesterdayRpmTrend": -63.6,
-    "yesterdayRevTrend": -48.89,
+    "yesterdayRpm": 16.3,
+    "yesterdayRev": 18.26,
+    "yesterdayRpmTrend": 96.39,
+    "yesterdayRevTrend": 58.1,
     "offerList": [
       {
         "offerId": "3i2aPry8Z7Jb",
         "offerName": "cd-reel-50-A12-US-3731730900",
         "categoryName": "健康保险",
-        "weight": 0,
+        "weight": 0.02,
         "channelId": "3731730900",
         "countryCode": null,
         "afsSource": null,
-        "todayRpm": 0,
-        "todayRev": 0
+        "todayRpm": 4.7,
+        "todayRev": 0.2
       },
       {
         "offerId": "3UYxJwBrc8Yn",
         "offerName": "Cd-A50-A7-Us-9653496952",
         "categoryName": "事故律师",
-        "weight": 0.09,
+        "weight": 0.02,
         "channelId": "9653496952",
         "countryCode": null,
         "afsSource": null,
-        "todayRpm": 10.7,
-        "todayRev": 6.1
+        "todayRpm": 0,
+        "todayRev": 0
       },
       {
         "offerId": "3XKjdR7V6Qpx",
@@ -40,19 +40,19 @@
         "channelId": "4677485294",
         "countryCode": null,
         "afsSource": null,
-        "todayRpm": 55.7,
-        "todayRev": 6.8
+        "todayRpm": 22.7,
+        "todayRev": 16.35
       },
       {
         "offerId": "3XKk7lQRtvYO",
         "offerName": "CD-50-A4-US-8671712417",
         "categoryName": "临床研究",
-        "weight": 0.04,
+        "weight": 0.02,
         "channelId": "8671712417",
         "countryCode": null,
         "afsSource": null,
-        "todayRpm": 4.8,
-        "todayRev": 0.75
+        "todayRpm": 4.5,
+        "todayRev": 0.23
       }
     ],
     "funnelId": "3LcdpN4mS9hK",

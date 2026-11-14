@@ -47,6 +47,15 @@ describe('opsCenterStore', () => {
     )
   })
 
+  it('allows keyword-harvest paths', () => {
+    expect(assertOpsCenterRelativePath('keyword-harvest/index.json')).toBe(
+      'keyword-harvest/index.json',
+    )
+    expect(assertOpsCenterRelativePath('keyword-harvest/2026-11-13.json')).toBe(
+      'keyword-harvest/2026-11-13.json',
+    )
+  })
+
   it('writes seed lexicon under data/ops-center', () => {
     const root = fs.mkdtempSync(path.join(os.tmpdir(), 'ops-center-'))
     tempRoots.push(root)

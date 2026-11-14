@@ -1,0 +1,5193 @@
+{
+  "day": "2026-11-14",
+  "articleCount": 330,
+  "failedChunks": 0,
+  "goodCount": 100,
+  "watchCount": 150,
+  "goodWithCategory": 99,
+  "watchWithCategory": 150,
+  "good": [
+    {
+      "keyword": "Botox Vs Dysport Units",
+      "termClicks": 577,
+      "adClicks": 204,
+      "adRate": 0.3535528596187175,
+      "articleCount": 20,
+      "articleIds": [
+        "419712926807",
+        "913902590398",
+        "377774738441",
+        "249671456873",
+        "682790872974",
+        "712590501994",
+        "375126743823",
+        "858473405982",
+        "474163178989",
+        "800357792747",
+        "892643746140",
+        "436968132421",
+        "525675775306",
+        "120588422550",
+        "280000448111",
+        "187745562596",
+        "564312642736",
+        "986537146072",
+        "907523772494",
+        "261001444511"
+      ],
+      "categoryId": 5591,
+      "categoryKey": "美容 / 医美 / 注射美容 / 注射除皱",
+      "days": [
+        "2026-11-14"
+      ],
+      "score": 2190.755285961872
+    },
+    {
+      "keyword": "Best Cat Litter to Keep Smell Down",
+      "termClicks": 375,
+      "adClicks": 201,
+      "adRate": 0.536,
+      "articleCount": 21,
+      "articleIds": [
+        "602634318084",
+        "898389432225",
+        "401471063237",
+        "545428545993",
+        "461872338775",
+        "894637099495",
+        "466311611381",
+        "164172006201",
+        "429659099717",
+        "733416399015",
+        "833993582409",
+        "517591877594",
+        "853749899418",
+        "933576524505",
+        "689300698081",
+        "524388371147",
+        "109192061201",
+        "871511691794",
+        "844409754604",
+        "157467620282",
+        "287538396138"
+      ],
+      "categoryId": 5884,
+      "categoryKey": "宠物 / 宠物产品",
+      "days": [
+        "2026-11-14"
+      ],
+      "score": 2138.6
+    },
+    {
+      "keyword": "Latest Trends and Advancements in Oncology",
+      "termClicks": 437,
+      "adClicks": 193,
+      "adRate": 0.4416475972540046,
+      "articleCount": 14,
+      "articleIds": [
+        "632984820098",
+        "553390905681",
+        "440874286819",
+        "838795129463",
+        "335026830099",
+        "499421619771",
+        "931892528731",
+        "117008068933",
+        "417465342026",
+        "241242301757",
+        "587993225898",
+        "873477856826",
+        "296964191532",
+        "589188913956"
+      ],
+      "categoryId": 6308,
+      "categoryKey": "健康 / 医药研发 / 肿瘤 / 生物制剂",
+      "days": [
+        "2026-11-14"
+      ],
+      "score": 2061.5647597254006
+    },
+    {
+      "keyword": "Voluma Face Lift",
+      "termClicks": 378,
+      "adClicks": 189,
+      "adRate": 0.5,
+      "articleCount": 10,
+      "articleIds": [
+        "632646983184",
+        "414435072548",
+        "748744502107",
+        "740615530906",
+        "305365053081",
+        "854912406554",
+        "156597509183",
+        "546656362362",
+        "191883234764",
+        "997122925412"
+      ],
+      "categoryId": 5162,
+      "categoryKey": "美容 / 面部提拉",
+      "days": [
+        "2026-11-14"
+      ],
+      "score": 2015.6
+    },
+    {
+      "keyword": "Facial Rejuvenation Near Me",
+      "termClicks": 324,
+      "adClicks": 175,
+      "adRate": 0.5401234567901234,
+      "articleCount": 5,
+      "articleIds": [
+        "748744502107",
+        "632646983184",
+        "556976559898",
+        "198709541363",
+        "682998354365"
+      ],
+      "categoryId": 5162,
+      "categoryKey": "美容 / 面部提拉",
+      "days": [
+        "2026-11-14"
+      ],
+      "score": 1868.8123456790122
+    },
+    {
+      "keyword": "Non Surgical Facial Rejuvenation",
+      "termClicks": 289,
+      "adClicks": 159,
+      "adRate": 0.5501730103806228,
+      "articleCount": 6,
+      "articleIds": [
+        "632646983184",
+        "748744502107",
+        "556976559898",
+        "198709541363",
+        "843976510176",
+        "682998354365"
+      ],
+      "categoryId": 5162,
+      "categoryKey": "美容 / 面部提拉",
+      "days": [
+        "2026-11-14"
+      ],
+      "score": 1702.8173010380622
+    },
+    {
+      "keyword": "Beauty Products Website",
+      "termClicks": 301,
+      "adClicks": 154,
+      "adRate": 0.5116279069767442,
+      "articleCount": 11,
+      "articleIds": [
+        "751561775783",
+        "445231935313",
+        "624033111366",
+        "874080219644",
+        "450935591765",
+        "267949249287",
+        "979396265336",
+        "461100631423",
+        "196079865188",
+        "440398429658",
+        "748209666779"
+      ],
+      "categoryId": 5162,
+      "categoryKey": "美容 / 面部提拉",
+      "days": [
+        "2026-11-14"
+      ],
+      "score": 1651.3627906976744
+    },
+    {
+      "keyword": "New Ways to Treat Cancer",
+      "termClicks": 338,
+      "adClicks": 150,
+      "adRate": 0.4437869822485207,
+      "articleCount": 12,
+      "articleIds": [
+        "632984820098",
+        "553390905681",
+        "931892528731",
+        "499421619771",
+        "838795129463",
+        "335026830099",
+        "322797816329",
+        "873477856826",
+        "156480925204",
+        "589188913956",
+        "587993225898",
+        "417465342026"
+      ],
+      "categoryId": 6308,
+      "categoryKey": "健康 / 医药研发 / 肿瘤 / 生物制剂",
+      "days": [
+        "2026-11-14"
+      ],
+      "score": 1611.978698224852
+    },
+    {
+      "keyword": "Wrangler Electric",
+      "termClicks": 244,
+      "adClicks": 143,
+      "adRate": 0.5860655737704918,
+      "articleCount": 5,
+      "articleIds": [
+        "577206948779",
+        "779332334369",
+        "188858787764",
+        "143305647981",
+        "693731153029"
+      ],
+      "categoryId": 5338,
+      "categoryKey": "汽车 / 车型分类 / SUV",
+      "days": [
+        "2026-11-14"
+      ],
+      "score": 1537.4065573770492
+    },
+    {
+      "keyword": "Cosmetic Products",
+      "termClicks": 339,
+      "adClicks": 135,
+      "adRate": 0.39823008849557523,
+      "articleCount": 7,
+      "articleIds": [
+        "448552282316",
+        "624033111366",
+        "445231935313",
+        "196079865188",
+        "979396265336",
+        "461100631423",
+        "450935591765"
+      ],
+      "categoryId": 5162,
+      "categoryKey": "美容 / 面部提拉",
+      "days": [
+        "2026-11-14"
+      ],
+      "score": 1457.6230088495574
+    },
+    {
+      "keyword": "Botox and Dysport Near Me",
+      "termClicks": 305,
+      "adClicks": 135,
+      "adRate": 0.4426229508196721,
+      "articleCount": 13,
+      "articleIds": [
+        "419712926807",
+        "712590501994",
+        "913902590398",
+        "377774738441",
+        "249671456873",
+        "682790872974",
+        "120588422550",
+        "187745562596",
+        "986537146072",
+        "892643746140",
+        "280000448111",
+        "841457256982",
+        "907523772494"
+      ],
+      "categoryId": 5591,
+      "categoryKey": "美容 / 医美 / 注射美容 / 注射除皱",
+      "days": [
+        "2026-11-14"
+      ],
+      "score": 1455.2622950819673
+    },
+    {
+      "keyword": "Buprenorphine Everything You Need to Know",
+      "termClicks": 488,
+      "adClicks": 130,
+      "adRate": 0.26639344262295084,
+      "articleCount": 19,
+      "articleIds": [
+        "300767403107",
+        "418976328832",
+        "896736744707",
+        "644485006559",
+        "189246085702",
+        "114593627461",
+        "501960513543",
+        "422235660813",
+        "104577922683",
+        "924047128511",
+        "345689324762",
+        "159232861713",
+        "145627938240",
+        "967691736373",
+        "723148940789",
+        "421021627266",
+        "506618826717",
+        "422943008921",
+        "874313932125"
+      ],
+      "categoryId": 6314,
+      "categoryKey": "健康 / 医药研发 / 心理健康 / 成瘾",
+      "days": [
+        "2026-11-14"
+      ],
+      "score": 1424.239344262295
+    },
+    {
+      "keyword": "Cosmetics and Beauty Products",
+      "termClicks": 408,
+      "adClicks": 130,
+      "adRate": 0.31862745098039214,
+      "articleCount": 9,
+      "articleIds": [
+        "448552282316",
+        "445231935313",
+        "624033111366",
+        "979396265336",
+        "975088333333",
+        "196079865188",
+        "461100631423",
+        "267949249287",
+        "226858045397"
+      ],
+      "categoryId": 5162,
+      "categoryKey": "美容 / 面部提拉",
+      "days": [
+        "2026-11-14"
+      ],
+      "score": 1413.462745098039
+    },
+    {
+      "keyword": "Cosmetics Products",
+      "termClicks": 289,
+      "adClicks": 119,
+      "adRate": 0.4117647058823529,
+      "articleCount": 6,
+      "articleIds": [
+        "448552282316",
+        "624033111366",
+        "445231935313",
+        "979396265336",
+        "196079865188",
+        "267949249287"
+      ],
+      "categoryId": 5162,
+      "categoryKey": "美容 / 面部提拉",
+      "days": [
+        "2026-11-14"
+      ],
+      "score": 1288.9764705882353
+    },
+    {
+      "keyword": "2027 Hybrids",
+      "termClicks": 203,
+      "adClicks": 115,
+      "adRate": 0.5665024630541872,
+      "articleCount": 11,
+      "articleIds": [
+        "993539999283",
+        "368359095170",
+        "726518889850",
+        "120008062922",
+        "545605070262",
+        "185328745970",
+        "753390401781",
+        "920922350965",
+        "404688751417",
+        "491260297835",
+        "693731153029"
+      ],
+      "categoryId": 5246,
+      "categoryKey": "汽车 / 车型分类 / 新能源汽车",
+      "days": [
+        "2026-11-14"
+      ],
+      "score": 1247.2502463054186
+    },
+    {
+      "keyword": "Home Gadget",
+      "termClicks": 217,
+      "adClicks": 115,
+      "adRate": 0.5299539170506913,
+      "articleCount": 11,
+      "articleIds": [
+        "680711708229",
+        "159928510321",
+        "120188429834",
+        "166287912346",
+        "879789428130",
+        "977487640893",
+        "954270298702",
+        "182011969933",
+        "300201740880",
+        "463166083790",
+        "336354372970"
+      ],
+      "categoryId": 5876,
+      "categoryKey": "科技 / 消费电子",
+      "days": [
+        "2026-11-14"
+      ],
+      "score": 1246.3953917050692
+    },
+    {
+      "keyword": "Beauty Products Online Shopping Websites",
+      "termClicks": 381,
+      "adClicks": 114,
+      "adRate": 0.2992125984251969,
+      "articleCount": 1,
+      "articleIds": [
+        "448552282316"
+      ],
+      "categoryId": 5162,
+      "categoryKey": "美容 / 面部提拉",
+      "days": [
+        "2026-11-14"
+      ],
+      "score": 1246.1212598425197
+    },
+    {
+      "keyword": "Gadgets for Wellness",
+      "termClicks": 207,
+      "adClicks": 110,
+      "adRate": 0.5314009661835749,
+      "articleCount": 7,
+      "articleIds": [
+        "159928510321",
+        "519435546471",
+        "490332184714",
+        "311313737381",
+        "925429482382",
+        "951699754139",
+        "280402160659"
+      ],
+      "categoryId": 5876,
+      "categoryKey": "科技 / 消费电子",
+      "days": [
+        "2026-11-14"
+      ],
+      "score": 1194.5400966183577
+    },
+    {
+      "keyword": "Beauty Products Online",
+      "termClicks": 338,
+      "adClicks": 107,
+      "adRate": 0.3165680473372781,
+      "articleCount": 6,
+      "articleIds": [
+        "445231935313",
+        "448552282316",
+        "624033111366",
+        "975088333333",
+        "979396265336",
+        "196079865188"
+      ],
+      "categoryId": 5162,
+      "categoryKey": "美容 / 面部提拉",
+      "days": [
+        "2026-11-14"
+      ],
+      "score": 1169.2568047337277
+    },
+    {
+      "keyword": "Beauty Products that Work",
+      "termClicks": 188,
+      "adClicks": 106,
+      "adRate": 0.5638297872340425,
+      "articleCount": 10,
+      "articleIds": [
+        "751561775783",
+        "874080219644",
+        "461100631423",
+        "267949249287",
+        "440398429658",
+        "196079865188",
+        "987040305500",
+        "450935591765",
+        "748209666779",
+        "298361946092"
+      ],
+      "categoryId": 5162,
+      "categoryKey": "美容 / 面部提拉",
+      "days": [
+        "2026-11-14"
+      ],
+      "score": 1153.9829787234041
+    },
+    {
+      "keyword": "Dysport Better Than Botox",
+      "termClicks": 252,
+      "adClicks": 106,
+      "adRate": 0.42063492063492064,
+      "articleCount": 15,
+      "articleIds": [
+        "419712926807",
+        "712590501994",
+        "913902590398",
+        "682790872974",
+        "375126743823",
+        "249671456873",
+        "377774738441",
+        "280000448111",
+        "986537146072",
+        "120588422550",
+        "187745562596",
+        "210626473973",
+        "474163178989",
+        "858473405982",
+        "892643746140"
+      ],
+      "categoryId": 5591,
+      "categoryKey": "美容 / 医美 / 注射美容 / 注射除皱",
+      "days": [
+        "2026-11-14"
+      ],
+      "score": 1152.4634920634921
+    },
+    {
+      "keyword": "Buprenorphine Number Needed to Treat",
+      "termClicks": 287,
+      "adClicks": 103,
+      "adRate": 0.3588850174216028,
+      "articleCount": 14,
+      "articleIds": [
+        "418976328832",
+        "300767403107",
+        "189246085702",
+        "644485006559",
+        "924047128511",
+        "159232861713",
+        "896736744707",
+        "114593627461",
+        "501960513543",
+        "967691736373",
+        "422235660813",
+        "104577922683",
+        "345689324762",
+        "421021627266"
+      ],
+      "categoryId": 6314,
+      "categoryKey": "健康 / 医药研发 / 心理健康 / 成瘾",
+      "days": [
+        "2026-11-14"
+      ],
+      "score": 1123.2885017421604
+    },
+    {
+      "keyword": "Online Beauty Stores",
+      "termClicks": 330,
+      "adClicks": 87,
+      "adRate": 0.2636363636363636,
+      "articleCount": 2,
+      "articleIds": [
+        "448552282316",
+        "445231935313"
+      ],
+      "categoryId": 5162,
+      "categoryKey": "美容 / 面部提拉",
+      "days": [
+        "2026-11-14"
+      ],
+      "score": 962.3636363636364
+    },
+    {
+      "keyword": "Cosmetic Brands",
+      "termClicks": 165,
+      "adClicks": 82,
+      "adRate": 0.49696969696969695,
+      "articleCount": 3,
+      "articleIds": [
+        "445231935313",
+        "624033111366",
+        "448552282316"
+      ],
+      "categoryId": 5162,
+      "categoryKey": "美容 / 面部提拉",
+      "days": [
+        "2026-11-14"
+      ],
+      "score": 902.6969696969697
+    },
+    {
+      "keyword": "New Cancer Treatments Pdf",
+      "termClicks": 195,
+      "adClicks": 82,
+      "adRate": 0.4205128205128205,
+      "articleCount": 11,
+      "articleIds": [
+        "632984820098",
+        "553390905681",
+        "931892528731",
+        "838795129463",
+        "117008068933",
+        "499421619771",
+        "440874286819",
+        "794644186206",
+        "873477856826",
+        "814064716588",
+        "322797816329"
+      ],
+      "categoryId": 6308,
+      "categoryKey": "健康 / 医药研发 / 肿瘤 / 生物制剂",
+      "days": [
+        "2026-11-14"
+      ],
+      "score": 901.0512820512821
+    },
+    {
+      "keyword": "New Jeeps",
+      "termClicks": 162,
+      "adClicks": 77,
+      "adRate": 0.47530864197530864,
+      "articleCount": 5,
+      "articleIds": [
+        "577206948779",
+        "779332334369",
+        "188858787764",
+        "421139391967",
+        "143305647981"
+      ],
+      "categoryId": 5338,
+      "categoryKey": "汽车 / 车型分类 / SUV",
+      "days": [
+        "2026-11-14"
+      ],
+      "score": 849.9308641975308
+    },
+    {
+      "keyword": "Cars for 150 Per Month",
+      "termClicks": 118,
+      "adClicks": 76,
+      "adRate": 0.6440677966101694,
+      "articleCount": 5,
+      "articleIds": [
+        "436150377390",
+        "417965982965",
+        "293996023343",
+        "148529791605",
+        "373912938943"
+      ],
+      "categoryId": 5868,
+      "categoryKey": "汽车 / 汽车金融",
+      "days": [
+        "2026-11-14"
+      ],
+      "score": 848.0067796610169
+    },
+    {
+      "keyword": "Best Non-surgical Facelift",
+      "termClicks": 151,
+      "adClicks": 74,
+      "adRate": 0.4900662251655629,
+      "articleCount": 2,
+      "articleIds": [
+        "748744502107",
+        "854912406554"
+      ],
+      "categoryId": 5162,
+      "categoryKey": "美容 / 面部提拉",
+      "days": [
+        "2026-11-14"
+      ],
+      "score": 819.2066225165563
+    },
+    {
+      "keyword": "New Gadgets",
+      "termClicks": 166,
+      "adClicks": 73,
+      "adRate": 0.4397590361445783,
+      "articleCount": 11,
+      "articleIds": [
+        "159928510321",
+        "680711708229",
+        "977487640893",
+        "463166083790",
+        "879789428130",
+        "954270298702",
+        "336354372970",
+        "274898558931",
+        "120188429834",
+        "280402160659",
+        "166287912346"
+      ],
+      "categoryId": 5876,
+      "categoryKey": "科技 / 消费电子",
+      "days": [
+        "2026-11-14"
+      ],
+      "score": 807.1759036144579
+    },
+    {
+      "keyword": "Face Lifting Treatment Near Me",
+      "termClicks": 161,
+      "adClicks": 69,
+      "adRate": 0.42857142857142855,
+      "articleCount": 9,
+      "articleIds": [
+        "748744502107",
+        "632646983184",
+        "414435072548",
+        "740615530906",
+        "191883234764",
+        "156597509183",
+        "997122925412",
+        "305365053081",
+        "682998354365"
+      ],
+      "categoryId": 5162,
+      "categoryKey": "美容 / 面部提拉",
+      "days": [
+        "2026-11-14"
+      ],
+      "score": 765.0571428571429
+    },
+    {
+      "keyword": "Best Online Beauty Retailers",
+      "termClicks": 299,
+      "adClicks": 68,
+      "adRate": 0.22742474916387959,
+      "articleCount": 2,
+      "articleIds": [
+        "445231935313",
+        "448552282316"
+      ],
+      "categoryId": 5162,
+      "categoryKey": "美容 / 面部提拉",
+      "days": [
+        "2026-11-14"
+      ],
+      "score": 762.542474916388
+    },
+    {
+      "keyword": "Cosmetic Products Online",
+      "termClicks": 216,
+      "adClicks": 65,
+      "adRate": 0.30092592592592593,
+      "articleCount": 1,
+      "articleIds": [
+        "448552282316"
+      ],
+      "categoryId": 5162,
+      "categoryKey": "美容 / 面部提拉",
+      "days": [
+        "2026-11-14"
+      ],
+      "score": 723.2925925925927
+    },
+    {
+      "keyword": "What is Brixadi",
+      "termClicks": 225,
+      "adClicks": 64,
+      "adRate": 0.28444444444444444,
+      "articleCount": 8,
+      "articleIds": [
+        "418976328832",
+        "300767403107",
+        "896736744707",
+        "422235660813",
+        "114593627461",
+        "506618826717",
+        "104577922683",
+        "261107299334"
+      ],
+      "categoryId": 6314,
+      "categoryKey": "健康 / 医药研发 / 心理健康 / 成瘾",
+      "days": [
+        "2026-11-14"
+      ],
+      "score": 713.4444444444445
+    },
+    {
+      "keyword": "New Hummers",
+      "termClicks": 144,
+      "adClicks": 58,
+      "adRate": 0.4027777777777778,
+      "articleCount": 3,
+      "articleIds": [
+        "959748097496",
+        "299323973292",
+        "537407321993"
+      ],
+      "categoryId": 5246,
+      "categoryKey": "汽车 / 车型分类 / 新能源汽车",
+      "days": [
+        "2026-11-14"
+      ],
+      "score": 649.0777777777778
+    },
+    {
+      "keyword": "Best Cat Litter Reddit",
+      "termClicks": 145,
+      "adClicks": 58,
+      "adRate": 0.4,
+      "articleCount": 12,
+      "articleIds": [
+        "602634318084",
+        "898389432225",
+        "401471063237",
+        "894637099495",
+        "461872338775",
+        "545428545993",
+        "466311611381",
+        "833993582409",
+        "517591877594",
+        "933576524505",
+        "429659099717",
+        "689300698081"
+      ],
+      "categoryId": 5884,
+      "categoryKey": "宠物 / 宠物产品",
+      "days": [
+        "2026-11-14"
+      ],
+      "score": 649
+    },
+    {
+      "keyword": "Long-acting Buprenorphine 2026",
+      "termClicks": 175,
+      "adClicks": 54,
+      "adRate": 0.30857142857142855,
+      "articleCount": 2,
+      "articleIds": [
+        "418976328832",
+        "114593627461"
+      ],
+      "categoryId": 6314,
+      "categoryKey": "健康 / 医药研发 / 心理健康 / 成瘾",
+      "days": [
+        "2026-11-14"
+      ],
+      "score": 605.8571428571429
+    },
+    {
+      "keyword": "Facial Rejuvenation Treatments",
+      "termClicks": 119,
+      "adClicks": 53,
+      "adRate": 0.44537815126050423,
+      "articleCount": 1,
+      "articleIds": [
+        "414435072548"
+      ],
+      "categoryId": 5162,
+      "categoryKey": "美容 / 面部提拉",
+      "days": [
+        "2026-11-14"
+      ],
+      "score": 598.3378151260504
+    },
+    {
+      "keyword": "Buy Gadgets Online",
+      "termClicks": 122,
+      "adClicks": 53,
+      "adRate": 0.4344262295081967,
+      "articleCount": 6,
+      "articleIds": [
+        "159928510321",
+        "680711708229",
+        "977487640893",
+        "311313737381",
+        "954270298702",
+        "879789428130"
+      ],
+      "categoryId": 5876,
+      "categoryKey": "科技 / 消费电子",
+      "days": [
+        "2026-11-14"
+      ],
+      "score": 597.8426229508196
+    },
+    {
+      "keyword": "Beauty Products Brands",
+      "termClicks": 146,
+      "adClicks": 51,
+      "adRate": 0.3493150684931507,
+      "articleCount": 8,
+      "articleIds": [
+        "445231935313",
+        "448552282316",
+        "624033111366",
+        "196079865188",
+        "461100631423",
+        "450935591765",
+        "440398429658",
+        "975088333333"
+      ],
+      "categoryId": 5162,
+      "categoryKey": "美容 / 面部提拉",
+      "days": [
+        "2026-11-14"
+      ],
+      "score": 574.1315068493151
+    },
+    {
+      "keyword": "Best for Wrinkles on Face",
+      "termClicks": 95,
+      "adClicks": 50,
+      "adRate": 0.5263157894736842,
+      "articleCount": 2,
+      "articleIds": [
+        "338963812065",
+        "603588266438"
+      ],
+      "categoryId": 5162,
+      "categoryKey": "美容 / 面部提拉",
+      "days": [
+        "2026-11-14"
+      ],
+      "score": 571.6315789473684
+    },
+    {
+      "keyword": "Best Non Surgical Facelift",
+      "termClicks": 103,
+      "adClicks": 49,
+      "adRate": 0.47572815533980584,
+      "articleCount": 8,
+      "articleIds": [
+        "632646983184",
+        "748744502107",
+        "414435072548",
+        "156597509183",
+        "740615530906",
+        "997122925412",
+        "191883234764",
+        "305365053081"
+      ],
+      "categoryId": 5162,
+      "categoryKey": "美容 / 面部提拉",
+      "days": [
+        "2026-11-14"
+      ],
+      "score": 558.1728155339806
+    },
+    {
+      "keyword": "How to Treat Cancer",
+      "termClicks": 74,
+      "adClicks": 47,
+      "adRate": 0.6351351351351351,
+      "articleCount": 11,
+      "articleIds": [
+        "553390905681",
+        "632984820098",
+        "117008068933",
+        "931892528731",
+        "499421619771",
+        "335026830099",
+        "241242301757",
+        "322797816329",
+        "838795129463",
+        "362401535559",
+        "296964191532"
+      ],
+      "categoryId": 6308,
+      "categoryKey": "健康 / 医药研发 / 肿瘤 / 生物制剂",
+      "days": [
+        "2026-11-14"
+      ],
+      "score": 548.3135135135135
+    },
+    {
+      "keyword": "Cars with Zero Deposit",
+      "termClicks": 82,
+      "adClicks": 47,
+      "adRate": 0.573170731707317,
+      "articleCount": 8,
+      "articleIds": [
+        "436150377390",
+        "104721594607",
+        "373912938943",
+        "417965982965",
+        "148529791605",
+        "296848651119",
+        "293996023343",
+        "592485077826"
+      ],
+      "categoryId": 5868,
+      "categoryKey": "汽车 / 汽车金融",
+      "days": [
+        "2026-11-14"
+      ],
+      "score": 543.7170731707317
+    },
+    {
+      "keyword": "Tech Products that Make Life Easier",
+      "termClicks": 127,
+      "adClicks": 47,
+      "adRate": 0.3700787401574803,
+      "articleCount": 8,
+      "articleIds": [
+        "680711708229",
+        "336354372970",
+        "274898558931",
+        "182011969933",
+        "120188429834",
+        "915927492532",
+        "879789428130",
+        "463166083790"
+      ],
+      "categoryId": 5876,
+      "categoryKey": "科技 / 消费电子",
+      "days": [
+        "2026-11-14"
+      ],
+      "score": 532.407874015748
+    },
+    {
+      "keyword": "New Chryslers",
+      "termClicks": 89,
+      "adClicks": 46,
+      "adRate": 0.5168539325842697,
+      "articleCount": 3,
+      "articleIds": [
+        "779332334369",
+        "740778045018",
+        "143305647981"
+      ],
+      "categoryId": 5338,
+      "categoryKey": "汽车 / 车型分类 / SUV",
+      "days": [
+        "2026-11-14"
+      ],
+      "score": 529.4853932584269
+    },
+    {
+      "keyword": "New Chevys",
+      "termClicks": 58,
+      "adClicks": 44,
+      "adRate": 0.7586206896551724,
+      "articleCount": 2,
+      "articleIds": [
+        "993539999283",
+        "120008062922"
+      ],
+      "categoryId": 5246,
+      "categoryKey": "汽车 / 车型分类 / 新能源汽车",
+      "days": [
+        "2026-11-14"
+      ],
+      "score": 527.4620689655172
+    },
+    {
+      "keyword": "New Chevrolets for Sale",
+      "termClicks": 73,
+      "adClicks": 45,
+      "adRate": 0.6164383561643836,
+      "articleCount": 2,
+      "articleIds": [
+        "120008062922",
+        "993539999283"
+      ],
+      "categoryId": 5246,
+      "categoryKey": "汽车 / 车型分类 / 新能源汽车",
+      "days": [
+        "2026-11-14"
+      ],
+      "score": 526.2438356164383
+    },
+    {
+      "keyword": "Sublocade vs Brixadi",
+      "termClicks": 125,
+      "adClicks": 45,
+      "adRate": 0.36,
+      "articleCount": 8,
+      "articleIds": [
+        "418976328832",
+        "300767403107",
+        "896736744707",
+        "606022894099",
+        "114593627461",
+        "104577922683",
+        "506618826717",
+        "422235660813"
+      ],
+      "categoryId": 6314,
+      "categoryKey": "健康 / 医药研发 / 心理健康 / 成瘾",
+      "days": [
+        "2026-11-14"
+      ],
+      "score": 511
+    },
+    {
+      "keyword": "Beauty Websites",
+      "termClicks": 126,
+      "adClicks": 45,
+      "adRate": 0.35714285714285715,
+      "articleCount": 4,
+      "articleIds": [
+        "445231935313",
+        "624033111366",
+        "461100631423",
+        "450935591765"
+      ],
+      "categoryId": 5162,
+      "categoryKey": "美容 / 面部提拉",
+      "days": [
+        "2026-11-14"
+      ],
+      "score": 510.9142857142857
+    },
+    {
+      "keyword": "Cars for 50 Per Month",
+      "termClicks": 72,
+      "adClicks": 42,
+      "adRate": 0.5833333333333334,
+      "articleCount": 2,
+      "articleIds": [
+        "436150377390",
+        "148529791605"
+      ],
+      "categoryId": 5868,
+      "categoryKey": "汽车 / 汽车金融",
+      "days": [
+        "2026-11-14"
+      ],
+      "score": 492.7333333333333
+    },
+    {
+      "keyword": "Lowest Cost Suv",
+      "termClicks": 90,
+      "adClicks": 42,
+      "adRate": 0.4666666666666667,
+      "articleCount": 1,
+      "articleIds": [
+        "682532131727"
+      ],
+      "categoryId": 5338,
+      "categoryKey": "汽车 / 车型分类 / SUV",
+      "days": [
+        "2026-11-14"
+      ],
+      "score": 484.6666666666667
+    },
+    {
+      "keyword": "2027 Jeeps",
+      "termClicks": 92,
+      "adClicks": 42,
+      "adRate": 0.45652173913043476,
+      "articleCount": 2,
+      "articleIds": [
+        "577206948779",
+        "779332334369"
+      ],
+      "categoryId": 5338,
+      "categoryKey": "汽车 / 车型分类 / SUV",
+      "days": [
+        "2026-11-14"
+      ],
+      "score": 484.0521739130435
+    },
+    {
+      "keyword": "The Next Stage of Buprenorphine Care for Opioid Use Disorder",
+      "termClicks": 148,
+      "adClicks": 41,
+      "adRate": 0.27702702702702703,
+      "articleCount": 12,
+      "articleIds": [
+        "418976328832",
+        "300767403107",
+        "189246085702",
+        "896736744707",
+        "501960513543",
+        "421021627266",
+        "644485006559",
+        "114593627461",
+        "723148940789",
+        "924047128511",
+        "422235660813",
+        "261107299334"
+      ],
+      "categoryId": 6314,
+      "categoryKey": "健康 / 医药研发 / 心理健康 / 成瘾",
+      "days": [
+        "2026-11-14"
+      ],
+      "score": 467.30270270270273
+    },
+    {
+      "keyword": "New 2027 Suvs",
+      "termClicks": 81,
+      "adClicks": 40,
+      "adRate": 0.49382716049382713,
+      "articleCount": 3,
+      "articleIds": [
+        "534210878780",
+        "682532131727",
+        "188449633315"
+      ],
+      "categoryId": 5338,
+      "categoryKey": "汽车 / 车型分类 / SUV",
+      "days": [
+        "2026-11-14"
+      ],
+      "score": 465.5827160493827
+    },
+    {
+      "keyword": "Long Acting Buprenorphine Injections",
+      "termClicks": 159,
+      "adClicks": 40,
+      "adRate": 0.25157232704402516,
+      "articleCount": 1,
+      "articleIds": [
+        "896736744707"
+      ],
+      "categoryId": 6314,
+      "categoryKey": "健康 / 医药研发 / 心理健康 / 成瘾",
+      "days": [
+        "2026-11-14"
+      ],
+      "score": 456.95723270440254
+    },
+    {
+      "keyword": "Dysport Vs Botox Pubmed",
+      "termClicks": 91,
+      "adClicks": 39,
+      "adRate": 0.42857142857142855,
+      "articleCount": 9,
+      "articleIds": [
+        "913902590398",
+        "377774738441",
+        "419712926807",
+        "474163178989",
+        "249671456873",
+        "712590501994",
+        "375126743823",
+        "986537146072",
+        "630311524770"
+      ],
+      "categoryId": 5591,
+      "categoryKey": "美容 / 医美 / 注射美容 / 注射除皱",
+      "days": [
+        "2026-11-14"
+      ],
+      "score": 451.0571428571428
+    },
+    {
+      "keyword": "Xeomin Cosmetic",
+      "termClicks": 93,
+      "adClicks": 39,
+      "adRate": 0.41935483870967744,
+      "articleCount": 13,
+      "articleIds": [
+        "913902590398",
+        "712590501994",
+        "377774738441",
+        "682790872974",
+        "249671456873",
+        "419712926807",
+        "375126743823",
+        "120588422550",
+        "261001444511",
+        "858473405982",
+        "986537146072",
+        "187745562596",
+        "474163178989"
+      ],
+      "categoryId": 5591,
+      "categoryKey": "美容 / 医美 / 注射美容 / 注射除皱",
+      "days": [
+        "2026-11-14"
+      ],
+      "score": 450.53548387096777
+    },
+    {
+      "keyword": "Can You Get Botox and Dysport at the Same Time",
+      "termClicks": 103,
+      "adClicks": 39,
+      "adRate": 0.3786407766990291,
+      "articleCount": 10,
+      "articleIds": [
+        "913902590398",
+        "419712926807",
+        "249671456873",
+        "120588422550",
+        "712590501994",
+        "377774738441",
+        "682790872974",
+        "280000448111",
+        "210626473973",
+        "261001444511"
+      ],
+      "categoryId": 5591,
+      "categoryKey": "美容 / 医美 / 注射美容 / 注射除皱",
+      "days": [
+        "2026-11-14"
+      ],
+      "score": 448.46407766990296
+    },
+    {
+      "keyword": "Best Beauty Brands",
+      "termClicks": 90,
+      "adClicks": 38,
+      "adRate": 0.4222222222222222,
+      "articleCount": 6,
+      "articleIds": [
+        "624033111366",
+        "448552282316",
+        "445231935313",
+        "450935591765",
+        "979396265336",
+        "226858045397"
+      ],
+      "categoryId": 5162,
+      "categoryKey": "美容 / 面部提拉",
+      "days": [
+        "2026-11-14"
+      ],
+      "score": 440.22222222222223
+    },
+    {
+      "keyword": "Non Surgical Face Lift Near Me",
+      "termClicks": 59,
+      "adClicks": 35,
+      "adRate": 0.5932203389830508,
+      "articleCount": 2,
+      "articleIds": [
+        "632646983184",
+        "748744502107"
+      ],
+      "categoryId": 5162,
+      "categoryKey": "美容 / 面部提拉",
+      "days": [
+        "2026-11-14"
+      ],
+      "score": 421.12203389830506
+    },
+    {
+      "keyword": "Face Lifting Treatment",
+      "termClicks": 67,
+      "adClicks": 35,
+      "adRate": 0.5223880597014925,
+      "articleCount": 8,
+      "articleIds": [
+        "632646983184",
+        "748744502107",
+        "414435072548",
+        "740615530906",
+        "191883234764",
+        "156597509183",
+        "305365053081",
+        "997122925412"
+      ],
+      "categoryId": 5162,
+      "categoryKey": "美容 / 面部提拉",
+      "days": [
+        "2026-11-14"
+      ],
+      "score": 415.63880597014924
+    },
+    {
+      "keyword": "Luxury Beauty Brands",
+      "termClicks": 114,
+      "adClicks": 36,
+      "adRate": 0.3157894736842105,
+      "articleCount": 3,
+      "articleIds": [
+        "624033111366",
+        "445231935313",
+        "196079865188"
+      ],
+      "categoryId": 5162,
+      "categoryKey": "美容 / 面部提拉",
+      "days": [
+        "2026-11-14"
+      ],
+      "score": 414.37894736842105
+    },
+    {
+      "keyword": "Most Popular Aesthetic Treatments",
+      "termClicks": 60,
+      "adClicks": 34,
+      "adRate": 0.5666666666666667,
+      "articleCount": 3,
+      "articleIds": [
+        "556976559898",
+        "913902590398",
+        "748744502107"
+      ],
+      "categoryId": 5162,
+      "categoryKey": "美容 / 面部提拉",
+      "days": [
+        "2026-11-14"
+      ],
+      "score": 408.6666666666667
+    },
+    {
+      "keyword": "FDA Approved Buprenorphine Injections",
+      "termClicks": 119,
+      "adClicks": 34,
+      "adRate": 0.2857142857142857,
+      "articleCount": 2,
+      "articleIds": [
+        "418976328832",
+        "723148940789"
+      ],
+      "categoryId": 6314,
+      "categoryKey": "健康 / 医药研发 / 心理健康 / 成瘾",
+      "days": [
+        "2026-11-14"
+      ],
+      "score": 392.37142857142857
+    },
+    {
+      "keyword": "Best Suv Incentives Right Now",
+      "termClicks": 68,
+      "adClicks": 33,
+      "adRate": 0.4852941176470588,
+      "articleCount": 3,
+      "articleIds": [
+        "534210878780",
+        "188449633315",
+        "646363782936"
+      ],
+      "categoryId": 5338,
+      "categoryKey": "汽车 / 车型分类 / SUV",
+      "days": [
+        "2026-11-14"
+      ],
+      "score": 392.1294117647059
+    },
+    {
+      "keyword": "Latest in Facial Rejuvenation",
+      "termClicks": 75,
+      "adClicks": 33,
+      "adRate": 0.44,
+      "articleCount": 3,
+      "articleIds": [
+        "632646983184",
+        "556976559898",
+        "748744502107"
+      ],
+      "categoryId": 5162,
+      "categoryKey": "美容 / 面部提拉",
+      "days": [
+        "2026-11-14"
+      ],
+      "score": 389
+    },
+    {
+      "keyword": "New Skincare Treatments",
+      "termClicks": 76,
+      "adClicks": 33,
+      "adRate": 0.4342105263157895,
+      "articleCount": 6,
+      "articleIds": [
+        "748744502107",
+        "632646983184",
+        "556976559898",
+        "198709541363",
+        "843976510176",
+        "854912406554"
+      ],
+      "categoryId": 5162,
+      "categoryKey": "美容 / 面部提拉",
+      "days": [
+        "2026-11-14"
+      ],
+      "score": 388.62105263157895
+    },
+    {
+      "keyword": "Jeuveau Vs Botox",
+      "termClicks": 89,
+      "adClicks": 33,
+      "adRate": 0.3707865168539326,
+      "articleCount": 13,
+      "articleIds": [
+        "377774738441",
+        "913902590398",
+        "375126743823",
+        "712590501994",
+        "682790872974",
+        "210626473973",
+        "892643746140",
+        "858473405982",
+        "249671456873",
+        "800357792747",
+        "525675775306",
+        "564312642736",
+        "187745562596"
+      ],
+      "categoryId": 5591,
+      "categoryKey": "美容 / 医美 / 注射美容 / 注射除皱",
+      "days": [
+        "2026-11-14"
+      ],
+      "score": 384.87865168539327
+    },
+    {
+      "keyword": "Treatment Modalities of Cancer",
+      "termClicks": 109,
+      "adClicks": 33,
+      "adRate": 0.30275229357798167,
+      "articleCount": 8,
+      "articleIds": [
+        "553390905681",
+        "632984820098",
+        "499421619771",
+        "838795129463",
+        "814064716588",
+        "440874286819",
+        "335026830099",
+        "117008068933"
+      ],
+      "categoryId": 6308,
+      "categoryKey": "健康 / 医药研发 / 肿瘤 / 生物制剂",
+      "days": [
+        "2026-11-14"
+      ],
+      "score": 382.0752293577982
+    },
+    {
+      "keyword": "New Cancer Treatments",
+      "termClicks": 67,
+      "adClicks": 32,
+      "adRate": 0.47761194029850745,
+      "articleCount": 7,
+      "articleIds": [
+        "632984820098",
+        "838795129463",
+        "553390905681",
+        "931892528731",
+        "499421619771",
+        "296964191532",
+        "117008068933"
+      ],
+      "categoryId": 6308,
+      "categoryKey": "健康 / 医药研发 / 肿瘤 / 生物制剂",
+      "days": [
+        "2026-11-14"
+      ],
+      "score": 381.1611940298507
+    },
+    {
+      "keyword": "Cosmetic Procedures to Look 10 Years Younger",
+      "termClicks": 85,
+      "adClicks": 32,
+      "adRate": 0.3764705882352941,
+      "articleCount": 5,
+      "articleIds": [
+        "748744502107",
+        "632646983184",
+        "556976559898",
+        "854912406554",
+        "546656362362"
+      ],
+      "categoryId": 5162,
+      "categoryKey": "美容 / 面部提拉",
+      "days": [
+        "2026-11-14"
+      ],
+      "score": 374.6470588235294
+    },
+    {
+      "keyword": "Botox Vs Dysport for Brow Lift",
+      "termClicks": 95,
+      "adClicks": 32,
+      "adRate": 0.3368421052631579,
+      "articleCount": 7,
+      "articleIds": [
+        "419712926807",
+        "913902590398",
+        "249671456873",
+        "682790872974",
+        "712590501994",
+        "280000448111",
+        "907523772494"
+      ],
+      "categoryId": 5591,
+      "categoryKey": "美容 / 医美 / 注射美容 / 注射除皱",
+      "days": [
+        "2026-11-14"
+      ],
+      "score": 372.6842105263158
+    },
+    {
+      "keyword": "Premium beauty brands",
+      "termClicks": 130,
+      "adClicks": 32,
+      "adRate": 0.24615384615384617,
+      "articleCount": 4,
+      "articleIds": [
+        "448552282316",
+        "445231935313",
+        "979396265336",
+        "196079865188"
+      ],
+      "categoryId": 5162,
+      "categoryKey": "美容 / 面部提拉",
+      "days": [
+        "2026-11-14"
+      ],
+      "score": 370.61538461538464
+    },
+    {
+      "keyword": "Online Shopping Gadgets",
+      "termClicks": 51,
+      "adClicks": 30,
+      "adRate": 0.5882352941176471,
+      "articleCount": 8,
+      "articleIds": [
+        "680711708229",
+        "977487640893",
+        "159928510321",
+        "803184529390",
+        "274898558931",
+        "879789428130",
+        "954270298702",
+        "336354372970"
+      ],
+      "categoryId": 5876,
+      "categoryKey": "科技 / 消费电子",
+      "days": [
+        "2026-11-14"
+      ],
+      "score": 369.0235294117647
+    },
+    {
+      "keyword": "Most Popular Cosmetic Procedures",
+      "termClicks": 71,
+      "adClicks": 31,
+      "adRate": 0.43661971830985913,
+      "articleCount": 3,
+      "articleIds": [
+        "748744502107",
+        "632646983184",
+        "556976559898"
+      ],
+      "categoryId": 5162,
+      "categoryKey": "美容 / 面部提拉",
+      "days": [
+        "2026-11-14"
+      ],
+      "score": 367.8619718309859
+    },
+    {
+      "keyword": "Ms Infusion",
+      "termClicks": 53,
+      "adClicks": 30,
+      "adRate": 0.5660377358490566,
+      "articleCount": 1,
+      "articleIds": [
+        "632984820098"
+      ],
+      "categoryId": 6308,
+      "categoryKey": "健康 / 医药研发 / 肿瘤 / 生物制剂",
+      "days": [
+        "2026-11-14"
+      ],
+      "score": 367.20377358490566
+    },
+    {
+      "keyword": "Best smart gadgets for home",
+      "termClicks": 83,
+      "adClicks": 31,
+      "adRate": 0.37349397590361444,
+      "articleCount": 10,
+      "articleIds": [
+        "680711708229",
+        "159928510321",
+        "182011969933",
+        "120188429834",
+        "280402160659",
+        "166287912346",
+        "336354372970",
+        "311313737381",
+        "954270298702",
+        "879789428130"
+      ],
+      "categoryId": 5876,
+      "categoryKey": "科技 / 消费电子",
+      "days": [
+        "2026-11-14"
+      ],
+      "score": 363.94939759036146
+    },
+    {
+      "keyword": "New Suv Offer",
+      "termClicks": 54,
+      "adClicks": 29,
+      "adRate": 0.5370370370370371,
+      "articleCount": 4,
+      "articleIds": [
+        "188449633315",
+        "534210878780",
+        "682532131727",
+        "646363782936"
+      ],
+      "categoryId": 5338,
+      "categoryKey": "汽车 / 车型分类 / SUV",
+      "days": [
+        "2026-11-14"
+      ],
+      "score": 354.5037037037037
+    },
+    {
+      "keyword": "Best Car Offers Right Now",
+      "termClicks": 51,
+      "adClicks": 28,
+      "adRate": 0.5490196078431373,
+      "articleCount": 3,
+      "articleIds": [
+        "534210878780",
+        "682532131727",
+        "644232239280"
+      ],
+      "categoryId": 5338,
+      "categoryKey": "汽车 / 车型分类 / SUV",
+      "days": [
+        "2026-11-14"
+      ],
+      "score": 345.10196078431375
+    },
+    {
+      "keyword": "Face Wrinkle Cream",
+      "termClicks": 41,
+      "adClicks": 27,
+      "adRate": 0.6585365853658537,
+      "articleCount": 2,
+      "articleIds": [
+        "338963812065",
+        "603588266438"
+      ],
+      "categoryId": 5162,
+      "categoryKey": "美容 / 面部提拉",
+      "days": [
+        "2026-11-14"
+      ],
+      "score": 344.0536585365854
+    },
+    {
+      "keyword": "Skincare Treatment",
+      "termClicks": 68,
+      "adClicks": 27,
+      "adRate": 0.39705882352941174,
+      "articleCount": 4,
+      "articleIds": [
+        "751561775783",
+        "198709541363",
+        "556976559898",
+        "211394852469"
+      ],
+      "categoryId": 5162,
+      "categoryKey": "美容 / 面部提拉",
+      "days": [
+        "2026-11-14"
+      ],
+      "score": 323.3058823529412
+    },
+    {
+      "keyword": "Best Wrinkle Treatments",
+      "termClicks": 28,
+      "adClicks": 23,
+      "adRate": 0.8214285714285714,
+      "articleCount": 2,
+      "articleIds": [
+        "807564277561",
+        "858473405982"
+      ],
+      "categoryId": 5162,
+      "categoryKey": "美容 / 面部提拉",
+      "days": [
+        "2026-11-14"
+      ],
+      "score": 317.74285714285713
+    },
+    {
+      "keyword": "Most Spacious Suv",
+      "termClicks": 46,
+      "adClicks": 25,
+      "adRate": 0.5434782608695652,
+      "articleCount": 3,
+      "articleIds": [
+        "879201493046",
+        "491260297835",
+        "104038372744"
+      ],
+      "categoryId": 5338,
+      "categoryKey": "汽车 / 车型分类 / SUV",
+      "days": [
+        "2026-11-14"
+      ],
+      "score": 313.5478260869565
+    },
+    {
+      "keyword": "Goodrx Buprenorphine",
+      "termClicks": 174,
+      "adClicks": 26,
+      "adRate": 0.14942528735632185,
+      "articleCount": 2,
+      "articleIds": [
+        "300767403107",
+        "874313932125"
+      ],
+      "categoryId": 6314,
+      "categoryKey": "健康 / 医药研发 / 心理健康 / 成瘾",
+      "days": [
+        "2026-11-14"
+      ],
+      "score": 309.7425287356322
+    },
+    {
+      "keyword": "Non Surgical Facelift Near Me",
+      "termClicks": 32,
+      "adClicks": 23,
+      "adRate": 0.71875,
+      "articleCount": 2,
+      "articleIds": [
+        "748744502107",
+        "632646983184"
+      ],
+      "categoryId": 5162,
+      "categoryKey": "美容 / 面部提拉",
+      "days": [
+        "2026-11-14"
+      ],
+      "score": 308.275
+    },
+    {
+      "keyword": "Prescribing Buprenorphine Guidelines",
+      "termClicks": 82,
+      "adClicks": 26,
+      "adRate": 0.3170731707317073,
+      "articleCount": 1,
+      "articleIds": [
+        "300767403107"
+      ],
+      "categoryId": 6314,
+      "categoryKey": "健康 / 医药研发 / 心理健康 / 成瘾",
+      "days": [
+        "2026-11-14"
+      ],
+      "score": 308.1073170731707
+    },
+    {
+      "keyword": "Cars with Zero Percent Financing",
+      "termClicks": 53,
+      "adClicks": 25,
+      "adRate": 0.4716981132075472,
+      "articleCount": 3,
+      "articleIds": [
+        "534210878780",
+        "249040817355",
+        "592485077826"
+      ],
+      "categoryId": 5338,
+      "categoryKey": "汽车 / 车型分类 / SUV",
+      "days": [
+        "2026-11-14"
+      ],
+      "score": 307.76981132075474
+    },
+    {
+      "keyword": "2027 Chevys",
+      "termClicks": 35,
+      "adClicks": 23,
+      "adRate": 0.6571428571428571,
+      "articleCount": 2,
+      "articleIds": [
+        "993539999283",
+        "120008062922"
+      ],
+      "categoryId": 5246,
+      "categoryKey": "汽车 / 车型分类 / 新能源汽车",
+      "days": [
+        "2026-11-14"
+      ],
+      "score": 302.7142857142857
+    },
+    {
+      "keyword": "Best Skincare Products for 40 Year Old Woman",
+      "termClicks": 16,
+      "adClicks": 18,
+      "adRate": 1.125,
+      "articleCount": 1,
+      "articleIds": [
+        "814396860881"
+      ],
+      "categoryId": null,
+      "categoryKey": null,
+      "days": [
+        "2026-11-14"
+      ],
+      "score": 295.7
+    },
+    {
+      "keyword": "New Jeeps for Sale",
+      "termClicks": 54,
+      "adClicks": 24,
+      "adRate": 0.4444444444444444,
+      "articleCount": 3,
+      "articleIds": [
+        "779332334369",
+        "577206948779",
+        "421139391967"
+      ],
+      "categoryId": 5338,
+      "categoryKey": "汽车 / 车型分类 / SUV",
+      "days": [
+        "2026-11-14"
+      ],
+      "score": 295.24444444444447
+    },
+    {
+      "keyword": "Products that Improve Wellbeing",
+      "termClicks": 54,
+      "adClicks": 24,
+      "adRate": 0.4444444444444444,
+      "articleCount": 6,
+      "articleIds": [
+        "490332184714",
+        "159928510321",
+        "519435546471",
+        "925429482382",
+        "311313737381",
+        "280402160659"
+      ],
+      "categoryId": 5876,
+      "categoryKey": "科技 / 消费电子",
+      "days": [
+        "2026-11-14"
+      ],
+      "score": 295.24444444444447
+    },
+    {
+      "keyword": "What is the Most Powerful Suv on the Market",
+      "termClicks": 41,
+      "adClicks": 23,
+      "adRate": 0.5609756097560976,
+      "articleCount": 1,
+      "articleIds": [
+        "779332334369"
+      ],
+      "categoryId": 5338,
+      "categoryKey": "汽车 / 车型分类 / SUV",
+      "days": [
+        "2026-11-14"
+      ],
+      "score": 294.29756097560977
+    },
+    {
+      "keyword": "Beauty Products Sale Online",
+      "termClicks": 57,
+      "adClicks": 24,
+      "adRate": 0.42105263157894735,
+      "articleCount": 1,
+      "articleIds": [
+        "448552282316"
+      ],
+      "categoryId": 5162,
+      "categoryKey": "美容 / 面部提拉",
+      "days": [
+        "2026-11-14"
+      ],
+      "score": 293.5052631578947
+    },
+    {
+      "keyword": "Most Popular Beauty Products",
+      "termClicks": 34,
+      "adClicks": 22,
+      "adRate": 0.6470588235294118,
+      "articleCount": 5,
+      "articleIds": [
+        "751561775783",
+        "874080219644",
+        "267949249287",
+        "979396265336",
+        "450935591765"
+      ],
+      "categoryId": 5162,
+      "categoryKey": "美容 / 面部提拉",
+      "days": [
+        "2026-11-14"
+      ],
+      "score": 291.50588235294117
+    },
+    {
+      "keyword": "Most Popular Cosmetic Products",
+      "termClicks": 11,
+      "adClicks": 15,
+      "adRate": 1.3636363636363635,
+      "articleCount": 1,
+      "articleIds": [
+        "461100631423"
+      ],
+      "categoryId": 5162,
+      "categoryKey": "美容 / 面部提拉",
+      "days": [
+        "2026-11-14"
+      ],
+      "score": 288.5636363636363
+    },
+    {
+      "keyword": "Medicare Coverage for Cancer",
+      "termClicks": 37,
+      "adClicks": 22,
+      "adRate": 0.5945945945945946,
+      "articleCount": 1,
+      "articleIds": [
+        "698557470249"
+      ],
+      "categoryId": 6451,
+      "categoryKey": "健康 / 医药研发 / 医疗·偏头痛",
+      "days": [
+        "2026-11-14"
+      ],
+      "score": 286.85945945945946
+    },
+    {
+      "keyword": "Botox Dysport and Xeomin Injectables Near Me",
+      "termClicks": 56,
+      "adClicks": 23,
+      "adRate": 0.4107142857142857,
+      "articleCount": 10,
+      "articleIds": [
+        "375126743823",
+        "419712926807",
+        "377774738441",
+        "682790872974",
+        "712590501994",
+        "474163178989",
+        "249671456873",
+        "436968132421",
+        "858473405982",
+        "892643746140"
+      ],
+      "categoryId": 5591,
+      "categoryKey": "美容 / 医美 / 注射美容 / 注射除皱",
+      "days": [
+        "2026-11-14"
+      ],
+      "score": 282.27142857142854
+    },
+    {
+      "keyword": "New Wagoneer",
+      "termClicks": 34,
+      "adClicks": 21,
+      "adRate": 0.6176470588235294,
+      "articleCount": 4,
+      "articleIds": [
+        "740778045018",
+        "293824223086",
+        "329716921474",
+        "968509251149"
+      ],
+      "categoryId": 5338,
+      "categoryKey": "汽车 / 车型分类 / SUV",
+      "days": [
+        "2026-11-14"
+      ],
+      "score": 278.56470588235294
+    },
+    {
+      "keyword": "Cosmetic Surgery Enhance Appearance",
+      "termClicks": 45,
+      "adClicks": 22,
+      "adRate": 0.4888888888888889,
+      "articleCount": 2,
+      "articleIds": [
+        "748744502107",
+        "632646983184"
+      ],
+      "categoryId": 5162,
+      "categoryKey": "美容 / 面部提拉",
+      "days": [
+        "2026-11-14"
+      ],
+      "score": 277.8888888888889
+    },
+    {
+      "keyword": "Top 10 Beauty Products",
+      "termClicks": 40,
+      "adClicks": 21,
+      "adRate": 0.525,
+      "articleCount": 5,
+      "articleIds": [
+        "751561775783",
+        "448552282316",
+        "196079865188",
+        "874080219644",
+        "979396265336"
+      ],
+      "categoryId": 5162,
+      "categoryKey": "美容 / 面部提拉",
+      "days": [
+        "2026-11-14"
+      ],
+      "score": 270.5
+    }
+  ],
+  "watch": [
+    {
+      "keyword": "Botox Vs Dysport Units",
+      "termClicks": 577,
+      "adClicks": 204,
+      "adRate": 0.3535528596187175,
+      "articleCount": 20,
+      "articleIds": [
+        "419712926807",
+        "913902590398",
+        "377774738441",
+        "249671456873",
+        "682790872974",
+        "712590501994",
+        "375126743823",
+        "858473405982",
+        "474163178989",
+        "800357792747",
+        "892643746140",
+        "436968132421",
+        "525675775306",
+        "120588422550",
+        "280000448111",
+        "187745562596",
+        "564312642736",
+        "986537146072",
+        "907523772494",
+        "261001444511"
+      ],
+      "categoryId": 5591,
+      "categoryKey": "美容 / 医美 / 注射美容 / 注射除皱",
+      "days": [
+        "2026-11-14"
+      ],
+      "score": 2190.755285961872
+    },
+    {
+      "keyword": "Best Cat Litter to Keep Smell Down",
+      "termClicks": 375,
+      "adClicks": 201,
+      "adRate": 0.536,
+      "articleCount": 21,
+      "articleIds": [
+        "602634318084",
+        "898389432225",
+        "401471063237",
+        "545428545993",
+        "461872338775",
+        "894637099495",
+        "466311611381",
+        "164172006201",
+        "429659099717",
+        "733416399015",
+        "833993582409",
+        "517591877594",
+        "853749899418",
+        "933576524505",
+        "689300698081",
+        "524388371147",
+        "109192061201",
+        "871511691794",
+        "844409754604",
+        "157467620282",
+        "287538396138"
+      ],
+      "categoryId": 5884,
+      "categoryKey": "宠物 / 宠物产品",
+      "days": [
+        "2026-11-14"
+      ],
+      "score": 2138.6
+    },
+    {
+      "keyword": "Latest Trends and Advancements in Oncology",
+      "termClicks": 437,
+      "adClicks": 193,
+      "adRate": 0.4416475972540046,
+      "articleCount": 14,
+      "articleIds": [
+        "632984820098",
+        "553390905681",
+        "440874286819",
+        "838795129463",
+        "335026830099",
+        "499421619771",
+        "931892528731",
+        "117008068933",
+        "417465342026",
+        "241242301757",
+        "587993225898",
+        "873477856826",
+        "296964191532",
+        "589188913956"
+      ],
+      "categoryId": 6308,
+      "categoryKey": "健康 / 医药研发 / 肿瘤 / 生物制剂",
+      "days": [
+        "2026-11-14"
+      ],
+      "score": 2061.5647597254006
+    },
+    {
+      "keyword": "Voluma Face Lift",
+      "termClicks": 378,
+      "adClicks": 189,
+      "adRate": 0.5,
+      "articleCount": 10,
+      "articleIds": [
+        "632646983184",
+        "414435072548",
+        "748744502107",
+        "740615530906",
+        "305365053081",
+        "854912406554",
+        "156597509183",
+        "546656362362",
+        "191883234764",
+        "997122925412"
+      ],
+      "categoryId": 5162,
+      "categoryKey": "美容 / 面部提拉",
+      "days": [
+        "2026-11-14"
+      ],
+      "score": 2015.6
+    },
+    {
+      "keyword": "Facial Rejuvenation Near Me",
+      "termClicks": 324,
+      "adClicks": 175,
+      "adRate": 0.5401234567901234,
+      "articleCount": 5,
+      "articleIds": [
+        "748744502107",
+        "632646983184",
+        "556976559898",
+        "198709541363",
+        "682998354365"
+      ],
+      "categoryId": 5162,
+      "categoryKey": "美容 / 面部提拉",
+      "days": [
+        "2026-11-14"
+      ],
+      "score": 1868.8123456790122
+    },
+    {
+      "keyword": "Non Surgical Facial Rejuvenation",
+      "termClicks": 289,
+      "adClicks": 159,
+      "adRate": 0.5501730103806228,
+      "articleCount": 6,
+      "articleIds": [
+        "632646983184",
+        "748744502107",
+        "556976559898",
+        "198709541363",
+        "843976510176",
+        "682998354365"
+      ],
+      "categoryId": 5162,
+      "categoryKey": "美容 / 面部提拉",
+      "days": [
+        "2026-11-14"
+      ],
+      "score": 1702.8173010380622
+    },
+    {
+      "keyword": "Beauty Products Website",
+      "termClicks": 301,
+      "adClicks": 154,
+      "adRate": 0.5116279069767442,
+      "articleCount": 11,
+      "articleIds": [
+        "751561775783",
+        "445231935313",
+        "624033111366",
+        "874080219644",
+        "450935591765",
+        "267949249287",
+        "979396265336",
+        "461100631423",
+        "196079865188",
+        "440398429658",
+        "748209666779"
+      ],
+      "categoryId": 5162,
+      "categoryKey": "美容 / 面部提拉",
+      "days": [
+        "2026-11-14"
+      ],
+      "score": 1651.3627906976744
+    },
+    {
+      "keyword": "New Ways to Treat Cancer",
+      "termClicks": 338,
+      "adClicks": 150,
+      "adRate": 0.4437869822485207,
+      "articleCount": 12,
+      "articleIds": [
+        "632984820098",
+        "553390905681",
+        "931892528731",
+        "499421619771",
+        "838795129463",
+        "335026830099",
+        "322797816329",
+        "873477856826",
+        "156480925204",
+        "589188913956",
+        "587993225898",
+        "417465342026"
+      ],
+      "categoryId": 6308,
+      "categoryKey": "健康 / 医药研发 / 肿瘤 / 生物制剂",
+      "days": [
+        "2026-11-14"
+      ],
+      "score": 1611.978698224852
+    },
+    {
+      "keyword": "Wrangler Electric",
+      "termClicks": 244,
+      "adClicks": 143,
+      "adRate": 0.5860655737704918,
+      "articleCount": 5,
+      "articleIds": [
+        "577206948779",
+        "779332334369",
+        "188858787764",
+        "143305647981",
+        "693731153029"
+      ],
+      "categoryId": 5338,
+      "categoryKey": "汽车 / 车型分类 / SUV",
+      "days": [
+        "2026-11-14"
+      ],
+      "score": 1537.4065573770492
+    },
+    {
+      "keyword": "Cosmetic Products",
+      "termClicks": 339,
+      "adClicks": 135,
+      "adRate": 0.39823008849557523,
+      "articleCount": 7,
+      "articleIds": [
+        "448552282316",
+        "624033111366",
+        "445231935313",
+        "196079865188",
+        "979396265336",
+        "461100631423",
+        "450935591765"
+      ],
+      "categoryId": 5162,
+      "categoryKey": "美容 / 面部提拉",
+      "days": [
+        "2026-11-14"
+      ],
+      "score": 1457.6230088495574
+    },
+    {
+      "keyword": "Botox and Dysport Near Me",
+      "termClicks": 305,
+      "adClicks": 135,
+      "adRate": 0.4426229508196721,
+      "articleCount": 13,
+      "articleIds": [
+        "419712926807",
+        "712590501994",
+        "913902590398",
+        "377774738441",
+        "249671456873",
+        "682790872974",
+        "120588422550",
+        "187745562596",
+        "986537146072",
+        "892643746140",
+        "280000448111",
+        "841457256982",
+        "907523772494"
+      ],
+      "categoryId": 5591,
+      "categoryKey": "美容 / 医美 / 注射美容 / 注射除皱",
+      "days": [
+        "2026-11-14"
+      ],
+      "score": 1455.2622950819673
+    },
+    {
+      "keyword": "Buprenorphine Everything You Need to Know",
+      "termClicks": 488,
+      "adClicks": 130,
+      "adRate": 0.26639344262295084,
+      "articleCount": 19,
+      "articleIds": [
+        "300767403107",
+        "418976328832",
+        "896736744707",
+        "644485006559",
+        "189246085702",
+        "114593627461",
+        "501960513543",
+        "422235660813",
+        "104577922683",
+        "924047128511",
+        "345689324762",
+        "159232861713",
+        "145627938240",
+        "967691736373",
+        "723148940789",
+        "421021627266",
+        "506618826717",
+        "422943008921",
+        "874313932125"
+      ],
+      "categoryId": 6314,
+      "categoryKey": "健康 / 医药研发 / 心理健康 / 成瘾",
+      "days": [
+        "2026-11-14"
+      ],
+      "score": 1424.239344262295
+    },
+    {
+      "keyword": "Cosmetics and Beauty Products",
+      "termClicks": 408,
+      "adClicks": 130,
+      "adRate": 0.31862745098039214,
+      "articleCount": 9,
+      "articleIds": [
+        "448552282316",
+        "445231935313",
+        "624033111366",
+        "979396265336",
+        "975088333333",
+        "196079865188",
+        "461100631423",
+        "267949249287",
+        "226858045397"
+      ],
+      "categoryId": 5162,
+      "categoryKey": "美容 / 面部提拉",
+      "days": [
+        "2026-11-14"
+      ],
+      "score": 1413.462745098039
+    },
+    {
+      "keyword": "Cosmetics Products",
+      "termClicks": 289,
+      "adClicks": 119,
+      "adRate": 0.4117647058823529,
+      "articleCount": 6,
+      "articleIds": [
+        "448552282316",
+        "624033111366",
+        "445231935313",
+        "979396265336",
+        "196079865188",
+        "267949249287"
+      ],
+      "categoryId": 5162,
+      "categoryKey": "美容 / 面部提拉",
+      "days": [
+        "2026-11-14"
+      ],
+      "score": 1288.9764705882353
+    },
+    {
+      "keyword": "2027 Hybrids",
+      "termClicks": 203,
+      "adClicks": 115,
+      "adRate": 0.5665024630541872,
+      "articleCount": 11,
+      "articleIds": [
+        "993539999283",
+        "368359095170",
+        "726518889850",
+        "120008062922",
+        "545605070262",
+        "185328745970",
+        "753390401781",
+        "920922350965",
+        "404688751417",
+        "491260297835",
+        "693731153029"
+      ],
+      "categoryId": 5246,
+      "categoryKey": "汽车 / 车型分类 / 新能源汽车",
+      "days": [
+        "2026-11-14"
+      ],
+      "score": 1247.2502463054186
+    },
+    {
+      "keyword": "Home Gadget",
+      "termClicks": 217,
+      "adClicks": 115,
+      "adRate": 0.5299539170506913,
+      "articleCount": 11,
+      "articleIds": [
+        "680711708229",
+        "159928510321",
+        "120188429834",
+        "166287912346",
+        "879789428130",
+        "977487640893",
+        "954270298702",
+        "182011969933",
+        "300201740880",
+        "463166083790",
+        "336354372970"
+      ],
+      "categoryId": 5876,
+      "categoryKey": "科技 / 消费电子",
+      "days": [
+        "2026-11-14"
+      ],
+      "score": 1246.3953917050692
+    },
+    {
+      "keyword": "Beauty Products Online Shopping Websites",
+      "termClicks": 381,
+      "adClicks": 114,
+      "adRate": 0.2992125984251969,
+      "articleCount": 1,
+      "articleIds": [
+        "448552282316"
+      ],
+      "categoryId": 5162,
+      "categoryKey": "美容 / 面部提拉",
+      "days": [
+        "2026-11-14"
+      ],
+      "score": 1246.1212598425197
+    },
+    {
+      "keyword": "Gadgets for Wellness",
+      "termClicks": 207,
+      "adClicks": 110,
+      "adRate": 0.5314009661835749,
+      "articleCount": 7,
+      "articleIds": [
+        "159928510321",
+        "519435546471",
+        "490332184714",
+        "311313737381",
+        "925429482382",
+        "951699754139",
+        "280402160659"
+      ],
+      "categoryId": 5876,
+      "categoryKey": "科技 / 消费电子",
+      "days": [
+        "2026-11-14"
+      ],
+      "score": 1194.5400966183577
+    },
+    {
+      "keyword": "Beauty Products Online",
+      "termClicks": 338,
+      "adClicks": 107,
+      "adRate": 0.3165680473372781,
+      "articleCount": 6,
+      "articleIds": [
+        "445231935313",
+        "448552282316",
+        "624033111366",
+        "975088333333",
+        "979396265336",
+        "196079865188"
+      ],
+      "categoryId": 5162,
+      "categoryKey": "美容 / 面部提拉",
+      "days": [
+        "2026-11-14"
+      ],
+      "score": 1169.2568047337277
+    },
+    {
+      "keyword": "Beauty Products that Work",
+      "termClicks": 188,
+      "adClicks": 106,
+      "adRate": 0.5638297872340425,
+      "articleCount": 10,
+      "articleIds": [
+        "751561775783",
+        "874080219644",
+        "461100631423",
+        "267949249287",
+        "440398429658",
+        "196079865188",
+        "987040305500",
+        "450935591765",
+        "748209666779",
+        "298361946092"
+      ],
+      "categoryId": 5162,
+      "categoryKey": "美容 / 面部提拉",
+      "days": [
+        "2026-11-14"
+      ],
+      "score": 1153.9829787234041
+    },
+    {
+      "keyword": "Dysport Better Than Botox",
+      "termClicks": 252,
+      "adClicks": 106,
+      "adRate": 0.42063492063492064,
+      "articleCount": 15,
+      "articleIds": [
+        "419712926807",
+        "712590501994",
+        "913902590398",
+        "682790872974",
+        "375126743823",
+        "249671456873",
+        "377774738441",
+        "280000448111",
+        "986537146072",
+        "120588422550",
+        "187745562596",
+        "210626473973",
+        "474163178989",
+        "858473405982",
+        "892643746140"
+      ],
+      "categoryId": 5591,
+      "categoryKey": "美容 / 医美 / 注射美容 / 注射除皱",
+      "days": [
+        "2026-11-14"
+      ],
+      "score": 1152.4634920634921
+    },
+    {
+      "keyword": "Buprenorphine Number Needed to Treat",
+      "termClicks": 287,
+      "adClicks": 103,
+      "adRate": 0.3588850174216028,
+      "articleCount": 14,
+      "articleIds": [
+        "418976328832",
+        "300767403107",
+        "189246085702",
+        "644485006559",
+        "924047128511",
+        "159232861713",
+        "896736744707",
+        "114593627461",
+        "501960513543",
+        "967691736373",
+        "422235660813",
+        "104577922683",
+        "345689324762",
+        "421021627266"
+      ],
+      "categoryId": 6314,
+      "categoryKey": "健康 / 医药研发 / 心理健康 / 成瘾",
+      "days": [
+        "2026-11-14"
+      ],
+      "score": 1123.2885017421604
+    },
+    {
+      "keyword": "Online Beauty Stores",
+      "termClicks": 330,
+      "adClicks": 87,
+      "adRate": 0.2636363636363636,
+      "articleCount": 2,
+      "articleIds": [
+        "448552282316",
+        "445231935313"
+      ],
+      "categoryId": 5162,
+      "categoryKey": "美容 / 面部提拉",
+      "days": [
+        "2026-11-14"
+      ],
+      "score": 962.3636363636364
+    },
+    {
+      "keyword": "Cosmetic Brands",
+      "termClicks": 165,
+      "adClicks": 82,
+      "adRate": 0.49696969696969695,
+      "articleCount": 3,
+      "articleIds": [
+        "445231935313",
+        "624033111366",
+        "448552282316"
+      ],
+      "categoryId": 5162,
+      "categoryKey": "美容 / 面部提拉",
+      "days": [
+        "2026-11-14"
+      ],
+      "score": 902.6969696969697
+    },
+    {
+      "keyword": "New Cancer Treatments Pdf",
+      "termClicks": 195,
+      "adClicks": 82,
+      "adRate": 0.4205128205128205,
+      "articleCount": 11,
+      "articleIds": [
+        "632984820098",
+        "553390905681",
+        "931892528731",
+        "838795129463",
+        "117008068933",
+        "499421619771",
+        "440874286819",
+        "794644186206",
+        "873477856826",
+        "814064716588",
+        "322797816329"
+      ],
+      "categoryId": 6308,
+      "categoryKey": "健康 / 医药研发 / 肿瘤 / 生物制剂",
+      "days": [
+        "2026-11-14"
+      ],
+      "score": 901.0512820512821
+    },
+    {
+      "keyword": "New Jeeps",
+      "termClicks": 162,
+      "adClicks": 77,
+      "adRate": 0.47530864197530864,
+      "articleCount": 5,
+      "articleIds": [
+        "577206948779",
+        "779332334369",
+        "188858787764",
+        "421139391967",
+        "143305647981"
+      ],
+      "categoryId": 5338,
+      "categoryKey": "汽车 / 车型分类 / SUV",
+      "days": [
+        "2026-11-14"
+      ],
+      "score": 849.9308641975308
+    },
+    {
+      "keyword": "Cars for 150 Per Month",
+      "termClicks": 118,
+      "adClicks": 76,
+      "adRate": 0.6440677966101694,
+      "articleCount": 5,
+      "articleIds": [
+        "436150377390",
+        "417965982965",
+        "293996023343",
+        "148529791605",
+        "373912938943"
+      ],
+      "categoryId": 5868,
+      "categoryKey": "汽车 / 汽车金融",
+      "days": [
+        "2026-11-14"
+      ],
+      "score": 848.0067796610169
+    },
+    {
+      "keyword": "Best Non-surgical Facelift",
+      "termClicks": 151,
+      "adClicks": 74,
+      "adRate": 0.4900662251655629,
+      "articleCount": 2,
+      "articleIds": [
+        "748744502107",
+        "854912406554"
+      ],
+      "categoryId": 5162,
+      "categoryKey": "美容 / 面部提拉",
+      "days": [
+        "2026-11-14"
+      ],
+      "score": 819.2066225165563
+    },
+    {
+      "keyword": "New Gadgets",
+      "termClicks": 166,
+      "adClicks": 73,
+      "adRate": 0.4397590361445783,
+      "articleCount": 11,
+      "articleIds": [
+        "159928510321",
+        "680711708229",
+        "977487640893",
+        "463166083790",
+        "879789428130",
+        "954270298702",
+        "336354372970",
+        "274898558931",
+        "120188429834",
+        "280402160659",
+        "166287912346"
+      ],
+      "categoryId": 5876,
+      "categoryKey": "科技 / 消费电子",
+      "days": [
+        "2026-11-14"
+      ],
+      "score": 807.1759036144579
+    },
+    {
+      "keyword": "Face Lifting Treatment Near Me",
+      "termClicks": 161,
+      "adClicks": 69,
+      "adRate": 0.42857142857142855,
+      "articleCount": 9,
+      "articleIds": [
+        "748744502107",
+        "632646983184",
+        "414435072548",
+        "740615530906",
+        "191883234764",
+        "156597509183",
+        "997122925412",
+        "305365053081",
+        "682998354365"
+      ],
+      "categoryId": 5162,
+      "categoryKey": "美容 / 面部提拉",
+      "days": [
+        "2026-11-14"
+      ],
+      "score": 765.0571428571429
+    },
+    {
+      "keyword": "Best Online Beauty Retailers",
+      "termClicks": 299,
+      "adClicks": 68,
+      "adRate": 0.22742474916387959,
+      "articleCount": 2,
+      "articleIds": [
+        "445231935313",
+        "448552282316"
+      ],
+      "categoryId": 5162,
+      "categoryKey": "美容 / 面部提拉",
+      "days": [
+        "2026-11-14"
+      ],
+      "score": 762.542474916388
+    },
+    {
+      "keyword": "Cosmetic Products Online",
+      "termClicks": 216,
+      "adClicks": 65,
+      "adRate": 0.30092592592592593,
+      "articleCount": 1,
+      "articleIds": [
+        "448552282316"
+      ],
+      "categoryId": 5162,
+      "categoryKey": "美容 / 面部提拉",
+      "days": [
+        "2026-11-14"
+      ],
+      "score": 723.2925925925927
+    },
+    {
+      "keyword": "What is Brixadi",
+      "termClicks": 225,
+      "adClicks": 64,
+      "adRate": 0.28444444444444444,
+      "articleCount": 8,
+      "articleIds": [
+        "418976328832",
+        "300767403107",
+        "896736744707",
+        "422235660813",
+        "114593627461",
+        "506618826717",
+        "104577922683",
+        "261107299334"
+      ],
+      "categoryId": 6314,
+      "categoryKey": "健康 / 医药研发 / 心理健康 / 成瘾",
+      "days": [
+        "2026-11-14"
+      ],
+      "score": 713.4444444444445
+    },
+    {
+      "keyword": "New Hummers",
+      "termClicks": 144,
+      "adClicks": 58,
+      "adRate": 0.4027777777777778,
+      "articleCount": 3,
+      "articleIds": [
+        "959748097496",
+        "299323973292",
+        "537407321993"
+      ],
+      "categoryId": 5246,
+      "categoryKey": "汽车 / 车型分类 / 新能源汽车",
+      "days": [
+        "2026-11-14"
+      ],
+      "score": 649.0777777777778
+    },
+    {
+      "keyword": "Best Cat Litter Reddit",
+      "termClicks": 145,
+      "adClicks": 58,
+      "adRate": 0.4,
+      "articleCount": 12,
+      "articleIds": [
+        "602634318084",
+        "898389432225",
+        "401471063237",
+        "894637099495",
+        "461872338775",
+        "545428545993",
+        "466311611381",
+        "833993582409",
+        "517591877594",
+        "933576524505",
+        "429659099717",
+        "689300698081"
+      ],
+      "categoryId": 5884,
+      "categoryKey": "宠物 / 宠物产品",
+      "days": [
+        "2026-11-14"
+      ],
+      "score": 649
+    },
+    {
+      "keyword": "Long-acting Buprenorphine 2026",
+      "termClicks": 175,
+      "adClicks": 54,
+      "adRate": 0.30857142857142855,
+      "articleCount": 2,
+      "articleIds": [
+        "418976328832",
+        "114593627461"
+      ],
+      "categoryId": 6314,
+      "categoryKey": "健康 / 医药研发 / 心理健康 / 成瘾",
+      "days": [
+        "2026-11-14"
+      ],
+      "score": 605.8571428571429
+    },
+    {
+      "keyword": "Facial Rejuvenation Treatments",
+      "termClicks": 119,
+      "adClicks": 53,
+      "adRate": 0.44537815126050423,
+      "articleCount": 1,
+      "articleIds": [
+        "414435072548"
+      ],
+      "categoryId": 5162,
+      "categoryKey": "美容 / 面部提拉",
+      "days": [
+        "2026-11-14"
+      ],
+      "score": 598.3378151260504
+    },
+    {
+      "keyword": "Buy Gadgets Online",
+      "termClicks": 122,
+      "adClicks": 53,
+      "adRate": 0.4344262295081967,
+      "articleCount": 6,
+      "articleIds": [
+        "159928510321",
+        "680711708229",
+        "977487640893",
+        "311313737381",
+        "954270298702",
+        "879789428130"
+      ],
+      "categoryId": 5876,
+      "categoryKey": "科技 / 消费电子",
+      "days": [
+        "2026-11-14"
+      ],
+      "score": 597.8426229508196
+    },
+    {
+      "keyword": "Beauty Products Brands",
+      "termClicks": 146,
+      "adClicks": 51,
+      "adRate": 0.3493150684931507,
+      "articleCount": 8,
+      "articleIds": [
+        "445231935313",
+        "448552282316",
+        "624033111366",
+        "196079865188",
+        "461100631423",
+        "450935591765",
+        "440398429658",
+        "975088333333"
+      ],
+      "categoryId": 5162,
+      "categoryKey": "美容 / 面部提拉",
+      "days": [
+        "2026-11-14"
+      ],
+      "score": 574.1315068493151
+    },
+    {
+      "keyword": "Best for Wrinkles on Face",
+      "termClicks": 95,
+      "adClicks": 50,
+      "adRate": 0.5263157894736842,
+      "articleCount": 2,
+      "articleIds": [
+        "338963812065",
+        "603588266438"
+      ],
+      "categoryId": 5162,
+      "categoryKey": "美容 / 面部提拉",
+      "days": [
+        "2026-11-14"
+      ],
+      "score": 571.6315789473684
+    },
+    {
+      "keyword": "Best Non Surgical Facelift",
+      "termClicks": 103,
+      "adClicks": 49,
+      "adRate": 0.47572815533980584,
+      "articleCount": 8,
+      "articleIds": [
+        "632646983184",
+        "748744502107",
+        "414435072548",
+        "156597509183",
+        "740615530906",
+        "997122925412",
+        "191883234764",
+        "305365053081"
+      ],
+      "categoryId": 5162,
+      "categoryKey": "美容 / 面部提拉",
+      "days": [
+        "2026-11-14"
+      ],
+      "score": 558.1728155339806
+    },
+    {
+      "keyword": "How to Treat Cancer",
+      "termClicks": 74,
+      "adClicks": 47,
+      "adRate": 0.6351351351351351,
+      "articleCount": 11,
+      "articleIds": [
+        "553390905681",
+        "632984820098",
+        "117008068933",
+        "931892528731",
+        "499421619771",
+        "335026830099",
+        "241242301757",
+        "322797816329",
+        "838795129463",
+        "362401535559",
+        "296964191532"
+      ],
+      "categoryId": 6308,
+      "categoryKey": "健康 / 医药研发 / 肿瘤 / 生物制剂",
+      "days": [
+        "2026-11-14"
+      ],
+      "score": 548.3135135135135
+    },
+    {
+      "keyword": "Cars with Zero Deposit",
+      "termClicks": 82,
+      "adClicks": 47,
+      "adRate": 0.573170731707317,
+      "articleCount": 8,
+      "articleIds": [
+        "436150377390",
+        "104721594607",
+        "373912938943",
+        "417965982965",
+        "148529791605",
+        "296848651119",
+        "293996023343",
+        "592485077826"
+      ],
+      "categoryId": 5868,
+      "categoryKey": "汽车 / 汽车金融",
+      "days": [
+        "2026-11-14"
+      ],
+      "score": 543.7170731707317
+    },
+    {
+      "keyword": "Tech Products that Make Life Easier",
+      "termClicks": 127,
+      "adClicks": 47,
+      "adRate": 0.3700787401574803,
+      "articleCount": 8,
+      "articleIds": [
+        "680711708229",
+        "336354372970",
+        "274898558931",
+        "182011969933",
+        "120188429834",
+        "915927492532",
+        "879789428130",
+        "463166083790"
+      ],
+      "categoryId": 5876,
+      "categoryKey": "科技 / 消费电子",
+      "days": [
+        "2026-11-14"
+      ],
+      "score": 532.407874015748
+    },
+    {
+      "keyword": "New Chryslers",
+      "termClicks": 89,
+      "adClicks": 46,
+      "adRate": 0.5168539325842697,
+      "articleCount": 3,
+      "articleIds": [
+        "779332334369",
+        "740778045018",
+        "143305647981"
+      ],
+      "categoryId": 5338,
+      "categoryKey": "汽车 / 车型分类 / SUV",
+      "days": [
+        "2026-11-14"
+      ],
+      "score": 529.4853932584269
+    },
+    {
+      "keyword": "New Chevys",
+      "termClicks": 58,
+      "adClicks": 44,
+      "adRate": 0.7586206896551724,
+      "articleCount": 2,
+      "articleIds": [
+        "993539999283",
+        "120008062922"
+      ],
+      "categoryId": 5246,
+      "categoryKey": "汽车 / 车型分类 / 新能源汽车",
+      "days": [
+        "2026-11-14"
+      ],
+      "score": 527.4620689655172
+    },
+    {
+      "keyword": "New Chevrolets for Sale",
+      "termClicks": 73,
+      "adClicks": 45,
+      "adRate": 0.6164383561643836,
+      "articleCount": 2,
+      "articleIds": [
+        "120008062922",
+        "993539999283"
+      ],
+      "categoryId": 5246,
+      "categoryKey": "汽车 / 车型分类 / 新能源汽车",
+      "days": [
+        "2026-11-14"
+      ],
+      "score": 526.2438356164383
+    },
+    {
+      "keyword": "Sublocade vs Brixadi",
+      "termClicks": 125,
+      "adClicks": 45,
+      "adRate": 0.36,
+      "articleCount": 8,
+      "articleIds": [
+        "418976328832",
+        "300767403107",
+        "896736744707",
+        "606022894099",
+        "114593627461",
+        "104577922683",
+        "506618826717",
+        "422235660813"
+      ],
+      "categoryId": 6314,
+      "categoryKey": "健康 / 医药研发 / 心理健康 / 成瘾",
+      "days": [
+        "2026-11-14"
+      ],
+      "score": 511
+    },
+    {
+      "keyword": "Beauty Websites",
+      "termClicks": 126,
+      "adClicks": 45,
+      "adRate": 0.35714285714285715,
+      "articleCount": 4,
+      "articleIds": [
+        "445231935313",
+        "624033111366",
+        "461100631423",
+        "450935591765"
+      ],
+      "categoryId": 5162,
+      "categoryKey": "美容 / 面部提拉",
+      "days": [
+        "2026-11-14"
+      ],
+      "score": 510.9142857142857
+    },
+    {
+      "keyword": "Cars for 50 Per Month",
+      "termClicks": 72,
+      "adClicks": 42,
+      "adRate": 0.5833333333333334,
+      "articleCount": 2,
+      "articleIds": [
+        "436150377390",
+        "148529791605"
+      ],
+      "categoryId": 5868,
+      "categoryKey": "汽车 / 汽车金融",
+      "days": [
+        "2026-11-14"
+      ],
+      "score": 492.7333333333333
+    },
+    {
+      "keyword": "Lowest Cost Suv",
+      "termClicks": 90,
+      "adClicks": 42,
+      "adRate": 0.4666666666666667,
+      "articleCount": 1,
+      "articleIds": [
+        "682532131727"
+      ],
+      "categoryId": 5338,
+      "categoryKey": "汽车 / 车型分类 / SUV",
+      "days": [
+        "2026-11-14"
+      ],
+      "score": 484.6666666666667
+    },
+    {
+      "keyword": "2027 Jeeps",
+      "termClicks": 92,
+      "adClicks": 42,
+      "adRate": 0.45652173913043476,
+      "articleCount": 2,
+      "articleIds": [
+        "577206948779",
+        "779332334369"
+      ],
+      "categoryId": 5338,
+      "categoryKey": "汽车 / 车型分类 / SUV",
+      "days": [
+        "2026-11-14"
+      ],
+      "score": 484.0521739130435
+    },
+    {
+      "keyword": "The Next Stage of Buprenorphine Care for Opioid Use Disorder",
+      "termClicks": 148,
+      "adClicks": 41,
+      "adRate": 0.27702702702702703,
+      "articleCount": 12,
+      "articleIds": [
+        "418976328832",
+        "300767403107",
+        "189246085702",
+        "896736744707",
+        "501960513543",
+        "421021627266",
+        "644485006559",
+        "114593627461",
+        "723148940789",
+        "924047128511",
+        "422235660813",
+        "261107299334"
+      ],
+      "categoryId": 6314,
+      "categoryKey": "健康 / 医药研发 / 心理健康 / 成瘾",
+      "days": [
+        "2026-11-14"
+      ],
+      "score": 467.30270270270273
+    },
+    {
+      "keyword": "New 2027 Suvs",
+      "termClicks": 81,
+      "adClicks": 40,
+      "adRate": 0.49382716049382713,
+      "articleCount": 3,
+      "articleIds": [
+        "534210878780",
+        "682532131727",
+        "188449633315"
+      ],
+      "categoryId": 5338,
+      "categoryKey": "汽车 / 车型分类 / SUV",
+      "days": [
+        "2026-11-14"
+      ],
+      "score": 465.5827160493827
+    },
+    {
+      "keyword": "Long Acting Buprenorphine Injections",
+      "termClicks": 159,
+      "adClicks": 40,
+      "adRate": 0.25157232704402516,
+      "articleCount": 1,
+      "articleIds": [
+        "896736744707"
+      ],
+      "categoryId": 6314,
+      "categoryKey": "健康 / 医药研发 / 心理健康 / 成瘾",
+      "days": [
+        "2026-11-14"
+      ],
+      "score": 456.95723270440254
+    },
+    {
+      "keyword": "Dysport Vs Botox Pubmed",
+      "termClicks": 91,
+      "adClicks": 39,
+      "adRate": 0.42857142857142855,
+      "articleCount": 9,
+      "articleIds": [
+        "913902590398",
+        "377774738441",
+        "419712926807",
+        "474163178989",
+        "249671456873",
+        "712590501994",
+        "375126743823",
+        "986537146072",
+        "630311524770"
+      ],
+      "categoryId": 5591,
+      "categoryKey": "美容 / 医美 / 注射美容 / 注射除皱",
+      "days": [
+        "2026-11-14"
+      ],
+      "score": 451.0571428571428
+    },
+    {
+      "keyword": "Xeomin Cosmetic",
+      "termClicks": 93,
+      "adClicks": 39,
+      "adRate": 0.41935483870967744,
+      "articleCount": 13,
+      "articleIds": [
+        "913902590398",
+        "712590501994",
+        "377774738441",
+        "682790872974",
+        "249671456873",
+        "419712926807",
+        "375126743823",
+        "120588422550",
+        "261001444511",
+        "858473405982",
+        "986537146072",
+        "187745562596",
+        "474163178989"
+      ],
+      "categoryId": 5591,
+      "categoryKey": "美容 / 医美 / 注射美容 / 注射除皱",
+      "days": [
+        "2026-11-14"
+      ],
+      "score": 450.53548387096777
+    },
+    {
+      "keyword": "Can You Get Botox and Dysport at the Same Time",
+      "termClicks": 103,
+      "adClicks": 39,
+      "adRate": 0.3786407766990291,
+      "articleCount": 10,
+      "articleIds": [
+        "913902590398",
+        "419712926807",
+        "249671456873",
+        "120588422550",
+        "712590501994",
+        "377774738441",
+        "682790872974",
+        "280000448111",
+        "210626473973",
+        "261001444511"
+      ],
+      "categoryId": 5591,
+      "categoryKey": "美容 / 医美 / 注射美容 / 注射除皱",
+      "days": [
+        "2026-11-14"
+      ],
+      "score": 448.46407766990296
+    },
+    {
+      "keyword": "Best Beauty Brands",
+      "termClicks": 90,
+      "adClicks": 38,
+      "adRate": 0.4222222222222222,
+      "articleCount": 6,
+      "articleIds": [
+        "624033111366",
+        "448552282316",
+        "445231935313",
+        "450935591765",
+        "979396265336",
+        "226858045397"
+      ],
+      "categoryId": 5162,
+      "categoryKey": "美容 / 面部提拉",
+      "days": [
+        "2026-11-14"
+      ],
+      "score": 440.22222222222223
+    },
+    {
+      "keyword": "Non Surgical Face Lift Near Me",
+      "termClicks": 59,
+      "adClicks": 35,
+      "adRate": 0.5932203389830508,
+      "articleCount": 2,
+      "articleIds": [
+        "632646983184",
+        "748744502107"
+      ],
+      "categoryId": 5162,
+      "categoryKey": "美容 / 面部提拉",
+      "days": [
+        "2026-11-14"
+      ],
+      "score": 421.12203389830506
+    },
+    {
+      "keyword": "Face Lifting Treatment",
+      "termClicks": 67,
+      "adClicks": 35,
+      "adRate": 0.5223880597014925,
+      "articleCount": 8,
+      "articleIds": [
+        "632646983184",
+        "748744502107",
+        "414435072548",
+        "740615530906",
+        "191883234764",
+        "156597509183",
+        "305365053081",
+        "997122925412"
+      ],
+      "categoryId": 5162,
+      "categoryKey": "美容 / 面部提拉",
+      "days": [
+        "2026-11-14"
+      ],
+      "score": 415.63880597014924
+    },
+    {
+      "keyword": "Luxury Beauty Brands",
+      "termClicks": 114,
+      "adClicks": 36,
+      "adRate": 0.3157894736842105,
+      "articleCount": 3,
+      "articleIds": [
+        "624033111366",
+        "445231935313",
+        "196079865188"
+      ],
+      "categoryId": 5162,
+      "categoryKey": "美容 / 面部提拉",
+      "days": [
+        "2026-11-14"
+      ],
+      "score": 414.37894736842105
+    },
+    {
+      "keyword": "Most Popular Aesthetic Treatments",
+      "termClicks": 60,
+      "adClicks": 34,
+      "adRate": 0.5666666666666667,
+      "articleCount": 3,
+      "articleIds": [
+        "556976559898",
+        "913902590398",
+        "748744502107"
+      ],
+      "categoryId": 5162,
+      "categoryKey": "美容 / 面部提拉",
+      "days": [
+        "2026-11-14"
+      ],
+      "score": 408.6666666666667
+    },
+    {
+      "keyword": "FDA Approved Buprenorphine Injections",
+      "termClicks": 119,
+      "adClicks": 34,
+      "adRate": 0.2857142857142857,
+      "articleCount": 2,
+      "articleIds": [
+        "418976328832",
+        "723148940789"
+      ],
+      "categoryId": 6314,
+      "categoryKey": "健康 / 医药研发 / 心理健康 / 成瘾",
+      "days": [
+        "2026-11-14"
+      ],
+      "score": 392.37142857142857
+    },
+    {
+      "keyword": "Best Suv Incentives Right Now",
+      "termClicks": 68,
+      "adClicks": 33,
+      "adRate": 0.4852941176470588,
+      "articleCount": 3,
+      "articleIds": [
+        "534210878780",
+        "188449633315",
+        "646363782936"
+      ],
+      "categoryId": 5338,
+      "categoryKey": "汽车 / 车型分类 / SUV",
+      "days": [
+        "2026-11-14"
+      ],
+      "score": 392.1294117647059
+    },
+    {
+      "keyword": "Latest in Facial Rejuvenation",
+      "termClicks": 75,
+      "adClicks": 33,
+      "adRate": 0.44,
+      "articleCount": 3,
+      "articleIds": [
+        "632646983184",
+        "556976559898",
+        "748744502107"
+      ],
+      "categoryId": 5162,
+      "categoryKey": "美容 / 面部提拉",
+      "days": [
+        "2026-11-14"
+      ],
+      "score": 389
+    },
+    {
+      "keyword": "New Skincare Treatments",
+      "termClicks": 76,
+      "adClicks": 33,
+      "adRate": 0.4342105263157895,
+      "articleCount": 6,
+      "articleIds": [
+        "748744502107",
+        "632646983184",
+        "556976559898",
+        "198709541363",
+        "843976510176",
+        "854912406554"
+      ],
+      "categoryId": 5162,
+      "categoryKey": "美容 / 面部提拉",
+      "days": [
+        "2026-11-14"
+      ],
+      "score": 388.62105263157895
+    },
+    {
+      "keyword": "Jeuveau Vs Botox",
+      "termClicks": 89,
+      "adClicks": 33,
+      "adRate": 0.3707865168539326,
+      "articleCount": 13,
+      "articleIds": [
+        "377774738441",
+        "913902590398",
+        "375126743823",
+        "712590501994",
+        "682790872974",
+        "210626473973",
+        "892643746140",
+        "858473405982",
+        "249671456873",
+        "800357792747",
+        "525675775306",
+        "564312642736",
+        "187745562596"
+      ],
+      "categoryId": 5591,
+      "categoryKey": "美容 / 医美 / 注射美容 / 注射除皱",
+      "days": [
+        "2026-11-14"
+      ],
+      "score": 384.87865168539327
+    },
+    {
+      "keyword": "Treatment Modalities of Cancer",
+      "termClicks": 109,
+      "adClicks": 33,
+      "adRate": 0.30275229357798167,
+      "articleCount": 8,
+      "articleIds": [
+        "553390905681",
+        "632984820098",
+        "499421619771",
+        "838795129463",
+        "814064716588",
+        "440874286819",
+        "335026830099",
+        "117008068933"
+      ],
+      "categoryId": 6308,
+      "categoryKey": "健康 / 医药研发 / 肿瘤 / 生物制剂",
+      "days": [
+        "2026-11-14"
+      ],
+      "score": 382.0752293577982
+    },
+    {
+      "keyword": "New Cancer Treatments",
+      "termClicks": 67,
+      "adClicks": 32,
+      "adRate": 0.47761194029850745,
+      "articleCount": 7,
+      "articleIds": [
+        "632984820098",
+        "838795129463",
+        "553390905681",
+        "931892528731",
+        "499421619771",
+        "296964191532",
+        "117008068933"
+      ],
+      "categoryId": 6308,
+      "categoryKey": "健康 / 医药研发 / 肿瘤 / 生物制剂",
+      "days": [
+        "2026-11-14"
+      ],
+      "score": 381.1611940298507
+    },
+    {
+      "keyword": "Cosmetic Procedures to Look 10 Years Younger",
+      "termClicks": 85,
+      "adClicks": 32,
+      "adRate": 0.3764705882352941,
+      "articleCount": 5,
+      "articleIds": [
+        "748744502107",
+        "632646983184",
+        "556976559898",
+        "854912406554",
+        "546656362362"
+      ],
+      "categoryId": 5162,
+      "categoryKey": "美容 / 面部提拉",
+      "days": [
+        "2026-11-14"
+      ],
+      "score": 374.6470588235294
+    },
+    {
+      "keyword": "Botox Vs Dysport for Brow Lift",
+      "termClicks": 95,
+      "adClicks": 32,
+      "adRate": 0.3368421052631579,
+      "articleCount": 7,
+      "articleIds": [
+        "419712926807",
+        "913902590398",
+        "249671456873",
+        "682790872974",
+        "712590501994",
+        "280000448111",
+        "907523772494"
+      ],
+      "categoryId": 5591,
+      "categoryKey": "美容 / 医美 / 注射美容 / 注射除皱",
+      "days": [
+        "2026-11-14"
+      ],
+      "score": 372.6842105263158
+    },
+    {
+      "keyword": "Premium beauty brands",
+      "termClicks": 130,
+      "adClicks": 32,
+      "adRate": 0.24615384615384617,
+      "articleCount": 4,
+      "articleIds": [
+        "448552282316",
+        "445231935313",
+        "979396265336",
+        "196079865188"
+      ],
+      "categoryId": 5162,
+      "categoryKey": "美容 / 面部提拉",
+      "days": [
+        "2026-11-14"
+      ],
+      "score": 370.61538461538464
+    },
+    {
+      "keyword": "Online Shopping Gadgets",
+      "termClicks": 51,
+      "adClicks": 30,
+      "adRate": 0.5882352941176471,
+      "articleCount": 8,
+      "articleIds": [
+        "680711708229",
+        "977487640893",
+        "159928510321",
+        "803184529390",
+        "274898558931",
+        "879789428130",
+        "954270298702",
+        "336354372970"
+      ],
+      "categoryId": 5876,
+      "categoryKey": "科技 / 消费电子",
+      "days": [
+        "2026-11-14"
+      ],
+      "score": 369.0235294117647
+    },
+    {
+      "keyword": "Most Popular Cosmetic Procedures",
+      "termClicks": 71,
+      "adClicks": 31,
+      "adRate": 0.43661971830985913,
+      "articleCount": 3,
+      "articleIds": [
+        "748744502107",
+        "632646983184",
+        "556976559898"
+      ],
+      "categoryId": 5162,
+      "categoryKey": "美容 / 面部提拉",
+      "days": [
+        "2026-11-14"
+      ],
+      "score": 367.8619718309859
+    },
+    {
+      "keyword": "Ms Infusion",
+      "termClicks": 53,
+      "adClicks": 30,
+      "adRate": 0.5660377358490566,
+      "articleCount": 1,
+      "articleIds": [
+        "632984820098"
+      ],
+      "categoryId": 6308,
+      "categoryKey": "健康 / 医药研发 / 肿瘤 / 生物制剂",
+      "days": [
+        "2026-11-14"
+      ],
+      "score": 367.20377358490566
+    },
+    {
+      "keyword": "Best smart gadgets for home",
+      "termClicks": 83,
+      "adClicks": 31,
+      "adRate": 0.37349397590361444,
+      "articleCount": 10,
+      "articleIds": [
+        "680711708229",
+        "159928510321",
+        "182011969933",
+        "120188429834",
+        "280402160659",
+        "166287912346",
+        "336354372970",
+        "311313737381",
+        "954270298702",
+        "879789428130"
+      ],
+      "categoryId": 5876,
+      "categoryKey": "科技 / 消费电子",
+      "days": [
+        "2026-11-14"
+      ],
+      "score": 363.94939759036146
+    },
+    {
+      "keyword": "New Suv Offer",
+      "termClicks": 54,
+      "adClicks": 29,
+      "adRate": 0.5370370370370371,
+      "articleCount": 4,
+      "articleIds": [
+        "188449633315",
+        "534210878780",
+        "682532131727",
+        "646363782936"
+      ],
+      "categoryId": 5338,
+      "categoryKey": "汽车 / 车型分类 / SUV",
+      "days": [
+        "2026-11-14"
+      ],
+      "score": 354.5037037037037
+    },
+    {
+      "keyword": "Best Car Offers Right Now",
+      "termClicks": 51,
+      "adClicks": 28,
+      "adRate": 0.5490196078431373,
+      "articleCount": 3,
+      "articleIds": [
+        "534210878780",
+        "682532131727",
+        "644232239280"
+      ],
+      "categoryId": 5338,
+      "categoryKey": "汽车 / 车型分类 / SUV",
+      "days": [
+        "2026-11-14"
+      ],
+      "score": 345.10196078431375
+    },
+    {
+      "keyword": "Face Wrinkle Cream",
+      "termClicks": 41,
+      "adClicks": 27,
+      "adRate": 0.6585365853658537,
+      "articleCount": 2,
+      "articleIds": [
+        "338963812065",
+        "603588266438"
+      ],
+      "categoryId": 5162,
+      "categoryKey": "美容 / 面部提拉",
+      "days": [
+        "2026-11-14"
+      ],
+      "score": 344.0536585365854
+    },
+    {
+      "keyword": "Skincare Treatment",
+      "termClicks": 68,
+      "adClicks": 27,
+      "adRate": 0.39705882352941174,
+      "articleCount": 4,
+      "articleIds": [
+        "751561775783",
+        "198709541363",
+        "556976559898",
+        "211394852469"
+      ],
+      "categoryId": 5162,
+      "categoryKey": "美容 / 面部提拉",
+      "days": [
+        "2026-11-14"
+      ],
+      "score": 323.3058823529412
+    },
+    {
+      "keyword": "Best Wrinkle Treatments",
+      "termClicks": 28,
+      "adClicks": 23,
+      "adRate": 0.8214285714285714,
+      "articleCount": 2,
+      "articleIds": [
+        "807564277561",
+        "858473405982"
+      ],
+      "categoryId": 5162,
+      "categoryKey": "美容 / 面部提拉",
+      "days": [
+        "2026-11-14"
+      ],
+      "score": 317.74285714285713
+    },
+    {
+      "keyword": "Most Spacious Suv",
+      "termClicks": 46,
+      "adClicks": 25,
+      "adRate": 0.5434782608695652,
+      "articleCount": 3,
+      "articleIds": [
+        "879201493046",
+        "491260297835",
+        "104038372744"
+      ],
+      "categoryId": 5338,
+      "categoryKey": "汽车 / 车型分类 / SUV",
+      "days": [
+        "2026-11-14"
+      ],
+      "score": 313.5478260869565
+    },
+    {
+      "keyword": "Goodrx Buprenorphine",
+      "termClicks": 174,
+      "adClicks": 26,
+      "adRate": 0.14942528735632185,
+      "articleCount": 2,
+      "articleIds": [
+        "300767403107",
+        "874313932125"
+      ],
+      "categoryId": 6314,
+      "categoryKey": "健康 / 医药研发 / 心理健康 / 成瘾",
+      "days": [
+        "2026-11-14"
+      ],
+      "score": 309.7425287356322
+    },
+    {
+      "keyword": "Non Surgical Facelift Near Me",
+      "termClicks": 32,
+      "adClicks": 23,
+      "adRate": 0.71875,
+      "articleCount": 2,
+      "articleIds": [
+        "748744502107",
+        "632646983184"
+      ],
+      "categoryId": 5162,
+      "categoryKey": "美容 / 面部提拉",
+      "days": [
+        "2026-11-14"
+      ],
+      "score": 308.275
+    },
+    {
+      "keyword": "Prescribing Buprenorphine Guidelines",
+      "termClicks": 82,
+      "adClicks": 26,
+      "adRate": 0.3170731707317073,
+      "articleCount": 1,
+      "articleIds": [
+        "300767403107"
+      ],
+      "categoryId": 6314,
+      "categoryKey": "健康 / 医药研发 / 心理健康 / 成瘾",
+      "days": [
+        "2026-11-14"
+      ],
+      "score": 308.1073170731707
+    },
+    {
+      "keyword": "Cars with Zero Percent Financing",
+      "termClicks": 53,
+      "adClicks": 25,
+      "adRate": 0.4716981132075472,
+      "articleCount": 3,
+      "articleIds": [
+        "534210878780",
+        "249040817355",
+        "592485077826"
+      ],
+      "categoryId": 5338,
+      "categoryKey": "汽车 / 车型分类 / SUV",
+      "days": [
+        "2026-11-14"
+      ],
+      "score": 307.76981132075474
+    },
+    {
+      "keyword": "2027 Chevys",
+      "termClicks": 35,
+      "adClicks": 23,
+      "adRate": 0.6571428571428571,
+      "articleCount": 2,
+      "articleIds": [
+        "993539999283",
+        "120008062922"
+      ],
+      "categoryId": 5246,
+      "categoryKey": "汽车 / 车型分类 / 新能源汽车",
+      "days": [
+        "2026-11-14"
+      ],
+      "score": 302.7142857142857
+    },
+    {
+      "keyword": "New Jeeps for Sale",
+      "termClicks": 54,
+      "adClicks": 24,
+      "adRate": 0.4444444444444444,
+      "articleCount": 3,
+      "articleIds": [
+        "779332334369",
+        "577206948779",
+        "421139391967"
+      ],
+      "categoryId": 5338,
+      "categoryKey": "汽车 / 车型分类 / SUV",
+      "days": [
+        "2026-11-14"
+      ],
+      "score": 295.24444444444447
+    },
+    {
+      "keyword": "Products that Improve Wellbeing",
+      "termClicks": 54,
+      "adClicks": 24,
+      "adRate": 0.4444444444444444,
+      "articleCount": 6,
+      "articleIds": [
+        "490332184714",
+        "159928510321",
+        "519435546471",
+        "925429482382",
+        "311313737381",
+        "280402160659"
+      ],
+      "categoryId": 5876,
+      "categoryKey": "科技 / 消费电子",
+      "days": [
+        "2026-11-14"
+      ],
+      "score": 295.24444444444447
+    },
+    {
+      "keyword": "What is the Most Powerful Suv on the Market",
+      "termClicks": 41,
+      "adClicks": 23,
+      "adRate": 0.5609756097560976,
+      "articleCount": 1,
+      "articleIds": [
+        "779332334369"
+      ],
+      "categoryId": 5338,
+      "categoryKey": "汽车 / 车型分类 / SUV",
+      "days": [
+        "2026-11-14"
+      ],
+      "score": 294.29756097560977
+    },
+    {
+      "keyword": "Beauty Products Sale Online",
+      "termClicks": 57,
+      "adClicks": 24,
+      "adRate": 0.42105263157894735,
+      "articleCount": 1,
+      "articleIds": [
+        "448552282316"
+      ],
+      "categoryId": 5162,
+      "categoryKey": "美容 / 面部提拉",
+      "days": [
+        "2026-11-14"
+      ],
+      "score": 293.5052631578947
+    },
+    {
+      "keyword": "Most Popular Beauty Products",
+      "termClicks": 34,
+      "adClicks": 22,
+      "adRate": 0.6470588235294118,
+      "articleCount": 5,
+      "articleIds": [
+        "751561775783",
+        "874080219644",
+        "267949249287",
+        "979396265336",
+        "450935591765"
+      ],
+      "categoryId": 5162,
+      "categoryKey": "美容 / 面部提拉",
+      "days": [
+        "2026-11-14"
+      ],
+      "score": 291.50588235294117
+    },
+    {
+      "keyword": "Medicare Coverage for Cancer",
+      "termClicks": 37,
+      "adClicks": 22,
+      "adRate": 0.5945945945945946,
+      "articleCount": 1,
+      "articleIds": [
+        "698557470249"
+      ],
+      "categoryId": 6451,
+      "categoryKey": "健康 / 医药研发 / 医疗·偏头痛",
+      "days": [
+        "2026-11-14"
+      ],
+      "score": 286.85945945945946
+    },
+    {
+      "keyword": "Botox Dysport and Xeomin Injectables Near Me",
+      "termClicks": 56,
+      "adClicks": 23,
+      "adRate": 0.4107142857142857,
+      "articleCount": 10,
+      "articleIds": [
+        "375126743823",
+        "419712926807",
+        "377774738441",
+        "682790872974",
+        "712590501994",
+        "474163178989",
+        "249671456873",
+        "436968132421",
+        "858473405982",
+        "892643746140"
+      ],
+      "categoryId": 5591,
+      "categoryKey": "美容 / 医美 / 注射美容 / 注射除皱",
+      "days": [
+        "2026-11-14"
+      ],
+      "score": 282.27142857142854
+    },
+    {
+      "keyword": "New Wagoneer",
+      "termClicks": 34,
+      "adClicks": 21,
+      "adRate": 0.6176470588235294,
+      "articleCount": 4,
+      "articleIds": [
+        "740778045018",
+        "293824223086",
+        "329716921474",
+        "968509251149"
+      ],
+      "categoryId": 5338,
+      "categoryKey": "汽车 / 车型分类 / SUV",
+      "days": [
+        "2026-11-14"
+      ],
+      "score": 278.56470588235294
+    },
+    {
+      "keyword": "Cosmetic Surgery Enhance Appearance",
+      "termClicks": 45,
+      "adClicks": 22,
+      "adRate": 0.4888888888888889,
+      "articleCount": 2,
+      "articleIds": [
+        "748744502107",
+        "632646983184"
+      ],
+      "categoryId": 5162,
+      "categoryKey": "美容 / 面部提拉",
+      "days": [
+        "2026-11-14"
+      ],
+      "score": 277.8888888888889
+    },
+    {
+      "keyword": "Top 10 Beauty Products",
+      "termClicks": 40,
+      "adClicks": 21,
+      "adRate": 0.525,
+      "articleCount": 5,
+      "articleIds": [
+        "751561775783",
+        "448552282316",
+        "196079865188",
+        "874080219644",
+        "979396265336"
+      ],
+      "categoryId": 5162,
+      "categoryKey": "美容 / 面部提拉",
+      "days": [
+        "2026-11-14"
+      ],
+      "score": 270.5
+    },
+    {
+      "keyword": "List of Suvs",
+      "termClicks": 50,
+      "adClicks": 21,
+      "adRate": 0.42,
+      "articleCount": 6,
+      "articleIds": [
+        "491260297835",
+        "682532131727",
+        "879201493046",
+        "353105585278",
+        "124523915016",
+        "383172782812"
+      ],
+      "categoryId": 5338,
+      "categoryKey": "汽车 / 车型分类 / SUV",
+      "days": [
+        "2026-11-14"
+      ],
+      "score": 262
+    },
+    {
+      "keyword": "Discount Beauty Websites",
+      "termClicks": 52,
+      "adClicks": 21,
+      "adRate": 0.40384615384615385,
+      "articleCount": 1,
+      "articleIds": [
+        "448552282316"
+      ],
+      "categoryId": 5162,
+      "categoryKey": "美容 / 面部提拉",
+      "days": [
+        "2026-11-14"
+      ],
+      "score": 260.7846153846154
+    },
+    {
+      "keyword": "Top Beauty Websites",
+      "termClicks": 56,
+      "adClicks": 21,
+      "adRate": 0.375,
+      "articleCount": 3,
+      "articleIds": [
+        "448552282316",
+        "445231935313",
+        "461100631423"
+      ],
+      "categoryId": 5162,
+      "categoryKey": "美容 / 面部提拉",
+      "days": [
+        "2026-11-14"
+      ],
+      "score": 258.7
+    },
+    {
+      "keyword": "Best Medium Size Suv",
+      "termClicks": 59,
+      "adClicks": 21,
+      "adRate": 0.3559322033898305,
+      "articleCount": 5,
+      "articleIds": [
+        "188449633315",
+        "682532131727",
+        "491260297835",
+        "104038372744",
+        "383172782812"
+      ],
+      "categoryId": 5338,
+      "categoryKey": "汽车 / 车型分类 / SUV",
+      "days": [
+        "2026-11-14"
+      ],
+      "score": 257.39322033898304
+    },
+    {
+      "keyword": "Unique Gifts for Someone who Has Everything",
+      "termClicks": 42,
+      "adClicks": 20,
+      "adRate": 0.47619047619047616,
+      "articleCount": 3,
+      "articleIds": [
+        "519435546471",
+        "490332184714",
+        "925429482382"
+      ],
+      "categoryId": 5876,
+      "categoryKey": "科技 / 消费电子",
+      "days": [
+        "2026-11-14"
+      ],
+      "score": 256.0190476190476
+    },
+    {
+      "keyword": "Best Product for Wrinkles on Face",
+      "termClicks": 32,
+      "adClicks": 19,
+      "adRate": 0.59375,
+      "articleCount": 1,
+      "articleIds": [
+        "338963812065"
+      ],
+      "categoryId": 5162,
+      "categoryKey": "美容 / 面部提拉",
+      "days": [
+        "2026-11-14"
+      ],
+      "score": 255.775
+    },
+    {
+      "keyword": "Vehicles with Zero Percent Financing",
+      "termClicks": 32,
+      "adClicks": 19,
+      "adRate": 0.59375,
+      "articleCount": 1,
+      "articleIds": [
+        "534210878780"
+      ],
+      "categoryId": 5338,
+      "categoryKey": "汽车 / 车型分类 / SUV",
+      "days": [
+        "2026-11-14"
+      ],
+      "score": 255.775
+    },
+    {
+      "keyword": "Shop Skincare",
+      "termClicks": 33,
+      "adClicks": 19,
+      "adRate": 0.5757575757575758,
+      "articleCount": 6,
+      "articleIds": [
+        "461100631423",
+        "874080219644",
+        "751561775783",
+        "440398429658",
+        "450935591765",
+        "298361946092"
+      ],
+      "categoryId": 5162,
+      "categoryKey": "美容 / 面部提拉",
+      "days": [
+        "2026-11-14"
+      ],
+      "score": 254.1757575757576
+    },
+    {
+      "keyword": "Brixadi Vs Sublocade",
+      "termClicks": 75,
+      "adClicks": 21,
+      "adRate": 0.28,
+      "articleCount": 8,
+      "articleIds": [
+        "418976328832",
+        "300767403107",
+        "896736744707",
+        "506618826717",
+        "422235660813",
+        "422943008921",
+        "461778393096",
+        "114593627461"
+      ],
+      "categoryId": 6314,
+      "categoryKey": "健康 / 医药研发 / 心理健康 / 成瘾",
+      "days": [
+        "2026-11-14"
+      ],
+      "score": 253
+    },
+    {
+      "keyword": "Top Beauty Brands",
+      "termClicks": 79,
+      "adClicks": 21,
+      "adRate": 0.26582278481012656,
+      "articleCount": 3,
+      "articleIds": [
+        "448552282316",
+        "979396265336",
+        "196079865188"
+      ],
+      "categoryId": 5162,
+      "categoryKey": "美容 / 面部提拉",
+      "days": [
+        "2026-11-14"
+      ],
+      "score": 252.38227848101266
+    },
+    {
+      "keyword": "Wagoneers for Sale",
+      "termClicks": 22,
+      "adClicks": 17,
+      "adRate": 0.7727272727272727,
+      "articleCount": 3,
+      "articleIds": [
+        "968509251149",
+        "293824223086",
+        "240697245095"
+      ],
+      "categoryId": 5338,
+      "categoryKey": "汽车 / 车型分类 / SUV",
+      "days": [
+        "2026-11-14"
+      ],
+      "score": 251.6727272727273
+    },
+    {
+      "keyword": "Dysport Vs Botox Realself",
+      "termClicks": 121,
+      "adClicks": 21,
+      "adRate": 0.17355371900826447,
+      "articleCount": 9,
+      "articleIds": [
+        "419712926807",
+        "712590501994",
+        "913902590398",
+        "249671456873",
+        "682790872974",
+        "120588422550",
+        "841457256982",
+        "280000448111",
+        "525675775306"
+      ],
+      "categoryId": 5591,
+      "categoryKey": "美容 / 医美 / 注射美容 / 注射除皱",
+      "days": [
+        "2026-11-14"
+      ],
+      "score": 251.55537190082643
+    },
+    {
+      "keyword": "Wirecutter Cat Litter",
+      "termClicks": 43,
+      "adClicks": 19,
+      "adRate": 0.4418604651162791,
+      "articleCount": 3,
+      "articleIds": [
+        "602634318084",
+        "461872338775",
+        "401471063237"
+      ],
+      "categoryId": 5884,
+      "categoryKey": "宠物 / 宠物产品",
+      "days": [
+        "2026-11-14"
+      ],
+      "score": 242.7860465116279
+    },
+    {
+      "keyword": "Glabellar Lines Treatment",
+      "termClicks": 26,
+      "adClicks": 17,
+      "adRate": 0.6538461538461539,
+      "articleCount": 1,
+      "articleIds": [
+        "807564277561"
+      ],
+      "categoryId": 5162,
+      "categoryKey": "美容 / 面部提拉",
+      "days": [
+        "2026-11-14"
+      ],
+      "score": 240.58461538461538
+    },
+    {
+      "keyword": "Best Cosmetic Procedures",
+      "termClicks": 34,
+      "adClicks": 18,
+      "adRate": 0.5294117647058824,
+      "articleCount": 4,
+      "articleIds": [
+        "913902590398",
+        "632646983184",
+        "748744502107",
+        "556976559898"
+      ],
+      "categoryId": 5162,
+      "categoryKey": "美容 / 面部提拉",
+      "days": [
+        "2026-11-14"
+      ],
+      "score": 239.74117647058824
+    },
+    {
+      "keyword": "What is the Best Anti Wrinkle Cream on the Market",
+      "termClicks": 36,
+      "adClicks": 18,
+      "adRate": 0.5,
+      "articleCount": 3,
+      "articleIds": [
+        "338963812065",
+        "603588266438",
+        "822275841746"
+      ],
+      "categoryId": 5162,
+      "categoryKey": "美容 / 面部提拉",
+      "days": [
+        "2026-11-14"
+      ],
+      "score": 237.2
+    },
+    {
+      "keyword": "Skin Care Products Website",
+      "termClicks": 56,
+      "adClicks": 19,
+      "adRate": 0.3392857142857143,
+      "articleCount": 4,
+      "articleIds": [
+        "751561775783",
+        "874080219644",
+        "461100631423",
+        "450935591765"
+      ],
+      "categoryId": 5162,
+      "categoryKey": "美容 / 面部提拉",
+      "days": [
+        "2026-11-14"
+      ],
+      "score": 235.12857142857143
+    },
+    {
+      "keyword": "Buprenorphine Maintenance Therapy",
+      "termClicks": 88,
+      "adClicks": 19,
+      "adRate": 0.2159090909090909,
+      "articleCount": 11,
+      "articleIds": [
+        "418976328832",
+        "300767403107",
+        "644485006559",
+        "501960513543",
+        "189246085702",
+        "874313932125",
+        "145627938240",
+        "924047128511",
+        "159232861713",
+        "345689324762",
+        "421021627266"
+      ],
+      "categoryId": 6314,
+      "categoryKey": "健康 / 医药研发 / 心理健康 / 成瘾",
+      "days": [
+        "2026-11-14"
+      ],
+      "score": 229.1909090909091
+    },
+    {
+      "keyword": "Beauty Products",
+      "termClicks": 37,
+      "adClicks": 17,
+      "adRate": 0.4594594594594595,
+      "articleCount": 5,
+      "articleIds": [
+        "448552282316",
+        "975088333333",
+        "979396265336",
+        "185328745970",
+        "224186356789"
+      ],
+      "categoryId": 5162,
+      "categoryKey": "美容 / 面部提拉",
+      "days": [
+        "2026-11-14"
+      ],
+      "score": 223.34594594594597
+    },
+    {
+      "keyword": "Juvederm Specials Near Me",
+      "termClicks": 39,
+      "adClicks": 17,
+      "adRate": 0.4358974358974359,
+      "articleCount": 6,
+      "articleIds": [
+        "620495423993",
+        "371146495945",
+        "379326993925",
+        "191883234764",
+        "740615530906",
+        "389949246276"
+      ],
+      "categoryId": 5591,
+      "categoryKey": "美容 / 医美 / 注射美容 / 注射除皱",
+      "days": [
+        "2026-11-14"
+      ],
+      "score": 221.3897435897436
+    },
+    {
+      "keyword": "Clorox Everclean",
+      "termClicks": 29,
+      "adClicks": 16,
+      "adRate": 0.5517241379310345,
+      "articleCount": 5,
+      "articleIds": [
+        "898389432225",
+        "524388371147",
+        "602634318084",
+        "401471063237",
+        "287538396138"
+      ],
+      "categoryId": 5884,
+      "categoryKey": "宠物 / 宠物产品",
+      "days": [
+        "2026-11-14"
+      ],
+      "score": 220.97241379310344
+    },
+    {
+      "keyword": "Latest Gadgets",
+      "termClicks": 40,
+      "adClicks": 17,
+      "adRate": 0.425,
+      "articleCount": 4,
+      "articleIds": [
+        "680711708229",
+        "159928510321",
+        "182011969933",
+        "977487640893"
+      ],
+      "categoryId": 5876,
+      "categoryKey": "科技 / 消费电子",
+      "days": [
+        "2026-11-14"
+      ],
+      "score": 220.5
+    },
+    {
+      "keyword": "Buprenorphine Injection Cost",
+      "termClicks": 43,
+      "adClicks": 17,
+      "adRate": 0.3953488372093023,
+      "articleCount": 3,
+      "articleIds": [
+        "300767403107",
+        "418976328832",
+        "422235660813"
+      ],
+      "categoryId": 6314,
+      "categoryKey": "健康 / 医药研发 / 心理健康 / 成瘾",
+      "days": [
+        "2026-11-14"
+      ],
+      "score": 218.13488372093022
+    },
+    {
+      "keyword": "Face Lifting Facial",
+      "termClicks": 32,
+      "adClicks": 16,
+      "adRate": 0.5,
+      "articleCount": 4,
+      "articleIds": [
+        "748744502107",
+        "632646983184",
+        "414435072548",
+        "156597509183"
+      ],
+      "categoryId": 5162,
+      "categoryKey": "美容 / 面部提拉",
+      "days": [
+        "2026-11-14"
+      ],
+      "score": 216.4
+    },
+    {
+      "keyword": "New cars with zero percent financing",
+      "termClicks": 46,
+      "adClicks": 17,
+      "adRate": 0.3695652173913043,
+      "articleCount": 6,
+      "articleIds": [
+        "534210878780",
+        "249040817355",
+        "296848651119",
+        "104721594607",
+        "436150377390",
+        "157233127135"
+      ],
+      "categoryId": 5868,
+      "categoryKey": "汽车 / 汽车金融",
+      "days": [
+        "2026-11-14"
+      ],
+      "score": 216.15652173913043
+    },
+    {
+      "keyword": "New 2027 Vehicles Coming Out",
+      "termClicks": 37,
+      "adClicks": 16,
+      "adRate": 0.43243243243243246,
+      "articleCount": 7,
+      "articleIds": [
+        "920922350965",
+        "993539999283",
+        "404688751417",
+        "545605070262",
+        "753390401781",
+        "230423894960",
+        "693731153029"
+      ],
+      "categoryId": 5246,
+      "categoryKey": "汽车 / 车型分类 / 新能源汽车",
+      "days": [
+        "2026-11-14"
+      ],
+      "score": 210.64324324324326
+    },
+    {
+      "keyword": "Best cosmetic brand",
+      "termClicks": 63,
+      "adClicks": 17,
+      "adRate": 0.2698412698412698,
+      "articleCount": 4,
+      "articleIds": [
+        "624033111366",
+        "445231935313",
+        "461100631423",
+        "975088333333"
+      ],
+      "categoryId": 5162,
+      "categoryKey": "美容 / 面部提拉",
+      "days": [
+        "2026-11-14"
+      ],
+      "score": 209.58412698412698
+    },
+    {
+      "keyword": "Where Can i Buy Cleaning Products",
+      "termClicks": 31,
+      "adClicks": 15,
+      "adRate": 0.4838709677419355,
+      "articleCount": 1,
+      "articleIds": [
+        "524388371147"
+      ],
+      "categoryId": 5884,
+      "categoryKey": "宠物 / 宠物产品",
+      "days": [
+        "2026-11-14"
+      ],
+      "score": 204.58709677419353
+    },
+    {
+      "keyword": "Women Beauty Products",
+      "termClicks": 24,
+      "adClicks": 14,
+      "adRate": 0.5833333333333334,
+      "articleCount": 4,
+      "articleIds": [
+        "448552282316",
+        "267949249287",
+        "979396265336",
+        "450935591765"
+      ],
+      "categoryId": 5162,
+      "categoryKey": "美容 / 面部提拉",
+      "days": [
+        "2026-11-14"
+      ],
+      "score": 203.13333333333335
+    },
+    {
+      "keyword": "New Cancer Trial Drug",
+      "termClicks": 52,
+      "adClicks": 16,
+      "adRate": 0.3076923076923077,
+      "articleCount": 5,
+      "articleIds": [
+        "440874286819",
+        "335026830099",
+        "117008068933",
+        "417465342026",
+        "181505940572"
+      ],
+      "categoryId": 6308,
+      "categoryKey": "健康 / 医药研发 / 肿瘤 / 生物制剂",
+      "days": [
+        "2026-11-14"
+      ],
+      "score": 201.16923076923078
+    },
+    {
+      "keyword": "New car 99 a month no deposit 0 finance",
+      "termClicks": 26,
+      "adClicks": 14,
+      "adRate": 0.5384615384615384,
+      "articleCount": 3,
+      "articleIds": [
+        "534210878780",
+        "249040817355",
+        "436150377390"
+      ],
+      "categoryId": 5338,
+      "categoryKey": "汽车 / 车型分类 / SUV",
+      "days": [
+        "2026-11-14"
+      ],
+      "score": 199.04615384615383
+    },
+    {
+      "keyword": "Wow Phone",
+      "termClicks": 36,
+      "adClicks": 15,
+      "adRate": 0.4166666666666667,
+      "articleCount": 2,
+      "articleIds": [
+        "680711708229",
+        "159928510321"
+      ],
+      "categoryId": 5876,
+      "categoryKey": "科技 / 消费电子",
+      "days": [
+        "2026-11-14"
+      ],
+      "score": 198.86666666666667
+    },
+    {
+      "keyword": "Current Car Deals",
+      "termClicks": 38,
+      "adClicks": 15,
+      "adRate": 0.39473684210526316,
+      "articleCount": 3,
+      "articleIds": [
+        "534210878780",
+        "682532131727",
+        "491260297835"
+      ],
+      "categoryId": 5338,
+      "categoryKey": "汽车 / 车型分类 / SUV",
+      "days": [
+        "2026-11-14"
+      ],
+      "score": 197.07368421052632
+    },
+    {
+      "keyword": "Buprenorphine Induction Protocol",
+      "termClicks": 70,
+      "adClicks": 16,
+      "adRate": 0.22857142857142856,
+      "articleCount": 5,
+      "articleIds": [
+        "189246085702",
+        "501960513543",
+        "924047128511",
+        "967691736373",
+        "145627938240"
+      ],
+      "categoryId": 6314,
+      "categoryKey": "健康 / 医药研发 / 心理健康 / 成瘾",
+      "days": [
+        "2026-11-14"
+      ],
+      "score": 196.85714285714286
+    },
+    {
+      "keyword": "Hybrids for Sale",
+      "termClicks": 39,
+      "adClicks": 15,
+      "adRate": 0.38461538461538464,
+      "articleCount": 8,
+      "articleIds": [
+        "993539999283",
+        "368359095170",
+        "726518889850",
+        "753390401781",
+        "920922350965",
+        "693731153029",
+        "404688751417",
+        "429437139582"
+      ],
+      "categoryId": 5246,
+      "categoryKey": "汽车 / 车型分类 / 新能源汽车",
+      "days": [
+        "2026-11-14"
+      ],
+      "score": 196.26153846153846
+    },
+    {
+      "keyword": "Jeeps with 3 Rows",
+      "termClicks": 39,
+      "adClicks": 15,
+      "adRate": 0.38461538461538464,
+      "articleCount": 6,
+      "articleIds": [
+        "577206948779",
+        "740778045018",
+        "779332334369",
+        "293824223086",
+        "188858787764",
+        "421139391967"
+      ],
+      "categoryId": 5338,
+      "categoryKey": "汽车 / 车型分类 / SUV",
+      "days": [
+        "2026-11-14"
+      ],
+      "score": 196.26153846153846
+    },
+    {
+      "keyword": "Anti Wrinkle",
+      "termClicks": 32,
+      "adClicks": 14,
+      "adRate": 0.4375,
+      "articleCount": 2,
+      "articleIds": [
+        "338963812065",
+        "814396860881"
+      ],
+      "categoryId": 5162,
+      "categoryKey": "美容 / 面部提拉",
+      "days": [
+        "2026-11-14"
+      ],
+      "score": 190.15
+    },
+    {
+      "keyword": "Best Cosmetic Procedures for Wrinkles",
+      "termClicks": 33,
+      "adClicks": 14,
+      "adRate": 0.42424242424242425,
+      "articleCount": 4,
+      "articleIds": [
+        "632646983184",
+        "748744502107",
+        "556976559898",
+        "198709541363"
+      ],
+      "categoryId": 5162,
+      "categoryKey": "美容 / 面部提拉",
+      "days": [
+        "2026-11-14"
+      ],
+      "score": 189.0242424242424
+    },
+    {
+      "keyword": "Cars with Low Monthly Payments",
+      "termClicks": 33,
+      "adClicks": 14,
+      "adRate": 0.42424242424242425,
+      "articleCount": 6,
+      "articleIds": [
+        "293996023343",
+        "417965982965",
+        "373912938943",
+        "148529791605",
+        "188449633315",
+        "644232239280"
+      ],
+      "categoryId": 5868,
+      "categoryKey": "汽车 / 汽车金融",
+      "days": [
+        "2026-11-14"
+      ],
+      "score": 189.0242424242424
+    },
+    {
+      "keyword": "Cosmetic Injectables Near Me",
+      "termClicks": 26,
+      "adClicks": 13,
+      "adRate": 0.5,
+      "articleCount": 3,
+      "articleIds": [
+        "414435072548",
+        "740615530906",
+        "371146495945"
+      ],
+      "categoryId": 5162,
+      "categoryKey": "美容 / 面部提拉",
+      "days": [
+        "2026-11-14"
+      ],
+      "score": 185.2
+    },
+    {
+      "keyword": "Rivian 7 seater SUV",
+      "termClicks": 38,
+      "adClicks": 14,
+      "adRate": 0.3684210526315789,
+      "articleCount": 1,
+      "articleIds": [
+        "959748097496"
+      ],
+      "categoryId": 5246,
+      "categoryKey": "汽车 / 车型分类 / 新能源汽车",
+      "days": [
+        "2026-11-14"
+      ],
+      "score": 184.44210526315788
+    },
+    {
+      "keyword": "New Chemotherapy Drugs",
+      "termClicks": 21,
+      "adClicks": 12,
+      "adRate": 0.5714285714285714,
+      "articleCount": 5,
+      "articleIds": [
+        "553390905681",
+        "632984820098",
+        "838795129463",
+        "931892528731",
+        "589188913956"
+      ],
+      "categoryId": 6308,
+      "categoryKey": "健康 / 医药研发 / 肿瘤 / 生物制剂",
+      "days": [
+        "2026-11-14"
+      ],
+      "score": 181.34285714285716
+    },
+    {
+      "keyword": "Best New Gadgets",
+      "termClicks": 29,
+      "adClicks": 13,
+      "adRate": 0.4482758620689655,
+      "articleCount": 4,
+      "articleIds": [
+        "159928510321",
+        "977487640893",
+        "680711708229",
+        "120188429834"
+      ],
+      "categoryId": 5876,
+      "categoryKey": "科技 / 消费电子",
+      "days": [
+        "2026-11-14"
+      ],
+      "score": 180.62758620689658
+    },
+    {
+      "keyword": "Cancer Clinical Trials",
+      "termClicks": 22,
+      "adClicks": 12,
+      "adRate": 0.5454545454545454,
+      "articleCount": 3,
+      "articleIds": [
+        "553390905681",
+        "440874286819",
+        "838795129463"
+      ],
+      "categoryId": 6308,
+      "categoryKey": "健康 / 医药研发 / 肿瘤 / 生物制剂",
+      "days": [
+        "2026-11-14"
+      ],
+      "score": 178.94545454545454
+    },
+    {
+      "keyword": "Medicare Part D Plans in Kansas",
+      "termClicks": 22,
+      "adClicks": 12,
+      "adRate": 0.5454545454545454,
+      "articleCount": 1,
+      "articleIds": [
+        "998863263619"
+      ],
+      "categoryId": 6308,
+      "categoryKey": "健康 / 医药研发 / 肿瘤 / 生物制剂",
+      "days": [
+        "2026-11-14"
+      ],
+      "score": 178.94545454545454
+    },
+    {
+      "keyword": "Suvs that Hold Their Value",
+      "termClicks": 22,
+      "adClicks": 12,
+      "adRate": 0.5454545454545454,
+      "articleCount": 2,
+      "articleIds": [
+        "124523915016",
+        "879201493046"
+      ],
+      "categoryId": 5338,
+      "categoryKey": "汽车 / 车型分类 / SUV",
+      "days": [
+        "2026-11-14"
+      ],
+      "score": 178.94545454545454
+    },
+    {
+      "keyword": "Best Lease Offers",
+      "termClicks": 34,
+      "adClicks": 13,
+      "adRate": 0.38235294117647056,
+      "articleCount": 1,
+      "articleIds": [
+        "188449633315"
+      ],
+      "categoryId": 5338,
+      "categoryKey": "汽车 / 车型分类 / SUV",
+      "days": [
+        "2026-11-14"
+      ],
+      "score": 175.03529411764708
+    },
+    {
+      "keyword": "Treatment Sequencing in Metastatic Castrate Resistant Prostate Cancer",
+      "termClicks": 24,
+      "adClicks": 12,
+      "adRate": 0.5,
+      "articleCount": 1,
+      "articleIds": [
+        "998863263619"
+      ],
+      "categoryId": 6308,
+      "categoryKey": "健康 / 医药研发 / 肿瘤 / 生物制剂",
+      "days": [
+        "2026-11-14"
+      ],
+      "score": 174.8
+    },
+    {
+      "keyword": "Wellness Devices",
+      "termClicks": 24,
+      "adClicks": 12,
+      "adRate": 0.5,
+      "articleCount": 4,
+      "articleIds": [
+        "159928510321",
+        "519435546471",
+        "490332184714",
+        "280402160659"
+      ],
+      "categoryId": 5876,
+      "categoryKey": "科技 / 消费电子",
+      "days": [
+        "2026-11-14"
+      ],
+      "score": 174.8
+    },
+    {
+      "keyword": "Skincare Products that Actually Work",
+      "termClicks": 25,
+      "adClicks": 12,
+      "adRate": 0.48,
+      "articleCount": 7,
+      "articleIds": [
+        "556976559898",
+        "461100631423",
+        "751561775783",
+        "440398429658",
+        "196079865188",
+        "874080219644",
+        "211394852469"
+      ],
+      "categoryId": 5162,
+      "categoryKey": "美容 / 面部提拉",
+      "days": [
+        "2026-11-14"
+      ],
+      "score": 173
+    },
+    {
+      "keyword": "SUV Lineup",
+      "termClicks": 25,
+      "adClicks": 12,
+      "adRate": 0.48,
+      "articleCount": 5,
+      "articleIds": [
+        "293824223086",
+        "795622170051",
+        "968509251149",
+        "740778045018",
+        "240697245095"
+      ],
+      "categoryId": 5338,
+      "categoryKey": "汽车 / 车型分类 / SUV",
+      "days": [
+        "2026-11-14"
+      ],
+      "score": 173
+    },
+    {
+      "keyword": "Cars with Zero Percent Finance",
+      "termClicks": 26,
+      "adClicks": 12,
+      "adRate": 0.46153846153846156,
+      "articleCount": 4,
+      "articleIds": [
+        "534210878780",
+        "296848651119",
+        "249040817355",
+        "436150377390"
+      ],
+      "categoryId": 5868,
+      "categoryKey": "汽车 / 汽车金融",
+      "days": [
+        "2026-11-14"
+      ],
+      "score": 171.35384615384615
+    }
+  ],
+  "pulledAt": "2026-11-14T02:43:35.563Z",
+  "isLiveToday": true,
+  "metricsDayUsedForArticleIds": "2026-11-14",
+  "thresholds": {
+    "good": {
+      "minTermClicks": 10,
+      "minAdClicks": 1,
+      "minAdRate": 0.05,
+      "limit": 100
+    },
+    "watch": {
+      "minTermClicks": 20,
+      "minAdClicks": 1,
+      "minAdRate": 0.02,
+      "limit": 150
+    }
+  }
+}

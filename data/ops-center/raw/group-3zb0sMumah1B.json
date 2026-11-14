@@ -5,186 +5,186 @@
     "groupName": "moboreels-v01-us",
     "routing": "rotator",
     "geo": "US",
-    "yesterdayRpm": 12.3,
-    "yesterdayRev": 97.71,
-    "yesterdayRpmTrend": -40,
-    "yesterdayRevTrend": -56.91,
+    "yesterdayRpm": 32.2,
+    "yesterdayRev": 324.84,
+    "yesterdayRpmTrend": 161.79,
+    "yesterdayRevTrend": 232.45,
     "offerList": [
       {
         "offerId": "3zazNqvwbaES",
         "offerName": "moboreels-v01-A7-us-10924-algo-cash.com",
         "categoryName": "面部提拉",
-        "weight": 0.02,
+        "weight": 0.01,
         "channelId": "10924",
         "countryCode": "US",
         "afsSource": "7",
-        "todayRpm": 16.7,
-        "todayRev": 14.34
+        "todayRpm": 5.4,
+        "todayRev": 1.05
       },
       {
         "offerId": "3zazJ1CDhdhh",
         "offerName": "moboreels-v01-A1-us-7303350887-homeguarddeals.com",
         "categoryName": "消费电子",
-        "weight": 0.03,
+        "weight": 0.18,
         "channelId": "7303350887",
         "countryCode": "US",
         "afsSource": "1",
-        "todayRpm": 23.8,
-        "todayRev": 4.22
+        "todayRpm": 18.2,
+        "todayRev": 8.35
       },
       {
         "offerId": "3zazDPPc8BIz",
         "offerName": "moboreels-v01-A4-US-2811958953-zestfularcade.com",
         "categoryName": "面部提拉",
-        "weight": 0.03,
+        "weight": 0.02,
         "channelId": "2811958953",
         "countryCode": "US",
         "afsSource": "4",
-        "todayRpm": 24.8,
-        "todayRev": 33.72
+        "todayRpm": 8,
+        "todayRev": 1.01
       },
       {
         "offerId": "3zaz4QenVAvV",
         "offerName": "moboreels-v01-A12-us-4301742392-degreesuccesstips.com",
         "categoryName": "面部提拉",
-        "weight": 0.02,
+        "weight": 0.03,
         "channelId": "4301742392",
         "countryCode": "US",
         "afsSource": "12",
-        "todayRpm": 19,
-        "todayRev": 11.37
+        "todayRpm": 7.8,
+        "todayRev": 0.88
       },
       {
         "offerId": "402IAzHkPYEv",
         "offerName": "moboreels-v01-A15-us-1910410946-mpbus.com",
         "categoryName": "心理健康 / 成瘾",
-        "weight": 0.02,
+        "weight": 0.03,
         "channelId": "1910410946",
         "countryCode": "US",
         "afsSource": "15",
-        "todayRpm": 18.5,
-        "todayRev": 11.54
+        "todayRpm": 11.1,
+        "todayRev": 2.38
       },
       {
         "offerId": "402I89hUb6Dw",
         "offerName": "moboreels-v01-A15-us-1910410946-51jiejue.com",
         "categoryName": "宠物产品",
-        "weight": 0.02,
+        "weight": 0.03,
         "channelId": "1910410946",
         "countryCode": "US",
         "afsSource": "15",
-        "todayRpm": 18.5,
-        "todayRev": 11.54
+        "todayRpm": 11.1,
+        "todayRev": 2.38
       },
       {
         "offerId": "402I1yuomGG2",
         "offerName": "moboreels-v01-A15-us-6671046943-lstmai.com",
         "categoryName": "心理健康 / 成瘾",
-        "weight": 0.13,
+        "weight": 0.03,
         "channelId": "8855093242",
         "countryCode": "US",
         "afsSource": "15",
-        "todayRpm": 23.4,
-        "todayRev": 6.4
+        "todayRpm": 18.6,
+        "todayRev": 7.4
       },
       {
         "offerId": "402HbIvajNj8",
         "offerName": "moboreels-v01-A5-us-6163316189-easyfungalaxy.com",
         "categoryName": "宠物产品",
-        "weight": 0.02,
+        "weight": 0.03,
         "channelId": "6163316189",
         "countryCode": "US",
         "afsSource": "5",
-        "todayRpm": 17.1,
-        "todayRev": 4.23
+        "todayRpm": 8.3,
+        "todayRev": 0.58
       },
       {
         "offerId": "402HU9znZD00",
         "offerName": "moboreels-v01-A5-us-7539927059-funfillgames.com",
         "categoryName": "消费电子",
-        "weight": 0.15,
+        "weight": 0.04,
         "channelId": "7539927059",
         "countryCode": "US",
         "afsSource": "5",
-        "todayRpm": 31.2,
-        "todayRev": 13.87
+        "todayRpm": 14.7,
+        "todayRev": 5.56
       },
       {
         "offerId": "402HN7xchyyH",
         "offerName": "moboreels-v01-A5-us-8320250829-whirlwindarcade.com",
         "categoryName": "汽车金融",
-        "weight": 0.14,
+        "weight": 0.16,
         "channelId": "8637386308",
         "countryCode": "US",
         "afsSource": "5",
-        "todayRpm": 32.1,
-        "todayRev": 30.87
+        "todayRpm": 18.1,
+        "todayRev": 5.58
       },
       {
         "offerId": "402EhZK76ic2",
         "offerName": "moboreels-v01-A12-us-3866280665-intodeepdive.com",
         "categoryName": "汽车金融",
-        "weight": 0.23,
+        "weight": 0.2,
         "channelId": "3866280665",
         "countryCode": "US",
         "afsSource": "12",
-        "todayRpm": 50.4,
-        "todayRev": 42.41
+        "todayRpm": 23.3,
+        "todayRev": 10.99
       },
       {
         "offerId": "402ESIGRce2n",
         "offerName": "moboreels-v01-A7-us-10924-quantify-energy.com",
         "categoryName": "面部提拉",
-        "weight": 0.02,
+        "weight": 0.01,
         "channelId": "10924",
         "countryCode": "US",
         "afsSource": "7",
-        "todayRpm": 16.7,
-        "todayRev": 14.34
+        "todayRpm": 5.4,
+        "todayRev": 1.05
       },
       {
         "offerId": "402EcnpowGGy",
         "offerName": "moboreels-v01-A12-us-9019279851-aivestorhq.com",
         "categoryName": "面部提拉",
-        "weight": 0.01,
+        "weight": 0.03,
         "channelId": "9019279851",
         "countryCode": "US",
         "afsSource": "12",
-        "todayRpm": 8,
-        "todayRev": 1.18
+        "todayRpm": 0,
+        "todayRev": 0
       },
       {
         "offerId": "402EHfndy0ou",
         "offerName": "moboreels-v01-A1-us-7303648630-smileclinicguide.com",
         "categoryName": "新能源汽车",
-        "weight": 0.21,
+        "weight": 0.3,
         "channelId": "7303648630",
         "countryCode": "US",
         "afsSource": "1",
-        "todayRpm": 46.4,
-        "todayRev": 53.15
+        "todayRpm": 30.7,
+        "todayRev": 28.54
       },
       {
         "offerId": "402E7vycE8Tj",
         "offerName": "moboreels-v01-A1-us-13411-insurance-consulting-nearby.com",
         "categoryName": "新能源汽车",
-        "weight": 0.2,
+        "weight": 0.23,
         "channelId": "13411",
         "countryCode": "US",
         "afsSource": "1",
-        "todayRpm": 43,
-        "todayRev": 31.56
+        "todayRpm": 24.3,
+        "todayRev": 17.33
       },
       {
         "offerId": "402D7Xp8JIDm",
         "offerName": "moboreels-v01-A7-us-10925-www.newamc.com",
         "categoryName": "肿瘤 / 生物制剂",
-        "weight": 0.23,
+        "weight": 0.26,
         "channelId": "10925",
         "countryCode": "US",
         "afsSource": "7",
-        "todayRpm": 54.7,
-        "todayRev": 45.84
+        "todayRpm": 25.4,
+        "todayRev": 22.53
       }
     ],
     "funnelId": "3zb0bcaeqhVS",

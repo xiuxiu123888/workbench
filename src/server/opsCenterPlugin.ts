@@ -27,6 +27,7 @@ import {
   markOptimizeBatchWritten,
   saveOptimizeSchedule,
 } from './opsCenterOptimizeBatch'
+import { collectWhitelistArticleIdsForHarvest } from './opsCenterKeywordHarvest'
 import { readOpsCenterJson, writeOpsCenterJson } from './opsCenterStore'
 import { shanghaiDay, shanghaiHour } from '../domain/opsCenterTime'
 
@@ -149,6 +150,45 @@ export function opsCenterPlugin(root: string, options: OpsCenterPluginOptions = 
         meta,
         lexicon: payload || { updatedAt: null, categories: [] },
       })
+      return
+    }
+
+    if (req.method === 'GET' && route === 'keyword-harvest') {
+      const index = readOpsCenterJson<{ updatedAt?: string; days?: string[] }>(
+        root,
+        'keyword-harvest/index.json',
+      )
+      const days = Array.isArray(index?.days) ? index!.days! : []
+      send(res, 200, {
+        updatedAt: index?.updatedAt ?? null,
+        days: [...days].sort((a, b) => b.localeCompare(a)),
+      })
+      return
+    }
+
+    if (req.method === 'GET' && route === 'keyword-harvest/source-articles') {
+      const query = queryOf(req.url)
+      const day = String(query.get('day') || '').trim()
+      if (!/^\d{4}-\d{2}-\d{2}$/.test(day)) {
+        send(res, 400, { message: '日期格式应为 YYYY-MM-DD' })
+        return
+      }
+      send(res, 200, collectWhitelistArticleIdsForHarvest(root, day))
+      return
+    }
+
+    if (req.method === 'GET' && route.startsWith('keyword-harvest/')) {
+      const day = decodeURIComponent(route.slice('keyword-harvest/'.length)).trim()
+      if (!/^\d{4}-\d{2}-\d{2}$/.test(day)) {
+        send(res, 400, { message: '日期格式应为 YYYY-MM-DD' })
+        return
+      }
+      const report = readOpsCenterJson(root, `keyword-harvest/${day}.json`)
+      if (!report) {
+        send(res, 404, { message: `没有 ${day} 的种子词日报` })
+        return
+      }
+      send(res, 200, report)
       return
     }
 

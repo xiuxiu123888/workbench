@@ -5,10 +5,10 @@
     "groupName": "CD-Reel-A70-Br",
     "routing": "",
     "geo": "BR",
-    "yesterdayRpm": 0.9,
-    "yesterdayRev": 0.1,
-    "yesterdayRpmTrend": 28.57,
-    "yesterdayRevTrend": 0,
+    "yesterdayRpm": 2.8,
+    "yesterdayRev": 0.35,
+    "yesterdayRpmTrend": 211.11,
+    "yesterdayRevTrend": 250,
     "offerList": [
       {
         "offerId": "3lplh9cS1lul",
@@ -29,8 +29,8 @@
         "channelId": "9067818065",
         "countryCode": null,
         "afsSource": null,
-        "todayRpm": 0.5,
-        "todayRev": 0.03
+        "todayRpm": 0.2,
+        "todayRev": 0.01
       },
       {
         "offerId": "3XcLFHmOvJ94",
@@ -40,8 +40,8 @@
         "channelId": "8941329599",
         "countryCode": null,
         "afsSource": null,
-        "todayRpm": 5.7,
-        "todayRev": 0.32
+        "todayRpm": 5.5,
+        "todayRev": 0.21
       },
       {
         "offerId": "3XcNOmWfmQgo",

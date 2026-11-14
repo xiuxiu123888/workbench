@@ -6,9 +6,9 @@
     "routing": "",
     "geo": "IT",
     "yesterdayRpm": 0.3,
-    "yesterdayRev": 0.13,
-    "yesterdayRpmTrend": -62.5,
-    "yesterdayRevTrend": -56.67,
+    "yesterdayRev": 0.1,
+    "yesterdayRpmTrend": 0,
+    "yesterdayRevTrend": -23.08,
     "offerList": [
       {
         "offerId": "3aX2FWmtB9kW",
@@ -40,8 +40,8 @@
         "channelId": "5525525852",
         "countryCode": null,
         "afsSource": null,
-        "todayRpm": 0.2,
-        "todayRev": 0.03
+        "todayRpm": 0,
+        "todayRev": 0
       },
       {
         "offerId": "3bwfhFIOVxBF",

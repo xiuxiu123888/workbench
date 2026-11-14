@@ -5,10 +5,10 @@
     "groupName": "shortmax-v06-us",
     "routing": "rotator",
     "geo": "US",
-    "yesterdayRpm": 17.6,
-    "yesterdayRev": 14.29,
-    "yesterdayRpmTrend": -23.48,
-    "yesterdayRevTrend": -7.63,
+    "yesterdayRpm": 30.1,
+    "yesterdayRev": 23.36,
+    "yesterdayRpmTrend": 71.02,
+    "yesterdayRevTrend": 63.47,
     "offerList": [
       {
         "offerId": "3ws6Jb9txj8G",
@@ -29,8 +29,8 @@
         "channelId": "5231879751",
         "countryCode": "US",
         "afsSource": "5",
-        "todayRpm": 13.8,
-        "todayRev": 0.47
+        "todayRpm": 26.9,
+        "todayRev": 0.94
       },
       {
         "offerId": "3ws5Fv9mJEBR",
@@ -40,8 +40,8 @@
         "channelId": "3115809079",
         "countryCode": "US",
         "afsSource": "7",
-        "todayRpm": 26.7,
-        "todayRev": 15.86
+        "todayRpm": 54,
+        "todayRev": 29.69
       },
       {
         "offerId": "3ws4BPqKwI9C",

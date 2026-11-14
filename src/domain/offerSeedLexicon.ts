@@ -154,6 +154,27 @@ export function listSeedsForCategories(
   return out
 }
 
+/** 把一批种子合并进指定品类（去重），返回新词库 */
+export function mergeSeedsIntoLexicon(
+  lexicon: SeedLexiconFile,
+  categoryKey: string,
+  seeds: Array<Partial<SeedLexiconItem>>,
+  categoryId?: number | null,
+): SeedLexiconFile {
+  const key = cleanText(categoryKey) || '换文供种'
+  return normalizeSeedLexicon({
+    updatedAt: new Date().toISOString(),
+    categories: [
+      ...lexicon.categories,
+      {
+        categoryKey: key,
+        categoryId: categoryId ?? null,
+        seeds: seeds as SeedLexiconItem[],
+      },
+    ],
+  })
+}
+
 /** 词库里出现过的国家/地区代码 */
 export function listSeedRegions(lexicon: SeedLexiconFile): string[] {
   const set = new Set<string>()

@@ -6,20 +6,20 @@
     "routing": "",
     "geo": "BR",
     "yesterdayRpm": 0.1,
-    "yesterdayRev": 0.34,
-    "yesterdayRpmTrend": 100,
-    "yesterdayRevTrend": 385.71,
+    "yesterdayRev": 0.27,
+    "yesterdayRpmTrend": 0,
+    "yesterdayRevTrend": -20.59,
     "offerList": [
       {
         "offerId": "3i2aPrzZpeqO",
         "offerName": "cd-reel-A6fan-62-A12-BR-2506279147",
         "categoryName": "健康保险",
-        "weight": 1,
+        "weight": 0.15,
         "channelId": "2506279147",
         "countryCode": null,
         "afsSource": null,
-        "todayRpm": 0.1,
-        "todayRev": 0.15
+        "todayRpm": 0.2,
+        "todayRev": 0.09
       },
       {
         "offerId": "3lplh9ayCyBq",
@@ -47,12 +47,12 @@
         "offerId": "3XKv5AZ8jEN3",
         "offerName": "Cd-reel-0825-fan-62-A7-br-10926",
         "categoryName": "冰箱分期",
-        "weight": 0.16,
+        "weight": 1,
         "channelId": "10926",
         "countryCode": null,
         "afsSource": null,
-        "todayRpm": 0,
-        "todayRev": 0.06
+        "todayRpm": 0.3,
+        "todayRev": 0.17
       }
     ],
     "funnelId": "3O9Vr9Ar6pNC",

@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-13T07:54:00.000Z",
+  "updatedAt": "2026-11-13T17:50:11.503Z",
   "categories": [
     {
       "categoryKey": "面部提拉",
@@ -30,6 +30,140 @@
           "regionId": "US"
         }
       ]
+    },
+    {
+      "categoryKey": "宠物 / 宠物产品",
+      "categoryId": 5884,
+      "seeds": [
+        {
+          "keyword": "Best Cat Litter to Keep Smell Down",
+          "intentKeyword": "Best Cat Litter to Keep Smell Down",
+          "ref": "Best Cat Litter to Keep Smell Down",
+          "regionId": "US"
+        }
+      ]
+    },
+    {
+      "categoryKey": "健康 / 医药研发 / 心理健康 / 成瘾",
+      "categoryId": 6314,
+      "seeds": [
+        {
+          "keyword": "Buprenorphine Everything You Need to Know",
+          "intentKeyword": "Buprenorphine Everything You Need to Know",
+          "ref": "Buprenorphine Everything You Need to Know",
+          "regionId": "US"
+        }
+      ]
+    },
+    {
+      "categoryKey": "健康 / 医药研发 / 肿瘤 / 生物制剂",
+      "categoryId": 6308,
+      "seeds": [
+        {
+          "keyword": "Latest Trends and Advancements in Oncology",
+          "intentKeyword": "Latest Trends and Advancements in Oncology",
+          "ref": "Latest Trends and Advancements in Oncology",
+          "regionId": "US"
+        },
+        {
+          "keyword": "New Ways to Treat Cancer",
+          "intentKeyword": "New Ways to Treat Cancer",
+          "ref": "New Ways to Treat Cancer",
+          "regionId": "US"
+        }
+      ]
+    },
+    {
+      "categoryKey": "美容 / 面部提拉",
+      "categoryId": 5162,
+      "seeds": [
+        {
+          "keyword": "Voluma face lift",
+          "intentKeyword": "Voluma face lift",
+          "ref": "Voluma face lift",
+          "regionId": "US"
+        },
+        {
+          "keyword": "Non Surgical Facial Rejuvenation",
+          "intentKeyword": "Non Surgical Facial Rejuvenation",
+          "ref": "Non Surgical Facial Rejuvenation",
+          "regionId": "US"
+        },
+        {
+          "keyword": "Facial Rejuvenation Near Me",
+          "intentKeyword": "Facial Rejuvenation Near Me",
+          "ref": "Facial Rejuvenation Near Me",
+          "regionId": "US"
+        },
+        {
+          "keyword": "Beauty Products that Work",
+          "intentKeyword": "Beauty Products that Work",
+          "ref": "Beauty Products that Work",
+          "regionId": "US"
+        },
+        {
+          "keyword": "Best Non-surgical Facelift",
+          "intentKeyword": "Best Non-surgical Facelift",
+          "ref": "Best Non-surgical Facelift",
+          "regionId": "US"
+        },
+        {
+          "keyword": "Beauty Products Website",
+          "intentKeyword": "Beauty Products Website",
+          "ref": "Beauty Products Website",
+          "regionId": "US"
+        },
+        {
+          "keyword": "Best Non Surgical Facelift",
+          "intentKeyword": "Best Non Surgical Facelift",
+          "ref": "Best Non Surgical Facelift",
+          "regionId": "US"
+        }
+      ]
+    },
+    {
+      "categoryKey": "美容 / 医美 / 注射美容 / 注射除皱",
+      "categoryId": 5591,
+      "seeds": [
+        {
+          "keyword": "Botox Vs Dysport Units",
+          "intentKeyword": "Botox Vs Dysport Units",
+          "ref": "Botox Vs Dysport Units",
+          "regionId": "US"
+        }
+      ]
+    },
+    {
+      "categoryKey": "汽车 / 车型分类 / 新能源汽车",
+      "categoryId": 5246,
+      "seeds": [
+        {
+          "keyword": "2027 Hybrids",
+          "intentKeyword": "2027 Hybrids",
+          "ref": "2027 Hybrids",
+          "regionId": "US"
+        }
+      ]
+    },
+    {
+      "categoryKey": "科技 / 消费电子",
+      "categoryId": 5876,
+      "seeds": [
+        {
+          "keyword": "New Gadgets",
+          "intentKeyword": "New Gadgets",
+          "ref": "New Gadgets",
+          "regionId": "US"
+        }
+      ]
     }
+  ]
+}
+    }
+  ]
+}
+    }
+  ]
+}
   ]
 }

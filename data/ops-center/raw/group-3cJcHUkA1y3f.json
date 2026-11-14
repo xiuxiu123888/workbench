@@ -6,9 +6,9 @@
     "routing": "",
     "geo": "MX",
     "yesterdayRpm": 0,
-    "yesterdayRev": 0.05,
-    "yesterdayRpmTrend": -100,
-    "yesterdayRevTrend": -73.68,
+    "yesterdayRev": 0,
+    "yesterdayRpmTrend": 0,
+    "yesterdayRevTrend": -100,
     "offerList": [
       {
         "offerId": "3cJc1TcfBiZr",

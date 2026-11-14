@@ -5,10 +5,10 @@
     "groupName": "shortmax-v03-default",
     "routing": "rotator",
     "geo": "US",
-    "yesterdayRpm": 32.1,
-    "yesterdayRev": 56.23,
-    "yesterdayRpmTrend": -63.56,
-    "yesterdayRevTrend": -56.35,
+    "yesterdayRpm": 31.3,
+    "yesterdayRev": 57.71,
+    "yesterdayRpmTrend": -2.49,
+    "yesterdayRevTrend": 2.63,
     "offerList": [
       {
         "offerId": "3z7kBnbnWgg6",
@@ -18,8 +18,8 @@
         "channelId": "9646014907",
         "countryCode": null,
         "afsSource": "5",
-        "todayRpm": 20,
-        "todayRev": 10.53
+        "todayRpm": 41.8,
+        "todayRev": 4.43
       },
       {
         "offerId": "3z7haLyRYcyc",
@@ -29,8 +29,8 @@
         "channelId": "8488653000",
         "countryCode": "US",
         "afsSource": "4",
-        "todayRpm": 37.8,
-        "todayRev": 24.47
+        "todayRpm": 74.9,
+        "todayRev": 71.63
       },
       {
         "offerId": "3z7hmq2WqoRA",
@@ -40,8 +40,8 @@
         "channelId": "1751917633",
         "countryCode": "US",
         "afsSource": "7",
-        "todayRpm": 21.1,
-        "todayRev": 1.18
+        "todayRpm": 18,
+        "todayRev": 0.81
       },
       {
         "offerId": "3z7jM3iSY9AJ",
@@ -51,8 +51,8 @@
         "channelId": "9827539423",
         "countryCode": "US",
         "afsSource": "12",
-        "todayRpm": 17.9,
-        "todayRev": 1.02
+        "todayRpm": 41.6,
+        "todayRev": 1.83
       },
       {
         "offerId": "3z7k14Kx9LVK",
@@ -62,8 +62,19 @@
         "channelId": "7917387848",
         "countryCode": null,
         "afsSource": "15",
-        "todayRpm": 19.6,
-        "todayRev": 7.09
+        "todayRpm": 15.5,
+        "todayRev": 2.52
+      },
+      {
+        "offerId": "43qPfrS7yAQB",
+        "offerName": "ShortMax-v03-A17-us-3819236753-seekmoon.ai",
+        "categoryName": "面部提拉",
+        "weight": 1,
+        "channelId": "3819236753",
+        "countryCode": "US",
+        "afsSource": "17",
+        "todayRpm": 0,
+        "todayRev": 0
       }
     ],
     "funnelId": "3z7nZk7WDoBd",

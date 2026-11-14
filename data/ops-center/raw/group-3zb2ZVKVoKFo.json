@@ -5,21 +5,21 @@
     "groupName": "moboreels-v03-us",
     "routing": "rotator",
     "geo": "US",
-    "yesterdayRpm": 20,
-    "yesterdayRev": 20.23,
-    "yesterdayRpmTrend": -66.44,
-    "yesterdayRevTrend": -84.45,
+    "yesterdayRpm": 15.4,
+    "yesterdayRev": 25.84,
+    "yesterdayRpmTrend": -23,
+    "yesterdayRevTrend": 27.73,
     "offerList": [
       {
         "offerId": "3zb1drsZvtna",
         "offerName": "moboreels-v03-A12-us-2506279147-intodeepdive.com",
         "categoryName": "面部提拉",
-        "weight": 0.17,
+        "weight": 0.02,
         "channelId": "2506279147",
         "countryCode": "US",
         "afsSource": "12",
-        "todayRpm": 6.8,
-        "todayRev": 2.26
+        "todayRpm": 8.2,
+        "todayRev": 0.69
       },
       {
         "offerId": "3zb1ibulZhr3",
@@ -29,8 +29,8 @@
         "channelId": "1747103610",
         "countryCode": "US",
         "afsSource": "4",
-        "todayRpm": 14.5,
-        "todayRev": 17.3
+        "todayRpm": 11.3,
+        "todayRev": 9.64
       }
     ],
     "funnelId": "3zb3PGEznP52",

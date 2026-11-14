@@ -5,10 +5,10 @@
     "groupName": "CD-Reel-A75-US",
     "routing": "",
     "geo": "US",
-    "yesterdayRpm": 53.8,
-    "yesterdayRev": 15.33,
-    "yesterdayRpmTrend": -5.61,
-    "yesterdayRevTrend": -91.37,
+    "yesterdayRpm": 62.2,
+    "yesterdayRev": 294.58,
+    "yesterdayRpmTrend": 15.61,
+    "yesterdayRevTrend": 1821.59,
     "offerList": [
       {
         "offerId": "3lpdddJLyoTZ",
@@ -40,8 +40,8 @@
         "channelId": "8002532881",
         "countryCode": null,
         "afsSource": null,
-        "todayRpm": 62.8,
-        "todayRev": 274.79
+        "todayRpm": 54.9,
+        "todayRev": 97.39
       },
       {
         "offerId": "3Xch7GOHIOB3",

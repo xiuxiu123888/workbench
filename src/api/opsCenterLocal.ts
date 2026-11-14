@@ -199,6 +199,83 @@ export async function rebuildOpsCenterReportLocal(): Promise<{
   }
 }
 
+export type KeywordHarvestRow = {
+  keyword: string
+  termClicks: number
+  adClicks: number
+  adRate: number
+  articleCount: number
+  articleIds?: string[]
+  categoryId?: number | null
+  categoryKey?: string | null
+  days?: string[]
+  score: number
+}
+
+export type KeywordHarvestReport = {
+  day: string
+  articleCount: number
+  failedChunks: number
+  goodCount: number
+  watchCount: number
+  goodWithCategory?: number
+  watchWithCategory?: number
+  good: KeywordHarvestRow[]
+  watch: KeywordHarvestRow[]
+}
+
+export async function listKeywordHarvestSourceArticles(day: string): Promise<{
+  day: string
+  metricsDay: string
+  articleIds: string[]
+  existingDays: string[]
+}> {
+  const response = await fetch(
+    `/local-api/ops-center/keyword-harvest/source-articles?day=${encodeURIComponent(day)}`,
+  )
+  const body = (await response.json().catch(() => null)) as {
+    day?: string
+    metricsDay?: string
+    articleIds?: string[]
+    existingDays?: string[]
+    message?: string
+  } | null
+  if (!response.ok) {
+    throw new Error(body?.message || '读取白名单文章失败')
+  }
+  return {
+    day: String(body?.day || day),
+    metricsDay: String(body?.metricsDay || ''),
+    articleIds: Array.isArray(body?.articleIds) ? body!.articleIds! : [],
+    existingDays: Array.isArray(body?.existingDays) ? body!.existingDays! : [],
+  }
+}
+
+export async function listKeywordHarvestDays(): Promise<{ updatedAt: string | null; days: string[] }> {
+  const response = await fetch('/local-api/ops-center/keyword-harvest')
+  const body = (await response.json().catch(() => null)) as {
+    updatedAt?: string | null
+    days?: string[]
+    message?: string
+  } | null
+  if (!response.ok) {
+    throw new Error(body?.message || '读取种子词日报列表失败')
+  }
+  return {
+    updatedAt: body?.updatedAt ?? null,
+    days: Array.isArray(body?.days) ? body!.days! : [],
+  }
+}
+
+export async function loadKeywordHarvestDay(day: string): Promise<KeywordHarvestReport> {
+  const response = await fetch(`/local-api/ops-center/keyword-harvest/${encodeURIComponent(day)}`)
+  const body = (await response.json().catch(() => null)) as (KeywordHarvestReport & { message?: string }) | null
+  if (!response.ok || !body?.day) {
+    throw new Error(body?.message || `读取 ${day} 种子词日报失败`)
+  }
+  return body
+}
+
 export async function loadSeedLexicon(): Promise<{
   lexicon: SeedLexiconFile
   meta: Record<string, unknown> | null

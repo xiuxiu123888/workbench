@@ -5,10 +5,10 @@
     "groupName": "vibeshort-sign-us",
     "routing": "rotator",
     "geo": "US",
-    "yesterdayRpm": 16.1,
-    "yesterdayRev": 1.5,
-    "yesterdayRpmTrend": -49.84,
-    "yesterdayRevTrend": -18.03,
+    "yesterdayRpm": 27.4,
+    "yesterdayRev": 1.56,
+    "yesterdayRpmTrend": 70.19,
+    "yesterdayRevTrend": 4,
     "offerList": [
       {
         "offerId": "3p88kWqiFPk8",
@@ -18,8 +18,8 @@
         "channelId": "9473195525",
         "countryCode": "US",
         "afsSource": "4",
-        "todayRpm": 30.6,
-        "todayRev": 1.56
+        "todayRpm": 0,
+        "todayRev": 0
       },
       {
         "offerId": "3p88b0tir5uE",

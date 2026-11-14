@@ -5,10 +5,10 @@
     "groupName": "reader-v01-default",
     "routing": "rotator",
     "geo": "US",
-    "yesterdayRpm": 4.3,
-    "yesterdayRev": 35.59,
-    "yesterdayRpmTrend": -6.52,
-    "yesterdayRevTrend": 64.84,
+    "yesterdayRpm": 5.4,
+    "yesterdayRev": 38.04,
+    "yesterdayRpmTrend": 25.58,
+    "yesterdayRevTrend": 6.88,
     "offerList": [
       {
         "offerId": "3zau8RmL62F6",
@@ -18,8 +18,8 @@
         "channelId": "7723809864",
         "countryCode": null,
         "afsSource": "4",
-        "todayRpm": 2.1,
-        "todayRev": 1.06
+        "todayRpm": 13.2,
+        "todayRev": 5.78
       },
       {
         "offerId": "3zau1jwSK9N4",
@@ -29,8 +29,8 @@
         "channelId": "9508193152",
         "countryCode": null,
         "afsSource": "7",
-        "todayRpm": 4,
-        "todayRev": 7.57
+        "todayRpm": 3.1,
+        "todayRev": 0.42
       },
       {
         "offerId": "3zatuizFOLYi",
@@ -40,8 +40,8 @@
         "channelId": "5132442487",
         "countryCode": null,
         "afsSource": "12",
-        "todayRpm": 8.8,
-        "todayRev": 26.22
+        "todayRpm": 4.9,
+        "todayRev": 2.17
       },
       {
         "offerId": "402qhISngEHL",
@@ -51,8 +51,8 @@
         "channelId": "1930962446",
         "countryCode": null,
         "afsSource": "5",
-        "todayRpm": 2.9,
-        "todayRev": 2.51
+        "todayRpm": 2,
+        "todayRev": 0.47
       },
       {
         "offerId": "402qJWBBxRg1",

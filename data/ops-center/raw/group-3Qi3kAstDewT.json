@@ -5,10 +5,10 @@
     "groupName": "CD-Reel-A70-Us",
     "routing": "",
     "geo": "US",
-    "yesterdayRpm": 45.4,
-    "yesterdayRev": 3.68,
-    "yesterdayRpmTrend": 474.68,
-    "yesterdayRevTrend": 275.51,
+    "yesterdayRpm": 103.2,
+    "yesterdayRev": 11.77,
+    "yesterdayRpmTrend": 127.31,
+    "yesterdayRevTrend": 219.84,
     "offerList": [
       {
         "offerId": "3bwuZpcDjVSM",
@@ -29,8 +29,8 @@
         "channelId": "8941329599",
         "countryCode": null,
         "afsSource": null,
-        "todayRpm": 0,
-        "todayRev": 0
+        "todayRpm": 30.3,
+        "todayRev": 0.88
       },
       {
         "offerId": "3XcOHFM7wni5",
@@ -40,8 +40,8 @@
         "channelId": "10928",
         "countryCode": null,
         "afsSource": null,
-        "todayRpm": 0,
-        "todayRev": 0
+        "todayRpm": 7.9,
+        "todayRev": 0.11
       }
     ],
     "funnelId": "3Qi0wZnVilho",

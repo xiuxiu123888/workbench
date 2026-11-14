@@ -5,10 +5,10 @@
     "groupName": "storyreel-v05-us",
     "routing": "rotator",
     "geo": "US",
-    "yesterdayRpm": 35.7,
-    "yesterdayRev": 19.25,
-    "yesterdayRpmTrend": 151.41,
-    "yesterdayRevTrend": 178.18,
+    "yesterdayRpm": 124.9,
+    "yesterdayRev": 55.69,
+    "yesterdayRpmTrend": 249.86,
+    "yesterdayRevTrend": 189.3,
     "offerList": [
       {
         "offerId": "3wxRyS0LKh32",
@@ -29,8 +29,8 @@
         "channelId": "9298290578",
         "countryCode": "US",
         "afsSource": "5",
-        "todayRpm": 11.5,
-        "todayRev": 0.23
+        "todayRpm": 0,
+        "todayRev": 0
       },
       {
         "offerId": "3wxRp1jUhn8u",
@@ -40,8 +40,8 @@
         "channelId": "9516430386",
         "countryCode": "US",
         "afsSource": "4",
-        "todayRpm": 31.5,
-        "todayRev": 0.41
+        "todayRpm": 0,
+        "todayRev": 0
       },
       {
         "offerId": "3wxRiqWva04u",
@@ -51,8 +51,8 @@
         "channelId": "16496",
         "countryCode": "US",
         "afsSource": "1",
-        "todayRpm": 357.3,
-        "todayRev": 30.37
+        "todayRpm": 47.7,
+        "todayRev": 8.15
       },
       {
         "offerId": "3wxReRqtdRJ8",
@@ -80,12 +80,12 @@
         "offerId": "3ywdYJvlu15H",
         "offerName": "storyreel-v05-A1-us-13421-insurance-consulting-nearby.com",
         "categoryName": "注射除皱",
-        "weight": 0.13,
+        "weight": 0.03,
         "channelId": "13421",
         "countryCode": "US",
         "afsSource": "1",
-        "todayRpm": 57.1,
-        "todayRev": 11.2
+        "todayRpm": 0,
+        "todayRev": 0
       },
       {
         "offerId": "3ywddisTJKN6",
@@ -95,8 +95,8 @@
         "channelId": "13422",
         "countryCode": "US",
         "afsSource": "1",
-        "todayRpm": 14,
-        "todayRev": 0.14
+        "todayRpm": 0,
+        "todayRev": 0
       },
       {
         "offerId": "3ywdlDRCRWP4",
@@ -106,8 +106,8 @@
         "channelId": "3797775551",
         "countryCode": "US",
         "afsSource": "5",
-        "todayRpm": 0.9,
-        "todayRev": 0.01
+        "todayRpm": 0,
+        "todayRev": 0
       },
       {
         "offerId": "3wxSP4nmGNST",
@@ -150,8 +150,8 @@
         "channelId": "18641",
         "countryCode": "US",
         "afsSource": "7",
-        "todayRpm": 14.7,
-        "todayRev": 0.22
+        "todayRpm": 0,
+        "todayRev": 0
       },
       {
         "offerId": "3ywznue0z37N",
@@ -161,8 +161,8 @@
         "channelId": "18640",
         "countryCode": "US",
         "afsSource": "7",
-        "todayRpm": 21.3,
-        "todayRev": 0.17
+        "todayRpm": 0,
+        "todayRev": 0
       }
     ],
     "funnelId": "3wxU24LWkWif",

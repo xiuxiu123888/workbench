@@ -5,10 +5,10 @@
     "groupName": "Blinkdrama-v04-default",
     "routing": "rotator",
     "geo": "US",
-    "yesterdayRpm": 18.1,
-    "yesterdayRev": 12.1,
-    "yesterdayRpmTrend": -19.56,
-    "yesterdayRevTrend": -20.6,
+    "yesterdayRpm": 37.4,
+    "yesterdayRev": 55.37,
+    "yesterdayRpmTrend": 106.63,
+    "yesterdayRevTrend": 357.6,
     "offerList": [
       {
         "offerId": "3uDYMYQAcBBn",
@@ -18,8 +18,8 @@
         "channelId": "12152",
         "countryCode": null,
         "afsSource": "7",
-        "todayRpm": 12.7,
-        "todayRev": 1.17
+        "todayRpm": 0,
+        "todayRev": 0
       },
       {
         "offerId": "3uDYElQF2BTd",
@@ -29,8 +29,8 @@
         "channelId": "2582495292",
         "countryCode": null,
         "afsSource": "4",
-        "todayRpm": 67.4,
-        "todayRev": 43.72
+        "todayRpm": 48.9,
+        "todayRev": 14.81
       },
       {
         "offerId": "3wsF8g4iRZWO",
@@ -40,8 +40,8 @@
         "channelId": "4932131851",
         "countryCode": null,
         "afsSource": "15",
-        "todayRpm": 6.9,
-        "todayRev": 1.72
+        "todayRpm": 5.3,
+        "todayRev": 0.69
       },
       {
         "offerId": "3wsDnqdo0T6K",
@@ -51,8 +51,8 @@
         "channelId": "1304490452",
         "countryCode": null,
         "afsSource": "5",
-        "todayRpm": 15.4,
-        "todayRev": 4.21
+        "todayRpm": 23,
+        "todayRev": 3.17
       },
       {
         "offerId": "3wsDC6fd6Q9H",
@@ -62,8 +62,8 @@
         "channelId": "2092927125",
         "countryCode": null,
         "afsSource": "12",
-        "todayRpm": 28.3,
-        "todayRev": 2.35
+        "todayRpm": 25.2,
+        "todayRev": 3.81
       },
       {
         "offerId": "43qK1R5ujOmd",

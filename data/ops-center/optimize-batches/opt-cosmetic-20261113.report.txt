@@ -1,8 +1,84 @@
 【Offer优化对比报告】美妆试词调优 · 2026-11-13
 批次 opt-cosmetic-20261113
 优化前指标日 2026-11-13
-优化后指标日 （尚未回收）
-回收时间 —
+优化后指标日 2026-11-13
+回收时间 2026-11-13T16:55:07.810Z
 条目 18
 
-尚未回收优化后数据。请求 harvest 后再看对比。
+## 汇总
+已回收 18/18
+收入上升 17 · 二跳上升 6 · 仍疑似无广告 1
+
+## 明细
+- Blinkdrama-v02-A5-us-8412824288-funfillgames.com (Blinkdrama-v02) [P0/written]
+  前: ref=hyundai 0 financing 词点击=8505 广告点击=235 转化=0 rev=$18.81 RPM=0.91 二跳=2.76%
+  后: ref=Cosmetics Products 词点击=10768 广告点击=296 转化=10 rev=$24.96 RPM=0.95 二跳=2.75%
+  Δ: 词点击+2263 广告点击+61 转化+10 rev$+6.15 二跳-0.01%
+- Blinkdrama-sign-v01-A4-Us-1628696221-zestfularcade.com (Blinkdrama-sign-v01) [P0/written]
+  前: ref=cars with 0 apr 词点击=8106 广告点击=203 转化=0 rev=$20.40 RPM=0.47 二跳=2.50%
+  后: ref=Best Beauty Products for Mature Skin 词点击=10049 广告点击=273 转化=4 rev=$27.24 RPM=0.49 二跳=2.72%
+  Δ: 词点击+1943 广告点击+70 转化+4 rev$+6.84 二跳+0.21%
+- reader-v01-A12-us-5132442487-degreesuccesstips.com (reader-v01) [P0/written]
+  前: ref=gm hybrid vehicles 词点击=1696 广告点击=132 转化=104 rev=$27.31 RPM=1.77 二跳=7.78%
+  后: ref=Cosmetics and Beauty Products 词点击=2213 广告点击=137 转化=110 rev=$29.01 RPM=1.43 二跳=6.19%
+  Δ: 词点击+517 广告点击+5 转化+6 rev$+1.70 二跳-1.59%
+- moboreels-v01-A4-US-2811958953-zestfularcade.com (moboreels-v01) [P0/written]
+  前: ref=clorox everclean 词点击=2888 广告点击=211 转化=109 rev=$37.73 RPM=1.83 二跳=7.31%
+  后: ref=Cosmetic Products 词点击=3793 广告点击=236 转化=114 rev=$41.47 RPM=1.49 二跳=6.22%
+  Δ: 词点击+905 广告点击+25 转化+5 rev$+3.74 二跳-1.08%
+- reader-v01-A4-us-7723809864-zestfularcade.com (reader-v01) [P0/written]
+  前: ref=best non smelling cat litter 词点击=1350 广告点击=138 转化=7 rev=$13.55 RPM=1.03 二跳=10.22%
+  后: ref=Best Beauty Products for Mature Skin 词点击=1783 广告点击=213 转化=8 rev=$18.89 RPM=1.06 二跳=11.95%
+  Δ: 词点击+433 广告点击+75 转化+1 rev$+5.34 二跳+1.72%
+- storyreel-sign-v01-A4-us-9470541113-zestfularcade.com (storyreel-sign-v01) [P0/written]
+  前: ref=new ways to treat cancer 词点击=577 广告点击=55 转化=0 rev=$15.90 RPM=7.49 二跳=9.53%
+  后: ref=Cosmetic Products 词点击=731 广告点击=57 转化=0 rev=$17.11 RPM=6.00 二跳=7.80%
+  Δ: 词点击+154 广告点击+2 转化0 rev$+1.21 二跳-1.73%
+- moboreels-v01-A12-us-4301742392-degreesuccesstips.com (moboreels-v01) [P0/written]
+  前: ref=latest trends and advancements in oncology 词点击=2634 广告点击=130 转化=28 rev=$15.94 RPM=0.80 二跳=4.94%
+  后: ref=Cosmetics Products 词点击=3649 广告点击=153 转化=33 rev=$18.63 RPM=0.68 二跳=4.19%
+  Δ: 词点击+1015 广告点击+23 转化+5 rev$+2.69 二跳-0.74%
+- storyreel-v02-A4-us-8236490346-joyfulgaminghub9.com (storyreel-v02) [P0/written]
+  前: ref=no interest car finance offers 词点击=1069 广告点击=154 转化=0 rev=$27.20 RPM=8.73 二跳=14.41%
+  后: ref=Cosmetics Products 词点击=1464 广告点击=196 转化=0 rev=$38.73 RPM=8.97 二跳=13.39%
+  Δ: 词点击+395 广告点击+42 转化0 rev$+11.53 二跳-1.02%
+- reader-v01-A7-us-9508193152-algo-cash.com (reader-v01) [P0/written]
+  前: ref=botox vs dysport units 词点击=1729 广告点击=152 转化=31 rev=$14.47 RPM=0.99 二跳=8.79%
+  后: ref=Cosmetics and Beauty Products 词点击=2281 广告点击=187 转化=31 rev=$16.07 RPM=0.83 二跳=8.20%
+  Δ: 词点击+552 广告点击+35 转化0 rev$+1.60 二跳-0.59%
+- storyreel-v02-A12-us-9128576243-aivestorhq.com (storyreel-v02) [P0/written]
+  前: ref=best non smelling cat litter 词点击=1167 广告点击=80 转化=0 rev=$13.49 RPM=4.40 二跳=6.86%
+  后: ref=Cosmetics Products 词点击=1588 广告点击=119 转化=0 rev=$25.13 RPM=5.94 二跳=7.49%
+  Δ: 词点击+421 广告点击+39 转化0 rev$+11.64 二跳+0.64%
+- Blinkdrama-sign-v01-A15-us-2979233422-mpbus.com (Blinkdrama-sign-v01) [P0/written]
+  前: ref=hyundai 0 financing 词点击=6874 广告点击=108 转化=0 rev=$11.55 RPM=0.27 二跳=1.57%
+  后: ref=Cosmetics and Beauty Products 词点击=8513 广告点击=155 转化=5 rev=$14.21 RPM=0.26 二跳=1.82%
+  Δ: 词点击+1639 广告点击+47 转化+5 rev$+2.66 二跳+0.25%
+- reader-v01-A5-us-1930962446-whirlwindarcade.com (reader-v01) [P0/written]
+  前: ref=best new gadgets to buy 词点击=1630 广告点击=72 转化=11 rev=$7.72 RPM=0.56 二跳=4.42%
+  后: ref=Cosmetic Products 词点击=2207 广告点击=103 转化=11 rev=$11.09 RPM=0.59 二跳=4.67%
+  Δ: 词点击+577 广告点击+31 转化0 rev$+3.37 二跳+0.25%
+- moboreels-v02-A12-US-3731730900-intodeepdive.com (moboreels-v02) [P0/written]
+  前: ref=gm hybrid suv 词点击=2256 广告点击=0 转化=0 rev=$1.91 RPM=0.11 二跳=0.00%
+  后: ref=Cosmetics and Beauty Products 词点击=3155 广告点击=0 转化=0 rev=$2.68 RPM=0.12 二跳=0.00%
+  Δ: 词点击+899 广告点击0 转化0 rev$+0.77 二跳0.00%
+- moboreels-v03-A12-us-2506279147-intodeepdive.com (moboreels-v03) [P0/written]
+  前: ref=gadgets for wellness 词点击=2241 广告点击=128 转化=12 rev=$7.56 RPM=0.42 二跳=5.71%
+  后: ref=Cosmetics Products 词点击=3111 广告点击=170 转化=13 rev=$10.10 RPM=0.42 二跳=5.46%
+  Δ: 词点击+870 广告点击+42 转化+1 rev$+2.54 二跳-0.25%
+- moboreels-v02-A4-US-8671712417-zestfularcade.com (moboreels-v02) [P0/written]
+  前: ref=botox dysport and xeomin injectable near me 词点击=2361 广告点击=0 转化=2 rev=$1.54 RPM=0.09 二跳=0.00%
+  后: ref=Best Beauty Products for Mature Skin 词点击=3300 广告点击=0 转化=2 rev=$1.67 RPM=0.07 二跳=0.00%
+  Δ: 词点击+939 广告点击0 转化0 rev$+0.13 二跳0.00%
+- reader-v02-A12-US-2402337368-degreesuccesstips.com (reader-v02) [P0/written]
+  前: ref=new ways to treat cancer 词点击=177 广告点击=0 转化=2 rev=$1.01 RPM=0.49 二跳=0.00%
+  后: ref=Cosmetic Products 词点击=218 广告点击=0 转化=2 rev=$1.01 RPM=0.36 二跳=0.00%
+  Δ: 词点击+41 广告点击0 转化0 rev$0.00 二跳0.00%
+- Blinkdrama-sign-v01-A15-us-1607158614-lstmai.com (Blinkdrama-sign-v01) [P0/written]
+  前: ref=cars with 0 finance 词点击=2 广告点击=0 转化=0 rev=$0.00 RPM=0.00 二跳=0.00%
+  后: ref=Cosmetics Products 词点击=13 广告点击=0 转化=8 rev=$1.03 RPM=6.91 二跳=0.00%
+  Δ: 词点击+11 广告点击0 转化+8 rev$+1.03 二跳0.00%
+- Blinkdrama-v01-A4-Us-8026393663-playfulviibes.com (Blinkdrama-v01) [P0/written]
+  前: ref=cars with 0 apr 词点击=26 广告点击=0 转化=0 rev=$0.00 RPM=0.00 二跳=0.00%
+  后: ref=Best Beauty Products for Mature Skin 词点击=62 广告点击=14 转化=20 rev=$1.86 RPM=9.95 二跳=22.58%
+  Δ: 词点击+36 广告点击+14 转化+20 rev$+1.86 二跳+22.58%

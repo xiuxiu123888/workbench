@@ -5,10 +5,10 @@
     "groupName": "JZ-18-IT",
     "routing": "",
     "geo": "IT",
-    "yesterdayRpm": 0.6,
-    "yesterdayRev": 0.32,
-    "yesterdayRpmTrend": -66.67,
-    "yesterdayRevTrend": -57.33,
+    "yesterdayRpm": 1.7,
+    "yesterdayRev": 0.67,
+    "yesterdayRpmTrend": 183.33,
+    "yesterdayRevTrend": 109.38,
     "offerList": [
       {
         "offerId": "3h73zWvYDBGS",
@@ -18,8 +18,8 @@
         "channelId": "2165711172",
         "countryCode": null,
         "afsSource": null,
-        "todayRpm": 1.2,
-        "todayRev": 0.4
+        "todayRpm": 0,
+        "todayRev": 0
       },
       {
         "offerId": "3h74oUCElTDz",

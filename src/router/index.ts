@@ -9,6 +9,7 @@ export type AppRouteName =
   | 'opsCenter'
   | 'offerSeed'
   | 'offerCreate'
+  | 'seedKeywordDaily'
   | 'autoOfferReplace'
 
 declare module 'vue-router' {
@@ -70,6 +71,16 @@ const routes: RouteRecordRaw[] = [
     meta: {
       title: '创建 Offer',
       subtitle: '白名单漏斗各建 1 条；4 美妆词轮询；seekmoon.ai / A17',
+      fill: true,
+    },
+  },
+  {
+    path: '/seed-keyword-daily',
+    name: 'seedKeywordDaily',
+    component: () => import('../components/SeedKeywordDailyPanel.vue'),
+    meta: {
+      title: '种子词日报',
+      subtitle: 'subid2DailyStat 好词预览；不对类目不入库',
       fill: true,
     },
   },

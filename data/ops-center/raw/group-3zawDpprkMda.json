@@ -5,10 +5,10 @@
     "groupName": "reader-v02-default",
     "routing": "rotator",
     "geo": "US",
-    "yesterdayRpm": 0.4,
-    "yesterdayRev": 0.31,
-    "yesterdayRpmTrend": -84,
-    "yesterdayRevTrend": -70.48,
+    "yesterdayRpm": 3.8,
+    "yesterdayRev": 2.59,
+    "yesterdayRpmTrend": 850,
+    "yesterdayRevTrend": 735.48,
     "offerList": [
       {
         "offerId": "3zav83AM5ews",
@@ -18,8 +18,8 @@
         "channelId": "7609117695",
         "countryCode": null,
         "afsSource": "7",
-        "todayRpm": 0,
-        "todayRev": 0
+        "todayRpm": 3.6,
+        "todayRev": 0.28
       },
       {
         "offerId": "3zauw9hx9IkJ",
@@ -30,7 +30,7 @@
         "countryCode": null,
         "afsSource": "12",
         "todayRpm": 3.4,
-        "todayRev": 0.9
+        "todayRev": 0.24
       },
       {
         "offerId": "3zav1TiK98kg",
@@ -52,7 +52,7 @@
         "countryCode": null,
         "afsSource": "15",
         "todayRpm": 2.2,
-        "todayRev": 0.4
+        "todayRev": 0.93
       },
       {
         "offerId": "43qKNRT7L7OO",

@@ -5,10 +5,10 @@
     "groupName": "JZ09-FR",
     "routing": "",
     "geo": "FR",
-    "yesterdayRpm": 0,
-    "yesterdayRev": 0,
-    "yesterdayRpmTrend": -100,
-    "yesterdayRevTrend": -100,
+    "yesterdayRpm": 1.1,
+    "yesterdayRev": 0.15,
+    "yesterdayRpmTrend": 100,
+    "yesterdayRevTrend": 100,
     "offerList": [
       {
         "offerId": "3aX1by5FytNQ",
@@ -18,8 +18,8 @@
         "channelId": "8488653000",
         "countryCode": null,
         "afsSource": null,
-        "todayRpm": 3.3,
-        "todayRev": 0.15
+        "todayRpm": 0,
+        "todayRev": 0
       },
       {
         "offerId": "3aX86K6L6Ltb",

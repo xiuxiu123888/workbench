@@ -5,10 +5,10 @@
     "groupName": "JZ-06-de",
     "routing": "",
     "geo": "DE",
-    "yesterdayRpm": 1,
-    "yesterdayRev": 0.1,
-    "yesterdayRpmTrend": 42.86,
-    "yesterdayRevTrend": 25,
+    "yesterdayRpm": 0,
+    "yesterdayRev": 0,
+    "yesterdayRpmTrend": -100,
+    "yesterdayRevTrend": -100,
     "offerList": [
       {
         "offerId": "3bwDuIurTibc",
@@ -18,8 +18,8 @@
         "channelId": "3115809079",
         "countryCode": null,
         "afsSource": null,
-        "todayRpm": 0,
-        "todayRev": 0
+        "todayRpm": 1.3,
+        "todayRev": 0.05
       },
       {
         "offerId": "3bwDZe7rnbek",

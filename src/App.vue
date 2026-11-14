@@ -61,6 +61,7 @@ const pageFill = computed(() => Boolean(route.meta.fill))
             <el-menu-item index="/ops-center">漏斗分析</el-menu-item>
             <el-menu-item index="/offer-seed">Offer 创编</el-menu-item>
             <el-menu-item index="/offer-create">创建 Offer</el-menu-item>
+            <el-menu-item index="/seed-keyword-daily">种子词日报</el-menu-item>
             <el-menu-item index="/auto-offer-replace">调优报告</el-menu-item>
           </el-sub-menu>
         </el-menu>

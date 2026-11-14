@@ -5,54 +5,54 @@
     "groupName": "JZ09-US",
     "routing": "",
     "geo": "US",
-    "yesterdayRpm": 34.4,
-    "yesterdayRev": 55.34,
-    "yesterdayRpmTrend": -61.99,
-    "yesterdayRevTrend": -56.27,
+    "yesterdayRpm": 34.2,
+    "yesterdayRev": 49.9,
+    "yesterdayRpmTrend": -0.58,
+    "yesterdayRevTrend": -9.83,
     "offerList": [
       {
         "offerId": "3aWvExg2Kawd",
         "offerName": "JZ09-A4-us-8488653000",
         "categoryName": "特殊疾病药品",
-        "weight": 0.78,
+        "weight": 1,
         "channelId": "8488653000",
         "countryCode": null,
         "afsSource": null,
-        "todayRpm": 37.8,
-        "todayRev": 24.47
+        "todayRpm": 78.3,
+        "todayRev": 63.15
       },
       {
         "offerId": "3aX6mEDMfNZo",
         "offerName": "JZ09-A7-us-1751917633",
         "categoryName": "健康保险",
-        "weight": 0.11,
+        "weight": 0.02,
         "channelId": "1751917633",
         "countryCode": null,
         "afsSource": null,
-        "todayRpm": 21.1,
-        "todayRev": 1.18
+        "todayRpm": 19.8,
+        "todayRev": 0.81
       },
       {
         "offerId": "3bZ9LsLlkDiW",
         "offerName": "JZ09-A12-US-9827539423",
         "categoryName": "特殊疾病药品",
-        "weight": 0.1,
+        "weight": 0.02,
         "channelId": "9827539423",
         "countryCode": null,
         "afsSource": null,
-        "todayRpm": 17.9,
-        "todayRev": 1.02
+        "todayRpm": 18.1,
+        "todayRev": 0.67
       },
       {
         "offerId": "3wSBoqFR9e22",
         "offerName": "JZ09-A5-us-9646014907",
         "categoryName": "特殊疾病药品",
-        "weight": 0.1,
+        "weight": 0.16,
         "channelId": "9646014907",
         "countryCode": null,
         "afsSource": null,
-        "todayRpm": 20,
-        "todayRev": 10.53
+        "todayRpm": 52.7,
+        "todayRev": 4.43
       },
       {
         "offerId": "3wSBrEzfTKJz",

@@ -6,15 +6,15 @@
     "routing": "",
     "geo": "BR",
     "yesterdayRpm": 0,
-    "yesterdayRev": 0,
-    "yesterdayRpmTrend": -100,
-    "yesterdayRevTrend": -100,
+    "yesterdayRev": 0.02,
+    "yesterdayRpmTrend": 0,
+    "yesterdayRevTrend": 100,
     "offerList": [
       {
         "offerId": "3lplh9PS5Eye",
         "offerName": "cd-reader-60-A14-BR-1452900312",
         "categoryName": "家电分期",
-        "weight": 0.02,
+        "weight": 1,
         "channelId": "1452900312",
         "countryCode": null,
         "afsSource": null,
@@ -25,23 +25,23 @@
         "offerId": "3lWWRRSKqWep",
         "offerName": "cd-reader-60-A12-BR-2402337368",
         "categoryName": "汽车分期",
-        "weight": 0,
+        "weight": 1,
         "channelId": "2402337368",
         "countryCode": null,
         "afsSource": null,
-        "todayRpm": 0,
-        "todayRev": 0
+        "todayRpm": 0.4,
+        "todayRev": 0.04
       },
       {
         "offerId": "3XcFr4tNmyxh",
         "offerName": "cd-read-60-A4-br-4300370257",
         "categoryName": "冰箱分期",
-        "weight": 0.02,
+        "weight": 1,
         "channelId": "4300370257",
         "countryCode": null,
         "afsSource": null,
-        "todayRpm": 0,
-        "todayRev": 0
+        "todayRpm": 0.7,
+        "todayRev": 0.05
       },
       {
         "offerId": "3XcHAbQfaaEm",
@@ -52,7 +52,7 @@
         "countryCode": null,
         "afsSource": null,
         "todayRpm": 0.1,
-        "todayRev": 0.02
+        "todayRev": 0.01
       }
     ],
     "funnelId": "3O3Sj2gNpkzw",

@@ -5,10 +5,10 @@
     "groupName": "moboreels-v04-default",
     "routing": "rotator",
     "geo": "US",
-    "yesterdayRpm": 2.5,
-    "yesterdayRev": 0.46,
-    "yesterdayRpmTrend": -68.75,
-    "yesterdayRevTrend": -72.12,
+    "yesterdayRpm": 22.1,
+    "yesterdayRev": 3.33,
+    "yesterdayRpmTrend": 784,
+    "yesterdayRevTrend": 623.91,
     "offerList": [
       {
         "offerId": "3zb2RxclzOAi",

@@ -5,10 +5,10 @@
     "groupName": "jz-signin-v02-A1-fr",
     "routing": "",
     "geo": "FR",
-    "yesterdayRpm": 3,
-    "yesterdayRev": 4.02,
-    "yesterdayRpmTrend": -30.23,
-    "yesterdayRevTrend": -37.48,
+    "yesterdayRpm": 2.8,
+    "yesterdayRev": 3.44,
+    "yesterdayRpmTrend": -6.67,
+    "yesterdayRevTrend": -14.43,
     "offerList": [
       {
         "offerId": "3n2zWCTnUKX9",
@@ -29,8 +29,8 @@
         "channelId": "1202440647",
         "countryCode": null,
         "afsSource": null,
-        "todayRpm": 1.1,
-        "todayRev": 0.61
+        "todayRpm": 1.4,
+        "todayRev": 0.38
       },
       {
         "offerId": "3pbI3zo8D1ll",
@@ -40,8 +40,8 @@
         "channelId": "9305674565",
         "countryCode": null,
         "afsSource": null,
-        "todayRpm": 4.7,
-        "todayRev": 2.5
+        "todayRpm": 5.6,
+        "todayRev": 1.33
       },
       {
         "offerId": "3pbI5pBrWkKq",

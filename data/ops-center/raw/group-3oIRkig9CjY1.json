@@ -5,10 +5,10 @@
     "groupName": "cd-task-v01-us",
     "routing": "",
     "geo": "US",
-    "yesterdayRpm": 53.5,
-    "yesterdayRev": 26.87,
-    "yesterdayRpmTrend": 138.84,
-    "yesterdayRevTrend": 128.88,
+    "yesterdayRpm": 25.7,
+    "yesterdayRev": 13.44,
+    "yesterdayRpmTrend": -51.96,
+    "yesterdayRevTrend": -49.98,
     "offerList": [
       {
         "offerId": "3oIPxgfdXgFh",
@@ -18,8 +18,8 @@
         "channelId": "16491",
         "countryCode": null,
         "afsSource": null,
-        "todayRpm": 23.3,
-        "todayRev": 2.82
+        "todayRpm": 176.2,
+        "todayRev": 7.4
       },
       {
         "offerId": "3oIQJSqxaTgU",
@@ -40,8 +40,8 @@
         "channelId": "9914848263",
         "countryCode": null,
         "afsSource": null,
-        "todayRpm": 18.4,
-        "todayRev": 5.11
+        "todayRpm": 9.9,
+        "todayRev": 0.97
       },
       {
         "offerId": "3oIQRcXNRXrO",
@@ -51,8 +51,8 @@
         "channelId": "1441657916",
         "countryCode": null,
         "afsSource": null,
-        "todayRpm": 15.1,
-        "todayRev": 1.63
+        "todayRpm": 41.2,
+        "todayRev": 2.35
       }
     ],
     "funnelId": "3oIS9CuG2tEq",

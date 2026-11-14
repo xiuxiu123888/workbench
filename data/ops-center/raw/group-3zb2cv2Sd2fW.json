@@ -5,10 +5,10 @@
     "groupName": "moboreels-v03-default",
     "routing": "rotator",
     "geo": "US",
-    "yesterdayRpm": 10.7,
-    "yesterdayRev": 15.36,
-    "yesterdayRpmTrend": 48.61,
-    "yesterdayRevTrend": 2503.39,
+    "yesterdayRpm": 6.6,
+    "yesterdayRev": 2.94,
+    "yesterdayRpmTrend": -38.32,
+    "yesterdayRevTrend": -80.86,
     "offerList": [
       {
         "offerId": "3zb1W9LGvPyZ",
@@ -18,8 +18,8 @@
         "channelId": "10926",
         "countryCode": null,
         "afsSource": "7",
-        "todayRpm": 4.3,
-        "todayRev": 0.34
+        "todayRpm": 0,
+        "todayRev": 0
       },
       {
         "offerId": "3zb1PLgN7r1k",
@@ -29,8 +29,8 @@
         "channelId": "2506279147",
         "countryCode": null,
         "afsSource": "12",
-        "todayRpm": 6.8,
-        "todayRev": 2.26
+        "todayRpm": 8.2,
+        "todayRev": 0.69
       },
       {
         "offerId": "43qO2m9YUmCL",

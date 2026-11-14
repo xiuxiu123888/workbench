@@ -5,10 +5,10 @@
     "groupName": "CD-Reel-A72-JP",
     "routing": "",
     "geo": "JP",
-    "yesterdayRpm": 0.8,
-    "yesterdayRev": 0.24,
-    "yesterdayRpmTrend": 700,
-    "yesterdayRevTrend": 700,
+    "yesterdayRpm": 0,
+    "yesterdayRev": 0,
+    "yesterdayRpmTrend": -100,
+    "yesterdayRevTrend": -100,
     "offerList": [
       {
         "offerId": "3lpdddFUyx9S",

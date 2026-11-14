@@ -5,10 +5,10 @@
     "groupName": "JZ10-BR",
     "routing": "",
     "geo": "BR",
-    "yesterdayRpm": 0.8,
-    "yesterdayRev": 0.09,
-    "yesterdayRpmTrend": 166.67,
-    "yesterdayRevTrend": 80,
+    "yesterdayRpm": 0.6,
+    "yesterdayRev": 0.06,
+    "yesterdayRpmTrend": -25,
+    "yesterdayRevTrend": -33.33,
     "offerList": [
       {
         "offerId": "3aX0gCSnYz5l",
@@ -18,8 +18,8 @@
         "channelId": "9610162982",
         "countryCode": null,
         "afsSource": null,
-        "todayRpm": 0.2,
-        "todayRev": 0.01
+        "todayRpm": 0,
+        "todayRev": 0
       },
       {
         "offerId": "3aX9IziD1vJm",
@@ -40,8 +40,8 @@
         "channelId": "5525525852",
         "countryCode": null,
         "afsSource": null,
-        "todayRpm": 1.4,
-        "todayRev": 0.05
+        "todayRpm": 0,
+        "todayRev": 0
       }
     ],
     "funnelId": "3aXER1jGKCjP",

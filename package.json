@@ -8,7 +8,8 @@
     "build": "vue-tsc --noEmit && vite build",
     "test": "vitest run",
     "push:feishu": "tsx scripts/push-daily-feishu.ts",
-    "ops:hourly": "tsx scripts/capture-hourly-ops.ts"
+    "ops:hourly": "tsx scripts/capture-hourly-ops.ts",
+    "seeds:harvest": "tsx scripts/harvest-seed-keywords.ts"
   },
   "dependencies": {
     "axios": "^1.7.9",

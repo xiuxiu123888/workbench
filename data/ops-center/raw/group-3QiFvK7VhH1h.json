@@ -5,10 +5,10 @@
     "groupName": "CD-Reel-A72-US",
     "routing": "",
     "geo": "US",
-    "yesterdayRpm": 20.1,
-    "yesterdayRev": 2.61,
-    "yesterdayRpmTrend": 1156.25,
-    "yesterdayRevTrend": 1273.68,
+    "yesterdayRpm": 77.3,
+    "yesterdayRev": 6.11,
+    "yesterdayRpmTrend": 284.58,
+    "yesterdayRevTrend": 134.1,
     "offerList": [
       {
         "offerId": "3lpdddFkgLAH",
@@ -40,8 +40,8 @@
         "channelId": "10932",
         "countryCode": null,
         "afsSource": null,
-        "todayRpm": 0,
-        "todayRev": 0
+        "todayRpm": 38.6,
+        "todayRev": 1.89
       }
     ],
     "funnelId": "3Qi1UskIWV7m",

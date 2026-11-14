@@ -1612,4 +1612,168 @@
 开始拉取 2026-11-12（昨日整天）有推荐文章的运营配置汇总…
 (node:37036) ExperimentalWarning: SQLite is an experimental feature and might change at any time
 (Use `node --trace-warnings ...` to show where the warning was created)
-^C
+^C===== 2026/11/14 ����  0:10:01.68 开始推送昨日有推荐文章的网站汇�?=====
+开始拉取 2026-11-13（昨日整天）有推荐文章的运营配置汇总…
+(node:22508) ExperimentalWarning: SQLite is an experimental feature and might change at any time
+(Use `node --trace-warnings ...` to show where the warning was created)
+共扫描 146 条配置，无推荐文章的会跳过；按文章账户拆分推送
+[1/146] counselsai.com … A11 · 收入 — / 曝光 303
+[2/146] finevtech.com … A11 · 收入 — / 曝光 0
+[3/146] feelwellus.com … A11 · 收入 15.04 / 曝光 106
+[4/146] seekmoon.ai … A17 · 收入 1.85 / 曝光 5459
+[5/146] joyfulgaminghub9.com … A4 · 收入 — / 曝光 40
+[6/146] playfulviibes.com … A4 · 收入 1.53 / 曝光 33
+[7/146] minigamemix.com … A4 · 收入 0.04 / 曝光 61
+[8/146] jubilantsphere.com … A4 · 收入 36.10 / 曝光 95553
+[9/146] fluxpaid.com … A4 · 收入 0.53 / 曝光 518
+[10/146] zestfularcade.com … A4 · 收入 73.94 / 曝光 9143
+[11/146] electricjobguide.com … 跳过（无推荐文章）
+[12/146] laserskinnearme.com … 跳过（无推荐文章）
+[13/146] cleaningjobsguide.com … 跳过（无推荐文章）
+[14/146] dentalcareexplained.com … 跳过（无推荐文章）
+[15/146] rentroomcheck.com … 跳过（无推荐文章）
+[16/146] daytripboard.com … 跳过（无推荐文章）
+[17/146] roomrestack.com … 跳过（无推荐文章）
+[18/146] phraseframeai.com … 跳过（无推荐文章）
+[19/146] astroviaai.com … 跳过（无推荐文章）
+[20/146] fitmoodstudio.com … 跳过（无推荐文章）
+[21/146] getgardenjobs.com … 跳过（无推荐文章）
+[22/146] getelectricjobs.com … 跳过（无推荐文章）
+[23/146] lasterment.com … 跳过（无推荐文章）
+[24/146] getcleanjob.com … 跳过（无推荐文章）
+[25/146] dentalcaredaily.com … 跳过（无推荐文章）
+[26/146] rateledger.com … 跳过（无推荐文章）
+[27/146] personalitym.com … 跳过（无推荐文章）
+[28/146] taleweaveai.com … 跳过（无推荐文章）
+[29/146] huevii.com … A3 · 收入 — / 曝光 0
+[30/146] zodiacpulses.com … A3 · 收入 — / 曝光 3
+[31/146] writetohub.com … A3 · 收入 — / 曝光 0
+[32/146] walloragenai.com … 跳过（无推荐文章）
+[33/146] posterflowai.com … 跳过（无推荐文章）
+[34/146] animegenieai.com … 跳过（无推荐文章）
+[35/146] passportpicai.com … 跳过（无推荐文章）
+[36/146] laidbackgam.com … A4 · 收入 1.02 / 曝光 768
+[37/146] stdphotoai.com … 跳过（无推荐文章）
+[38/146] sticklyai.com … 跳过（无推荐文章）
+[39/146] styleflairai.com … 跳过（无推荐文章）
+[40/146] dailyaiwo.com … 跳过（无推荐文章）
+[41/146] aihubbus.com … 跳过（无推荐文章）
+[42/146] hiforumai.com … 跳过（无推荐文章）
+[43/146] storygameai.com … 跳过（无推荐文章）
+[44/146] vault-chains.com … 跳过（无推荐文章）
+[45/146] nest-fin.com … 跳过（无推荐文章）
+[46/146] whirlwindarcade.com … A5 · 收入 6.81 / 曝光 65428
+[47/146] playfulbreak.com … A5 · 收入 0.43 / 曝光 320
+[48/146] joyfullplayland.com … A5 · 收入 2.47 / 曝光 1560
+[49/146] funfillgames.com … A5 · 收入 4.20 / 曝光 1332
+[50/146] lstmai.com … A15 · 收入 — / 曝光 82110
+[51/146] mpbus.com … A15 · 收入 — / 曝光 2096
+[52/146] 51jiejue.com … A15 · 收入 — / 曝光 432
+[53/146] astroleusai.com … 跳过（无推荐文章）
+[54/146] txhwgame.com … A13 · 收入 — / 曝光 0
+[55/146] jqkts.com … 跳过（无推荐文章）
+[56/146] aitogogo.com … A11 · 收入 — / 曝光 3
+[57/146] mydataforai.com … A11 · 收入 — / 曝光 0
+[58/146] aivorarx.com … 跳过（无推荐文章）
+[59/146] aivrora.com … A2 · 收入 — / 曝光 2
+[60/146] finexuse.com … A2 · 收入 — / 曝光 0
+[61/146] tvlemon.com … A2 · 收入 — / 曝光 0
+[62/146] xveluxai.com … A7 · 收入 — / 曝光 298
+[63/146] craftaio.com … A7 · 收入 — / 曝光 172
+[64/146] turboaix.com … A7 · 收入 — / 曝光 0
+[65/146] gooeco.com … A2 · 收入 — / 曝光 4
+[66/146] interviewaimax.com … A11 · 收入 — / 曝光 0
+[67/146] aicareerflow.com … A11 · 收入 — / 曝光 0
+[68/146] aidailyzodiac.com … A11 · 收入 — / 曝光 0
+[69/146] aisoulsanimal.com … A11 · 收入 — / 曝光 1
+[70/146] mgdy7.com … 跳过（无推荐文章）
+[71/146] biansai6.com … 跳过（无推荐文章）
+[72/146] szqzm.com … 跳过（无推荐文章）
+[73/146] kronwall.com … 跳过（无推荐文章）
+[74/146] aivtubermaker.com … A3 · 收入 — / 曝光 0
+[75/146] aistarflowgo.com … A3 · 收入 — / 曝光 0
+[76/146] fitaxon.com … 跳过（无推荐文章）
+[77/146] widejd.com … 跳过（无推荐文章）
+[78/146] axiolabshq.com … A3 · 收入 — / 曝光 0
+[79/146] zenifinhq.com … A3 · 收入 — / 曝光 0
+[80/146] aiclawtool.com … 跳过（无推荐文章）
+[81/146] alphahqai.com … A3 · 收入 2.44 / 曝光 7
+[82/146] ailuxovex.com … A3 · 收入 — / 曝光 0
+[83/146] hidogai.com … A13 · 收入 — / 曝光 0
+[84/146] beauty-center-nearby.com … A1 · 收入 14.55 / 曝光 2293
+[85/146] homeguarddeals.com … A1 · 收入 — / 曝光 2485
+[86/146] insurance-consulting-nearby.com … A1 · 收入 13.23 / 曝光 2009
+[87/146] nearby-dental-implants.com … A1 · 收入 2.88 / 曝光 1581
+[88/146] cccooperate.com … 跳过（无推荐文章）
+[89/146] axiateches.com … A3 · 收入 — / 曝光 0
+[90/146] zenithpaying.com … A3 · 收入 — / 曝光 0
+[91/146] aiautomationlabtop.com … A11 · 收入 — / 曝光 5
+[92/146] aiusecasehubtab.com … A11 · 收入 — / 曝光 14
+[93/146] aitaskstack.com … A11 · 收入 — / 曝光 1
+[94/146] curoaime.com … A13 · 收入 — / 曝光 0
+[95/146] domainforai.com … A13 · 收入 — / 曝光 0
+[96/146] easyfungalaxy.com … A5 · 收入 — / 曝光 230
+[97/146] news-early.uk … A3 · 收入 — / 曝光 0
+[98/146] hardercomparison.com … 跳过（无推荐文章）
+[99/146] bolt-fin.com … A3 · 收入 0.44 / 曝光 16
+[100/146] monetizeaihelp.com … A3 · 收入 — / 曝光 199
+[101/146] peerlends.com … A3 · 收入 — / 曝光 0
+[102/146] trycurastream.com … A3 · 收入 — / 曝光 0
+[103/146] usenovalytic.com … A3 · 收入 7.24 / 曝光 79
+[104/146] vectrahirehq.com … A3 · 收入 — / 曝光 0
+[105/146] nomeraly.com … A3 · 收入 0.10 / 曝光 34
+[106/146] algo-cash.com … A7 · 收入 — / 曝光 3225
+[107/146] fluxholding.com … A3 · 收入 — / 曝光 0
+[108/146] aifinteches.com … A7 · 收入 — / 曝光 1150
+[109/146] bank-flux.com … A7 · 收入 23.21 / 曝光 90930
+[110/146] axisqual.com … A3 · 收入 — / 曝光 100
+[111/146] quantify-energy.com … A7 · 收入 — / 曝光 572
+[112/146] aiseparation.com … A3 · 收入 0.95 / 曝光 7
+[113/146] bestretry.com … A3 · 收入 — / 曝光 9
+[114/146] ohwellmind.com … A3 · 收入 1.08 / 曝光 24
+[115/146] mscjgns.com … 跳过（无推荐文章）
+[116/146] expandedword.com … 跳过（无推荐文章）
+[117/146] getburnzy.com … A2 · 收入 — / 曝光 15
+[118/146] smileclinicguide.com … A1 · 收入 0.48 / 曝光 131
+[119/146] 32 … 跳过（无推荐文章）
+[120/146] 31 … 跳过（无推荐文章）
+[121/146] 30 … 跳过（无推荐文章）
+[122/146] agogoai.com … A13 · 收入 — / 曝光 1
+[123/146] 28 … 跳过（无推荐文章）
+[124/146] www.newamc.com … A7 · 收入 9.53 / 曝光 2413
+[125/146] 26 … 跳过（无推荐文章）
+[126/146] hahapingtone.com … A13 · 收入 — / 曝光 0
+[127/146] ocprda.com … A13 · 收入 0.27 / 曝光 4
+[128/146] skyimageme.com … A13 · 收入 — / 曝光 4
+[129/146] techvestohq.com … 跳过（无推荐文章）
+[130/146] datonexhc.com … 跳过（无推荐文章）
+[131/146] captrixhq.com … 跳过（无推荐文章）
+[132/146] neurofintt.com … 跳过（无推荐文章）
+[133/146] aivestorhq.com … A12 · 收入 31.59 / 曝光 96774
+[134/146] degreesuccesstips.com … A12 · 收入 — / 曝光 5406
+[135/146] protectlifeplan.com … A12 · 收入 — / 曝光 77
+[136/146] intodeepdive.com … A12 · 收入 — / 曝光 4052
+[137/146] getkirona.com … A3 · 收入 0.17 / 曝光 16
+[138/146] leasepadhq.com … 跳过（无推荐文章）
+[139/146] nexulyspay.com … 跳过（无推荐文章）
+[140/146] quicklyloanshq.com … A11 · 收入 — / 曝光 0
+[141/146] homerecruithq.com … A11 · 收入 7.57 / 曝光 20
+[142/146] homestaffly.com … A11 · 收入 — / 曝光 0
+[143/146] zencapitally.com … A11 · 收入 14.59 / 曝光 87
+[144/146] vitafluxly.com … A3 · 收入 — / 曝光 2
+[145/146] axionahq.com … A3 · 收入 — / 曝光 0
+[146/146] axyntly.com … A3 · 收入 — / 曝光 3
+有推荐文章 90 条，跳过 56 条
+已推送飞书 1/11
+已推送飞书 2/11
+已推送飞书 3/11
+已推送飞书 4/11
+已推送飞书 5/11
+已推送飞书 6/11
+已推送飞书 7/11
+已推送飞书 8/11
+已推送飞书 9/11
+已推送飞书 10/11
+已推送飞书 11/11
+完成
+===== 2026/11/14 ����  0:15:36.84 结束 code=0 =====

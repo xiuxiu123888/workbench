@@ -6,15 +6,15 @@
     "routing": "",
     "geo": "JP",
     "yesterdayRpm": 0.1,
-    "yesterdayRev": 0.09,
-    "yesterdayRpmTrend": -66.67,
-    "yesterdayRevTrend": -82.69,
+    "yesterdayRev": 0.21,
+    "yesterdayRpmTrend": 0,
+    "yesterdayRevTrend": 133.33,
     "offerList": [
       {
         "offerId": "3lplh97wmh9X",
         "offerName": "cd-reel-50-A14-JP-7826736975",
         "categoryName": "牙齿植入",
-        "weight": 0.04,
+        "weight": 1,
         "channelId": "7826736975",
         "countryCode": null,
         "afsSource": null,
@@ -25,18 +25,18 @@
         "offerId": "3lWWRRGzYdrd",
         "offerName": "cd-reel-50-A12-JP-3731730900",
         "categoryName": "殡葬",
-        "weight": 0.99,
+        "weight": 1,
         "channelId": "3731730900",
         "countryCode": null,
         "afsSource": null,
-        "todayRpm": 0.2,
-        "todayRev": 0.1
+        "todayRpm": 0,
+        "todayRev": 0
       },
       {
         "offerId": "3olvQhPTB8Fk",
         "offerName": "yahu-v01",
         "categoryName": null,
-        "weight": 0.04,
+        "weight": 1,
         "channelId": null,
         "countryCode": null,
         "afsSource": null,
@@ -47,7 +47,7 @@
         "offerId": "3XKk9h9BJ0KK",
         "offerName": "CD-50-A4-jp-8671712417",
         "categoryName": "私募信贷",
-        "weight": 0,
+        "weight": 1,
         "channelId": "8671712417",
         "countryCode": null,
         "afsSource": null,
@@ -62,8 +62,8 @@
         "channelId": "9653496952",
         "countryCode": null,
         "afsSource": null,
-        "todayRpm": 0.2,
-        "todayRev": 0.11
+        "todayRpm": 0,
+        "todayRev": 0
       }
     ],
     "funnelId": "3LcdpN4mS9hK",

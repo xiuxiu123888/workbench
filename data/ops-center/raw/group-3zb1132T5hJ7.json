@@ -5,10 +5,10 @@
     "groupName": "moboreels-v02-default",
     "routing": "rotator",
     "geo": "US",
-    "yesterdayRpm": 5.5,
-    "yesterdayRev": 12.65,
-    "yesterdayRpmTrend": 243.75,
-    "yesterdayRevTrend": 748.99,
+    "yesterdayRpm": 4.6,
+    "yesterdayRev": 7.17,
+    "yesterdayRpmTrend": -16.36,
+    "yesterdayRevTrend": -43.32,
     "offerList": [
       {
         "offerId": "3zazvURRj6TD",
@@ -18,8 +18,8 @@
         "channelId": "8671712417",
         "countryCode": null,
         "afsSource": "4",
-        "todayRpm": 4.8,
-        "todayRev": 0.75
+        "todayRpm": 4.4,
+        "todayRev": 0.23
       },
       {
         "offerId": "3zazqy3l27Ar",
@@ -29,8 +29,8 @@
         "channelId": "9653496952",
         "countryCode": null,
         "afsSource": "7",
-        "todayRpm": 10.7,
-        "todayRev": 6.1
+        "todayRpm": 0,
+        "todayRev": 0
       },
       {
         "offerId": "3zazlAyBvvaN",
@@ -40,8 +40,8 @@
         "channelId": "3731730900",
         "countryCode": null,
         "afsSource": "12",
-        "todayRpm": 0,
-        "todayRev": 0
+        "todayRpm": 14.2,
+        "todayRev": 0.64
       },
       {
         "offerId": "402LNtAdJE3e",
@@ -51,8 +51,8 @@
         "channelId": "8746545947",
         "countryCode": null,
         "afsSource": "15",
-        "todayRpm": 0.6,
-        "todayRev": 0.32
+        "todayRpm": 0,
+        "todayRev": 0
       },
       {
         "offerId": "43qO2m9YUmCL",

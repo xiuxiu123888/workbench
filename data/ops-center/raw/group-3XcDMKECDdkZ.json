@@ -5,10 +5,10 @@
     "groupName": "CD-Reader-A51-jp",
     "routing": "",
     "geo": "JP",
-    "yesterdayRpm": 0.1,
-    "yesterdayRev": 0.3,
-    "yesterdayRpmTrend": 100,
-    "yesterdayRevTrend": 87.5,
+    "yesterdayRpm": 0,
+    "yesterdayRev": 0.09,
+    "yesterdayRpmTrend": -100,
+    "yesterdayRevTrend": -70,
     "offerList": [
       {
         "offerId": "3i2aPrxV6t3a",
@@ -25,23 +25,23 @@
         "offerId": "3Xc9XnHmqWbj",
         "offerName": "Cd-read-A51-A4-jp-7723809864",
         "categoryName": "私募信贷",
-        "weight": 1,
+        "weight": 0.1,
         "channelId": "7723809864",
         "countryCode": null,
         "afsSource": null,
-        "todayRpm": 0,
-        "todayRev": 0.05
+        "todayRpm": 0.1,
+        "todayRev": 0.03
       },
       {
         "offerId": "3XcC3RVmwy6i",
         "offerName": "Cd-read-A51-A7-jp-9508193152",
         "categoryName": "私募信贷",
-        "weight": 0,
+        "weight": 1,
         "channelId": "9508193152",
         "countryCode": null,
         "afsSource": null,
-        "todayRpm": 0,
-        "todayRev": 0.02
+        "todayRpm": 0.3,
+        "todayRev": 0.13
       }
     ],
     "funnelId": "3LyxpT9hzzh6",

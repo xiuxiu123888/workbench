@@ -1,10 +1,5 @@
 {
-  "updatedAt": "2026-11-13T07:54:00.000Z",
-  "source": "active: cosmetic/beauty 4 seeds only · finding good keywords",
-  "categoryCount": 1,
-  "seedCount": 4,
-  "archivedPreCosmetic": "seed-lexicon/by-category.pre-cosmetic-2026-11-13.json",
-  "archivedPreCosmeticSeedCount": 50,
-  "archivedMedical63": "seed-lexicon/by-category.medical-63.json",
-  "archivedMedical63SeedCount": 63
+  "updatedAt": "2026-11-13T17:50:11.503Z",
+  "categoryCount": 8,
+  "seedCount": 18
 }

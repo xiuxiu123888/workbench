@@ -5,10 +5,10 @@
     "groupName": "JZ-06-US",
     "routing": "",
     "geo": "US",
-    "yesterdayRpm": 19.3,
-    "yesterdayRev": 14.29,
-    "yesterdayRpmTrend": -24.61,
-    "yesterdayRevTrend": 2.14,
+    "yesterdayRpm": 33.1,
+    "yesterdayRev": 22.89,
+    "yesterdayRpmTrend": 71.5,
+    "yesterdayRevTrend": 60.18,
     "offerList": [
       {
         "offerId": "3bbvRR5wKGyF",
@@ -40,8 +40,8 @@
         "channelId": "3115809079",
         "countryCode": null,
         "afsSource": null,
-        "todayRpm": 26.7,
-        "todayRev": 15.86
+        "todayRpm": 47.9,
+        "todayRev": 21.84
       }
     ],
     "funnelId": "3SmbEZti3YSr",

@@ -7,8 +7,8 @@
     "geo": "IT",
     "yesterdayRpm": 0,
     "yesterdayRev": 0,
-    "yesterdayRpmTrend": -100,
-    "yesterdayRevTrend": -100,
+    "yesterdayRpmTrend": 0,
+    "yesterdayRevTrend": 0,
     "offerList": [
       {
         "offerId": "3lMAsjKjvRDo",

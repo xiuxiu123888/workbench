@@ -5,10 +5,10 @@
     "groupName": "jz14-br",
     "routing": "",
     "geo": "BR",
-    "yesterdayRpm": 1.3,
-    "yesterdayRev": 0.08,
-    "yesterdayRpmTrend": 333.33,
-    "yesterdayRevTrend": 300,
+    "yesterdayRpm": 1,
+    "yesterdayRev": 0.04,
+    "yesterdayRpmTrend": -23.08,
+    "yesterdayRevTrend": -50,
     "offerList": [
       {
         "offerId": "3cQCO9z2NSGv",
@@ -40,8 +40,8 @@
         "channelId": "5798851698",
         "countryCode": null,
         "afsSource": null,
-        "todayRpm": 1.1,
-        "todayRev": 0.04
+        "todayRpm": 0,
+        "todayRev": 0
       }
     ],
     "funnelId": "3cQDo7oKoOL2",

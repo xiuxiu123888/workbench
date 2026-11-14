@@ -5,10 +5,10 @@
     "groupName": "cd-reel-A61-jp",
     "routing": "",
     "geo": "JP",
-    "yesterdayRpm": 0.1,
-    "yesterdayRev": 0.4,
-    "yesterdayRpmTrend": -66.67,
-    "yesterdayRevTrend": -36.51,
+    "yesterdayRpm": 0,
+    "yesterdayRev": 0.07,
+    "yesterdayRpmTrend": -100,
+    "yesterdayRevTrend": -82.5,
     "offerList": [
       {
         "offerId": "3i2aPs0L9M9T",
@@ -18,8 +18,8 @@
         "channelId": "4301742392",
         "countryCode": null,
         "afsSource": null,
-        "todayRpm": 0.1,
-        "todayRev": 0.07
+        "todayRpm": 0.6,
+        "todayRev": 0.18
       },
       {
         "offerId": "3lplh9RgZnXJ",
